@@ -19,7 +19,7 @@ for filename in glob.glob("exhibitions/*.json"):
         if data["type"] != "AIC Only":
             print(data)
 
-            with open("Traveling_Exhibititions.json", "w") as out:
+            with open("Traveling_Exhibitions.json", "w") as out:
                 json.dump(data, out, indent=2)
 
         # if data["type"] == "AIC & Other Venues":
