@@ -1,0 +1,39 @@
+{
+    "id": 7016,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7016",
+    "title": "Photography and Architecture: 1839-1939",
+    "is_featured": false,
+    "description": "With more than 125 photographs from the collections of the Canadian Centre for Architecture, Photography and Architecture: 1839-1939 explored the study of architectural photographs as a means to provide additional insights into the works they captured. As the curator of this exhibition, Richard Pare, noted this exhibition \u201c. . . encompass[ed] the history of photography through architecture and the history of architecture through photography.\u201d\nThe content of sample photographs in this exhibition included: nineteenth century studies of India, Burma, Jerusalem, and the western United States, as well as work from Britain and France.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1983-05-09T00:00:00-05:00",
+    "aic_end_at": "1983-06-26T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Photography and Architecture: 1839-1939"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T10:20:33-05:00",
+    "last_updated": "2019-10-15T10:21:22-05:00",
+    "timestamp": "2021-01-14T17:15:12-06:00"
+}

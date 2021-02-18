@@ -1,0 +1,39 @@
+{
+    "id": 3868,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3868",
+    "title": "Masterpiece of the Month: The Virgin and Child, by Andrea Mantegna",
+    "is_featured": false,
+    "description": "During December 1940, an engraving attributed to Italian Renaissance artist Andrea Mantegna of the Virgin Mary and the infant Christ was featured as the Masterpiece of the Month. According to the newsletter announcing its exhibition, this is the first time in Christian art where Mary is shown \u201cas a simple Italian peasant woman bereft of all lavish surroundings and in no wa a symbol of idealized womanhood\u201d. Even the halos appear to have been omitted initially, as they are drawn over an already shaded background. The mastery of this engraving lies within its composition and skillful use of lines and angles to draw the viewer\u2019s eye to the Child.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1954-12-15T00:00:00-06:00",
+    "aic_end_at": "1955-01-01T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Masterpiece of the Month: The Virgin and Child, by Andrea Mantegna"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T12:26:30-05:00",
+    "last_updated": "2019-10-15T12:31:20-05:00",
+    "timestamp": "2021-01-14T17:14:10-06:00"
+}

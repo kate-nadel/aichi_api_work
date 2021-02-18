@@ -1,0 +1,39 @@
+{
+    "id": 1977,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1977",
+    "title": "Devouring Books",
+    "is_featured": false,
+    "description": "Voracious readers have often been called bookworms or even book-eaters. Indeed, whether offering food for thought or actual recipes, books and food have long enjoyed a close relationship. This focused exhibition of books, prints, and drawings from Europe and America ranges from the 15th to the 20th century and touches on numerous historical and literary inspirations. Examining food culture from many delicious angles, it delves into over- and under-indulgence in food and drink, presents depictions of the senses and curious appetites in print, finds humor in housekeeping, and demonstrates the fate of books with inks, glues, and paper tasty enough to attract real bookworms. Planned to coincide with the major Art Institute of Chicago exhibition Art and Appetite: American Painting, Culture, and Cuisine, Devouring Books draws on the culinary collections of the Ryerson and Burnham Libraries as well as select objects from the Department of Prints and Drawings.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2013-11-19T00:00:00-06:00",
+    "aic_end_at": "2014-01-27T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Devouring Books"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:43-06:00",
+    "timestamp": "2021-01-14T17:13:34-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 9224,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9224",
+    "title": "Christien Meindertsma: Everything Connects",
+    "is_featured": false,
+    "description": null,
+    "short_description": "<p>Featuring two of the designer\u2019s ongoing projects, this exhibition reconsiders the potential of everyday materials, revealing transformative production processes and offering innovative solutions to issues of environmental sustainability.</p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9224/christien-meindertsma-everything-connects",
+    "image_url": "https://artic-web.imgix.net/29f1ba1d-25c6-4343-9aa6-180363b62b19/5x11truien.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C5000%2C2812",
+    "type": "AIC Only",
+    "status": "Confirmed",
+    "aic_start_at": "2019-03-21T00:00:00-05:00",
+    "aic_end_at": "2019-10-20T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 23967,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Christien Meindertsma: Everything Connects"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-08-21T09:49:02-05:00",
+    "last_updated": "2021-01-13T23:23:53-06:00",
+    "timestamp": "2021-01-14T17:16:08-06:00"
+}

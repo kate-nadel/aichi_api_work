@@ -1,0 +1,39 @@
+{
+    "id": 3135,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3135",
+    "title": "The Construction Series: 2x4",
+    "is_featured": false,
+    "description": "The Construction Series: 2x4 is the first installation of a new project that showcases contemporary commercial and custom-made wall coverings. Installed in spaces that are in transition during construction of the Modern Wing, the series explores how designers use wallpaper to generate dynamic creative expressions on a large scale.The wallpaper shown above, titled Pause, was made by 2x4 for Knoll Textiles as part of its Chatter Collection. Inspired by today\u2019s constant stream of digital transmissions from e-mail, chat rooms, and instant messaging, the oversized commas and periods draw attention to the essential but often overlooked elements of basic punctuation. Although divorced from their linguistic context, these marks still communicate on an emotional and aesthetic level as a field of familiar signs and symbols when amplified to the scale of an environment. What makes Pause unique is its ability to engage the audience in an ongoing dialogue. The 2x4 for Knoll Textiles. Pause, 2004. commas and periods act as elements in a conversation to which the viewer is invited to add his or her own words.\n\nThe design studio 2x4 takes an interdisciplinary approach to its work in print, film and video, Web, and environmental design. Although it does not have a signature style, the studio\u2019s intelligent design solutions make its projects stand out. Founded in 1993 by Michael Rock, Susan Sellers, and Georgianna Stout, who met while studying at the Rhode Island School of Design, the New York\u2013based studio is now 30 people strong. What binds 2x4\u2019s work is a rigorous analysis of program, audience, and context, combined with research into materials and production methods that often results in unexpected outcomes.\n\nIts portfolio includes a number of environmental-scale treatments for architectural spaces, from giant icons that greet people in the student center of the Illinois Institute of Technology to the densely patterned wall mural Guilt, which has become a branding mechanism for Prada.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2008-01-06T00:00:00-06:00",
+    "aic_end_at": "2008-05-08T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Design",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Construction Series: 2x4"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:23:02-06:00",
+    "timestamp": "2021-01-14T17:13:54-06:00"
+}

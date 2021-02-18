@@ -1,0 +1,39 @@
+{
+    "id": 3089,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3089",
+    "title": "Far from Home: Photography, Travel, and Inspiration",
+    "is_featured": false,
+    "description": "Throughout the 20th century, photographers traveled far from home to experience other cultures, refresh their eyes, and create new work. Often, the photographs taken on these sojourns have had a critical and lasting impact on their careers. Edward Weston\u2019s stay in Mexico in the mid-1920s, for example, catapulted him from a more traditional, naturalistic style into full-fledged Modernism. As he wrote in his daybook shortly after arriving, \u201cLife here is intense and dramatic, I do not need to photograph premeditated postures, and there are sunlit walls of fascinating surface textures, and there are clouds!\u201d His contact with revolutionary artists, exposure to native Mexican art forms, and distance from middle-class American norms freed Weston to find a new vocabulary for his photography.\n\nSimilarly, Walker Evans journeyed to Havana in 1933 to document the city in photographs that presage the cool humanism of Let Us Now Praise Famous Men. Robert Frank made his seminal body of work for his book The Americans upon leaving his native Switzerland and heading out on an extended road trip across the United States from 1955 to 1956. Harry Callahan left Chicago and the responsibilities of teaching behind to spend a year in Provence and view his subject matter of family and nature anew. Irving Penn took a break from his fashion photography to make very different portraits of residents of Cuzco, Per\u00fa. And Joel Sternfeld turned an eye attuned to the landscapes of America to the often surreal coexistence of old and new in modern Rome.\n\nThese, and transformative photographs by other artists on their travels, are all drawn from the Art Institute\u2019s collection. This exhibition is part of the museum\u2019s yearlong celebration of Silk Road Chicago, which explores the themes of travel and transformation.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-01-20T00:00:00-06:00",
+    "aic_end_at": "2007-05-06T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 2147476637,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Far from Home: Photography, Travel, and Inspiration"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:54-06:00",
+    "timestamp": "2021-01-14T17:13:53-06:00"
+}

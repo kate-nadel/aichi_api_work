@@ -1,0 +1,39 @@
+{
+    "id": 3947,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3947",
+    "title": "Stuyvesant Peabody Photography Collection",
+    "is_featured": false,
+    "description": "This exhibition featured 43 photographs that are part of the Peabody collection. Mrs. Stuyvesant Peabody, in honor of her late husband, donated a fund to the newly establishment department to purchase prints by contemporary photographers.\nPhotographers featured in this exhibition were: Ansel Adams, Bernice Abbott, Cecil Beaton, Harry Callahan, Henri Cartier-Bresson, Robert Doisneau, Izis, Yousuf Kars, Weegee, Sabine\nWeiss, Brett Weston, and Edward Weston.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1956-07-15T00:00:00-05:00",
+    "aic_end_at": "1956-09-01T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Stuyvesant Peabody Photography Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T09:00:04-05:00",
+    "last_updated": "2019-10-15T09:01:26-05:00",
+    "timestamp": "2021-01-14T17:14:11-06:00"
+}

@@ -1,0 +1,41 @@
+{
+    "id": 2102,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2102",
+    "title": "Paintings by Jean Crawford Adams, Emil Armin, Laura van Pappelendam, Frank J. Gavencky, Rudolph Ingerele and Charles Edward Mullin",
+    "is_featured": false,
+    "description": null,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1930-07-24T00:00:00-05:00",
+    "aic_end_at": "1930-10-12T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "d0ba1d44-4b72-93f8-8c8f-36661b340fdc"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings by Jean Crawford Adams, Emil Armin, Laura van Pappelendam, Frank J. Gavencky, Rudolph Ingerele and Charles Edward Mullin"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:22:47-06:00",
+    "timestamp": "2021-01-14T17:13:35-06:00"
+}

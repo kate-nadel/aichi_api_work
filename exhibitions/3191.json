@@ -1,0 +1,39 @@
+{
+    "id": 3191,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3191",
+    "title": "James Welling: Diary of Elizabeth and James Dixon, 1840\u201341 / Connecticut Landscapes, 1977\u201386",
+    "is_featured": false,
+    "description": "In July 1977, James Welling began photographing a two-volume travel diary kept by his great-great-grandparents as well as landscapes around his parents\u2019 new home in southern Connecticut. His first mature body of work, Diary/Landscape heralded the Pictures Generation and the centrality of photography to contemporary art. It was also a means of tying together his disparate interests, from the antiquarian (Civil War history, the watercolors of Andrew Wyeth, the landscapes of Paul Strand) to the contemporary (emergent postmodernist theory, punk rock, the downtown New York scene). The camera could be a copying device, the darkroom could be a testing ground, and the photograph could be a self-reflexive meditation on light sources, flatness, or abstraction that was also in and of the world.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-11-01T00:00:00-05:00",
+    "aic_end_at": "2015-04-12T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "James Welling: Diary of Elizabeth and James Dixon, 1840\u201341 / Connecticut Landscapes, 1977\u201386"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:22:57-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

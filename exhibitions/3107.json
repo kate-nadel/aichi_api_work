@@ -1,0 +1,39 @@
+{
+    "id": 3107,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3107",
+    "title": "Andrea Fraser: May I Help You?",
+    "is_featured": false,
+    "description": "A pioneer of critical reflection on the art world and its institutions since the early mid-1980s, Andrea Fraser (American, born 1965) has produced an impressive body of work that encompasses performance, installation, and video, among other forms. Questioning the motivations of art organizations, their patrons, audiences, and artists themselves, Fraser asks herself \u201cWhat do I, as an artist, provide? What do I satisfy?\u201d and us what we want from art. Engaging issues of power, legitmacy, and the framing of cultural practices, her early works include a docent\u2019s tour of a museum\u2019s art collection and an official welcome speech delivered while disrobing before an audience. Fraser often assumes the role of protagonist, enacting different social positions to challenge how the figure or persona of the artist is constructed for and by a public, convention, market structures, and the artist herself. By both occupying and pushing back at these structures and conventions, her approach is at once provocative and humorous, informed by an earlier generation of artists\u2019 engagement with feminism and institutional critique. The intelligence, clarity, and courage of such performances have ensured that Fraser\u2019s oeuvre remains a touchstone for critically engaged art today.\n\nSpanning more than a decade, the five video works in the Art Institute's collection\u2014Museum Highlights: A Gallery Talk (1989), Welcome to the Wadsworth: A Museum Tour (1991), May I Help You? (in cooperation with Allan McCollum) (1991), Inaugural Speech (1997), and Official Welcome (2003)\u2014are among the artist's earliest and most influential works. Shown in the Donna and Howard Stone Gallery for Film, Video, and New Media, these works are presented on the occasion of Fraser's participation as the speaker for the 29th annual Sustaining Fellows A. James Speyer Lecture on November 1.",
+    "short_description": "Five video works by Andrea Fraser demonstrate why she is a pioneer of critical reflection on the art world and its institutions.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3107/andrea-fraser-may-i-help-you",
+    "image_url": "https://artic-web.imgix.net/9202b806-91f6-4c8b-b130-82c640138764/exh_fraser_main_1_480.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=66%2C72%2C371%2C209",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-11-01T00:00:00-05:00",
+    "aic_end_at": "2017-01-02T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25208,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Andrea Fraser: May I Help You?"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:29-06:00",
+    "timestamp": "2021-01-14T17:13:53-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3343,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3343",
+    "title": "Beyond Beauty: Botanical Motifs and Metaphors in Late Imperial China (2014)",
+    "is_featured": false,
+    "description": "In art as well as literature, the Chinese have traditionally imbued flowers, fruits, and woody grasses with rich and multilayered qualities that convey human ideas, values, and aspirations. These find expression in visual puns known as rebuses, in which botanical names call to mind homophones for blessings of good fortune, as well as in subtle allusions that endow a plant\u2019s natural attributes with symbolic meanings. Most poignant is the meaning associated with bamboo, which remains green throughout the year and whose hollow stem bends but does not break in a strong wind. Since the 10th century, the delicate yet firm character of this plant has embodied the human of integrity and perseverance.\n\nThis intimate exhibition demonstrates how scholar-artists (literati) often chose to convey their thoughts and emotions in allusive images of nature. Their images are characteristically painted in monochrome ink, with deft and dynamic brushwork evocative of calligraphy. The style of court and professional artists, by contrast, is highly colorful and often precisely descriptive.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-06-04T00:00:00-05:00",
+    "aic_end_at": "2014-11-30T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147478117,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Beyond Beauty: Botanical Motifs and Metaphors in Late Imperial China (2014)"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:22:44-06:00",
+    "timestamp": "2021-01-14T17:13:59-06:00"
+}

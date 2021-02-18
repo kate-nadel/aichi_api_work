@@ -1,0 +1,46 @@
+{
+    "id": 3269,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3269",
+    "title": "Inside Marina City: A Project by Iker Gil and Andreas E.G. Larsson",
+    "is_featured": false,
+    "description": "While the towers of Marina City present a public and easily recognizable profile to the street, architect Iker Gil and photographer Andreas Larsson's project focuses on the residents of the building and the highly personal living spaces that make it an energetic and diverse community. Marina City's central location, affordable apartments, and unusually wide range of amenities, including large balconies, bowling alley, theater, and marina, have long attracted creative and engaged residents. Inside Marina City explores the relationship between Bertrand Goldberg\u2019s rigorous modular framework for the apartment units and the informal development of these interior spaces by residents throughout the history of the building.\n\nSponsor\nThis exhibition is made possible by the generous support of the Architecture & Design Society.\n\nAdditional sponsorship provided by The Print Lab",
+    "short_description": "While the towers of Marina City present a public and easily recognizable profile to the street, architect Iker Gil and photographer Andreas Larsson's project focuses on the residents of the building and the highly personal living spaces that make it an energetic and diverse community.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3269/inside-marina-city-a-project-by-iker-gil-and-andreas-eg-larsson",
+    "image_url": "https://artic-web.imgix.net/91bd03e9-5008-4266-981c-5106227d0640/InsideMarinaCity.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C125%2C1331%2C749",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-09-17T00:00:00-05:00",
+    "aic_end_at": "2012-01-15T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 23966,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "aae30161-69c0-5f8e-8434-c403e43f96a8",
+    "alt_image_ids": [
+        "0a2f82a1-35a4-5237-a1af-d55687cca66e",
+        "ad6b2a97-383b-9cd6-3438-471518c766cf",
+        "9b223305-28bc-374f-2c79-2aa2bb62872c",
+        "2d330534-1a45-e01d-9635-da7353244c77",
+        "1f3e6a92-149f-a577-b994-101f65d30680",
+        "79376c23-b925-6ece-a2b0-621a1563be8c"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Inside Marina City: A Project by Iker Gil and Andreas E.G. Larsson"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:30-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

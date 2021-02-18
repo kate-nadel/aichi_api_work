@@ -1,0 +1,47 @@
+{
+    "id": 1051,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1051",
+    "title": "Lewis Baltz Prototypes/Ronde de Nuit",
+    "is_featured": false,
+    "description": "Beginning in 1965, but especially in the years between 1967 and 1971, photographer Lewis Baltz (born 1945 in Newport Beach, California) made a body of work concentrated on the dialectic between simple, regular geometric forms found in the postwar industrial landscape with the (far from simple) culture that generated such forms, or was conditioned by them. Stucco walls, parking lots, the sides of warehouse sheds or disused billboards baked in the steady Californian sunlight\u2014these and other \u201chyper-banal\u201d subjects were printed in blacks and whites of a breathtaking tonal evenness. Baltz called his works \u201cPrototypes,\u201d by which he meant replicable social conventions as well as model structures of replicable manufacture. The fraught relation of neutral form to highly charged content plays itself out on the emphatically planar surface of these prints, objects that exude magnificence and severity simultaneously.\n\nBaltz has not had a solo exhibition in the United States since 1998, when works from that decade were shown at LA MoCA. He is best known for the 1974 book New Industrial Parks near Irvine, California and generally associated with the New Topographics movement, christened after a 1975 photography exhibition of that title at the George Eastman House. New Industrial Parks was first published, however, by Leo Castelli Gallery, and it is as part of that avant-garde art context that the impact of the Prototypes may best be recovered today. The present exhibition proposes to bring together approximately 40 of Baltz\u2019s photographs from the series with a sculpture by Sol LeWitt from the Art Institute collections and an oilstick drawing by Richard Serra.\n\nAugmenting this exhibition will be the presentation of a piece made by Baltz in 1992, initially for presentation at the Mus\u00e9e National d\u2019Art Moderne, Centre Georges Pompidou, in Paris. Measuring 39 feet across and 7 feet tall and printed on aluminum-mounted cibachrome panels, Ronde de Nuit is as far in scale and appearance as one could get from the Prototypes. Yet across its manifest differences, this monumental work traduces underlying continuities in the artist\u2019s preoccupations. Baltz remains substantially concerned over the cancerous spread of our industrially manufactured habitat and how the elements of manufacture can be used to standardize, control, and oppress the inhabitants\u2014ourselves. Ronde de Nuit shows seven monumental photographs, joined end to end in a panoramic tableau, of various surveillance sites and the people who work at them. Some photographs are copies of screen images taken from closed-circuit monitors at these sites; others were made by the artist at widely varying distances from mainframe computers, cable conduits, and other equipment in the bowels of the companies he visited. The resulting composition merges Rembrandt with Piranesi in the digital age. Its effect on viewers is magnetic, moving, and uncanny.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-09-25T00:00:00-05:00",
+    "aic_end_at": "2011-01-09T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 25210,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "3049c724-d229-5d31-bbe9-f1d42d5c2ea6",
+    "alt_image_ids": [
+        "4f28211e-b06a-aa57-db2c-5a6ed7882d44",
+        "19b56357-1b07-a440-4da8-989bbb3cda66",
+        "e71e8ae2-a7ba-5184-6208-fffd256fb28b",
+        "d3ef945c-8370-e7fd-796e-42b46b89a4ed",
+        "25c19459-510f-c11b-02c3-d1840933de76",
+        "b85be1a9-fb91-c4d3-ece2-01028f5ed5f2",
+        "c6ba1328-469f-cc26-0d64-78f983df03b4"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lewis Baltz Prototypes/Ronde de Nuit"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:17-06:00",
+    "timestamp": "2021-01-14T17:13:16-06:00"
+}

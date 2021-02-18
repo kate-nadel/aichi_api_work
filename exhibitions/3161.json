@@ -1,0 +1,39 @@
+{
+    "id": 3161,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3161",
+    "title": "The Coming of a New Age: Meiji- and Taisho-Period Decorative Arts",
+    "is_featured": false,
+    "description": "In Japan, metal craftsmen who had previously made a living fashioning elaborate armor and sword fittings or casting bronze Buddhist sculptures found a new and more viable outlet for their talents, creating pieces for world\u2019s fairs and domestic exhibitions. Items including realistic bronze sculptures of animals and utilitarian items such as incense burners and cloisonn\u00e9 vases were among the most astounding technical achievements on view at such venues. In addition to metalwork, porcelain items became more intricate in terms of shape, design, and breadth of color. Objects exhibited here represented the first encounter with the art of Japan for many of the earliest donors to the Art Institute.\n\nWith the restoration of the emperor in 1868, Japan announced a clean break from the feudal system that had characterized the military government under the shoguns. In politics as well as culture, Japan began looking outward in order to become a major player on the world stage; at the same time, however, the country remained mindful of retaining its native values and aesthetics. Japan used arts and crafts to demonstrate that it was a progressive, industrial power, fashioning intricate metalwork and elaborately decorated porcelains. Indeed, this era marked the beginning of Japonisme in the United States, the vogue for Japanese art and design.",
+    "short_description": "In Japan, metal craftsmen who had previously made a living fashioning elaborate armor and sword fittings or casting bronze Buddhist sculptures found a new and more viable outlet for their talents, creating pieces for world\u2019s fairs and domestic exhibitions. Items including realistic bronze sculptures of animals and utilitarian items such as incense burners and cloisonn\u00e9 vases were among the most astounding technical achievements on view at such venues. In addition to metalwork, porcelain items became more intricate in terms of shape, design, and breadth of color.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3161/the-coming-of-a-new-age-meiji-and-taisho-period-decorative-arts",
+    "image_url": "https://artic-web.imgix.net/7298aa07-4665-4148-b1bb-022615d4fc37/2008.160Tetsunao.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C921%2C2400%2C1347",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2009-03-14T00:00:00-05:00",
+    "aic_end_at": "2009-08-09T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480173,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Coming of a New Age: Meiji- and Taisho-Period Decorative Arts"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:16-06:00",
+    "timestamp": "2021-01-14T17:13:54-06:00"
+}

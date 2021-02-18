@@ -1,0 +1,39 @@
+{
+    "id": 3182,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3182",
+    "title": "Chicagoisms",
+    "is_featured": false,
+    "description": "Throughout its history the city of Chicago has inspired myriad urban and architectural innovations, many of which have had far-reaching influence. Indeed, urbanists and architects today still look to many of these historical moments in Chicago as exemplary instances of progression and development. The collection of the Art Institute\u2019s Department of Architecture has extensive holdings on work within the region of Chicago, representing the important innovations, theoretical approaches, and architectural movements spurred by the city\u2019s development. This exhibition surveys Chicago\u2019s rich urban history and explores contemporary approaches to five Chicagoisms\u2014key historical principles that have powered the city\u2019s distinctive evolution. \n \nAs part of a series in which the department enlists contemporary architects and designers to organize installations that investigate critical issues within their practices, architectural theorist Alexander Eisenschmidt and art historian Jonathan Mekinda have extrapolated key ideas from their recent publication, Chicagoisms: The City as Catalyst for Architectural Speculation. Along with designer Matt Wizinsky, the team engaged contemporary architects to undertake their own investigations and interpretations of five Chicagoisms. Developed as architectural models with corresponding manifestos specifically for this exhibition, these explorations developed by nine contemporary architects\u2014Bureau Spectacular, DOGMA, MVDRV, Organization for Permanent Modernity, PORT, Sam Jacob, UrbanLab, Weathers, and WW\u2014are presented with historical black-and-white photographs that are emblematic of the five Chicagoisms. This juxtaposition of the historic and the contemporary underscores how the architectural and urban history of Chicago can act as a catalyst for new forms of speculation and innovation.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-04-05T00:00:00-05:00",
+    "aic_end_at": "2015-01-04T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 23966,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicagoisms"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:56-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

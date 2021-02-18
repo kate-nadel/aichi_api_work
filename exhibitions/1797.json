@@ -1,0 +1,39 @@
+{
+    "id": 1797,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1797",
+    "title": "Charles Ray: Sculpture, 1997-2014",
+    "is_featured": false,
+    "description": "The first major exhibition devoted to celebrated Chicago-born, Los Angeles\u2013based sculptor Charles Ray since a midcareer retrospective in 1998, this display of 19 works fills the second floor of the Modern Wing and flows into the museum\u2019s South Garden, presenting a full range of Ray\u2019s most recent achievements with particular emphasis on figurative experiments. The exhibition, co-organized by the Art Institute and the Kunstmuseum Basel, can only be seen in the United States at the Art Institute, and six sculptures\u2014including four new works in their museum debut: Horse and Rider, Huck and Jim, Silver, and Girl on Pony\u2014are on view only in Chicago.\n\nOn technical and formal levels, Ray has been redefining the possibilities of contemporary sculptural practice since the early 1980s. His recent pioneering use of solid, machined aluminum and stainless steel is entirely new to the history of art, its reflective qualities and fluid effects belying the tremendous weight of many of Ray\u2019s life-size and over-life-size works. As the exhibition demonstrates, Ray\u2019s latest sculptures evidence a verisimilitude that can range in a single work from painstakingly exact to a softer, more stylized rendering. The works, materially and conceptually dense, often emerge from a long process of study, experimentation, refinement, and meticulous execution. Ray himself has described his objects not as the product of an obsessive practice but rather as the manifestation of \u201cdiscipline and persistence.\u201d With works sometimes ten years in the making, Ray\u2019s process can be likened to a river eroding or reshaping stones over time. \n\nThis intensive working method, along with the sculptures\u2019 highly technical creation and carefully controlled display, yields works that are timeless yet utterly contemporary. Throughout the exhibition, viewers can trace themes of boyhood, sleep, ghosts, self-portraiture, and myths of American popular culture, as well as recognize references to Classical statues and the revival of ancient techniques such as bas relief. Yet there are also many conceptual aspects to Ray\u2019s work\u2014space and time, physical and psychological presence\u2014that form a matrix of migrating allusions and allegorical meaning.",
+    "short_description": null,
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1797/charles-ray-sculpture-1997-2014",
+    "image_url": "https://artic-web.imgix.net/8938e22f-f4c9-4adf-927b-281e64584c2d/2007.771HinokiCharlesRay.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=127%2C0%2C2782%2C1566",
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2015-05-15T00:00:00-05:00",
+    "aic_end_at": "2015-10-04T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 2147475902,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles Ray: Sculpture, 1997-2014"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:10-06:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

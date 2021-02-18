@@ -1,0 +1,42 @@
+{
+    "id": 5840,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5840",
+    "title": "Antiquarian Society: Victorian Exhibition",
+    "is_featured": false,
+    "description": null,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1938-01-20T00:00:00-06:00",
+    "aic_end_at": "1938-02-27T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "c408e22f-c8f7-0120-d2d4-c41990c7becd",
+    "alt_image_ids": [
+        "6c35bbd2-69b7-1cf2-eafa-8de68b716209",
+        "67aa5527-db68-719f-8321-0e0f3d11b54e"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Antiquarian Society: Victorian Exhibition"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:18:43-06:00",
+    "timestamp": "2021-01-14T17:14:46-06:00"
+}

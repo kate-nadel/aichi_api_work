@@ -1,0 +1,41 @@
+{
+    "id": 608,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/608",
+    "title": "Beyond Golden Clouds: Japanese Screens from the Art Institute of Chicago and the Saint Louis Art Museum",
+    "is_featured": false,
+    "description": "Part utilitarian and part fine art, the Japanese folding screen has captured the imaginations of those in the West since the 16th century. Japanese screens were then, as they are now, the decorated surface par excellence, connoting status, good taste, and indeed, Japan itself. Stretching across their surfaces are, for the most part, compositions of bright mineral pigments rendered on gleaming gold-leaf grounds. Unfortunately, however varied the subjects portrayed and the painting styles adopted, there are very few opportunities today to see large numbers of screens displayed together at once, and museum visitors often must satisfy themselves with only one or two examples at a time. With Beyond Golden Clouds: Japanese Screens from the Art Institute of Chicago and the Saint Louis Art Museum, we seek to reveal the dynamism of the screen format\u2014its lasting meaning in Japan and its persistent appeal abroad\u2014presented in both premodern and contemporary incarnations.\nThe exhibition celebrates the possibilities of the screen format in a way only the collaboration of the Art Institute of Chicago and the Saint Louis Art Museum could achieve, drawing as it does on the Art Institute\u2019s strength in decorative and iconic screens of the seventeenth century and Saint Louis\u2019s pivotal calligraphic screens and contemporary works. An extensive full-color catalogue edited by myself and including contributions by top scholars in the field will be available in June.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2009-06-26T00:00:00-05:00",
+    "aic_end_at": "2009-09-27T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147475902,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [
+        42
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Beyond Golden Clouds: Japanese Screens from the Art Institute of Chicago and the Saint Louis Art Museum"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:37-06:00",
+    "timestamp": "2021-01-14T17:13:10-06:00"
+}

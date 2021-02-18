@@ -1,0 +1,39 @@
+{
+    "id": 4089,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4089",
+    "title": "15 Painters from Paris",
+    "is_featured": false,
+    "description": "This exhibition featured Parisian artists born at the turn of the century through the early twentieth century, all of which rose to notoriety after World War II. Their work was displayed in the Art Institute as a survey of contemporary French painting. The fifteen artists included in this exhibit were Jean Bazaine, Jean Dubuffet, Charles Lapicque, Hans Hartung Paul Kallos, Pierre Soulages, Tal Coat, Raoul Ubac, Andr\u00e9 Lanskoy, Nicolas de Stael, Victor Vasarely, Wolfgang \u201cWols\u201d Schulze, Vieira da Silva, Serge Poliakoff, and Bernard Dufour.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1960-04-13T00:00:00-06:00",
+    "aic_end_at": "1960-05-15T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "15 Painters from Paris"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-11-26T15:33:16-06:00",
+    "last_updated": "2019-11-26T15:35:35-06:00",
+    "timestamp": "2021-01-14T17:14:13-06:00"
+}

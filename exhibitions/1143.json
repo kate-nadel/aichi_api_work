@@ -1,0 +1,39 @@
+{
+    "id": 1143,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1143",
+    "title": "Arthur U. Pope and A New Survey of Persian Art",
+    "is_featured": false,
+    "description": "In celebration of the opening of the Art Institute\u2019s newly refurbished permanent installation of the art of the Islamic world, the museum proudly presents Arthur Pope and a New Survey of Persian Art. This exhibition will highlight this historically important collection of Persian art, which was developed under the guidance of Arthur Upham Pope (1881\u20131969).\n\nA noted American art historian, Pope was a pioneer in the study of Persian art, heritage, and culture, as well as an energetic collector, curator, and art dealer. Often credited for establishing the basis of what we now categorize broadly as Islamic art at various institutions throughout the country, Pope also organized large-scale exhibitions and congresses of Persian art in London, St. Petersburg, Philadelphia, and New York. His multi-volume A Survey of Persian Art (1938\u201339), complied and edited together with his wife and colleague, Phyllis Ackerman, was highly influential in the way the Western world came to perceive and appreciate Persian art. The aesthetic criteria that he, his wife, and his contemporary colleagues established for assessing the importance of cultural remains from modern Iran, west Afghanistan, and west central Asia influenced the way many people around the world came to understand the art, architecture, and material culture of Persia. Those criteria continue to shape our thinking today.\n\nThe exhibition will feature a variety of media, including ceramics, tilework, textiles, paintings, glasswork, and lacquerware from the Art Institute\u2019s permanent collection. A New Survey of Persian Art will also examine Pope\u2019s legacy by tracing the development of Persian art collections in Chicago during the early 20th century as well as his influence on the understanding and appreciation of traditional Persian art across the globe. This exhibition will also help today\u2019s audience to understand modern Persian art by looking at it through the lens of Pope and his generation.\n\nArthur Pope and A New Survey of Persian Art will be a landmark display, dedicated solely to the art of Persia through the 130-year history of the Art Institute. The exhibition offers a valuable opportunity to re-introduce Persian art and civilization to the people of Chicago and the Midwest and to promote a further understanding of Persian cultures.\n\nThis exhibition is curated by Dr. Yuka Kadoi, Andrew W. Mellon Fellow, Department of Asian and Ancient Art, Art Institute of Chicago.\n\nIn conjunction with the exhibition, the Art Institute of Chicago will host an international symposium in September 2010. This symposium will provide a forum for a roster of international scholars of Persian art to reconsider the life and achievements of Arthur Upham Pope.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-02-04T00:00:00-06:00",
+    "aic_end_at": "2010-09-26T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": 2147472450,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Arthur U. Pope and A New Survey of Persian Art"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:17-06:00",
+    "timestamp": "2021-01-14T17:13:19-06:00"
+}

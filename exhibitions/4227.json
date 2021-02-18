@@ -1,0 +1,41 @@
+{
+    "id": 4227,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4227",
+    "title": "Chicago and Vicinity 66th Annual",
+    "is_featured": false,
+    "description": "Sixty-Sixth Annual Exhibition by Artists of Chicago and Vicinity\nSummary: This exhibit was a direct continuation of the 66th Annual American Painting and Sculpture show, but was focused on local artists.  The show was judged by art critic Miss Dorothy Adlow, painter Miss Isabella Bishop, director of the Santa Barbara Art Museum James W. Foster Jr.,  painter Robert Indiana, and Chicago collector Morton G. Neumann.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1963-04-19T00:00:00-06:00",
+    "aic_end_at": "1963-06-02T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "489e8221-841b-f32b-ebc1-8cedf2eed21c"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago and Vicinity 66th Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T14:11:26-05:00",
+    "last_updated": "2019-10-14T14:16:21-05:00",
+    "timestamp": "2021-01-14T17:14:16-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 1507,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1507",
+    "title": "Spencer Finch: Lunar",
+    "is_featured": false,
+    "description": "Throughout his career, American artist Spencer Finch has used color and light as primary subjects\u2014and materials\u2014in his drawings, photographs, mixed media projects, and large-scale installations. Best known for exploring ideas about memory and perception, the artist often employs a colorimeter, a device that measures the average color and temperature of light that exists naturally in a specific place and time. With this information in hand, Finch reconstructs the luminosity of the location through artificial means.\n\nFor his solo project at the Art Institute, Finch has created a solar-powered \u201clunar lander module\u201d that uses energy from sunlight to power a geodesic dome\u2013shaped object\u2014a \u201cbuckyball\u201d that resembles the carbon molecules named for visionary architect Buckminster Fuller\u2014positioned on top of the lander. Installed on the open-air Bluhm Family Terrace, Lunar will glow during the evening hours the color of moonlight\u2014the exact light measured from the full moon over Chicago in July 2011.\n\n\u201cLike just about everyone, I wanted to make a picture of the moon or, more specifically, of moonlight,\u201d Finch said about the project. \u201cI have always loved nocturnes and the impossible attempts to paint near-darkness in near-darkness. I figured there were probably enough literal pictures of the moon, so I began thinking about the form of moonlight and how it is actually reflected sunlight. This led me to explore the use of solar power to generate the light of the moon. The structure of the lunar module and the buckyball followed in short order\u2014I thought it would be fun to imagine that a lunar module returning from the moon with moonlight on board landed on top of the Art Institute.\u201d\n\nSponsor\nThis exhibition is organized by the Art Institute of Chicago with major funding from the Bluhm Family Endowment Fund. The fund supports exhibitions of modern and contemporary sculpture, which may consist of existing works drawn from the Art Institute\u2019s permanent collection or borrowed from other collections private and public, or new works commissioned specifically for this site. Generous support is provided by the Exhibitions Trust: Goldman Sachs, Kenneth and Anne Griffin, Thomas and Margot Pritzker, the Earl and Brenda Shapiro Foundation, Donna and Howard Stone, and Melinda and Paul Sullivan.",
+    "short_description": "Throughout his career, American artist Spencer Finch has used color and light as primary subjects\u2014and materials\u2014in his drawings, photographs, mixed media projects, and large-scale installations. Best known for exploring ideas about memory and perception, the artist often employs a colorimeter, a device that measures the average color and temperature of light that exists naturally in a specific place and time. With this information in hand, Finch reconstructs the luminosity of the location through artificial means.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1507/spencer-finch-lunar",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-10-06T00:00:00-05:00",
+    "aic_end_at": "2012-04-08T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25238,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Spencer Finch: Lunar"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:49-06:00",
+    "timestamp": "2021-01-14T17:13:22-06:00"
+}

@@ -1,0 +1,41 @@
+{
+    "id": 2838,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2838",
+    "title": "Window on the West: Chicago and the Art of the New frontier, 1890-1940",
+    "is_featured": false,
+    "description": "Overview: Situated in the center of the United States, linking the eastern and the western economies and cultures, the city of Chicago came to typify modernity and to serve as an important locus for the economic, technological, and artistic developments that helped define 20th-century America. Ambitious businessmen and industrialists and a hardworking population of laborers made the city into the agricultural, livestock, and railroad hub of the nation. It is well known that Chicago\u2019s economic leaders became its most prominent art patrons, working together to establish the powerful institutional networks that came to define the metropolis\u2019s cultural landscape. Less known is the important role they played in supporting artists drawn to subjects celebrating America\u2019s \"Wild West,\" and the complex reasons for their attraction to this theme. Without patrons such as Martin Ryerson, Edward F. Ayer, Carter Harrison, Oscar Mayer, George Harding, and Lambert Tree, and institutions such as the Art Institute, the Newberry Library, the Field Museum, the Union League Club, the Cliff Dwellers, and the Santa Fe Railway, western art would have found little national recognition at the turn of the century.\n\nThe exhibition comprises the Art Institute\u2019s outstanding collection of American art and regional collections, public and private.\n\nCurator: Judith A. Barter, Field-McCormick Curator of American Arts, The Art Institute of Chicago\nSponsor: Window on the West: Chicago and the Art of the New Frontier, 1890\u20131940 was organized by The Art Institute of Chicago. The Elizabeth Morse Charitable Trust is the Sponsor of the exhibition. Additional funding has been received by The Oscar G. and Elsa S. Mayer Family Foundation.\n\nCatalogue: A 256-page catalogue accompanies the exhibition.",
+    "short_description": "Situated in the center of the United States, linking the eastern and the western economies and cultures, the city of Chicago came to typify modernity and to serve as an important locus for the economic, technological, and artistic developments that helped define 20th-century America. Ambitious businessmen and industrialists and a hardworking population of laborers made the city into the agricultural, livestock, and railroad hub of the nation.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2838/window-on-the-west-chicago-and-the-art-of-the-new-frontier-1890-1940",
+    "image_url": "https://artic-web.imgix.net/eca60bd8-d4f0-48e4-96a9-cc98d851bb68/97910.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C72%2C1024%2C576",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2003-06-28T00:00:00-05:00",
+    "aic_end_at": "2003-10-13T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "American Art",
+    "gallery_id": 2147472450,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [
+        28
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Window on the West: Chicago and the Art of the New frontier, 1890-1940"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:52-06:00",
+    "timestamp": "2021-01-14T17:13:45-06:00"
+}

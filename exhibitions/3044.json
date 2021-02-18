@@ -1,0 +1,39 @@
+{
+    "id": 3044,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3044",
+    "title": "Splendor and Intimacy: Mughal and Rajput Courtly Life, Part 2",
+    "is_featured": false,
+    "description": "Exquisite miniature paintings and decorative arts, including jades, jewelry, and weapons, demonstrate the richness of the arts that were produced in South Asia between the 16th and 19th centuries. The selection of objects in this exhibition offers a glimpse into the courtly life of the Mughal emperors (1526\u20131857) as well as that of their Rajput opponents and vassals.\n\nThe interaction between the imperial Mughal dynasty and the rugged, aristocratic, and proud Rajputs led to an immense flowering of art and architecture seen most magnificently in the Taj Mahal, which has greatly enhanced the architectural and artistic heritage of India and Pakistan. War, marriage, and diplomacy all contributed to the exquisite fusion of Persianate Islamic art with native Rajput traditions.\n\nThe miniature paintings on display in Splendor and Intimacy reveal the private and public lives of Mughal and Rajput rulers behind their fortress walls. The magnificent depiction of a sovereign in full procession, formal portraits of rulers and courtiers bearing arms in proud profile, intimate scenes within the zenana (harem) of a palace, and the image of a maiden at her toilette are windows onto the realms of Mughal and Rajput royalty. The fine detail and ornamentation of the textiles, arms, and jewelry worn by those depicted in the miniatures are reflected in the decorative arts that accompany the paintings.\n\nThe works in this exhibition continue the celebration of India Pakistan 60, a series of events that commemorate the 60th year of Indian and Pakistani independence.",
+    "short_description": "Exquisite miniature paintings and decorative arts, including jades, jewelry, and weapons, demonstrate the richness of the arts that were produced in South Asia between the 16th and 19th centuries. The selection of objects in this exhibition offers a glimpse into the courtly life of the Mughal emperors (1526\u20131857) as well as that of their Rajput opponents and vassals.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3044/splendor-and-intimacy-mughal-and-rajput-courtly-life-part-2",
+    "image_url": "https://artic-web.imgix.net/49176011-2bf5-4dd8-abbe-9979ad719d07/1980.272CupwithBlossomsandPeacocks.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C199%2C2694%2C1515",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-11-12T00:00:00-06:00",
+    "aic_end_at": "2008-02-03T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147478134,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Splendor and Intimacy: Mughal and Rajput Courtly Life, Part 2"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:25-06:00",
+    "timestamp": "2021-01-14T17:13:52-06:00"
+}

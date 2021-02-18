@@ -1,0 +1,39 @@
+{
+    "id": 2268,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2268",
+    "title": "Degas: At the Tracks On the Stage",
+    "is_featured": false,
+    "description": "Of all the Impressionists who focused on modern life, Edgar Degas was the most dedicated to the classical tradition of depicting the human form, especially that form in movement and performance. In this focused exhibition, two exceptional loans\u2014a remarkable painting from the National Gallery of Art, Washington, D.C., Scene from the Steeplechase: The Fallen Jockey, and a beloved sculpture from a private Chicago collection, Little Dancer Aged Fourteen\u2014join other loans and paintings, drawings, pastels, and sculpture from the Art Institute\u2019s permanent collection to explore the artist\u2019s career-long fascination with the figure in motion through the subjects of the racetrack and ballet.\n\nA striking canvas, Degas\u2019s Scene from the Steeplechase: The Fallen Jockey marked a momentous transition for the artist from the classically inspired history paintings of his youth toward the depiction of subjects drawn from modern life. In the mid-1860s, when Degas premiered this work, the cross-country obstacle race known as the steeplechase had reached the height of its popularity, but the sport\u2019s potential for danger also made it controversial. This highly dramatic image, possibly inspired by a recent tragedy, underscores the perils inherent to the race. Painted on a public scale, it nevertheless captures an intimate and unsettling moment. Is the jockey, for which Degas\u2019s younger brother Achille served as the model, dead or merely fallen? The sense of immediacy evoked by the painting contrasts sharply with the artist\u2019s own working method for the piece, which was complex and painstaking; Degas returned to the work over the course of nearly 30 years radically reworking both subject and brushwork. He reportedly deemed the painting \u201cone of those works which are sold after a man\u2019s death. . . . Artists buy them not caring whether they are finished or not.\u201d\n\nDegas\u2019s fascination with Parisian cultural life extended also to the caf\u00e9 concert, theatrical performances, and above all, the ballet. Like the steeplechase, the ballet existed to entertain the wealthy, and the artist paid for the privilege of going behind the scenes of the ballerina\u2019s world. This intimate vantage point allowed him to capture what fascinated him most: the movement of the performer\u2014caught in the poetry of the onstage illusion or backstage practice. That poetry is highlighted in this presentation by Little Dancer Aged Fourteen, a bronze cast from the original wax sculpture displayed at the sixth Impressionist exhibition in 1881. With her feet turned out, shoulders pressed down and back, and chin lifted high, her body brims with energy. That grace and athleticism, physical peril and transport\u2014whether through the form of a young dancer, a robust singer, or a daring rider\u2014come alive in the works selected for this intimate exhibition.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-07-01T00:00:00-05:00",
+    "aic_end_at": "2016-02-21T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": 2147478672,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Degas: At the Tracks On the Stage"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:14-06:00",
+    "timestamp": "2021-01-14T17:13:38-06:00"
+}

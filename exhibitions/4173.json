@@ -1,0 +1,39 @@
+{
+    "id": 4173,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4173",
+    "title": "Last Works of Matisse: Large Cut Gouaches",
+    "is_featured": false,
+    "description": "This exhibit was considered a sequel to a Matisse retrospective held in 1951-1952 by the Museum of Modern Art. The contents of the show featured Matisse\u2019s gouache works, which was a medium he did not explore until he was in his sixties. His experimentation with the large, flat shapes explored placement of forms within linear and voluminous relationships.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1962-01-12T00:00:00-06:00",
+    "aic_end_at": "1962-02-11T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Last Works of Matisse: Large Cut Gouaches"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T14:05:34-05:00",
+    "last_updated": "2019-10-14T14:06:21-05:00",
+    "timestamp": "2021-01-14T17:14:15-06:00"
+}

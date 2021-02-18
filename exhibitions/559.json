@@ -1,0 +1,39 @@
+{
+    "id": 559,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/559",
+    "title": "The \u201cGates of Paradise\u201d: Lorenzo Ghiberti's Renaissance Masterpiece",
+    "is_featured": false,
+    "description": "In 1425 Lorenzo Ghiberti was commissioned to design a pair of bronze doors for Florence's Baptistery. He labored on the task for 27 years, fashioning a masterpiece that Michelangelo called \"truly worthy to be the Gates of Paradise\" for its remarkable beauty and grandeur. For the past 25 years, Ghiberti's gates have undergone extensive conservation, which is now nearing completion. To celebrate the conclusion of this arduous project, three relief panels from the Gates of Paradise and sections of the doors' frieze have traveled to North America. This exhibition affords viewers a once-in-a-lifetime opportunity to observe Ghiberti's work up close before the individual elements are reintegrated with the rest of the doorframe and put on permanent display in a hermetically sealed room in the museum of the Florence Cathedral (Museo dell'Opera del Duomo), never to travel again.\n\nDepicting the stories of Adam and Eve, Jacob and Esau, and David and Goliath, the panels offer viewers a coherent vision of Ghiberti's artistic genius and the range of perspectival solutions he invented for his narrative panels. This exhibition also reveals the complex nature of the conservation process through the juxtaposition of two sections of the frieze and two decorative heads: one version of each has been resplendently cleaned; the other is still disfigured by damaging surface deposits. A video documents the conservation methods used, including cutting-edge laser technology, which enables the surface dirt to be cleaned in a non-invasive manner.\n\nSculptor, painter, draftsman, architectural consultant, stained-glass designer, entrepreneur, author of a treatise on the arts, and the first artist to write an autobiography, Ghiberti could honestly declare in his Commentaries that \"few things of importance were made in our city that were not designed or devised by my hand.\" The masterpieces in this exhibition, while representing only a small portion of his works, confirm that Ghiberti had good reason to boast.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2007-07-28T00:00:00-05:00",
+    "aic_end_at": "2007-10-14T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The \u201cGates of Paradise\u201d: Lorenzo Ghiberti's Renaissance Masterpiece"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:49-06:00",
+    "timestamp": "2021-01-14T17:13:09-06:00"
+}

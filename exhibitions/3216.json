@@ -1,0 +1,39 @@
+{
+    "id": 3216,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3216",
+    "title": "The Year of the Horse",
+    "is_featured": false,
+    "description": "In the Chinese zodiac system, certain animals have long been associated with particular years in the twelve-year cycle. At least as far back as the third century B.C., people believed that the attributes of these animals could be seen in those born in each year, defining one\u2019s character and having an affect on one\u2019s future. These beliefs continue to be strong today throughout Asia. The horse is associated with strength, energy, intelligence, communication, and popularity, but also impatience and stubbornness.\u2028\n\nThis exhibition showcases some of the more common portrayals of horses in Japanese and Chinese art from the 6th to the 18th centuries in which these attributes can be seen. Essential in battle, and therefore integral to securing and maintaining power, the horse was often represented in sculpture in China. Fine breeds featured as minqi or funerary objects, representations of prized possessions meant to accompany the deceased into the afterlife and offer protection. Horses were also immortalized in precious jade, testifying to the affection and respect that people had for them.\n\nIn Japan, the horse became one of the most important features of warrior culture. From an early age, boys were taught to ride for contests and ceremonies. Images of spirited horses in stables, painted one per panel, were one of the earliest subjects depicted on multi-panel folding screens. Horses have always had an important place in indigenous Shint\u00f4 religious beliefs, and by the 15th century, the commissioning and donating of votive paintings to shrines featuring horses (ema) pulling at their tethers became a widespread practice among the warrior class.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-01-18T00:00:00-06:00",
+    "aic_end_at": "2014-04-06T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480173,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Year of the Horse"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:47-06:00",
+    "timestamp": "2021-01-14T17:13:56-06:00"
+}

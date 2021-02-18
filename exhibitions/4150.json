@@ -1,0 +1,39 @@
+{
+    "id": 4150,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4150",
+    "title": "New Spanish Painting and Sculpture",
+    "is_featured": false,
+    "description": "This exhibit was originally organized by the Museum of Modern Art\u2019s department of circulating exhibitions. The exhibit came into fruition after MoMA presented New American Modern Art in the United States in Barcelona in 1955 and The New American Painting in Madrid in 1958, where they were able to study contemporary Spanish art. It was the first major survey of contemporary Spanish art in the United States. Many of the artists featured in the exhibition had already exhibited internationally, but were not yet familiar to an American audience. Among the painters included were Rafael Canogar, Modest Cuixart, Francisco Farreras, Luis Feito, Manolo Millares, Lucio Mu\u00f1oz, Oteiza (Jorge de Oteiza Embil),  Manuel Rivera, Antonio Saura, Antonio Su\u00e1rez, Antoni T\u00e1pies, Joan Josep Tharrats, and Manuel Viola. Among the sculptors included were Eduardo Chillida, Martin Chirino, and Pablo Serrano. New Spanish Painting and Sculpture was a major traveling exhibition that was circulated throughout several states over the course of a year and a half.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1961-07-28T00:00:00-05:00",
+    "aic_end_at": "1961-08-27T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "New Spanish Painting and Sculpture"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T11:13:46-05:00",
+    "last_updated": "2019-10-14T11:16:18-05:00",
+    "timestamp": "2021-01-14T17:14:14-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3022,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3022",
+    "title": "Paper Architecture: Visionary Structures on the Printed Page",
+    "is_featured": false,
+    "description": "Paper architecture explores the potential of the designed environment to transcend the limits of physical space and political times. Drawings, printed material, and collage serve as the physical expression of the most utopian, fantastic, or surreal thoughts of the architectural imagination in a way that may be impossible with the built form. This exhibition draws from the rich collections of the Ryerson & Burnham Libraries to explore significant moments in the history of the un-built form, from the eighteenth century through the twentieth century.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2011-01-18T00:00:00-06:00",
+    "aic_end_at": "2011-03-15T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paper Architecture: Visionary Structures on the Printed Page"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:19-06:00",
+    "timestamp": "2021-01-14T17:13:51-06:00"
+}

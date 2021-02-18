@@ -1,0 +1,41 @@
+{
+    "id": 6053,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6053",
+    "title": "Art of the Korean Potter",
+    "is_featured": false,
+    "description": "This was the first major showing of Korean ceramic art in Chicago. In the exhibit, the Chinese and Japanese influence on Korean art could be observed, but so could the distinctly Korean qualities like the lack of pretention and each work\u2019s value as a unique aesthetic whole. Work in this exhibit came from a wide array of private and public collections.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1968-10-05T00:00:00-05:00",
+    "aic_end_at": "1968-11-17T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "1ecab293-37f0-6983-5d7c-f91adfae4ed4",
+    "alt_image_ids": [],
+    "document_ids": [
+        "3cc15bf7-e81a-d301-270e-e0d4cfe2c497"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Art of the Korean Potter"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-11-18T10:24:20-06:00",
+    "last_updated": "2019-11-18T11:11:22-06:00",
+    "timestamp": "2021-01-14T17:14:49-06:00"
+}

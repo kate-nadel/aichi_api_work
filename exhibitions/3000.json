@@ -1,0 +1,39 @@
+{
+    "id": 3000,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3000",
+    "title": "A Picturesque Ideal: The Art of Landscape and Garden Design",
+    "is_featured": false,
+    "description": "This exhibition traces the art of landscape and garden design from the 17th century through the 20th century in Europe and the United States. From the fanciful and Baroque pleasure gardens of German architect Paul Decker (1677-1713) to the beautiful watercolor proposals of landscape designer Humphry Repton (1752-1818), this presentation highlights prominent architects, theorists, and landscape designers using illustrated treatises, manuals, plans, and other printed materials from the rich collection of the Ryerson and Burnham Libraries.\nBeginning with early formal European gardens, the meticulously detailed plans on display show the pools, fountains, ornamental buildings, and sculpted hedges in these gardens, along with symmetrical parterre sample patterns and designs. Also of note are the plates and plans of mazes and labyrinths from the 17th and 18th centuries and the plans of British architect Sir William Chambers (1723-1796) for the landscape at Kew Gardens. English landscape designer Humphry Repton\u2019s original illustrated proposals from the early 19th century are on display as well, with hinged overlays that open to reveal his vision for the landscape. Twentieth-century garden manuals from the United States show how elements of formal European gardens could be used as an inspiration for homeowners for modest gardens on a smaller scale.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2015-03-24T00:00:00-05:00",
+    "aic_end_at": "2015-05-18T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "A Picturesque Ideal: The Art of Landscape and Garden Design"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:00-06:00",
+    "timestamp": "2021-01-14T17:13:50-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 1723,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1723",
+    "title": "Christopher Williams: The Production Line of Happiness",
+    "is_featured": false,
+    "description": "With a career spanning 35 years, Christopher Williams (born 1956) now stands as one of the leading contemporary artists engaged in photography. Deeply invested in the techniques and history of photography, Williams is just as profoundly committed to contemporary art as a forum for intellectual inquiry and thoughtful opposition\u2014resisting, for example, a capitalist society in which photographs typically act as agents of consumer spectacle. Through exacting mimicry\u2014and stunningly beautiful images\u2014Williams\u2019s work has subtly questioned the conventions of photojournalism, picture archives, fashion, and commercial imaging. This exhibition\u2014a multipart installation conceived by the artist that spans three gallery spaces on three floors of the museum\u2014is Williams\u2019s first retrospective. It also marks a homecoming for the artist, who had his first-ever museum showing in 1982 at the Art Institute.\n\nThe survey begins with films from Williams\u2019s studies at the California Institute of the Arts, where he earned his MFA in 1981 and took classes with John Baldessari and Michael Asher. Alongside the films and SOURCE (1981), Williams\u2019s first mature work, is a classic early piece, Angola to Vietnam* (1989), shown in its 27-part entirety, as well as works of the 1990s, mainly from For Example: Die Welt ist sch\u00f6n (1993\u20132001), an eight-year project inspired in part by the 1920s photographs of Albert Renger-Patzsch. This part of the exhibition is presented in the photography galleries in the historic building, which the artist is transforming through interventions to the modular wall system.\n\nThe Modern Wing\u2019s Bucksbaum Gallery for Photography displays a single photograph, a key piece in which Williams first made clear his conception of photographs as a form of installation art, Bouquet for Bas Jan Ader and Christopher d\u2019Arcangelo (1991). Extensive selections from Williams\u2019s ongoing project, For Example: Dix-huit Le\u00e7ons sur la soci\u00e9t\u00e9 industrielle (begun in 2004), are presented in the architecture and design galleries on the second floor of the Modern Wing.\n\nUnited across all three levels of the museum by the artist\u2019s use of \u201csupergraphics\u201d\u2014lengthy text excerpts printed at enormous size on a boldly colored background\u2014The Production Line of Happiness offers 35 years of beautifully made, conceptually rich photography that mines the history of contemporary art and modern political opposition. After its debut at the Art Institute, the exhibition will travel to the Museum of Modern Art, New York, and the Whitechapel Gallery, London.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2014-01-22T00:00:00-06:00",
+    "aic_end_at": "2014-05-18T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Christopher Williams: The Production Line of Happiness"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:51-06:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

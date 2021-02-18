@@ -1,0 +1,52 @@
+{
+    "id": 684,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/684",
+    "title": "Graphic Thought Facility: Resourceful Design",
+    "is_featured": false,
+    "description": "Graphic Thought Facility (GTF) is the first exhibition at the Art Institute devoted solely to graphic design. Established in 1990, the studio led by Huw Morgan, Paul Neale, and Andy Stevens has emerged as one of the most progressive and creative design firms working in both two and three dimensions. The firm is well known in Britain for creating the brand identities of some of the bastions of British design, including Habitat, a furnishings and interior design retailer launched in 1964 by Terence Conran; the Design Museum in London; and Frieze, London\u2019s major annual contemporary art fair. Also active in book design, GTF designed monographs on the work of Ron Arad and Tord Boonjte as well as the exhibition catalogue for the 54th Carnegie International in 2003, all of which are presented in the exhibition.\n\nBoth comprehensive and innovative, GTF\u2019s design work cuts across commercial and cultural practices and high-tech and low-tech modes of production. Committed to the expressive power of images and typography, GTF is known for pushing the boundaries of materials and methods. Rejecting the slickly styled graphics that characterized much of British design in the 1990s, GTF instead favors a \u201cdo-it-yourself\u201d aesthetic. Whether designing exquisite publications, exhibitions, or brand identities, GTF encourages its viewers to take notice of the richness of our world.",
+    "short_description": "Graphic Thought Facility (GTF) is the first exhibition at the Art Institute devoted solely to graphic design. Established in 1990, the studio led by Huw Morgan, Paul Neale, and Andy Stevens has emerged as one of the most progressive and creative design firms working in both two and three dimensions.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/684/graphic-thought-facility-resourceful-design",
+    "image_url": "https://artic-web.imgix.net/02638410-c687-4512-84bf-6c201b34fe45/2008.432GraphisThoughtFacility.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C293%2C3000%2C1689",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2008-03-26T00:00:00-05:00",
+    "aic_end_at": "2008-08-17T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Design",
+    "gallery_id": 2147473418,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "37981f73-1c0c-fb09-3ea1-e28baae37ed2",
+    "alt_image_ids": [
+        "1fa94d77-5da7-f03d-c257-e870252ed2c2",
+        "eda6c575-a2c2-9f89-959b-269ffdecf45a",
+        "f8c3c430-2798-ffaa-fb62-842a9a92e756",
+        "b836ce98-97e2-2dd6-9dc5-b5cefc29169c",
+        "95d00df1-df34-923f-84ab-caead2ebd3fc",
+        "2a5b7b64-45db-9fd4-092d-4bcb225f415e",
+        "0a4aa953-b8ad-c461-90d1-fa73502f0af4",
+        "809602f7-f872-8923-439b-c7f9035f0572",
+        "e69b3c9c-1441-3d01-cc37-8e1a81304948",
+        "8fc223f1-e9bd-ad93-da6b-35c31514a799",
+        "46d563e3-b101-969e-720a-eed8513f7c00",
+        "4afba6f5-d66c-b35e-4c8d-bba3726d10df"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Graphic Thought Facility: Resourceful Design"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:20-06:00",
+    "timestamp": "2021-01-14T17:13:11-06:00"
+}

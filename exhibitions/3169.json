@@ -1,0 +1,41 @@
+{
+    "id": 3169,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3169",
+    "title": "Arms and Armor: Highlights of the Permanent Collection",
+    "is_featured": false,
+    "description": "After a three-year absence, highlights of the Art Institute\u2019s ever-popular collection of arms and armor are on special display. This installation of nearly 50 items includes full suits, half suits, pole arms, cannons, a shield with two swords, and, for the first time at the Art Institute, a knight on a fully arrayed horse\u2014something previously impossible due to the low ceilings in Gunsaulus Hall. In addition, the high ceilings in the new installation space allow for the inclusion of grand Renaissance and Baroque tapestries, along with several paintings and a piece of sculpture, objects that suggest the variety of settings\u2014military combat, tournaments, jousts, and parades\u2014in which arms and armor were originally viewed. Reflecting current scholarship in the field, this new installation explores the close relationship between arms and armor and contemporaneous art and fashion, illustrating the ways these objects emphasized the owner\u2019s social status.\nPlans are underway for a larger permanent installation of this vast collection that will allow for the inclusion of many more objects like those now on display, as well as firearms and edged weapons not currently on view. These future galleries will be part of a suite of rooms featuring the museum\u2019s significant holdings of medieval and Renaissance art, including ceramics, illuminated manuscripts, jewelry, metalwork, paintings, sculpture, stained glass, and textiles.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-11-27T00:00:00-06:00",
+    "aic_end_at": "2012-06-01T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": 2147480055,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [
+        36
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Arms and Armor: Highlights of the Permanent Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:21-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

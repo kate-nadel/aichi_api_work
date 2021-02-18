@@ -1,0 +1,39 @@
+{
+    "id": 3072,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3072",
+    "title": "Chagall Homecoming",
+    "is_featured": false,
+    "description": "After a historic meeting in Florence last fall with His Holiness Pope Francis at the iconic Baptistery of Saint John, Marc Chagall\u2019s White Crucifixion returns home to the Art Institute galleries this spring. One of the museum\u2019s most significant works of modern art\u2014and the Pope\u2019s favorite painting\u2014White Crucifixion has become a universally potent symbol of sacrifice and persecution with its blending of Christian and Jewish themes. We welcome the masterpiece back to the galleries with a special presentation celebrating its art historical significance and its continued ability to inspire Chicagoans and people around the world.\n\nWhite Crucifixion marked a critical turning point for Chagall: it was the first and largest in an important series of his compositions to feature an image of the Crucifixion. While Chagall included many recognizable elements of the traditional Christian iconography on the canvas, he combined them with markers of Jesus\u2019s Jewish identity. His loincloth is made from a ritual Jewish prayer shawl, or tallit. The mourning angels that are typically seen in Crucifixion images here become three biblical patriarchs and a matriarch, all dressed in traditional Jewish garments. Christ\u2019s dual identity is further extended by the inscription above his head\u2014\u201cINRI\u201d (Jesus of Nazareth, King of Jews), paired with the Aramaic translation written in Hebrew characters. At his feet stands a lit menorah.\n\nChagall placed the crucified Jesus amid scenes of contemporary persecution in Nazi Germany. From the pillaged village and fleeing villagers on the left side of the canvas to the synagogue and its Torah ark going up in flames on the right, the violent images Chagall depicted came from actual events in the years leading up to the painting, events that culminated in Kristallnacht (\u201cThe Night of Broken Glass\u201d), a systematic attack by the Nazis on Jews within the German Reich in 1937. After the first exhibition of the painting, however, Chagall painted over specific Nazi symbols in the work, making a more universal image of persecution and suffering.\n\nThe broad message of White Crucifixion has found meaning to many people over the years, including Pope Francis, who has often mentioned the importance of the painting in interviews. On November 10, 2015, he was able to see this special painting in person. The work, which had been on loan to the Palazzo Strozzi in Florence for their exhibition Divine Beauty from Van Gogh to Chagall and Fontana, was moved to the Baptistery of Saint John across from the Duomo for His Holiness\u2019s inaugural visit to Florence. Douglas Druick, President and Eloise W. Martin Director, joined by Arturo Galansino, director general of the Palazzo Strozzi Foundation, greeted the pope as he arrived at the baptistery and took in Chagall\u2019s masterpiece for several minutes, while 50,000 cheering people lined the streets outside.\n\nIn 2006, Pope Francis said, \u201cGreat artists know how to present the tragic and painful realities of life with beauty.\u201d By that standard alone, White Crucifixion is a masterwork. As it returns from its remarkable visit and takes its place in the Modern Wing, its divine beauty and emotional power resonate more clearly than ever.",
+    "short_description": "After two transatlantic journeys and a historic meeting in Florence last fall with His Holiness Pope Francis, Marc Chagall\u2019s masterwork returns with a special presentation.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3072/chagall-homecoming",
+    "image_url": "https://artic-web.imgix.net/8ad3ad94-86bc-47d7-9692-576b3f861209/exh_chagall_main_480_0.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-03-10T00:00:00-06:00",
+    "aic_end_at": "2016-05-08T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25476,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chagall Homecoming"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:39-06:00",
+    "timestamp": "2021-01-14T17:13:52-06:00"
+}

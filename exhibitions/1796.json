@@ -1,0 +1,39 @@
+{
+    "id": 1796,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1796",
+    "title": "Ugo Rondinone: we run through a desert on burning feet, all of us are glowing our faces look twisted.",
+    "is_featured": false,
+    "description": "The Art Institute of Chicago presents a selection of five towering sculptures by Swiss-born, New York\u2013based artist Ugo Rondinone. These works, completed in 2013, are part of a series that the artist began in 2007 known as Scholar Rocks, a reference to stones found in China\u2019s Tai Lake region that were traditionally collected by scholars and used as ornaments for reflection. The stones, most standing at less than a foot in height and riddled with holes from natural erosion, have long been admired for their shapes and were evaluated on the aesthetic bases of form, texture, and the ways in which they were molded by nature. Those that suggested representations of figures or landscapes were highly valued; the most asymmetrical and unusual pieces were especially prized.\n\nThe installation at the Art Institute situates Rondinone\u2019s oversized rocks in an imagined Chinese landscape. The Chicago skyline, normally visible through the glass parapet surrounding the terrace, is partially obscured by a brushy whitewash application, an allusion to the fog-laden skies often found in Chinese landscape painting. The installation space is thus transformed to one that encourages a more isolated contemplation of the works, in keeping with the original meditative function of scholars' rocks\u2014but now at a monumental scale.\n\nThe works on view are part of a larger series of 17 scholars' rocks that, like many other works in the artist\u2019s oeuvre, are poetically titled. Each work in this series shares the same 17-word title\u2014we run through a desert on burning feet, all of us are glowing our faces look twisted.\u2014a haiku of now-anonymous origins, but to mark each individual sculpture, a different word in the poem is capitalized.",
+    "short_description": "The Bluhm Family Terrace is transformed into an imagined Chinese landscape with the installation of five of Ugo Rondinone's towering interpretations of scholars' rocks.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1796/ugo-rondinone-we-run-through-a-desert-on-burning-feet-all-of-us-are-glowing-our-faces-look-twisted",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-10-31T00:00:00-05:00",
+    "aic_end_at": "2014-04-20T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25238,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ugo Rondinone: we run through a desert on burning feet, all of us are glowing our faces look twisted."
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:58-06:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

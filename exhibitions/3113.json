@@ -1,0 +1,39 @@
+{
+    "id": 3113,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3113",
+    "title": "Modern Japanese Prints from Oliver Statler",
+    "is_featured": false,
+    "description": "Collector and scholar of Japanese art Oliver H. Statler was devoted to the advancement of modern Japanese prints at a time when the movement had few advocates, even in Japan. His interest in these works began when he was an army employee stationed in Tokyo during the Japanese occupation after World War II. A large number of the prints featured in this exhibition were published in Statler\u2019s 1956 landmark book Modern Japanese Prints: An Art Reborn, which charted the still-developing sosaku hanga, or creative print, movement. The book records Statler\u2019s conversations with many of the artists, which often took place in their homes. Through his personal association with the artists, Statler accumulated the most comprehensive collection of modern Japanese prints in the world.\n\nStatler was especially fond of Onchi Koshiro, whose works dominate this exhibition. Onchi was the first Japanese print artist Statler encountered and was largely responsible for piquing Statler\u2019s deep interest in the movement. Statler\u2019s book was dedicated to the memory of Onchi, the man who influenced many of the other artists whose works are on view in this exhibition, including Yoshida Masaji, Yamaguchi Gen, and Sekino Jun\u2019ichiro.\n\nStatler\u2019s relationship with the Art Institute dates back to the 1950s, when he facilitated the museum\u2019s acquisition of several modern prints. In the following years, Statler also donated a number of prints to the museum. His personal collection was displayed at the Art Institute in 1960, one of the first major exhibitions of sosaku hanga in America. Through his efforts, Statler was responsible for educating his fellow Americans about the Japanese artists that he so admired.",
+    "short_description": "Collector and scholar of Japanese art Oliver H. Statler was devoted to the advancement of modern Japanese prints at a time when the movement had few advocates, even in Japan. His interest in these works began when he was an army employee stationed in Tokyo during the Japanese occupation after World War II. A large number of the prints featured in this exhibition were published in Statler\u2019s 1956 landmark book Modern Japanese Prints: An Art Reborn, which charted the still-developing sosaku hanga, or creative print, movement.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3113/modern-japanese-prints-from-oliver-statler",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2008-11-01T00:00:00-05:00",
+    "aic_end_at": "2009-01-18T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Modern Japanese Prints from Oliver Statler"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:20-06:00",
+    "timestamp": "2021-01-14T17:13:53-06:00"
+}

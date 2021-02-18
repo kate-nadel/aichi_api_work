@@ -1,0 +1,39 @@
+{
+    "id": 9225,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9225",
+    "title": "DEAD TIME",
+    "is_featured": false,
+    "description": "At the center of Cally Spooner\u2019s DEAD TIME is a 63-page score of the same title, which consists of drawings, photos, captions of her recent work, and fan mail, both borrowed and self-authored. The score is hosted on the front of a 49-foot-long wall, whose smooth surface is typical of a contemporary art gallery. Yet the rear of the wall is raw and unfinished, like a vacant backstage.\n \nEach day this wall becomes the scenography for a live performance of the score, enacted by living, prerecorded, and inanimate elements. These include a dancer who attempts to repair her body and prolong time; an actor who strives for anatomical perfection only to stagnate; and a narrator who ruminates on failing nervous systems, financial centers, and a celebrity under attack because of #MeToo shame. Disembodied voices call out \u201cMother\u201d repeatedly, while Ivanka Trump narrates her capacity to \u201carchitect\u201d her life, work, and children. Alongside, there is the sound of the dancer, sniffling and gasping, as she\u2019s suffering from a head cold. A cellist plays to the tune of shame, repeating a Netflix theme song, and a stainless-steel drinking fountain runs perpetually. Disconnected from a public water line and recirculating its own supply of overly chlorinated, poisonous water, the fountain is cleaning itself to death. Each of these elements, drawn out from the score, occurs in the gallery according to its own duration, repertoire, and speed. Once a day, for an hour, all the elements collide.\n \nAt once an installation, an instruction, and a live performance, DEAD TIME takes its name from the cinematic technique temps morts (lit. \u201cdead time\u201d), in which the camera is left running to film unplanned and unscripted occurrences. These seemingly \u201cdead\u201d moments may, in fact, be brimming with life. Living and nonliving elements overlap, dancers collapse into inertia, repetitive and monotonous sounds penetrate the space, overlooked details become legible, scenes are inactive and empty, yet captivating. Here, hidden and disavowed temporalities arrive, providing an alternative to how neoliberalism and corporate capitalism aim to manage, monetize, and control all life, which DEAD TIME as a whole reflects on, stages, and resists.",
+    "short_description": "<p>Unfolding over seven days, this performance asks the age-old question: whodunit?</p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9225/dead-time-a-crime-novel",
+    "image_url": "https://artic-web.imgix.net/bf432254-0c9c-449c-a6be-921eb04cefcb/IM041144_012-int.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C188%2C3000%2C1688",
+    "type": "AIC & Other Venues",
+    "status": "Confirmed",
+    "aic_start_at": "2019-04-22T00:00:00-05:00",
+    "aic_end_at": "2019-04-28T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25210,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "DEAD TIME"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-06-12T12:52:40-05:00",
+    "last_updated": "2021-01-13T23:23:53-06:00",
+    "timestamp": "2021-01-14T17:16:08-06:00"
+}

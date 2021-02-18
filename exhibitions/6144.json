@@ -1,0 +1,43 @@
+{
+    "id": 6144,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6144",
+    "title": "Parris Island: Photographs by William Mares",
+    "is_featured": false,
+    "description": "This exhibition contained more than 50 photographs from a 10-week Marines boot camp training in Parris Island in 1968. After training there himself in 1962, Mares received permission to return and document a 75-man recruit platoon. This was his first\nexhibition. It occurred while he was working as a photographer for the Chicago Sun Times. Then Curator of Photography, Hugh Edwards noted that this exhibition was \u201c. . . a lively, unique ensemble, free of present day propaganda of one side or another.\u201d",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1970-01-31T00:00:00-06:00",
+    "aic_end_at": "1970-03-08T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "5bf1ce50-a83d-209a-c3fe-d086aea0921f",
+        "83af343a-5efa-5bef-02a5-b5d40d6e69b9",
+        "630605bf-e7fb-c9d1-4508-bbcbf836ea29"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Parris Island: Photographs by William Mares"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T09:18:21-05:00",
+    "last_updated": "2019-10-15T09:21:33-05:00",
+    "timestamp": "2021-01-14T17:14:52-06:00"
+}

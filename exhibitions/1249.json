@@ -1,0 +1,39 @@
+{
+    "id": 1249,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1249",
+    "title": "Rebecca Warren",
+    "is_featured": false,
+    "description": "Rebecca Warren\u2019s bronze sculptures are created in raw clay, cast, and hand-painted. She knowingly references the work of canonical male artists such as Auguste Rodin, Edgar Degas, and Willem de Kooning, as well as the cartoonist Robert Crumb. Deeply informed by the history of sculpture\u2014from mystical prehistoric sources up to the present moment\u2014her ambiguous, figurative forms disrupt entrenched notions of the classical ideal. Totemlike and \u201cawkward,\u201d as the artist described them, the sculptures in their clay state are manipulated by hand, twisted, and built up, the wet, malleable material \u201cfixed\u201d in bronze and paint, defying the pull of gravity. The plinths on which these works rest are fully integrated into this sculptural ethos. Cast in bronze from a full-scale fiberboard construction and painted, they are intrinsically equivalent to the figures themselves. The emphatically vertical sculptures on the Bluhm Family Terrace are, in fact, forceful counterpoints to Chicago\u2019s renowned modernist skyline\u2014itself dominated by works of the city\u2019s greatest, mostly male architectural masters.\n\nThis exhibition, a collaboration with The Renaissance Society at the University of Chicago, is the British artist\u2019s first solo presentation in an American museum. The Art Institute\u2019s component will comprise three monumental bronze sculptures created specifically for the Bluhm Family Terrace.\n\nRebecca Warren was born in London in 1965 and received degrees from Goldsmith\u2019s College at the University of London and the Chelsea College of Art, London. Warren was nominated for the Turner Prize in 2006 and the Vincent Award in 2008. The Kunsthalle Z\u00fcrich mounted a one-person exhibition in 2004, her work was included in the 2006 Tate Triennial, and the Serpentine Gallery, London, presented a survey of her work in 2009. Warren lives and works in London.",
+    "short_description": "Rebecca Warren\u2019s bronze sculptures are created in raw clay, cast, and hand-painted. She knowingly references the work of canonical male artists such as Auguste Rodin, Edgar Degas, and Willem de Kooning, as well as the cartoonist Robert Crumb. Deeply informed by the history of sculpture\u2014from mystical prehistoric sources up to the present moment\u2014her ambiguous, figurative forms disrupt entrenched notions of the classical ideal.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1249/rebecca-warren",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-10-02T00:00:00-05:00",
+    "aic_end_at": "2011-04-03T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25238,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rebecca Warren"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:16-06:00",
+    "timestamp": "2021-01-14T17:13:21-06:00"
+}

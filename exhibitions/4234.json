@@ -1,0 +1,47 @@
+{
+    "id": 4234,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4234",
+    "title": "Senufo Sculpture from West Africa, organized by the Museum of Primitive Art",
+    "is_featured": false,
+    "description": "This exhibit included primitive face masks, headdresses, ancestor figures, and art objects rendered by the Senufo Tribes of Africa. The Senufo tribes are located along the Ivory Coast. The exhibit had pieces dating back as early as the eighteenth century, and focused on the use and ritual purposes of various pieces in the exhibition. Majority of the pieces included were used in tribal ceremonies. This was the first exhibit held by the Art Institute which focused on a single tribe in Africa.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1963-07-12T00:00:00-05:00",
+    "aic_end_at": "1963-08-11T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Arts of Africa and the Americas",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "987252ec-05ca-2c71-99e8-d005888b315a",
+    "alt_image_ids": [
+        "9f763684-ed32-2bfb-24d2-9b56ec8a87bd",
+        "5992eb68-b037-404e-79d4-d708543f0f6b",
+        "d0b33e42-e522-37ce-c25f-1725a70b67b4",
+        "d9c76f4f-3f17-b428-be4e-34a9930695e2",
+        "1ade76fe-6c85-fca0-5790-78f23f7c51f0",
+        "3015c299-3ffb-1640-c6b7-03c2bace530b",
+        "293c0c43-c8ab-1a6a-7d74-384585821074"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Senufo Sculpture from West Africa, organized by the Museum of Primitive Art"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T14:23:52-05:00",
+    "last_updated": "2019-10-14T14:26:20-05:00",
+    "timestamp": "2021-01-14T17:14:16-06:00"
+}

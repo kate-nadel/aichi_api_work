@@ -1,0 +1,41 @@
+{
+    "id": 4761,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4761",
+    "title": "Marie Cosindas: Polaroid Color Photographs",
+    "is_featured": false,
+    "description": "This unique show was a solo exhibition of Marie Cosindas\u2019s polaroid photographs. According to the museum\u2019s curator of photography, Cosindas approached photography in a strikingly unusual way, with colored pictures ranging from poetic fantasies of small objects to large scale portraits of landscapes. Over eighty polaroid color photographs by Cosindas were shown in the exhibit, and her subject matter ranged from young doe-eyed children, to elegant young women, to larger-than-life photos of tiny objects, to motorcyclists. Her combination of low light and dark colors created a mystical exhibit that was often described as \u201cother worldly\u201d by those who saw this show.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1967-01-21T00:00:00-06:00",
+    "aic_end_at": "1967-03-15T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "c953a8e6-3a87-a097-be2e-0827d9afd058"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Marie Cosindas: Polaroid Color Photographs"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-31T15:20:40-05:00",
+    "last_updated": "2019-10-31T15:25:41-05:00",
+    "timestamp": "2021-01-14T17:14:25-06:00"
+}

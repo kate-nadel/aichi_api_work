@@ -1,0 +1,41 @@
+{
+    "id": 1556,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1556",
+    "title": "Rethinking Typologies: Architecture and Design from the Permanent Collection",
+    "is_featured": false,
+    "description": "From the development of the modern house to the emergence of information design, each era faces the challenge of adapting conventional ideas to new technology, social needs, and cultural ideals. This exhibition takes a broad historical view of the innovations that have shaped contemporary life and the built environment through suites of work devoted to historical and emerging typologies in architecture and design. Spanning the 20th and 21st centuries, these thematic suites highlight important recent acquisitions and areas of strength in the permanent collection of the Department of Architecture and Design at the Art Institute of Chicago.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-03-03T00:00:00-06:00",
+    "aic_end_at": "2012-07-29T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [
+        67
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rethinking Typologies: Architecture and Design from the Permanent Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:32-06:00",
+    "timestamp": "2021-01-14T17:13:24-06:00"
+}

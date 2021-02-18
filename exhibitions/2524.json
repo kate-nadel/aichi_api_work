@@ -1,0 +1,39 @@
+{
+    "id": 2524,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2524",
+    "title": "Jacques-Louis David's \u201cNapoleon\u201d",
+    "is_featured": false,
+    "description": "The dominant French painter of the late 18th and early 19th century, Jacques-Louis David responded with brilliant artistry to the extraordinary events unfolding during the French Revolution and its aftermath. With his painting The Emperor Napoleon in His Study at the Tuileries, David created the quintessential image of the legendary leader as a figure of deliberation and action. At the time, Napoleon\u2019s empire was at its height\u2014he had not yet led his army on the disastrous invasion of Russia\u2014and David himself had referred to Napoleon as \u201cthe man of the century.\u201d For his painting of this exalted figure, David drew on the tradition of the state portrait, a full-length standing representation that had served as the public image of a ruler since the Renaissance, but he brought new life to the conventional type by placing Napoleon in the foreground and framing him with details that tell a story. David described that story in this way: \u201cHaving passed the night composing his Napoleonic code, [the emperor] only realizes that it is dawn from the guttering candles that are about to go out. The clock has just struck four in the morning. With that, he rises from his desk to strap on his sword and review his troops.\u201d\n\nThe loan of this great painting from the National Gallery of Art, Washington, D.C., provides occasion to highlight related paintings, works on paper, and sculpture in the Art Institute\u2019s own collection. Featured objects include a rarely exhibited sketchbook of studies for another renowned Napoleonic painting by David, The Distribution of the Eagle Standards, which records the ceremonial oath-taking of the generals and officers of the imperial army following Napoleon\u2019s coronation in 1804. This original sketchbook is displayed near an interactive digital reconstruction that allows visitors to turn the book\u2019s pages.",
+    "short_description": "The loan of David\u2019s painting \"The Emperor Napoleon in His Study at the Tuileries\" is displayed alongside related works on paper, paintings, and sculpture from the Art Institute\u2019s collection.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2524/jacques-louis-davids-napoleon",
+    "image_url": "https://artic-web.imgix.net/57245546-c15a-4235-b20b-0b745e8dea7e/IM014543_press_0.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=4%2C49%2C346%2C194",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-05-28T00:00:00-05:00",
+    "aic_end_at": "2016-10-10T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": 2147483616,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jacques-Louis David's \u201cNapoleon\u201d"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:34-06:00",
+    "timestamp": "2021-01-14T17:13:41-06:00"
+}

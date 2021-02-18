@@ -1,0 +1,41 @@
+{
+    "id": 1844,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1844",
+    "title": "The City Lost and Found: Capturing New York, Chicago, and Los Angeles, 1960-1980",
+    "is_featured": false,
+    "description": "The American city of the 1960s and 1970s experienced seismic physical changes and social transformations, from urban decay and political protests to massive highways that threatened vibrant neighborhoods. Nowhere was this sense of crisis more evident than in the country\u2019s three largest cities: New York, Chicago, and Los Angeles. Yet in this climate of uncertainty and upheaval, the streets and neighborhoods of these cities offered places where a host of different actors\u2014photographers, artists, filmmakers, planners, and activists\u2014could transform these conditions of crisis into opportunities for civic discourse and creative expression.\n\nThe City Lost and Found is the first exhibition to explore this seminal period through the emergence of new photographic and cinematic practices that reached from the art world to the pages of Life magazine. Instead of aerial views and sweeping panoramas, photographers and filmmakers turned to in-depth studies of streets, pedestrian life, neighborhoods, and seminal urban events, like Bruce Davidson\u2019s two-year study of a single block in Harlem, East 100th Street (1966\u201368). These new forms of photography offered the public a complex image of urban life and experience while also allowing architects, planners, and journalists to imagine and propose new futures for American cities.\n\nDrawn from the Art Institute\u2019s holdings, as well as from more than 30 collections across the United States, this exhibition brings together a large range of media, from slideshows and planning documents to photo collage and artist books. The City Lost and Found showcases important bodies of work by renowned photographers and photojournalists such as Thomas Struth, Martha Rosler, and Barton Silverman, along with artists known for their profound connections to place, such as Romare Bearden in New York and ASCO in Los Angeles. In addition, projects like artist Allan Kaprow\u2019s Chicago happening, Moving, and architect Shadrach Wood\u2019s hybrid plan for SoHo demonstrate how photography and film were used in unconventional ways to make critical statements about the stakes of urban change. Blurring traditional boundaries between artists, activists, planners, and journalists, The City Lost and Found offers an unprecedented opportunity to experience the deep interconnections between art practices and the political, social, and geographic realities of American cities in the 1960s and 1970s.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2014-10-25T00:00:00-05:00",
+    "aic_end_at": "2015-01-11T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [
+        86
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The City Lost and Found: Capturing New York, Chicago, and Los Angeles, 1960-1980"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:56-06:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

@@ -1,0 +1,52 @@
+{
+    "id": 2595,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2595",
+    "title": "Zhang Peili: Record. Repeat.",
+    "is_featured": false,
+    "description": "Considered the first Chinese artist to work in video, Zhang Peili (born 1957) is a pioneering figure in the history of contemporary art. Zhang's distinctive videos focus on the repetition of actions\u2014breaking a mirror, reading, washing, looking out the window, and dancing\u2014that are familiar yet rendered disorienting through Zhang's use of perspective, close-ups, and framing. Although the cumulative meaning of these routine actions seems elusive at first, his works often raise questions of power and subversion. Emerging from his critique of systems of representation and art making in his early paintings and conceptual artworks, his videos upset our understanding of the roles of art and entertainment in contemporary life. Writing in 1989, on the cusp of his transition to working exclusively in video, Zhang observed, \"People never ask what in this world is not subject to constraints in some way (no one doubts the legitimacy of such constraints). Why is art an exception? Is art doomed to provide only entertainment?\"\n\nThis exhibition, the first major survey of his work in an American museum, traces the development of his practice from his earliest experiments with video in the late 1980s to new digital formats in the 2000s. His first video, 30x30 (1988), records Zhang repeatedly breaking and mending a mirror, confronting the viewer with a mundane yet nonsensical activity not regularly seen on television. Document on Hygiene No. 3 (1991), a new acquisition, anchors the exhibition. For the first time since 1991, this video of Zhang's prolonged washing of a chicken is displayed according to its original, spatial installation. A Scene in Black and White Unfolded Four Times (2007), a video installation that is responsive to the viewer, explores the juxtaposition of images and their relationship to the space occupied by the viewer. The exhibition continues in the Donna and Howard Stone Gallery for Film, Video, and New Media, where Zhang's remixed versions of Mao-era heroic film dramas are screened.\n\nAccompanying the exhibition is a bilingual catalogue, the museum's first produced in English and Mandarin.",
+    "short_description": "This major survey of the work of Chinese artist Zhang Peili traces his practice from his earliest experiments with video in the late 1980s to new digital formats in the 2000s.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2595/zhang-peili-record-repeat",
+    "image_url": "https://artic-web.imgix.net/2f380962-2056-47e8-a709-10aadbba12d8/Peili30x30.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C188%2C2933%2C1653",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2017-03-30T00:00:00-05:00",
+    "aic_end_at": "2017-07-09T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25467,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "94c0252b-aa9a-aa1e-bf9d-5a66f794b749",
+    "alt_image_ids": [
+        "64ff34e4-b8c4-fc83-b430-cc8451eae11f",
+        "11fbf33e-0ff9-3152-24ab-335e442f9205",
+        "cd212a61-c2ab-e6be-567e-3fea8f8fabef",
+        "b3095157-5d76-bebe-c9fb-438af7010084",
+        "9657b2d6-80bd-09ab-eaa3-9b1d022643c5",
+        "4ae47a9a-bafa-7c38-5e49-bed3a214a173",
+        "62bb02f4-e845-11aa-d7ea-7d121dfc1b92",
+        "bce84127-047c-590f-2032-a6bea11cf356",
+        "b27830d5-2df7-176f-31b7-3b3fad37ff23",
+        "1a0a7151-d8d6-3963-f8d6-5bc461e797d9",
+        "4b3161d4-2626-d9d2-b011-95932074be9c",
+        "4f817251-a43b-8a1d-6a09-65de1bfd8444"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Zhang Peili: Record. Repeat."
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:15-06:00",
+    "timestamp": "2021-01-14T17:13:41-06:00"
+}

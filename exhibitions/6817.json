@@ -1,0 +1,39 @@
+{
+    "id": 6817,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6817",
+    "title": "One of a Kind: Recent Polaroid Color Photography",
+    "is_featured": false,
+    "description": "This exhibition featured 72 color photographs made with Polaroid products, such as SX-70 film, 4 x 5 Polacolor, 8 x 10 Polacolor, and 20 x 24 Polacolor. \nThe contributing artists in this exhibition included: Ansel Adams, Michael Bishop, Jack Caspary, Linda Connor, Marie Cosindas, Frank DiPerna, William Eggleston, Benno Friedman, John Gintoff, Jan Groover, Brian Hagiwara, David Haxton, David Hockney, Les Krims, William Larson, Kenneth McGowan, Roger Mertin, Arnold Newman, Kenda North, Starr Ockenga, Olivia Parker, Bruce Patterson, Rosamond Wolff Purcell, John Reuter, Don Rodan, Lucas Samaras, Victor Schrager, Sharon Smith, Eve Sonneman, Joel Sternfeld, Willard Van Dyke, Peter Von\nZur Muehlen. As the exhibition curator, Belinda Rathbone, noted \u201cThe selection of artists in this exhibition deliberately reflect[ed] a broad spectrum of aesthetic concerns.\u201d",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1980-04-19T00:00:00-06:00",
+    "aic_end_at": "1980-06-15T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "One of a Kind: Recent Polaroid Color Photography"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T10:08:26-05:00",
+    "last_updated": "2019-10-15T10:11:30-05:00",
+    "timestamp": "2021-01-14T17:15:07-06:00"
+}

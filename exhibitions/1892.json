@@ -1,0 +1,39 @@
+{
+    "id": 1892,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1892",
+    "title": "Sharp, Clear Pictures: Edward Steichen's World War I and Cond\u00e9 Nast Years",
+    "is_featured": false,
+    "description": "At the start of World War I in 1914, Edward Steichen was a pioneering champion of art photography\u2014catapulting to fame as a leading member of the Photo Secessionists and as cofounder of the trailblazing magazine Camera Work. Yet by the early 1920s, Steichen had rejected the soft focus, dreamy landscapes and portraits of his early years in favor of realist photographs made for informational purposes or popular consumption. This turning point was first marked by his role in World War I as chief of the Photographic Section of the American Expeditionary Forces from 1917 to 1919; it was fully realized in his subsequent work as lead photographer at Cond\u00e9 Nast publications from 1923 to 1937. \n\nWhile on military duty, Steichen helped adapt aerial photography for intelligence purposes, implementing surveillance programs that had a lasting impact on modern warfare. He later reflected: \u201cThe wartime problem of making sharp, clear pictures from a vibrating, speeding airplane ten to twenty thousand feet in the air had brought me a new kind of technical interest in photography. . . . Now I wanted to know all that could be expected from photography.\u201d Steichen began to value photography\u2019s capacity to transmit and encode information, and he soon proved his savvy as a collaborator and producer rather than a solitary auteur\u2014new skills that enabled his subsequent groundbreaking career in magazines. Upon his return to New York in 1923, Steichen joined Cond\u00e9 Nast publications, creating iconic fashion photographs and celebrity portraits for Vogue and Vanity Fair. Over a period of nearly 15 years he created images that redefined the field through their clever use of modernist aesthetics and advertising tactics, becoming an influential impresario who promoted photography as a mass-media tool.\n\nFocusing on rarely seen Steichen photographs drawn from the Art Institute\u2019s collection, this exhibition includes a unique album of over 80 World War I aerial photographs assembled and annotated by Steichen himself as well as a group of iconic glamour portraits and fashion photographs done for Cond\u00e9 Nast, featuring notable figures such as Greta Garbo, Fred Astaire, and Gloria Swanson.",
+    "short_description": "Focusing on Steichen\u2019s straightforward, information-based approach to photography, this exhibition includes an album of over 80 World War I aerial photographs as well as iconic celebrity portraits.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1892/sharp-clear-pictures-edward-steichens-world-war-i-and-conde-nast-years",
+    "image_url": "https://artic-web.imgix.net/0d3e9d3e-28de-4866-84e1-4772a30323f6/default.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=68%2C225%2C2665%2C1502",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-06-28T00:00:00-05:00",
+    "aic_end_at": "2014-09-28T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sharp, Clear Pictures: Edward Steichen's World War I and Cond\u00e9 Nast Years"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:38-06:00",
+    "timestamp": "2021-01-14T17:13:31-06:00"
+}

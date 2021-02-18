@@ -1,0 +1,39 @@
+{
+    "id": 3058,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3058",
+    "title": "Mariko Mori: Miko No Inori",
+    "is_featured": false,
+    "description": "Mariko Mori creates multimedia work that conceives of art, technology, and Buddhist spirituality as interconnected, unifying forces. In the 1990s she turned to fashion and science fiction as pop-cultural models to produce unsettling, high-gloss dreamscapes. \n\nStaged in Osaka\u2019s Kansai International Airport, the video Miko No Inori (The Shaman-Girl\u2019s Prayer) presents a calming but otherworldly vision. Mori stars as an extraterrestrial character: outfitted in a white, iridescent costume and wearing reflective, icy-blue contact lenses, she turns a crystal ball as if conjuring the future or caressing the object of her affection. A recording of the artist singing a haunting Japanese song (\u201cThe word is melting; the word is melting, becoming one\u201d) plays in the background. \n\nIn this work, Mori is not only an extraterrestrial, but also a shaman\u2014a person who acts as an intermediary between the earthly and spiritual realms.",
+    "short_description": "In Mori's 1996 video, an unsettling, high-gloss dreamscape, the artist stars as both an extraterrestrial character and a shaman, acting as intermediary between the earthly and spiritual realms.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3058/mariko-mori-miko-no-inori",
+    "image_url": "https://artic-web.imgix.net/38758dba-8f9e-42b8-8816-5b27ada17ed9/MikoNoInoriMarikoMori2007.37.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C144%2C3000%2C1684",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-10-23T00:00:00-05:00",
+    "aic_end_at": "2016-02-07T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25208,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Mariko Mori: Miko No Inori"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:12-06:00",
+    "timestamp": "2021-01-14T17:13:52-06:00"
+}

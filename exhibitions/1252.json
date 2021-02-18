@@ -1,0 +1,39 @@
+{
+    "id": 1252,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1252",
+    "title": "Real and Imaginary: Three Latin American Artists",
+    "is_featured": false,
+    "description": "Three Latin American artists share the beauty and richness of their cultural heritage in this exhibition of art from picture books. In a book of Latin American folktales, Ra\u00fal Col\u00f3n layers washes of paint and etched lines, finishing with colored pencils. David Diaz\u2019s brightly colored illustrations portray true stories of Mexican heroes and artists. And with a flair for humor, Yuyi Morales paints hauntingly beautiful, mystical pictures that resonate with the importance of family.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2009-12-11T00:00:00-06:00",
+    "aic_end_at": "2012-05-29T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Learning & Public Engagement",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Real and Imaginary: Three Latin American Artists"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:20-06:00",
+    "timestamp": "2021-01-14T17:13:21-06:00"
+}

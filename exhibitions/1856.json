@@ -1,0 +1,39 @@
+{
+    "id": 1856,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1856",
+    "title": "Magritte: The Mystery of the Ordinary 1926\u20131938",
+    "is_featured": false,
+    "description": "Seeking to make \u201ceveryday objects shriek aloud,\u201d or make the familiar unfamiliar, Belgian artist Ren\u00e9 Magritte created some of the 20th century\u2019s most extraordinary\u2014and indelible\u2014images. This exhibition, the first major museum show to focus on the artist\u2019s most profoundly inventive and experimental years, features over 100 paintings, collages, drawings, and objects, along with a selection of photographs, periodicals, and early commercial work, that trace the birth of the themes and strategies Magritte would go on to use throughout his long, productive career\u2014and which make his paintings so unforgettable today.\n\nThe exhibition begins in 1926 in Brussels, where Magritte created paintings and works on paper that first gained him recognition as a Surrealist and that aimed, in his words, to \u201cchallenge the real world.\u201d It follows the artist to Paris in 1927, where he met Surrealists like Andr\u00e9 Breton, Salvador Dal\u00ed, and Joan Mir\u00f3, and created his first breakthrough word-image paintings such as his legendary The Treachery of Images, perhaps better known by its playfully perplexing message, \u201cCeci n\u2019est pas une pipe.\u201d Returning to Brussels in 1930, Magritte continued his search for new forms of image making and in 1933 began a series of paintings that provoked disturbing and unexpected associations between things that make the ordinary and daily life strange.\n\nThe exhibition concludes with a remarkable group of works Magritte made in London and in Brussels between 1937 and 1938, with a particular emphasis on the commissions he completed for the eccentric British collector Edward James, including the Art Institute\u2019s own Time Transfixed. The show\u2019s chronological endpoint, 1938, marks both a historically and biographically significant moment: it was just before the outbreak of World War II and the year Magritte delivered an important retrospective account of what had made him a Surrealist painter.\n\nThroughout these seminal years, Magritte used displacement, transformation, metamorphosis, and the \u201cmisnaming\u201d of objects as well as the representation of visions seen in half-waking states, consistently unsettling the balance between nature and artifice, truth and fiction, reality and surreality. His images, then and still today, force us to question the nature of appearances\u2014both in the paintings and in reality itself.",
+    "short_description": "This is the first major museum exhibition to focus exclusively on the breakthrough years of Ren\u00e9 Magritte, creator of some of the 20th century\u2019s most extraordinary images.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1856/magritte-the-mystery-of-the-ordinary-19261938",
+    "image_url": "https://artic-web.imgix.net/fa29fb9e-2097-489e-83ff-da3a3ce3193b/Magritte-Time-Transfixed_360.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C128%2C234%2C131",
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2014-06-24T00:00:00-05:00",
+    "aic_end_at": "2014-10-13T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": 2147475902,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Magritte: The Mystery of the Ordinary 1926\u20131938"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:06-06:00",
+    "timestamp": "2021-01-14T17:13:30-06:00"
+}

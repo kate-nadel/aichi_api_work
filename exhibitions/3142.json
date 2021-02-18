@@ -1,0 +1,39 @@
+{
+    "id": 3142,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3142",
+    "title": "Photography of Judith Turner",
+    "is_featured": false,
+    "description": "Judith Turner\u2019s highly abstract photographic compositions take focus on the Modern Wing in this exhibition. The noted architectural photographer\u2019s stunning images capture the essential visual characteristics of Renzo Piano\u2019s design vocabulary.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2009-05-20T00:00:00-05:00",
+    "aic_end_at": "2010-04-16T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 23966,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Photography of Judith Turner"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:23:02-06:00",
+    "timestamp": "2021-01-14T17:13:54-06:00"
+}

@@ -1,0 +1,41 @@
+{
+    "id": 5242,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5242",
+    "title": "Arts Club: Paintings by Marie Laurencin",
+    "is_featured": false,
+    "description": null,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1924-02-01T00:00:00-06:00",
+    "aic_end_at": "1924-03-11T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "77d06b1f-b9f2-1c68-72ef-0243201d0c11"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Arts Club: Paintings by Marie Laurencin"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:19:41-06:00",
+    "timestamp": "2021-01-14T17:14:34-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 1762,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1762",
+    "title": "Max Kozloff: Critic and Photographer",
+    "is_featured": false,
+    "description": "Max Kozloff is recognized today as one of the most eminent figures in the world of art history and criticism, known for his cogent essays on both historic and contemporary art. He was the art editor for The Nation in the 1960s, moving later to the seminal publication Artforum, where he eventually became the executive editor from 1975  to 1977. While he covered many subjects as an editor and writer, he began seriously exploring photography during his tenure at Artforum, both as a critic and as a photographer. In 1977, he had his first one-person exhibition at the Holly Solomon Gallery in New York City, and two years later, in 1979, he published an anthology of his early essays under the title Photography and Fascination.\n\nThis exhibition of over 80 works demonstrates the extent to which his practice as a photographer has been shaped by his work as a critic, and vice versa. In his own photographs, Kozloff often chooses subjects that pay tribute to the photographers who have figured prominently in his writing: shop windows that reference Eug\u00e8ne Atget, for example, or street scenes informed by Henri Cartier-Bresson\u2019s narrative compositions. His life in the New York art world from the 1960s to the present is also a theme of the exhibition, which features a group of intimate portraits of artists such as Leon Golub, Joel Meyerowitz, and Francesca Woodman, all evidence of the relationships he forged during his formidable career. Referencing the connections between his writing and his art practice, the exhibition surveys Kozloff\u2019s ongoing engagement with words and images, presenting his photographs alongside a reading room of his writings and a selection of works from the museum\u2019s permanent collection by some of the many photographers on whom he has written over the decades, from Walker Evans to Richard Avedon. The result is not only a survey of Kozloff\u2019s career as a writer and photographer but also a glimpse into a creative mind at work, equally as informed by history as contemporary times.",
+    "short_description": "This survey of the work of Max Kozloff, includes his photographs, his writings, and works by some of the photographers about whom he has written over the decades.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1762/max-kozloff-critic-and-photographer",
+    "image_url": "https://artic-web.imgix.net/bdaac06a-923e-4025-ab70-d2ba8494e923/default-1.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C247%2C3000%2C1687",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-10-05T00:00:00-05:00",
+    "aic_end_at": "2014-01-05T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Max Kozloff: Critic and Photographer"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:58-06:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

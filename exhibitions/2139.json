@@ -1,0 +1,64 @@
+{
+    "id": 2139,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2139",
+    "title": "Gates of the Lord: The Tradition of Krishna Paintings",
+    "is_featured": false,
+    "description": "his fall, the Art Institute of Chicago offers a glimpse into one of the world\u2019s most intimate religious traditions. Bringing together over 100 artworks from private and public collections in India and the United States, Gates of the Lord: The Tradition of Krishna Paintings is the first major U.S. exhibition to explore the unique visual culture of the Pushtimarg, a Hindu denomination from Western India.\nFounded in the 16th century by the saint and philosopher Shri Vallabhacharya (1479\u20131531), the Pushtimarg is a religious community dedicated to the devotion of Shrinathji, a divine image of the Hindu god Krishna as a seven-year-old child. The religious and artistic center of the sect is based in the temple town of Nathdwara (literally, \u201cThe Gates of the Lord\u201d), near Udaipur in the state of Rajasthan, India. Scholars and artists have long been fascinated by the distinctive and highly aestheticized manner in which members of this group venerate Shrinathji, as well as by the legacy of miniature paintings created as a record of such worship. This exhibition showcases centuries of pichvais (textile hangings) and miniature paintings that have been created by and for the Pushtimarg in devotion of Shrinathji.\n\nThe exhibition takes visitors through a year in Nathdwara, where the daily worship of Shrinathji is characterized by the changing seasons and a bustling festival calendar. Gallery by gallery, visitors are introduced to the pichvais used as backdrops for Shrinathji in his shrine, each uniquely suited to a particular season or festival. The accompanying miniature paintings offer further insight into the Pushtimarg sect: its mode of veneration, history, and important priests and patron families. Enhancing the experience of the sect\u2019s rich culture are festival and devotional music, a shrine reconstruction, and touchscreen kiosks that allow visitors to page through religious manuscripts, an artist\u2019s sketchbook, and a historic photo album. The exhibition concludes with an exploration of the works, sketches, and observations of prominent 20th- and 21st-century Nathdwara artists who have kept the painting tradition flourishing through the present day.\n\nGates of the Lord comprises drawings, pichvais, paintings, and historic photographs borrowed chiefly from two major private collections in India, the renowned TAPI Collection of Praful and Shilpa Shah (Surat, India) and the Amit Ambalal Collection (Ahmedabad, India). These rare loans are augmented by important objects from a number of public and private collections within the United States, including the Art Institute\u2019s own permanent collection, in order to present the richest possible story of Pushtimarg art and tradition.\n\nSponsors\nLead Sponsorship for Gates of the Lord: The Tradition of Krishna Paintings has been provided by Nita and Mukesh Ambani and the Reliance Foundation.\nMajor funding has been generously contributed by Anita and Prabhakant Sinha.\n\nAnnual support for Art Institute exhibitions is provided by the Exhibitions Trust: Kenneth Griffin, Robert M. and Diane v. S. Levy, Thomas and Margot Pritzker, \nthe Earl and Brenda Shapiro Foundation, and the Woman\u2019s Board.",
+    "short_description": "The first U.S. presentation of the art and aesthetics of the Pushtimarg sect of Hinduism, this exhibition features over 100 paintings and pichvais celebrating Shrinathji, a form of Krishna.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2139/gates-of-the-lord-the-tradition-of-krishna-paintings",
+    "image_url": "https://artic-web.imgix.net/9fb022cd-e00c-44e4-8ff3-d090b21d5842/2014.1193KrishnaFlutingfortheGopis.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=31%2C764%2C1519%2C853",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-09-13T00:00:00-05:00",
+    "aic_end_at": "2016-01-03T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147475902,
+    "gallery_title": null,
+    "artwork_ids": [
+        131908,
+        218464,
+        223332,
+        131815,
+        136981,
+        32285,
+        228331,
+        14849,
+        191321,
+        234000
+    ],
+    "artwork_titles": [
+        "The Infant Krishna Spirited Away by Vasudev, from a copy of the Dispersed Bhagavat Purana",
+        "Pratham Milan, Shrinathji revealing himself to Vallabhacharya on Mount Govardhan",
+        "Blue and Gold",
+        "Krishna Fluting for the Gopis",
+        "God Krishna Dancing on the Head of the Snake Demon Kaliya (Kaliyadamana)",
+        "Four-Armed God Vishnu Holding Discus and Conch",
+        "Tilkayat Dauji II Maharaj with a Visitor",
+        "Battle of the Forces of Krishna and Bana, from a copy of the Dispersed Bhagavat Purana",
+        "Yashoda Chastises Her Foster Son, the Youthful Krishna, page from a manuscript of the Bhagavata Purana",
+        "Wheellock Carbine for the Bodyguard of Wolf Dietrich von Raitenau, Prince-Archbishop of Salzburg"
+    ],
+    "artist_ids": [
+        113649,
+        37523
+    ],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gates of the Lord: The Tradition of Krishna Paintings"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-06-15T20:24:13-05:00",
+    "last_updated": "2021-01-13T23:27:12-06:00",
+    "timestamp": "2021-01-14T17:13:36-06:00"
+}

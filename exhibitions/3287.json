@@ -1,0 +1,39 @@
+{
+    "id": 3287,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3287",
+    "title": "Recent Acquisitions of Textiles, 2004\u20132011",
+    "is_featured": false,
+    "description": "Celebrating the acquisition of about 550 marvelous objects by the Department of Textiles over the last seven years, this exhibition continues a tradition established in the department some 40 years ago to periodically display works recently acquired, whether by donation or purchase. In this case, some 40 works have been selected to highlight the many diverse textile types associated particularly with Western and Asian cultures. \n\nThree wonderful examples offer a taste of the broad range and superb quality of the works on display. The first is a printed cotton, or chintz, from England depicting the bombardment of Algiers by British naval forces in 1816. Commemorative portrayals of British military victories, particularly during the Napoleonic Wars, were popular subjects for prints, textiles, and many other media. This textile was a product of the Industrial Revolution, when new forms of mechanization, including the use of waterpower for spinning and weaving and engraved rollers for printing, made high-quality mass production of household furnishings possible. \n\nA second example, another printed cotton (produced with blocks, not engraved rollers) was made in another part of the world at a much earlier date. It is a fragment of a ceremonial hanging made in Gujarat, India, for the Indonesian market in the late 14th or 15th century. Indian textiles were exchanged for Southeast Asian spices at this time by Arab and Gujarati traders and later by various European trade companies. Such textiles were held sacred in Indonesia, preserved and handed down within societies to be displayed as banners during thanksgiving ceremonies. \n\nThe third example and one of the most colorful textiles in the exhibition is a woman\u2019s robe made in Bukhara, Uzbekistan, in the middle of the 19th century. It is boldly patterned in vertical stripes containing various harp-like and horned floral motifs. The dyeing technique is called ikat, which refers to the binding and dyeing of, in this case, the warp threads before they are arranged on the loom to create the desired effect. A characteristic of ikat is the appearance of feathered or serrated edges where one color zone meets another. Robes of this type, traditionally part of a woman\u2019s dowry, were worn at weddings and special occasions. The ikat garments and panels of Central Asia are magnificent examples of the dyers\u2019, rather than the weavers\u2019, art, and remind us how numerous and varied are the creative expressions found in the textile arts.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-12-13T00:00:00-06:00",
+    "aic_end_at": "2013-05-27T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Textiles",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Recent Acquisitions of Textiles, 2004\u20132011"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:57-06:00",
+    "timestamp": "2021-01-14T17:13:58-06:00"
+}

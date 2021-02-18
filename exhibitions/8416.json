@@ -1,0 +1,39 @@
+{
+    "id": 8416,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/8416",
+    "title": "Hiratsuka Un'ichi: Modern Master, Part II",
+    "is_featured": false,
+    "description": null,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2001-08-04T00:00:00-05:00",
+    "aic_end_at": "2001-09-16T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hiratsuka Un'ichi: Modern Master, Part II"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:12:45-06:00",
+    "timestamp": "2021-01-14T17:15:49-06:00"
+}

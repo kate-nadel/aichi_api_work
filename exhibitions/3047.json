@@ -1,0 +1,39 @@
+{
+    "id": 3047,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3047",
+    "title": "The Brooks McCormick and Richard Zeisler Bequests",
+    "is_featured": false,
+    "description": "The Art Institute is honored to receive major bequests from two donors whose support and generosity are well known at the museum. These gifts\u2014comprising European and American 19th- and 20th-century paintings, drawings, and sculptures\u2014enrich and complement our already strong holdings in these areas.\n\nBrooks McCormick Bequest\nThe McCormick family has a strong tradition of support of the Art Institute. Son of Chauncey McCormick, former president of the Art Institute, Brooks served as a trustee of the museum from 1954 to 1987. Most of the works included in his extremely generous bequest have rarely been on public view. The Department of Medieval through Modern European Painting and Sculpture inherits five important works, including Paul C\u00e9zanne\u2019s small and powerful Standing Bather, Seen from the Back. The Department of American Art\u2019s impressive collection of works by the American expatriate John Singer Sargent will be enriched by his nearly full-length portrait Mrs. Paul Escudier, an early study showing a woman in an interior. The Department of Prints and Drawings also benefits from this bequest with three works in a variety of media, including a stunning pastel over monotype by Edgar Degas.\n\nGifts from the Collection of Richard S. Zeisler\nAn avid supporter of the Art Institute for more than 40 years, Richard Zeisler was a passionate collector of modern art. Though Zeisler lived most of his life in New York, he remained dedicated to Chicago and the Art Institute\u2019s world-renowned collection of modern art, selecting a remarkable group of 10 paintings and works on paper from his private collection to give to the museum. Included in this extraordinary gift are Gino Severini\u2019s Festival in Montmartre (Carousel), a Futurist masterpiece; Paul Klee\u2019s Still Life with Fragments, a delicate, ethereal demonstration of the artist\u2019s great experimentation while at the Bauhaus; and Le Corbusier\u2019s Still Life Filled with Space, a prime example of the Purist tenets of precision, clarity, and order. Zeisler\u2019s gift to the Art Institute\u2014one of 16 institutions to receive works from his collection\u2014is a lasting demonstration of his deep generosity and support.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-11-10T00:00:00-06:00",
+    "aic_end_at": "2008-01-10T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Unknown",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Brooks McCormick and Richard Zeisler Bequests"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:23:11-06:00",
+    "timestamp": "2021-01-14T17:13:52-06:00"
+}

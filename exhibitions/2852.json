@@ -1,0 +1,39 @@
+{
+    "id": 2852,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2852",
+    "title": "Great American Drawings",
+    "is_featured": false,
+    "description": "Featured in this gallery are 20 of the most signature works on paper in the Art Institute's collection, by American artists who worked in the 20th century. The selected works were chosen to illuminate key moments of aesthetic transition, from Everett Shinn's crusty visualization of Paris at the turn of the last century to Andy Warhol's glib portrayal of fashion icon Halston.\n\nArranged chronologically, the works may be understood in the context of particular schools--George Bellows, Reginald Marsh, Shinn, and John Sloan were associated with ideas espoused by an American scene and focused on the rapidly changing immigrant population in New York. Charles Burchfield and Arthur Dove responded to the American landscape, with particular attention to its literary promise. Although their work is separated by nearly half a century, Charles White and his student Kerry James Marshall created work that addressed a specific segment of the population, the African American experience, in the broad context of American culture. Abstraction and nonobjective visual strategies enabled post-World War II artists to forge an aesthetic that attempted to break from European influence. Philip Guston, Lee Krasner, Robert Motherwell, and David Smith participated in this revolutionary shift. However, it was the economic surge and growth of the middle class, coupled with an explosion in communications and media that forced the most radical shift in American art. Focused on subjects culled from popular culture, and the often cold or calculated properties of photomechanical reproduction, several generations of artists have been inspired by Andy Warhol's rethinking of the autographic nature of the hand in art. Larry Rivers and Tom Wesselmann provide a link between the legacy of abstract gesture and the banal but remarkable renderings of such artists as Vija Celmins, Chuck Close, and Ed Ruscha.\n\nOrganizer\nThe Art Institute of Chicago\n\nCurator\nMark Pascale, Art Institute of Chicago",
+    "short_description": "Featured in this gallery are 20 of the most signature works on paper in the Art Institute's collection, by American artists who worked in the 20th century. The selected works were chosen to illuminate key moments of aesthetic transition, from Everett Shinn's crusty visualization of Paris at the turn of the last century to Andy Warhol's glib portrayal of fashion icon Halston.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2852/great-american-drawings",
+    "image_url": "https://artic-web.imgix.net/f12c581e-2e81-42cf-bc76-cb73e81ec1ee/IM029484-int_press1.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C159%2C2999%2C1687",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2006-03-18T00:00:00-06:00",
+    "aic_end_at": "2006-06-19T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": 2147475001,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Great American Drawings"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:34-06:00",
+    "timestamp": "2021-01-14T17:13:45-06:00"
+}

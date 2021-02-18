@@ -1,0 +1,43 @@
+{
+    "id": 7524,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7524",
+    "title": "Robert Ryman: The Charter Series",
+    "is_featured": false,
+    "description": "The Charter Series displayed in this exhibition is typical of Ryman's work in being totally devoid of color. The artworks, exclusively in white, explored the outer boundaries of painting through the formal tension produced by contasting surfaces and the allusive quality of the stacked fields of white. The Charter Series was commisioned by Gerald S. Elliott, a Chicago attorney and contemporary art collector, and designed as \"a meditative room.\" The full series now is in the permanent collection of the Art Institute of Chicago.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1987-05-07T00:00:00-05:00",
+    "aic_end_at": "1987-07-12T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "5b4fd8c3-1d8c-b80a-cd47-cde2525ffffd",
+    "alt_image_ids": [
+        "fad67e4a-b9ea-7b0b-99b2-f2dca2a97a57"
+    ],
+    "document_ids": [
+        "f351436f-580f-fa7d-cddd-05f43e89082f"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Robert Ryman: The Charter Series"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-12-31T11:41:28-06:00",
+    "last_updated": "2020-01-08T01:43:09-06:00",
+    "timestamp": "2021-01-14T17:15:23-06:00"
+}

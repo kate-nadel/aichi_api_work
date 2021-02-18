@@ -1,0 +1,68 @@
+{
+    "id": 1998,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1998",
+    "title": "A Voyage to South America: Andean Art in the Spanish Empire",
+    "is_featured": false,
+    "description": "While the Art Institute has a long tradition of collecting and displaying works from the pre-Hispanic cultures of South America, this long-term installation offers the museum\u2019s first presentation of work from the viceregal period. Fourteen paintings and related works on paper\u2014including pieces from the collection of Chicagoans Marilynn and Carl Thoma never before displayed in a museum, as well as important loans from the Newberry Library and Denver Art Museum\u2014introduce visitors to explorers, artists, and patrons who lived in the Spanish-governed Andes during the 17th, 18th, and 19th centuries.\n\nThe metaphorical guide of this journey is Antonio de Ulloa (1716\u201395), a Spanish naval officer and cartographer who traveled to South America with a French scientific mission in the 1730s and 1740s. His portrait introduces the group of works assembled\u2014paintings of identified sitters, signal works by important South American artists, and devotional paintings that include historical figures. Each work has its own direct link to individual biography and lived experience in the New World, offering a more personal look at the themes of exploration and discovery and bringing to life the culture and artistic production in South America as European conventions combined with indigenous traditions.\n\nThe installation is accompanied by a bilingual brochure as well as bilingual treatment of all object labels, wall texts, and audio guide stops. Select works have also been added to the museum\u2019s \u201cCloser\u201d app, featuring slide shows, videos, archival materials, and more for further insight into this unique period of cultural convergence.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-11-11T00:00:00-06:00",
+    "aic_end_at": "2016-02-28T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Arts of Africa and the Americas",
+    "gallery_id": 2147483625,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "b0810caa-969a-5f75-33dd-ae293fd0bf14",
+    "alt_image_ids": [
+        "348864b1-8fd2-cabd-dccf-181581330f67",
+        "6b7b86f2-40f0-c848-6a43-99815f84d59e",
+        "f9665b59-01c9-d878-8503-e3f053e4941b",
+        "f0bbf5d4-a868-a72b-c88c-43ef5be87fd8",
+        "1d34e4ef-faf5-8dc6-af26-2efc7b62dbfd",
+        "bdad8627-db5d-2656-32cb-a92a7861f22d",
+        "324a7c02-b86f-cdcc-521c-7aa61f951419",
+        "ca179a8b-741f-5002-57aa-0d8271d49ccd",
+        "5db7ab39-1c07-89fb-7fb3-2e729e3f0e43",
+        "7290811f-a61d-46ce-9d5a-6f2b372c1637",
+        "5895abab-4ea4-a66f-9e67-85e25d518488",
+        "97de1c6a-8862-b676-38c1-5baefad0352a",
+        "b4aa95e4-e9d1-f281-94b0-633c87743867",
+        "0c85b674-a18b-10f3-2ead-a160c6c5d72b",
+        "2231260e-0be9-e31e-4940-a1978f1ab027",
+        "9e31e172-47e2-8a87-eaa1-7200dcceafb8",
+        "686b38f8-e0a0-567a-87b7-6132306a2a7b",
+        "7edbe63f-9b4c-cffc-92e2-c1d8680d05fa",
+        "9b0bba7c-12f2-f7f3-9d85-cf25f445329b",
+        "beb36995-34c7-f91c-2424-7ef70c67d2a9",
+        "cd16ab21-999e-933c-7356-34b59af1b1cc",
+        "88bcd1cd-16c2-338f-b23c-72c1948757ae",
+        "b4f49716-70b7-5f05-5586-7640a44b5b6b",
+        "00378ac9-d690-c7a1-71b1-7d1009b50f51",
+        "9d933ddb-55c4-d030-1a23-0879b38c4616",
+        "c191460e-454d-3e6f-ab40-4e8d7e57c2d7",
+        "1d0e0234-fd9d-9282-119c-5cd2f9a48c74",
+        "903d72af-0803-e37a-d6c7-f0fb8aaf7d2c"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "A Voyage to South America: Andean Art in the Spanish Empire"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-12-11T19:00:41-06:00",
+    "last_updated": "2021-01-13T23:26:00-06:00",
+    "timestamp": "2021-01-14T17:13:35-06:00"
+}

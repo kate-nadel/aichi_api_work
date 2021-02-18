@@ -1,0 +1,39 @@
+{
+    "id": 3187,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3187",
+    "title": "Veiled Architecture: Kukje Gallery, SO-IL",
+    "is_featured": false,
+    "description": "Founded by Florian Idenburg and Jing Liu in 2008, Brooklyn-based SO-IL has since amassed a significant body of work. With projects ranging from retail establishments to cultural centers, the firm brings experience from the fields of architecture, academia, and the arts to each project. The name SO-IL, which stands for Solid Objectives\u2013Idenburg Liu, reflects the firm\u2019s aim to distill concepts and ideas into simple built forms. Through an iterative process of model making, SO-IL uses direct engagement with materials to refine the experiences the spaces produced. \n\nKukje Art Center, a contemporary art venue located in a low-rise, historic district of Seoul, Korea, enlisted SO-IL to design a third building for the gallery\u2019s campus. The Sogyeok-dong neighborhood is a burgeoning art district comprised of traditional houses interspersed with young galleries. The gallery\u2019s expansion was limited to the narrow confines of the site, necessitating that the firm maximize available space with a design that was both provocative, modestly sized, and appropriate to the rich surroundings.\n\nAt the onset of the design process, SO-IL first focused on the typical white-cube gallery as an aim for their design. In order to develop a form that created an open, neutral space for display, the firm pushed elements such as circulation to the perimeter of the gallery space, resulting in distinct forms protruding from the white cube. Inspired by the gentle transition between figure and landscape in traditional Korean mountain paintings, SO-IL developed a metal fabric to stretch across the exterior compilation of forms. Using a method derived from medieval chain-mail armor, the firm created a custom curtain of stainless steel links created at an architectural scale, which veils the rigid concrete forms. This exhibition presents a series of conceptual and schematic models that reveals SO-IL\u2019s process to recreate a traditional white-cube gallery as an innovative and striking building.",
+    "short_description": "\ufeffArchitectural models and renderings by Brooklyn-based architects SO-IL showcase the firm\u2019s innovative process in reinventing the traditional white-cube gallery space.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3187/veiled-architecture-kukje-gallery-so-il",
+    "image_url": "https://artic-web.imgix.net/95454a2e-3f29-4076-9017-5a127c666022/2012.100KukjeArtCenterExteriorRendering.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=198%2C39%2C2608%2C1465",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-09-13T00:00:00-05:00",
+    "aic_end_at": "2015-01-25T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 2147473418,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Veiled Architecture: Kukje Gallery, SO-IL"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:07-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

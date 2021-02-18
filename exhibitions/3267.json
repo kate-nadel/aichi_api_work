@@ -1,0 +1,39 @@
+{
+    "id": 3267,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3267",
+    "title": "Ana Mendieta",
+    "is_featured": false,
+    "description": "Emerging in the early 1970s amid burgeoning new genres of art making including land art, performance art, film and video, and feminist practices, Cuban-American artist Ana Mendieta developed a deeply personal, experimental, and largely ephemeral oeuvre consisting chiefly of performative actions that she described as \u201cearth-body sculptures.\u201d Highlighted in this presentation are important works by Mendieta that have been generously promised to the Art Institute by Diane and Bruce Halle, forming the basis for the single largest institutional collection of the artist\u2019s work.\n\nBorn in Cuba, Mendieta came to the United States as a refugee in 1961 at the age of 12. The trauma of separation from her family, culture, and homeland became the bedrock of the artist\u2019s practice, which was rooted in physical and spiritual connections between the body and the natural world. She wrote, \u201cI have thrown myself into the very elements that produced me. It is through my sculptures that I assert my emotional ties to the earth and conceptualize culture.\u201d The Silueta series\u2014hundreds of earth-body works and related photographs and films\u2014constitutes the core of Mendieta\u2019s project. Based initially on her own body and silhouette, the Siluetas developed into a panoply of archetypal goddess figures and eventually more universal human forms and incorporated a unique blend of ritual effects drawn from diverse religions. An intensely productive period of travel to Cuba, where Mendieta felt her practice was reconnected with its origins, prompted drawings, etchings, and sculptures, in which, for the first time, her iconic goddess forms became permanent individual objects.\n\nRepresenting each of the most significant moments in the artist\u2019s brief yet prolific career\u2014tragically cut short by a fatal fall from a high-rise apartment window in 1985\u2014this group of works reflects Mendieta\u2019s singular contribution to contemporary practice.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-07-20T00:00:00-05:00",
+    "aic_end_at": "2012-01-15T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ana Mendieta"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:22:50-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

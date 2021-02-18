@@ -1,0 +1,39 @@
+{
+    "id": 9062,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9062",
+    "title": "Vivian Suter: el bosque interior",
+    "is_featured": false,
+    "description": "Vivian Suter\nel bosque interior\n\nAugust 25, 2018 \u2013 January 27, 2019\nKen and Anne Griffin Court\n\n\nVivian Suter (Argentinian-Swiss, born 1949) installs her large-scale abstract paintings as immersive interiors that mirror the exterior of her home: the Guatemalan rainforest. For the past 30 years, Suter has lived and worked in a remote studio on a former coffee plantation in Panajachel, Guatemala, over 100 miles from Guatemala City. Much like the porous architecture of the Central American rainforest, Suter\u2019s colorful paintings on untreated canvases are exposed to the rainforest, absorbing elements of the environment along the way. Monsoons, hurricanes, bright equatorial sun, and plant and animal life leave their marks on the paintings and contribute to the generative life of the work. \n\nSuter explains her method of painting as a profoundly sensory experience: \u201cI allow my consciousness to permeate the moment of painting, enabling all of my senses to simultaneously influence the canvas in front me: how I feel about myself and others; the noises of the village in the distance; my natural surroundings, light, temperature, sun, rain, and trees all intermingle to inspire me. The seasons highly affect my paintings. At the moment, it is rain season in Guatemala, so my work is impacted by the rainfall and thunderstorms. I use the rain water to wet my pigments, oils, acrylics, and fish glue, and the mud finds its way onto the canvases.\u201d\n\nSuter embraces the inevitability of her work\u2019s natural decay, underscoring the cycles of life of which they are a part and, ultimately, their mortality as organic structures. Her approach to the installation of her work expands from the ecology of its production. While each painting retains its independence, the works are closely associated, together forming an ecosystem of related parts. For el bosque interior, a suite of existing paintings populate the Modern Wing\u2019s Griffin Court, alongside a selection of new paintings produced by the artist and configured in response to the space. This assemblage creates an interior in which the various elements are at once autonomous and congruent, harmonious and dissonant\u2014similar to the life that is invoked in and through these works. \n\nExhibition curator Hendrik Folkerts, Dittmer Curator of Modern and Contemporary Art , highlights this aspect of the installation: \u201cVivian Suter\u2019s work fully inhabits the interior of Griffin Court and brings the life that is at the core of these magnificent paintings into the heart of the Art Institute of Chicago.\u201d  \n\n\nel bosque interior is curated by Hendrik Folkerts (Dittmer Curator of Modern and Contemporary Art), with the support of Mary Coyne (Research Associate, Contemporary Art).\n\nSponsors:",
+    "short_description": "Argentine-Swiss artist Vivian Suter presents an installation of large-scale abstract paintings that mirror the surroundings of her own home and studio: the Guatemalan rainforest.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9062/vivian-suter-el-bosque-interior",
+    "image_url": "https://artic-web.imgix.net/72d3745f-01d4-486f-a9fe-7c7c4a615528/IM035269_005-int.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C232%2C3000%2C1689",
+    "type": "Permanent Collection Special Project",
+    "status": "Confirmed",
+    "aic_start_at": "2018-08-25T00:00:00-05:00",
+    "aic_end_at": "2019-01-27T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 24000,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Vivian Suter: el bosque interior"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:10-06:00",
+    "timestamp": "2021-01-14T17:16:05-06:00"
+}

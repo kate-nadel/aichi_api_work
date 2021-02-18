@@ -1,0 +1,39 @@
+{
+    "id": 2123,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2123",
+    "title": "New Galleries for Islamic Art",
+    "is_featured": false,
+    "description": null,
+    "short_description": "For the first time in years, the Art Institute is able to tell the complex story of Islamic cultural production with new galleries devoted to Islamic art.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2123/islamic-re-installation-for-gallery-50",
+    "image_url": "https://artic-web.imgix.net/74d6b24b-9900-4dc2-a107-6acd9f38414b/2011.184TombofItimad-ud-Daula.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=111%2C364%2C2783%2C1566",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-11-18T00:00:00-06:00",
+    "aic_end_at": null,
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 26129,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "New Galleries for Islamic Art"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:07-06:00",
+    "timestamp": "2021-01-14T17:13:35-06:00"
+}

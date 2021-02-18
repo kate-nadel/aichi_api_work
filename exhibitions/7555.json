@@ -1,0 +1,39 @@
+{
+    "id": 7555,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7555",
+    "title": "Gustave Le Gray",
+    "is_featured": false,
+    "description": "This exhibition, described as \"a time capsule back to the earliest years of photography,\" included seascapes, landscapes, monuments, war photographs, and portraits by Gustave Le Gray, some of which had not been previously exhibited in the United States. The 80 photographs on display introduced viewers to Le Gray's constant experimentation with photographic methods and skills in composition, combination printing, and the subtle use of color.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "1987-09-26T00:00:00-05:00",
+    "aic_end_at": "1987-12-06T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gustave Le Gray"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-04-02T16:43:49-05:00",
+    "last_updated": "2020-04-02T16:45:59-05:00",
+    "timestamp": "2021-01-14T17:15:24-06:00"
+}

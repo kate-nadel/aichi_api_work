@@ -1,0 +1,43 @@
+{
+    "id": 6720,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6720",
+    "title": "Drawings, 1900-1976, Acquired in 20 Years",
+    "is_featured": false,
+    "description": null,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1978-01-01T00:00:00-06:00",
+    "aic_end_at": null,
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "7d54fb20-32d6-56a4-567e-cc76523c6ebe",
+    "alt_image_ids": [
+        "bced1008-1587-c575-159f-13a3f88a552a",
+        "eb892da7-161b-2158-2ae2-3ab7432bac89",
+        "26701459-84c7-4af8-1083-abe8b3c07896"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Drawings, 1900-1976, Acquired in 20 Years"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:16:51-06:00",
+    "timestamp": "2021-01-14T17:15:05-06:00"
+}

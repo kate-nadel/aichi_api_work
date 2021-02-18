@@ -1,0 +1,39 @@
+{
+    "id": 3365,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3365",
+    "title": "John Massey: Cart\u00f3n de Venezuela",
+    "is_featured": false,
+    "description": "One of Chicago\u2019s great design stories emerged from the Container Corporation of America (CCA) in the middle of the 20th century. The CCA\u2019s founder, Walter Paepcke, was an influential patron of the arts and was integral in bringing the New Bauhaus, later folded into the Illinois Institute of Technology, to the city. At CCA he enlisted exceptionally talented graphic designers such as the Austrian Herbert Bayer and the Chicagoan John Massey, whose work for CCA is featured in this exhibition. \n\nMassey began working at CCA in 1957, and upon his appointment as head of design in 1964 he formed a research arm, the Center for Advanced Research in Design (CARD). The work of CARD extended beyond the traditional work of CCA to projects such as the Chicago Civic Poster campaign. Supported fully by Paepcke, this unusual arrangement enabled great creativity and innovation within a corporate structure. The portfolio of Massey\u2019s work recently acquired by the Art Institute of Chicago demonstrates the designer\u2019s ingenuity across a range of projects. \n\nThis exhibition features a set of posters for the CCA\u2019s subsidiary Cart\u00f3n de Venezuela. Intended as a calendar for clients, each poster represents a different month of the year. The strong, clean lines and bold colors reflect one of Massey\u2019s primary influences, the Swiss school of design. These posters represent an overall approach to design by Massey and illustrate the important body of work he developed while the director of CARD.",
+    "short_description": "Gallery 24\nOne of Chicago\u2019s great design stories emerged from the Container Corporation of America (CCA) in the middle of the 20th century.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3365/john-massey-carton-de-venezuela",
+    "image_url": "https://artic-web.imgix.net/d22acb1e-648d-453b-873d-d363fc5fd948/exh_John-Massey_main_1_360h.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-11-19T00:00:00-06:00",
+    "aic_end_at": "2017-04-23T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Design",
+    "gallery_id": 2147473418,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Massey: Cart\u00f3n de Venezuela"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:44-06:00",
+    "timestamp": "2021-01-14T17:14:00-06:00"
+}

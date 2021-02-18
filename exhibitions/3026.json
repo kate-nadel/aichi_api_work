@@ -1,0 +1,39 @@
+{
+    "id": 3026,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3026",
+    "title": "Copyright Law: Publishing Art and the Public Domain",
+    "is_featured": false,
+    "description": "Throughout the world today, new works of authorship, including books and artworks, generally enjoy a uniform term of copyright protection that extends from date of creation until, typically, 70 years after the author dies. At the end of this copyright term, the work falls out of copyright protection and into the \u201cpublic domain,\u201d which means that the work may be freely used by anyone.\nBut this was not always so, particularly in the United States. Prior to the adoption of the Copyright Act of 1976, the term of copyright protection in the United States was determined by the more complicated rules of the Copyright Act of 1909, under which the copyright term was based on when and how the artwork was published, as opposed to when the work was created or when the artist died.\nUnfortunately for the sake of simplicity, if not the employment prospects of American copyright lawyers, the more complicated rules of the 1909 Act remain relevant today. The 1976 Act and later amendments have not changed the basic premise that most artworks created prior to 1978 have a copyright term that depends on their publication history, i.e. when images of the artworks appeared in books, periodicals, prints, or other publicly-available copies. Thus, to determine whether an artwork older than 30 years is still protected under United States copyright law, it is often necessary to visit an art library to research when and how images of the artwork have been published.\nUsing artworks from the collection of the Art Institute of Chicago, this exhibition highlights several of the unique publication-based rules of United States copyright law.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2008-04-16T00:00:00-05:00",
+    "aic_end_at": "2008-06-09T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Copyright Law: Publishing Art and the Public Domain"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:20-06:00",
+    "timestamp": "2021-01-14T17:13:51-06:00"
+}

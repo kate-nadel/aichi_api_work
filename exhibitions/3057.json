@@ -1,0 +1,39 @@
+{
+    "id": 3057,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3057",
+    "title": "Transitory Beauty: Japanese Fan Prints",
+    "is_featured": false,
+    "description": "The most ephemeral of all Japanese prints, fans with printed images of popular kabuki actors, beauties, and landscapes were ubiquitous in Japan during the Edo period (1615\u20131868). Most were well used, which is why so few remain. However, those that were not destroyed by being mounted as fans on bamboo sticks have been preserved as part of the Art Institute\u2019s collection. Highlighted in this exhibition are fans' unique format, as well some of their less obvious uses\u2014catching insects and as a fashionable way to feature calligraphy.\n \nFans were produced in specialized shops. While the round fans (uchiwa) duplicated Chinese prototypes, the folding fan (\u00f4gi), was invented in Japan in the seventh century. All of these fans, however, were refined by the skill of an artist and transformed into charming, lightweight accoutrements that brought relief from the heat, comfort to the soul, and delight to the eye.\n \nFans printed with images of favorite kabuki actors were one of the earliest and most favored prints for theater lovers to own. With the popularization of the landscape print, Utagawa Hiroshige (1797\u20131858) produced more printed images for fans than any other artist, even though these likely number less than 10 percent (about 350 designs) of his entire output. Because these prints were trimmed and pasted to either folding or round fans, few have survived, and therefore it is difficult to understand the total number that may have existed.\n\nThere will be a rotation of some of the works at the midpoint of the exhibition.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-10-17T00:00:00-05:00",
+    "aic_end_at": "2016-03-27T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Transitory Beauty: Japanese Fan Prints"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:14-06:00",
+    "timestamp": "2021-01-14T17:13:52-06:00"
+}

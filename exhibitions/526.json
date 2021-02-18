@@ -1,0 +1,39 @@
+{
+    "id": 526,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/526",
+    "title": "Society for Contemporary Art: Acquisition Selection 2007",
+    "is_featured": false,
+    "description": "The Society for Contemporary Art (SCA) was founded in 1940 to promote a better understanding and appreciation of the art of our time at the Art Institute of Chicago. Monthly SCA programs provide access to an exciting roster of leading national and international artists, dealers, critics, historians, and curators, as well as visits to distinguished private collections in Chicago and major art centers within the Unites States and abroad. On an annual basis, the members of the SCA's acquisition committee review a carefully selected group of contemporary works and present them together as a small exhibition. SCA membership then votes to purchase one or more objects on behalf of the museum. In past years, the SCA has acquired works by artists such as Josef Albers, Alexander Calder, Joan Mitchell, Jasper Johns, James Turrell, Dan Graham, Leon Golub, Reinhard Mucha, and more recently Lorna Simpson, Guillermo Kuitca, Tacita Dean, Larry Clark, Doug Aitken, Wolfgang Tillmans, and Rudolf Stingel, among others. \n\nThis year\u2019s offering includes a black-and-white photographic installation by Helena Almeida (Portuguese, born 1934); a suspended textile sculpture by Charles LeDray (American, born 1960); a large-scale ceramic wall hanging by Rosemarie Trockel (German, born 1952); and a mixed-media sculpture by Franz West (Austrian, born 1947).\n\nMembers will vote on these works at the annual meeting on May 17, 2007.",
+    "short_description": "The Society for Contemporary Art (SCA) was founded in 1940 to promote a better understanding and appreciation of the art of our time at the Art Institute of Chicago. Monthly SCA programs provide access to an exciting roster of leading national and international artists, dealers, critics, historians, and curators, as well as visits to distinguished private collections in Chicago and major art centers within the Unites States and abroad.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/526/society-for-contemporary-art-acquisition-selection-2007",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-05-07T00:00:00-05:00",
+    "aic_end_at": "2007-07-30T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Society for Contemporary Art: Acquisition Selection 2007"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:25-06:00",
+    "timestamp": "2021-01-14T17:13:09-06:00"
+}

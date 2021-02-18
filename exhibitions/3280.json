@@ -1,0 +1,39 @@
+{
+    "id": 3280,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3280",
+    "title": "A Golden Spider-Silk Textile",
+    "is_featured": false,
+    "description": "Strands of silk from over one million of Madagascar\u2019s golden orb spiders (Nephila madagascariensis) were woven together to make this dazzling textile, the only one of its kind in the world. Completed in 2008, the panel\u2019s story underscores the globalism that is characteristic of many textile genres in Africa. Created by Simon Peers and Nicholas Godley, the loan of this rare textile celebrates the opening of the Art Institute's redesigned galleries of African art and Indian art of the Americas.\n\nThe idea of harnessing spider silk for weaving is an age-old dream that was first attempted in a methodical way in France in the early 18th century. In the 1880s, Father Paul Cambou\u00e9, a French Jesuit priest, brought the dream to Madagascar. Intrigued by the strength and beauty of the silk produced by the island\u2019s golden orb spider, he began to collect and experiment with it. In 1900 a set of bed hangings was woven from spider silk at Madagascar\u2019s Ecole Professionelle and exhibited at the Exposition Universelle in Paris (today the whereabouts of those hangings are unknown). But the idea of creating an industry that could compete with Chinese silk (produced from silkworms) proved unrealistic.\n\nIn 2003 partners Simon Peers and Nicholas Godley, longtime residents of Madagascar, revived the spider-silk dream. They assembled a team of over 80 women and men with local knowledge of spiders and weaving to work on the project. It took them five years\u2014and a good deal of trial and error, invention, and perseverance\u2014to gather the spider silk and weave this cloth in the elaborate textured patterns of a lamba akotifahana, a 19th-century luxury textile of Madagascar\u2019s Merina people.\n\nSpider silk has extraordinary properties. It is one of the strongest materials in the natural world and has remarkable elasticity. Scientists today are researching potential uses for spider silk in the medical and military arenas, including artificial tendons, surgical thread, and bulletproof clothing. However, attempts to replicate the complex processes that take place in a spider\u2019s spinnerets in order to produce artificial spider silk are proving extremely difficult.\n\nWatch a 10-minute video on the history and creation of the spider-silk textile.",
+    "short_description": "Strands of silk from over one million of Madagascar\u2019s golden orb spiders (Nephila madagascariensis) were woven together to make this dazzling textile, the only one of its kind in the world.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3280/a-golden-spider-silk-textile",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-06-03T00:00:00-05:00",
+    "aic_end_at": "2011-11-06T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Textiles",
+    "gallery_id": 2147470998,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "A Golden Spider-Silk Textile"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:49-06:00",
+    "timestamp": "2021-01-14T17:13:58-06:00"
+}

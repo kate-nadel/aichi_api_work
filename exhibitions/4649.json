@@ -1,0 +1,41 @@
+{
+    "id": 4649,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4649",
+    "title": "Master Bronzes of India",
+    "is_featured": false,
+    "description": "This show was the first major exhibition of Indian bronze sculptures in America. Over sixty bronze sculptures were on view, many of them religious in nature. Whereas large works could be assumed as necessary for us in a temple or religious setting, smaller pieces suggested a more personal, ritualistic use. In the show, India\u2019s three major religions; Buddhism, Jainism, and Hinduism were represented in bronze forms dating back as early as the second century, spanning over eight hundred years in total. Renderings of various symbolic items offered Western viewers a chance to  \u201cread\u201d the bronzework as they were meant to be understood in their original context, with special attention paid to height as indications of hieratic status, and various expressions which suggested spiritual qualities.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1965-09-03T00:00:00-05:00",
+    "aic_end_at": "1965-10-10T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "3469639a-5405-dd4f-1607-d85ea8379654"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Master Bronzes of India"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-31T14:10:34-05:00",
+    "last_updated": "2019-10-31T14:13:55-05:00",
+    "timestamp": "2021-01-14T17:14:24-06:00"
+}

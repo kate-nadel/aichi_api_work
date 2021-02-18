@@ -1,0 +1,60 @@
+{
+    "id": 4757,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4757",
+    "title": "Manet",
+    "is_featured": false,
+    "description": "In this exhibit Chicago viewers were given a once-in-a-lifetime chance to study \u00c9douard Manet\u2019s work in depth. It was the largest exhibition of Manet\u2019s work since a memorial exhibition in Paris in 1884. Over two-hundred paintings, many from private collections, were on view for this show. This exhibit evaluated the oeuvre of Manet\u2019s work as an evolution of his talent. Additionally, this show featured a collection of his work that spanned the length of his career and emphasized his love of painting 19th century Parisian life as it happened through various landscapes, portraits, still-lifes, and impressionistic city scenes.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1967-01-13T00:00:00-06:00",
+    "aic_end_at": "1967-02-19T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "9669be01-c206-e817-4e06-7634618f2b39",
+    "alt_image_ids": [
+        "d3394d51-011c-24ca-03ab-083afad49a92",
+        "db4410fe-b873-7882-f7ef-fa08ed9cdc9b",
+        "f88eb7e5-966e-bd60-40bb-5c94d3c13497",
+        "5490206d-4e3f-607a-0c7a-5e19bb528ae8",
+        "5a5e74ea-9c4a-cbb0-810a-fc5b66a82349",
+        "98ed0dbb-1a5e-3f10-f158-8e36bb9c9de7",
+        "f26f9130-1e23-7c6f-9d6f-6ae427a31603",
+        "e2ec243c-d3b6-0951-afb0-c7a93fb2dc9e",
+        "0b1fa3be-ff98-e6a8-a5b9-bc1608235ef1",
+        "f527c78a-a7e5-94e3-21ed-b3558dd614d3",
+        "8582c8ec-e573-439a-b17b-342f2e8af49b",
+        "d3e20953-81d4-2eb4-ea70-3d5fe79b5707",
+        "02fbe77d-5bfa-89aa-b075-6e7ad29aeb82",
+        "8a3c3438-9c17-a9fa-7ae0-b4d998b0a95c",
+        "a9ac8a1f-7e81-7394-fe12-7e0e700a9dff",
+        "8d7ee23c-78b5-d2db-e1c6-44efcd957c11",
+        "eb4636d5-a555-a243-b230-86eb29d9a11e",
+        "a13983ec-b5c5-dbaa-4dae-da6416328754",
+        "58efed97-7685-32cd-8cfa-76cc1be38a3d",
+        "3ab96180-c597-f680-6650-50990ec1875b"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Manet"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-11-05T12:18:31-06:00",
+    "last_updated": "2019-11-05T12:20:38-06:00",
+    "timestamp": "2021-01-14T17:14:25-06:00"
+}

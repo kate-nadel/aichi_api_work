@@ -1,0 +1,39 @@
+{
+    "id": 1584,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1584",
+    "title": "Late Roman and Early Byzantine Treasures from the British Museum",
+    "is_featured": false,
+    "description": "The unveiling of the Jaharis Galleries also celebrates the opening of a special exhibition of more than 50 incomparable works of late Roman and early Byzantine art lent by the British Museum. Comprised of luxurious yet portable items such as silver vessels, carved ivories, and gem-encrusted jewelry, these artworks reflect the splendor of wealthy households and important ecclesiastical sites between A.D. 350 and 650.\n\nThese centuries saw great shifts in the Roman Empire: Constantinople replaced Rome as the imperial capital, Christianity became the official imperial religion, and Greek eclipsed Latin as the official administrative language. Beautifully illustrating these transitions, the objects in the exhibition were employed in a variety of civic, domestic, and sacred contexts. For example, a gilded silver chest for bathing accessories and perfumed oils that belonged to a Roman noblewoman named Projecta stands as an eloquent witness to the intersection of classical iconography and Christian belief; above the inscription indicating that its owner was indeed a Christian appears a seductive image of the goddess Venus. The gradual stylistic shift from a classical naturalism towards a Byzantine aesthetic can be seen in the Reliquary of St. Menas. Carved in ivory during the sixth century and markedly different in style from the earlier objects in the exhibition, the imagery\u2014charged with spiritual import\u2014is more abstract, static, and hieratic. For its part, The Lycurgus Cup vividly exemplifies the refinement and spectacle of lavish tableware proudly used throughout the late Roman Empire. In a display of technical virtuosity, this cup appears green in reflected light but turns a brilliant red when light is transmitted through it, thanks to the addition of gold and silver particles to the molten glass.\n\nMost of the treasures in this exhibition have never before traveled to the United States. The Art Institute is proud to be the sole venue for this special presentation.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-11-11T00:00:00-06:00",
+    "aic_end_at": "2013-08-25T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ancient and Byzantine Art",
+    "gallery_id": 26777,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Late Roman and Early Byzantine Treasures from the British Museum"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:06-06:00",
+    "timestamp": "2021-01-14T17:13:25-06:00"
+}

@@ -1,0 +1,41 @@
+{
+    "id": 884,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/884",
+    "title": "Playing with Pictures: The Art of Victorian Photocollage",
+    "is_featured": false,
+    "description": "During the Victorian era, photography became remarkably popular and accessible, as people posed for studio portraits and exchanged these pictures on a vast scale. The makers of the collages shown here cut up these portraits and placed them in elaborate watercolor designs in albums. With their sharp wit, absurd senses of humor, and dramatic shifts of scale akin to those Alice experienced in Wonderland, these photocollages stand the rather serious conventions of photography in the 1860s and 1870s on their heads, debunking stuffy Victorian clich\u00e9s with surreal, subversive, and funny images. Oftentimes, the combination of photographic portraits with painted settings inspired dreamlike and even bizarre results: placing human heads on animal bodies; situating people in imaginary landscapes; and morphing faces into common household objects. Such images reveal the educated minds as well as accomplished hands of their makers, as they take on new theories of evolution, the changing role of photography, and the strict boundaries of aristocratic society. Together they provide a fascinating window into the creative possibilities of photography in the Victorian era and enduring inspiration for photographic experimentation today.\nPlaying with Pictures showcases the best of these albums and loose pages from collections across the United States, Europe, and Australia; 40 pages are shown in frames on the wall, while 11 separate albums are displayed in cases, accompanied by \u201cvirtual albums\u201d on computer monitors for visitor interaction. One of the highlights of the exhibition is an exciting addition to the Art Institute\u2019s permanent collection: the Madame B Album, a fascinating album of more than 140 pages of photographs and watercolor designs, which was acquired in 2005 and is on public display for the first time. \u201cMadame B\u201d has been identified as Blanche Fournier, the wife of a French diplomat. In her clever, whimsical, and surreal world, photographic portraits dot the tail feathers of a turkey, faces decorate the wings of a colorful butterfly, and a secret language of flowers communicates hidden meanings.",
+    "short_description": "Collage is commonly thought of as a modern art form, but the act of \u201cplaying with pictures\u201d has a long, rich, and surprising history. Sixty years ahead of the avant-garde\u2014and more than a century before Photoshop\u2014aristocratic Victorian women were already experimenting with photocollage. This world-premiere exhibition is the first to comprehensively examine this little-known phenomenon, presenting many eye-opening works that have rarely\u2014and in many cases never\u2014before been displayed or reproduced.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/884/playing-with-pictures-the-art-of-victorian-photocollage",
+    "image_url": "https://artic-web.imgix.net/d2ee4e9a-90a5-4dff-a4d2-910ae18eb453/2018.1FilmerAlbumPage.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=42%2C560%2C2762%2C1554",
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2009-10-10T00:00:00-05:00",
+    "aic_end_at": "2010-01-03T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [
+        81
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Playing with Pictures: The Art of Victorian Photocollage"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:53-06:00",
+    "timestamp": "2021-01-14T17:13:14-06:00"
+}

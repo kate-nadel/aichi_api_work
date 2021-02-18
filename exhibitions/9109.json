@@ -1,0 +1,39 @@
+{
+    "id": 9109,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9109",
+    "title": "Rosalind Nashashibi: Vivian's Garden",
+    "is_featured": false,
+    "description": "London-based filmmaker and artist Rosalind Nashashibi\u2019s meditative films merge everyday observations with a more sensuous and even fantastical cinematographic vocabulary. Presented for the first time in the United States after its premiere at documenta 14 in 2017, Nashashibi\u2019s tender and dreamy film Vivian\u2019s Garden depicts the relationship between Austrian Swiss \u00e9migr\u00e9 artists Elisabeth Wild and Vivian Suter\u2014mother and daughter\u2014in the connected houses they share in a jungle garden in Panajachel, located outside of Guatemala City. Wild and Suter have a fluid relationship\u2014the daughter is as much a mother as the other way around. The women live together with Mayan villagers, who act as guardians and maids. Nashashibi\u2019s filmic portrait, which is presented adjacent to Suter\u2019s exhibition el bosque interior in Griffin Court, focuses on the artistic, emotional, and economic lives of the household and offers a delicate look at the complex postcolonial relations within their domestic space. In the fractured moments, incomplete conversations, and intimate interiors that are integral aspects of Nashashibi\u2019s approach to filmmaking, Vivian\u2019s Garden presents a mesmerizing view into lives filled with moments of abstraction and lush beauty.",
+    "short_description": "Rosalind Nashashibi\u2019s film depicts the relationship between artists Elisabeth Wild and Vivian Suter\u2014mother and daughter\u2014in the connected houses they share in a jungle garden in Panajachel, Guatemala.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9109/rosalind-nashashibi-vivians-garden",
+    "image_url": "https://artic-web.imgix.net/59763a0e-f7d6-4179-ad65-5a1ebecf9189/vivians_garden_1.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C52%2C1024%2C575",
+    "type": "Permanent Collection Special Project",
+    "status": "Confirmed",
+    "aic_start_at": "2018-08-25T00:00:00-05:00",
+    "aic_end_at": "2018-12-31T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25208,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rosalind Nashashibi: Vivian's Garden"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:15-06:00",
+    "timestamp": "2021-01-14T17:16:06-06:00"
+}

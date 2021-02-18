@@ -1,0 +1,39 @@
+{
+    "id": 1374,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1374",
+    "title": "Jindrich Heisler: Surrealism under Pressure",
+    "is_featured": false,
+    "description": "Czech poet, photographer, and object-maker Jind\u0159ich Heisler began his creative career around 1935 and in 1938 joined Czechoslovakia\u2019s Surrealist Group. Within months of his entrance, however, the Nazi occupation drove Surrealism underground, and Heisler, the child of a mixed-faith marriage, spent most of 1941\u20131945 in hiding. Sequestered at a friend\u2019s apartment during this time of great danger for Jewish and avant-garde artists alike, Heisler created a diverse and whimsical body of work\u2014books of poetry, photographic series, and assemblage objects\u2014some of which appeared publicly after the war. \n\nIn 1947, having survived the German occupation and sensing the return of totalitarianism at home, Heisler, along with his close friend and fellow artist Toyen (Marie \u010cerm\u00ednov\u00e1), moved to Paris and immediately joined the French Surrealist movement. (Heisler had published an anthology of verse by Paul \u00c9luard one year previously.) In 1948\u20131949, Heisler headed the editorial team of N\u00e9on, a key Surrealist journal of the early postwar years. Alone and with Andr\u00e9 Breton, Benjamin P\u00e9ret, and Toyen, Heisler created more object art\u2014including a marvelous alphabet of wooden letters, faced with glued-on xylographic montages reminiscent of Max Ernst\u2014as well as posters, film scripts, and poems. He died suddenly of heart failure in 1953.\n\nThis exhibition, the first solo retrospective of Heisler\u2019s work anywhere in the world, presents 70 pieces from the artist\u2019s concise but rich oeuvre, including the Art Institute\u2019s poetry volume From the Strongholds of Sleep (Z kasemat sp\u00e1nku)\u2014one of the rarest and most important photobooks produced in the 20th century. The presentation makes a lovely companion to Entre Nous: The Art of Claude Cahun, on display in the adjacent photography galleries; both exhibitions provide a provocative look at how artists of Jewish heritage addressed the Nazi threat and their own marginal status through art.\n\nSponsor\nThis exhibition and publication are made possible by the generous support of Helen and Sam Zell and the Black Dog Fund. Additional support is provided by the Robert Mapplethorpe Foundation and Roy and Mary Cullen.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-03-31T00:00:00-05:00",
+    "aic_end_at": "2012-07-01T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jindrich Heisler: Surrealism under Pressure"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:15-06:00",
+    "timestamp": "2021-01-14T17:13:22-06:00"
+}

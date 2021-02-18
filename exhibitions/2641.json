@@ -1,0 +1,39 @@
+{
+    "id": 2641,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2641",
+    "title": "Richard Nonas: ridge (out, away, back)",
+    "is_featured": false,
+    "description": "Since the 1970s, Richard Nonas (America, born 1936) has refined a distinctive and powerful vocabulary based on line\u2014what he calls \"lineal extenstion, a thrust into the world\"\u2014and the raw materials of wood, stone, and steel. Trained as a cultural anthropoligist, he spent the 1960s doing fieldwork in North and Central America, as well as teaching and writing, before realizing that he could better express his primary questions about our human perception of the world through visual art. The sculptures Nonas has made since then, whether small wall-based reliefs or large floor-based spans, are always abstract; indeed, far from representing something else, they operate with a formal agency of their own: they mark and measure a space in order to render it \"place.\" \"I want to make places,\" he explains. \"Nature is space; we make it place\u2014by names, by fences, by bounding it, by centering it. Place is symbolic space, emotional space....Place is the appropriation of space\u2014space imbued with human meaning.\"\n\nNonas's project on the Bluhm Family Terrace, his first large-scale installation in Chicago, includes a rhythmic array of 90 ready-made granite curbstones cutting like diagonal tracks across the underlying grid of the terrace floor. A form typically used for edging or bounding is deployed in an open-ended configuration. Alongside this work in stone, two groups of reliefs constructed of century-old floorboards from the artist's New York studio are positioned at regular intervals along slim lengths of wood, like a pair of horizon lines suspended against a backdrop of near and distant architecture. Nonas's installation thus alters, and literally expands, our sense of where the boundaries of the named, demarcated place of the Bluhm Family Terrace can actually lie.",
+    "short_description": "For his first installation in Chicago, sculptor Richard Nonas uses materials usually reserved for demarcating space in a large-scale composition that alters and expands our sense of place.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2641/richard-nonas-ridge-out-away-back",
+    "image_url": "https://artic-web.imgix.net/cb24a8f2-3d16-4900-af36-d52f1d48115a/exh_Nonas_main_480_0.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-10-13T00:00:00-05:00",
+    "aic_end_at": "2017-04-23T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25238,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Richard Nonas: ridge (out, away, back)"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-09-13T11:46:41-05:00",
+    "last_updated": "2021-01-13T23:28:25-06:00",
+    "timestamp": "2021-01-14T17:13:41-06:00"
+}

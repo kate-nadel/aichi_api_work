@@ -1,0 +1,40 @@
+{
+    "id": 9536,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9536",
+    "title": "Landscape in Light: The Tiffany Window at the Art Institute of Chicago",
+    "is_featured": true,
+    "description": null,
+    "short_description": null,
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9536/landscape-in-light-the-tiffany-window-at-the-art-institute-of-chicago",
+    "image_url": "https://artic-web.imgix.net/null7c8b7b44-ab1a-4820-9b29-affdd343f389/IM047560_print.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C872%2C2166%2C1214",
+    "type": "AIC Only",
+    "status": "Confirmed",
+    "aic_start_at": "2021-04-17T00:00:00-05:00",
+    "aic_end_at": null,
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": 2147477218,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_boosted": "Landscape in Light: The Tiffany Window at the Art Institute of Chicago",
+    "suggest_autocomplete_all": {
+        "input": [
+            "Landscape in Light: The Tiffany Window at the Art Institute of Chicago"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-12-07T16:41:56-06:00",
+    "last_updated": "2021-01-13T23:23:16-06:00",
+    "timestamp": "2021-01-14T17:16:10-06:00"
+}

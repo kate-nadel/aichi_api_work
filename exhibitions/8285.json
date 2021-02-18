@@ -1,0 +1,51 @@
+{
+    "id": 8285,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/8285",
+    "title": "At Home in Chicago, Part II",
+    "is_featured": false,
+    "description": null,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1999-08-20T00:00:00-05:00",
+    "aic_end_at": "1999-11-28T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "ada6b0e6-e502-4c13-0873-ba71f1d43c50",
+    "alt_image_ids": [
+        "7c4bf95f-5ebe-e8b7-5dad-ea29346006ae",
+        "c8358275-7902-50e8-8b9a-ea2916014162",
+        "d3908d6b-924e-de2e-e86f-845166df66dd",
+        "cf67811d-7eac-8f41-e108-2f9dbc6eb631",
+        "44cde1af-d713-1211-b8d8-57eb2685e766",
+        "7948e206-b20b-6e29-5a5c-b9714d73f65a",
+        "180a0751-f856-1299-830b-4d2d375cd989",
+        "607c6263-d51f-fe18-0257-88da569b4656",
+        "d8fcb6e5-4dc3-2c9d-7f05-e49f5be027ad",
+        "d74a41dd-360e-24ad-82a5-bc73858cb773",
+        "cd31211c-d805-a97b-2732-e471a1109f82"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "At Home in Chicago, Part II"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:13:04-06:00",
+    "timestamp": "2021-01-14T17:15:45-06:00"
+}

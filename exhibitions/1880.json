@@ -1,0 +1,39 @@
+{
+    "id": 1880,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1880",
+    "title": "Nilima Sheikh: Each Night Put Kashmir in Your Dreams",
+    "is_featured": false,
+    "description": "The first solo museum exhibition of the work of revered Indian artist Nilima Sheikh features eight banners painted by the artist between 2003 and 2010 for a series focusing on both the magical history and contentious present of Kashmir. Currently owned by collectors throughout India and Southeast Asia, these scroll paintings come together at the Art Institute for the first time since their original display, alongside two additional works that Sheikh is creating especially for this Chicago installation.\n\nThe title of the series and exhibition is derived from a line in the poem, \u201cI See Kashmir from New Delhi at Midnight\u201d by the Kashmiri American poet Agha Shahid Ali. Ali\u2019s work initially inspired Sheikh\u2019s interest in Kashmir, a region she has visited since childhood. Sheikh\u2019s scrolls combine Ali\u2019s poems with excerpts from myriad sources, ranging from medieval poetry to Salman Rushdie\u2019s books, along with equally widespread image references\u2014miniatures, wall paintings, and magical Kashmiri folktales.\n\nThe resultant multifaceted works, at once masterful and haunting, recall the complex culture of the Kashmir Valley, once described as paradise on earth. Today the region has a much different reputation, fissured by the Line of Control (LOC) between India and Pakistan. While the paintings focus on the cosmopolitanism of the ancient Silk Road that linked Kashmir to Central Asia and China, they are also imbued with a contemporary perspective which encourages viewers to reflect and think afresh about this contested territory.\n\nNilima Sheikh (born 1945) is one of India\u2019s most renowned artists. She studied history at Delhi University and painting at the Maharaja Sayajirao University of Baroda. Sheikh was the Roman J. Witt Resident Artist and Penny W. Stamp Lecturer at the University of Michigan in 2004 and artist in residence at the Montalvo Artists Studios, California, in 2005. She is married to the artist Gulammohammed Sheikh and lives in Vadodara and New Delhi, India. Her art practice of more than five decades includes works on paper, installations, large scrolls and screens, paintings, illustrations for children\u2019s books, and theater set designs.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-03-08T00:00:00-06:00",
+    "aic_end_at": "2014-05-18T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nilima Sheikh: Each Night Put Kashmir in Your Dreams"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:51-06:00",
+    "timestamp": "2021-01-14T17:13:30-06:00"
+}

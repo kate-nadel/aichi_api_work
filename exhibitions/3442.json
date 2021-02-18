@@ -1,0 +1,41 @@
+{
+    "id": 3442,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3442",
+    "title": "Paintings, Sculptures and Other Objects Exhibited during the World's Congress",
+    "is_featured": false,
+    "description": "The new 1893 lakefront building served for six months as an auxiliary meeting place for several congresses, held in conjunction with the World\u2019s Columbian Exposition. The growing art collection of the museum was on display on the second floor of the new building, and included works from the former Demidoff collection of Old Dutch and Flemish Masters, acquired in 1890.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1893-05-15T00:00:00-06:00",
+    "aic_end_at": "1893-10-31T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "c8b49328-0226-810f-a7b2-3164d4b59b66"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings, Sculptures and Other Objects Exhibited during the World's Congress"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:22:34-06:00",
+    "timestamp": "2021-01-14T17:14:01-06:00"
+}

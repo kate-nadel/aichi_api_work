@@ -1,0 +1,66 @@
+{
+    "id": 2056,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2056",
+    "title": "Provoke: Photography in Japan between Protest and Performance, 1960-1975",
+    "is_featured": false,
+    "description": "The short-lived Tokyo magazine Provoke is now recognized as a major achievement in world photography of the last 50 years. Although it existed only for three issues and a mere nine months\u2014November 1968 through August 1969\u2014Provoke crystallized the best of progressive art photography and cultural criticism in Japan during the 1960s and early 1970s. The Provoke members\u2014Daid\u00f4 Moriyama, Takuma Nakahira, Takahiko Okada, Yutaka Takanashi, and K\u00f4ji Taki\u2014connected in their interests with the nationwide political protest movement, itself a terrific source for photography and photobooks in that time. Their work also dovetails with the rise of performance in Japanese fine art during the same years.\n\nThis exhibition is the first to provide a thorough history of the Provoke movement and to draw out the many connections between photography, political protest, and performance in postwar Japan. Suites of photographs and books by Nakahira, Takanashi, and Moriyama, the three main photographers of Provoke, anchor the show. Other important photographers with works on view include Sh\u00f4mei T\u00f4matsu, a mentor to many Provoke members; Eik\u00f4 Hosoe, the most internationally recognized photographer of the time; and Nobuyoshi Araki, who remains a popular and controversial figure today. An early happening by the Fluxus group Hi-Red Center; a street performance by actor and director Shuji Terayama; and a Conceptual Art series by K\u00f4ji Enokura and Jir\u00f4 Takamatsu bring the exhibition across disciplines and territories. Meanwhile, selections from a set of nearly 500 protest photographs and some 80 protest books represent vernacular creative work of the period.\n\nA major international traveling show, which has Chicago as its only North American venue, this exhibition is the first survey of postwar Japanese art to be organized at the Art Institute of Chicago and draws heavily on the the museum\u2019s collection\u2014more than 60% of the over 200 items on display belong to the Art Institute.",
+    "short_description": "This exhibition is the first to provide a thorough history of the Provoke movement and to draw out the many connections between photography, political protest, and performance in postwar Japan.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2056/provoke-photography-in-japan-between-protest-and-performance-1960-1975",
+    "image_url": "https://artic-web.imgix.net/50219a62-6189-48f2-ac7b-01d28a88050f/exh_provoke_main_360_0.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=89%2C133%2C311%2C175",
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2017-01-28T00:00:00-06:00",
+    "aic_end_at": "2017-04-30T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [
+        "ccd97358-891e-5a5a-d592-0231a41a3c83",
+        "92a4312f-6b55-7673-b560-76ed6ef1a387",
+        "2b671a58-01db-793a-ba9b-e9bfd60c1d0f",
+        "d3cfd8b9-9aaf-b6b3-ad6d-5961abe6d7e9",
+        "c076cf91-ffd6-e942-6b20-cd485512281c",
+        "5e5ccbb5-cf71-59e7-e14f-8d76973150f7",
+        "98c19f63-b3ff-5d32-dedc-1928c5b4ac59",
+        "117f3676-9122-8468-59ce-0cdadda4b885",
+        "109ca0a5-7b4d-ab24-5531-d9446ad56624",
+        "2998b0b3-7794-0648-d021-1f009b37e248",
+        "932907dd-10a8-fcf4-9042-2c062702dbd1",
+        "d06934de-e5e2-d0a0-491c-a0964b1ad694",
+        "119e19fb-b85a-39cb-4dcb-cbfbd3bf69e8",
+        "92adc973-d5ec-4c39-cdad-b71f4b99f913",
+        "7a5d6c3a-c976-9010-acfc-166f801aa3ba",
+        "4075e434-0642-398d-a023-cb2bda8eeba6",
+        "0c93fdbb-df2f-2858-62bc-0f270df101bb",
+        "7f0ddb77-f654-129e-eeb1-112b4ab4c86b",
+        "7edb05a1-61ab-16fb-10b8-3dbabcae6ab9",
+        "85a6bc3e-14f3-76cc-4512-4d26639d041c",
+        "b0bb4e78-e697-1d2d-476c-7bd7ffccd0bc",
+        "bcdc200e-7f1b-1d80-971c-8d9f721d5123",
+        "5aefd5a7-f14e-444a-69c6-c26209dfc83b",
+        "27799572-93c2-6df6-0871-366a4662a8b3",
+        "80ce32c3-a062-7d8a-7b4c-4cbda28d9903",
+        "f2e3094c-d6fb-682b-8e8a-ad1a46498d1c"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Provoke: Photography in Japan between Protest and Performance, 1960-1975"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-12-11T19:00:45-06:00",
+    "last_updated": "2021-01-13T23:28:11-06:00",
+    "timestamp": "2021-01-14T17:13:35-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 2994,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2994",
+    "title": "I Am the Sun",
+    "is_featured": false,
+    "description": "Concurrent with Moholy-Nagy: Future Present, this exhibition, which features books on artists, highlights experimental photography's collaborations with light and time, and the simultaneous generosity and violence of the sun.\n\nCommencing with a reproduction of H. Fox Talbot's six-installment publication The Pencil of Nature, this exhibition emanates from his definition of photographs as \"photogenic drawings\" generously \"impressed by the agency of Light alone,\" an interpretation that draws attention to the indexicality and medium-specificity of photography and its fundamental qualities: light and time.\n\nFeaturing books and periodicals on experimental photographers Chris McCaw and Charles Ross, who both collaborate with the sun, encouraging a concentration of the sun's light and heat through lenses to burn marks into film and wood, respectively, evidencing the sun's destructive capabilities and its ability to author its own marks.\n\nTwo editions of Kikuji Kawada's The Map document the violent \"black stain\" effect of the \"intense sunlight of Hiroshima\" produced by the Atomic Bomb. These are accompanied by an anonymously created book, which speaks of a black sun that lives within the center of our planet.\n\nBooks documenting L\u00e1szl\u00f3 Moholy-Nagy's light sculptures are represented alongside representations of Otto Piene's installation The Proliferation of the Sun, detailing how mid-20th century artists harnessed electric light within time-based performances to elicit the sun's energy and vibrance.\n\nFinally, connections are made with a collection of books depicting the solar writings of Kukulk\u00e1n at Chichen Itza, the mythic son of the sun Akhenaten, and album covers of the jazz musician Sun Ra, who composed music of the sun with his Solar Arkestra.",
+    "short_description": "Concurrent to the Moholy-Nagy retrospective, this exhibition features books on artists highlighting experimental photography's collaborations with light and time.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2994/i-am-the-sun",
+    "image_url": "https://artic-web.imgix.net/c3a7f652-757d-4e38-9bf5-9bbef2412c16/exh_I-am-sun_main_360h.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2016-09-27T00:00:00-05:00",
+    "aic_end_at": "2016-12-05T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "I Am the Sun"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:07-06:00",
+    "timestamp": "2021-01-14T17:13:50-06:00"
+}

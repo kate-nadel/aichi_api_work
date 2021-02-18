@@ -1,0 +1,57 @@
+{
+    "id": 2629,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2629",
+    "title": "Kemang Wa Lehulere: In All My Wildest Dreams",
+    "is_featured": false,
+    "description": "The focus series exhibition In All My Wildest Dreams is the first American museum show devoted to the work of Kemang Wa Lehulere (born Cape Town, 1984). Internationally recognized for his masterful conflation of personal and collective storytelling, Wa Lehulere reenacts what he calls \u201cdeleted scenes\u201d from South African history, often animating individual narratives of exile or displacement through means that are ephemeral, found, and notational\u2014chalk drawings on blackboard surfaces, intense but short-lived performances, salvaged wood from old school desks, sketchbook pages, letters written to friends, strangers, and public institutions\u2014as if to suggest the gallery as a fantastical, crucially temporary classroom. \u201cHistory continually disappears,\u201d Wa Lehulere has said. \u201cIt comes and goes. It is not something fixed; it is malleable. . . . It is the elasticity of history that excites me.\u201d At the same time, he describes his work as a \u201cprotest against forgetting\u201d; history is constructed, and memory is fragile.\n\nBeginning with the title of his Art Institute exhibition, Wa Lehulere invokes not only the past and an imagined future but also a present in which dreams might materialize. New sculptures, paintings, video, and a wall carving demonstrate the artist\u2019s evocative visual language through certain recurrent motifs\u2014imagery of rehearsing, revising,  and recovering, for instance, or signifiers of travel, transit, and mobility, such as used suitcases, tires, wooden crutches, and a trio of suspended \u201cpaper planes.\u201d More than 20 ceramic dogs suggest tchotchkes and, more solemnly, household guardian figures. Dozens of small drawings reveal the artist\u2019s working process.\n\nAt the heart of this show is a vigorous performance work, Echoes of Our Footsteps (A Reenactment of a Rehearsal). Video of the piece, as performed by Wa Lehulere and Chuma Sopotela, is shown on a loop in front of a demarcated but empty performance space that appears to be waiting for its actors. Any artwork could be understood as the record of an artist\u2019s thought and activity, but for Wa Lehulere, questions of residue and memory, of physical presence and palpable absence, are instrumental\u2014at once aesthetic and ethical\u2014rather than merely incidental. \n\nThe focus exhibition Kemang Wa Lehulere: In All My Wildest Dreams is organized by the Art Institute of Chicago.",
+    "short_description": "The first American museum exhibition devoted to this contemporary South African artist demonstrates the artist\u2019s masterful conflation of personal and collective storytelling.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2629/kemang-wa-lehulere-in-all-my-wildest-dreams",
+    "image_url": "https://artic-web.imgix.net/de5e99d8-a813-4251-9484-e760a8c12c2d/exh_focus_main_6_480.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-10-27T00:00:00-05:00",
+    "aic_end_at": "2017-01-15T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [
+        228513,
+        228514,
+        228479,
+        228480,
+        228482,
+        228483,
+        228484
+    ],
+    "artwork_titles": [
+        "falling event 10",
+        "grass greener on the other side 5",
+        "Spatial poem reply 1",
+        "Spatial poem reply 2",
+        "falling event 1",
+        "falling event 9",
+        "grass greener on the other side 4"
+    ],
+    "artist_ids": [
+        114110
+    ],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Kemang Wa Lehulere: In All My Wildest Dreams"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-06-15T21:49:23-05:00",
+    "last_updated": "2021-01-13T23:28:29-06:00",
+    "timestamp": "2021-01-14T17:13:41-06:00"
+}

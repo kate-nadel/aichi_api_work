@@ -1,0 +1,39 @@
+{
+    "id": 1357,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1357",
+    "title": "June Wayne's Narrative Tapestries: Tidal Waves, DNA, and the Cosmos",
+    "is_featured": false,
+    "description": "A pioneer in the revival of lithography during the early 1960s and a relentless explorer of the possibilities of paint, June Wayne has been a major national and international figure in the Los Angeles art scene for decades. June Wayne\u2019s Narrative Tapestries: Tidal Waves, DNA, and the Cosmos brings together 11 dynamic tapestries inspired by Wayne\u2019s innovative graphic designs and woven between 1970 and 1974. Magisterial in their conception and extraordinary in their refined beauty and execution, these works showcase not only Wayne\u2019s unique vision but also the rich possibilities of uniting contemporary ideas with a centuries-old medium.\n\nKnown as the founder of the Tamarind Lithography Workshop as well as for her work as a lithographer, painter, and writer, Wayne turned her innovative eye actively to tapestry in the early 1970s. This ancient medium attracted Wayne foremost with its limitless dimensions; even the largest sheet of paper and lithographic stones were small and confining in comparison. Additionally, the material offered a unique sensuality; spun yarns were soft and pliable and so different from a printed line. While divergent in many ways, tapestry and lithography did have a commonality that was central to Wayne\u2019s work\u2014both were art forms built on modules. The modules of each are miniscule\u2014the stitch in the case of weaving and the pores in the stone of the lithograph\u2014but these small units were capable of carrying Wayne\u2019s aesthetic message.\n\nAfter a friend and leading tapestry scholar introduced her to some of Paris\u2019s most revered weaving ateliers in 1970, Wayne embarked on her four-year tapestry project, involving herself intimately with each and every aspect of the process. From adapting and reworking full-scale cartoons of her lithographs to selecting the precise shading of colors and thickness of the yarns to checking the weavers\u2019 progress weekly, Wayne took a very hands-on approach to seeing that her designs were carried out precisely to her wishes. On December 4, 1974, her tapestries were unveiled to great success at the noted Galerie la Demeure in Paris. Eleven of these celebrated works are reunited in this exhilarating exhibition at the Art Institute.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-11-03T00:00:00-05:00",
+    "aic_end_at": "2011-05-15T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": 26129,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "June Wayne's Narrative Tapestries: Tidal Waves, DNA, and the Cosmos"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:15-06:00",
+    "timestamp": "2021-01-14T17:13:22-06:00"
+}

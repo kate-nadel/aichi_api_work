@@ -1,0 +1,39 @@
+{
+    "id": 3202,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3202",
+    "title": "The Midcentury Mood: Milton Schwartz in America, 1953\u20131965",
+    "is_featured": false,
+    "description": "Despite his significant contributions to the Chicago skyline and groundbreaking early hotel design for the Las Vegas Strip, Milton Schwartz remains an under-recognized figure from an important period in American architecture. The son of an engineer, Schwartz studied at the University of Illinois, where he was inspired to become an architect by the lectures of Frank Lloyd Wright. After a few years in the construction industry during World War II, Schwartz founded his own Chicago architectural practice and soon completed his first project, a visionary co-op building, 320 Oakdale, where he combined passive solar technology with a dynamic aesthetic of glass, aluminum, and modern brise-soleil. Schwartz went on to specialize in high-rise apartment buildings and designs for leisure and hospitality, most notably his iconic tower and restaurants for the Dunes Hotel in Las Vegas.\n\nSchwartz\u2019s award-winning hotels and motels reflect the image and attitude of the automobile and jet age. For his work in Las Vegas, he paired a modern vocabulary of forms and materials with fantastic new environments integrating water, color, lighting, and scenography. Among the first large resorts in postwar Las Vegas, the Dunes Hotel became a symbol of midcentury decadence in the United States in popular culture as well as for the iconoclastic architectural theory of the postmodern era. Schwartz\u2019s drawings of towers, hotels, and beautifully rendered signage and interiors not only present images of heroic midcentury construction, but also the expanded languages of modern architecture in America.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-03-21T00:00:00-05:00",
+    "aic_end_at": "2015-07-05T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 2147473418,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Midcentury Mood: Milton Schwartz in America, 1953\u20131965"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:04-06:00",
+    "timestamp": "2021-01-14T17:13:56-06:00"
+}

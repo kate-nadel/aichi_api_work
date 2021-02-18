@@ -1,0 +1,39 @@
+{
+    "id": 1696,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1696",
+    "title": "Abelardo Morell: The Universe Next Door",
+    "is_featured": false,
+    "description": "Over the course of the past 25 years, Cuban-born American artist Abelardo Morell has become internationally renowned for works that employ the language of photography to explore visual surprise and wonder. This exhibition of over 100 works made from 1986 to the present is the first retrospective of Morell\u2019s photographs in 15 years. Showing a range of works and series\u2014including many newer color photographs never exhibited before\u2014the exhibition reveals how this persistently creative artist has returned to a photographic vocabulary as a source of great inspiration.\n\nMorell came with his family to the United States as a teenager in 1962. He received a scholarship to attend Bowdoin College in Maine, where he first took a photography course; he later completed an MFA in photography at Yale University, looking to street photographers such as Henri Cartier-Bresson and Robert Frank as models. After the birth of his son in 1986, he began making large-format pictures around his home, examining common household objects with childlike curiosity. As a professor at Massachusetts College of Art and Design, he experimented with optics in his teaching and initiated a series in which he turned an entire room into a camera obscura, photographing the projection of the outside world juxtaposed onto the surfaces of the room\u2019s interior.\n\nThese twin poles\u2014examining objects and images with fresh vision and exploring simple optics in myriad forms\u2014have been consistent orientation points for the many series that have since followed. Morell has turned his camera on conveyors of cultural meaning such as books, maps, money, and museums in extensive series that explore the perception of images. He has experimented with techniques as varied as photograms, still-life tableaux, stop-motion studies, and most recently the tent camera\u2014a kind of portable camera obscura that throws the image of a landscape upon the ground\u2019s surface. Now, after decades of working exclusively in black and white, he has begun to embrace color, both returning to old themes and series to view them in a new spectrum and pioneering new ways to understand optical effects, nature, and picture making. Showcasing his ever-inventive practice, this retrospective traces Morell\u2019s innovative career as he continues to mine the essential strangeness and complexity of images.",
+    "short_description": "The first retrospective of Abelardo Morell\u2019s photographs in 15 years features over 100 works made from 1986 to the present, including many newer color photographs never exhibited before.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1696/abelardo-morell-the-universe-next-door",
+    "image_url": "https://artic-web.imgix.net/fb72b618-7722-44ad-8eb8-c9c6246febaa/2013.1AbelardoMorell.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C2841%2C1596",
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2013-06-01T00:00:00-05:00",
+    "aic_end_at": "2013-09-02T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 25210,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Abelardo Morell: The Universe Next Door"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:08-06:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

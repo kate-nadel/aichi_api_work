@@ -1,0 +1,39 @@
+{
+    "id": 3325,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3325",
+    "title": "Holidays 2013: Open Something Greater",
+    "is_featured": false,
+    "description": "Passion, inspiration, creativity, wonder\u2014these are just a few of the experiences you\u2019ll discover in your Art Institute stocking this holiday season.",
+    "short_description": "Passion, inspiration, creativity, wonder\u2014these are just a few of the experiences you\u2019ll discover in your Art Institute stocking this holiday season.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3325/holidays-2013-open-something-greater",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-11-29T00:00:00-06:00",
+    "aic_end_at": "2014-01-08T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Holidays 2013: Open Something Greater"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:39-06:00",
+    "timestamp": "2021-01-14T17:13:59-06:00"
+}

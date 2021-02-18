@@ -1,0 +1,41 @@
+{
+    "id": 2837,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2837",
+    "title": "Aerospace Design: The Art of Engineering from NASA\u2019s Aeronautical Research",
+    "is_featured": false,
+    "description": "Special tickets are not required for this exhibition. Enjoy the exhibition during regular museum hours.\n\n \nAerospace Design: The Art of Engineering from NASA\u2019s Aeronautical Research explores the architecture and engineering of wind tunnels by displaying approximately 90 objects from NASA\u2019s collection, including wind tunnel models and flight artifacts, past and present. The exhibition commemorates the centennial of powered, controlled flight that began with the landmark take off of the Wright brothers on December 17, 1903.\n\nObjects included in the exhibition date back to NASA\u2019s predecessor, the National Advisory Committee for Aeronautics (NACA), founded in 1915. Created out of that agency at the beginning of the space race in 1958, NASA has a wealth of often unexhibited and unpublished artifacts that not only document technological advances in flight over the past century but are also aesthetically striking. Beyond the historic dimension, the exhibition showcases some of the latest research being done for aircrafts with \"morphing\" wings, self-healing vehicle \"skins\" and biologically inspired sensors\u2014elements that NASA hopes will make future air travel accident free, environmentally friendly, and affordable and accessible. In all, the project presents the history of aeronautically engineered forms in relation to architecture and design, much as previous Art Institute exhibitions have analyzed architecture and design for commercial aviation, space travel, and contemporary railroad travel. Visitors are shown another example of how aviation design is as beautiful as it can be functional.",
+    "short_description": "Aerospace Design: The Art of Engineering from NASA\u2019s Aeronautical Research explores the architecture and engineering of wind tunnels by displaying approximately 90 objects from NASA\u2019s collection, including wind tunnel models and flight artifacts, past and present. The exhibition commemorates the centennial of powered, controlled flight that began with the landmark take off of the Wright brothers on December 17, 1903.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2837/aerospace-design-the-art-of-engineering-from-nasas-aeronautical-research",
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2003-08-02T00:00:00-05:00",
+    "aic_end_at": "2004-02-08T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [
+        16
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Aerospace Design: The Art of Engineering from NASA\u2019s Aeronautical Research"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:52-06:00",
+    "timestamp": "2021-01-14T17:13:45-06:00"
+}

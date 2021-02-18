@@ -1,0 +1,39 @@
+{
+    "id": 543,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/543",
+    "title": "On the Scene: Kota Ezawa, Sarah Hobbs, Angela Strassheim",
+    "is_featured": false,
+    "description": "Focusing on recent work by Kota Ezawa, Sarah Hobbs, and Angela Strassheim, On the Scene explores the diverse range of art produced by a new generation of photographers.\n\nKota Ezawa knows which aspects of an iconic image\u2014whether from film, television, or the history of photography\u2014sear themselves into our collective memory. In his paper cutouts, light boxes, and slides, only the essential shapes and colors remain, trumping all the details, shadows, and nuance that could be found in the original picture. Whether using collage technique or graphics software, Ezawa reconsiders the source image from a variety of perspectives. Included in the exhibition is The History of Photography Remix, a slideshow that showcases more than 40 of Ezawa\u2019s pared-down visions sampled from art, journalism, publicity shots, and other modes of photography from the past 150 years.\n\nSarah Hobbs\u2019s carefully staged and photographed scenarios reflect a profound\u2014even empathetic\u2014understanding of phobias, neuroses, and obsessions. Suggesting these qualities through her use of backdrops and objects indicative of an unseen personality, she encourages the viewer to participate in an exploration of behavioral aberrations. Works from her series Does This Sound Like You? and the earlier Small Problems in Living, both featured in On the Scene, make tangible such problems as insomnia, perfectionism, and indecisiveness.\n\nAngela Strassheim\u2019s lush narrative photographs are marked by careful attention to lighting, tones, and gestures as well as keen depictions of recognizable scenes\u2014a girl on tiptoe peering out the window or a mealtime family prayer. Ambiguous, even unbelievable at times, in their stilled perfection and sugary colors, these photographs invite us to determine how seemingly mundane moments have shaped our lives.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-05-19T00:00:00-05:00",
+    "aic_end_at": "2007-09-02T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 2147476637,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "On the Scene: Kota Ezawa, Sarah Hobbs, Angela Strassheim"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:50-06:00",
+    "timestamp": "2021-01-14T17:13:09-06:00"
+}

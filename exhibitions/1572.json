@@ -1,0 +1,39 @@
+{
+    "id": 1572,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1572",
+    "title": "Allen Ruppersberg: No Time Left To Start Again/The B and D of R 'n' R",
+    "is_featured": false,
+    "description": "Since the start of his artistic career in Los Angeles in the late 1960s, Allen Ruppersberg has had a formative influence on at least three generations of artists. As a pioneer of Conceptual Art, he developed uses of narrative and appropriation that foretold waves of new work in the 1970s such as the works featured in the 1975 Dutch exhibition Narrative Art and the rise of appropriation art and the Pictures Generation circa 1977. Shuttling among Los Angeles, New York, and Amsterdam throughout the 1970s and 1980s, Ruppersberg came into contact with a variety of local art scenes, becoming an \u201cartist\u2019s artist\u201d with an important following in Europe. Over the last several years, Ruppersberg has become even more visible with his participation in the MoMA exhibition In and Out of Amsterdam (2009), the Frieze and Basel art fairs, and most recently Light Years: Conceptual Art and the Photograph, 1964\u20131977at the Art Institute of Chicago.\n\nRuppersberg\u2019s latest piece, No Time Left to Start Again/The B and D of R \u2019n\u2019 R, is a sweeping survey of American vernacular recorded music from blues singers of the early 1900s through guitarists of the 1960s. Ruppersberg has compiled a history of folk, gospel, blues, and rock by scanning and laminating three kinds of source material: covers for vinyl records, amateur snapshots taken at music events, and obituaries for musicians. Thousands of these photocopies will be hung on brightly colored pegboard and stacked in specially made boxes arranged on the floor for the various sections of the show, which deal with music in the home, church, sock hop, and elsewhere. The colorful design of the pegboard and boxes, a look that Ruppersberg has used with remarkable variety for many years, itself deliberately recalls posters for high school dances (the silkscreen printing is in fact done with a company that makes such posters). All of the several thousand photocopies, meanwhile, will be available for reading in binders at a station in the center of the exhibition, where visitors can also hear the approximately 1,400 popular songs that the artist has collected, some dating as far back as 1906. Ruppersberg's equally extensive collection of snapshots will also be projected in its entirety on a wall outside the exhibition gallery.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-09-21T00:00:00-05:00",
+    "aic_end_at": "2013-01-06T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25210,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Allen Ruppersberg: No Time Left To Start Again/The B and D of R 'n' R"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:38-06:00",
+    "timestamp": "2021-01-14T17:13:25-06:00"
+}

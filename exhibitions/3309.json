@@ -1,0 +1,39 @@
+{
+    "id": 3309,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3309",
+    "title": "The Formation of the Japanese Print Collection at the Art Institute: Frank Lloyd Wright and the Prairie School (2012)",
+    "is_featured": false,
+    "description": "As an architect, art dealer, and designer, Frank Lloyd Wright was greatly inspired and influenced by the art and culture of Japan. His 1893 visits to Japan\u2019s national pavilion at the World\u2019s Columbian Exposition in Chicago had a lasting affect on the young architect. He first went to Japan in 1905, and returned from the trip with a large selection of prints, many of which he intended to sell. Later, he resided in Japan while working on Tokyo\u2019s Imperial Hotel, giving him the chance to deepen his appreciation of Japanese nature and culture as seen in woodblock prints. While he did not return to Japan after the hotel\u2019s completion in 1922, he continued to collect and sell prints until his death in 1959.\n\nOver the course of his lifetime, Frank Lloyd Wright consistently lent Japanese prints to the Art Institute, but his most important exhibition was undoubtedly a large show of prints he mounted at the museum in 1908 with an installation of specially designed frames and furniture. For the first time, museum visitors in Chicago were treated to a staggering array of Japanese prints from a variety of artists and time periods. The majority of the works on view were lent by Frank Lloyd Wright himself.\n\nClarence Buckingham, whose name graces the Japanese print gallery at the Art Institute, purchased several prints from Frank Lloyd Wright for his personal collection in 1911. For this sale, and throughout Buckingham's years as a collector, he sought the advice of fellow collector and art consultant Frederick Gookin. Following Buckingham's death, Gookin organized the Buckingham collection for accessioning by the Art Institute and held the position as curator of Japanese art until 1936.\n\nThis exhibition is comprised of Japanese prints originally purchased from Frank Lloyd Wright, photos of the 1908 exhibition, as well as presentation drawings by Wright and his studio. Many of the drawings are by talented draftswoman Marion Mahony Griffin and show the incorporation of elements found in Wright\u2019s Japanese prints. In this collaborative exhibition, works drawn from the departments of Asian Art, Architecture and Design, and the Ryerson and Burnham Libraries will be on view.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-08-18T00:00:00-05:00",
+    "aic_end_at": "2012-11-04T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Formation of the Japanese Print Collection at the Art Institute: Frank Lloyd Wright and the Prairie School (2012)"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:33-06:00",
+    "timestamp": "2021-01-14T17:13:58-06:00"
+}

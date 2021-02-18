@@ -1,0 +1,39 @@
+{
+    "id": 1019,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1019",
+    "title": "American Modern: Abbott, Evans and Bourke-White",
+    "is_featured": false,
+    "description": "In the 1930s, photographers pushed the genre of documentary photography to the forefront of public culture in the United States and onto the walls of newly opened museums and art galleries. That historic development receives new insight with this exhibition focusing exclusively on the work of American photographers Berenice Abbott, Walker Evans, and Margaret Bourke-White.\n\nPhotographic activity flourished in America in the 1930s during the Great Depression, and the genre of documentary emerged as a mode of understanding contemporary events. While the world was in a turbulent state\u2014national and international economies were being severely tested, political systems were in flux, and Europe was preparing again for war\u2014Americans recognized their own viable cultural heritage and sought to record and expand that heritage. Indeed, the country\u2019s literary, artistic, and architectural traditions were fortified in the period\u2019s explosion of popular literature, the founding of new art museums, and the establishment of New Deal government-funded arts programs.\n\nAt the same time, advances in technology, production, and distribution transformed mass media in this country: Americans enjoyed weekly picture magazines, radio broadcasts, and popular movies in unprecedented numbers. Photography played an especially critical role in contemporary culture, appearing in books, newspapers, and magazines as well as being accorded exhibitions in art museums and galleries. Photographs crossed the boundaries between public and private use, impersonal documentation and expressive creation, and popular visual culture and fine art.\n\nAmerican Modern examines the practice of documentary photography through the work of three of the most important photographers of the decade, each of whom contributed a fundamental, independent, and novel idea about documentary to the common pool of artistic practice. For Abbott, it was the notion that photography was a means of critical dialogue and communication. Evans thoroughly investigated the idea that photography has a unique and essential relationship to time. And Bourke-White\u2019s documentary practice fused the logic and pageantry of modern industry with the drama and individual narratives of its subjects.\n\nCatalogue\nA lavishly illustrated catalogue accompanies the exhibition.\n\nSponsor\nThis exhibition is co-organized by the Amon Carter Museum of American Art in Fort Worth, Texas, and the Colby College Museum of Art in Waterville, Maine.\n\nThe exhibition and accompanying publication have been made possible in part by the National Endowment for the Arts, the Mr. and Mrs. Raymond J. Horowitz Foundation for the Arts, and the Robert Mapplethorpe Foundation.\n\nSupport for the Chicago presentation of this exhibition is generously provided in part by the Terra Foundation for American Art.\n\nGenerous support is provided by members of the Exhibitions Trust: Goldman Sachs, Kenneth and Anne Griffin, Thomas and Margot Pritzker, the Earl and Brenda Shapiro Foundation, Donna and Howard Stone, Mr. and Mrs. Paul Sullivan, and an anonymous donor.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2011-02-05T00:00:00-06:00",
+    "aic_end_at": "2011-05-15T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "American Modern: Abbott, Evans and Bourke-White"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:22-06:00",
+    "timestamp": "2021-01-14T17:13:16-06:00"
+}

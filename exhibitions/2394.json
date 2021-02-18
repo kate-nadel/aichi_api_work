@@ -1,0 +1,39 @@
+{
+    "id": 2394,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2394",
+    "title": "Ursula von Rydingsvard",
+    "is_featured": false,
+    "description": "At nearly 20 feet tall, Bronze Bowl with Lace by Ursula von Rydingsvard is a towering form that is as commanding as it is delicate. The undulating bronze surface recalls the cedar from which it was cast, while the color of the patina varies subtly, playing off the change of light in the open air. Perhaps most striking is the intricate lace at the top, whose elaborate pattern is illuminated from within by a special lighting system, an effect that is particularly dazzling in so massive a form.\n\nThe internationally renowned von Rydingsvard was born in Deensen, Germany, to parents of Polish and Ukrainian origins who immigrated to the United States following World War II. For close to 40 years, the artist has worked in Brooklyn, making large and impressive sculptures from cedar, an exceedingly porous and pliable wood sympathetic to the complex textural surfaces that define the artist\u2019s work\u2014surfaces that may, as the artist put it, feel like \u201cfabric in the wind.\u201d She begins with simple lines scrawled on the studio floor and from there works intuitively, experimenting with form and making changes when needed. The process is arduous: wood is cut, the pieces are stacked and screwed into place, and, once built, the entire sculpture is reverse stacked and laminated in sections. First constructed in cedar, the majority of Bronze Bowl was then sand cast in bronze. The uppermost lace portion was cast using the lost-wax method. The lace pattern was traced onto wax molds and cut out by hand; when the wax melted during the casting process, an elaborate web was left behind. Finally, a patina was applied, bringing the surface to life.\n\nBronze Bowl with Lace, the artist\u2019s most ambitious sculpture, is also her first to be displayed at the Art Institute. This work, monumental in both detail and scale, demands to be experienced from both near and far. Fortunately, its installation outdoors, rising from the Bluhm Family Terrace, makes this possible.\n\nSponsors\nThis exhibition is organized by the Art Institute of Chicago with major funding from the Bluhm Family Endowment Fund, which supports exhibitions of modern and contemporary sculpture.\n\nSpecial thanks are due to the City of Chicago Department of Cultural Affairs and Special Events.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-10-08T00:00:00-05:00",
+    "aic_end_at": "2016-04-24T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25238,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ursula von Rydingsvard"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-09-13T11:48:26-05:00",
+    "last_updated": "2021-01-13T23:27:56-06:00",
+    "timestamp": "2021-01-14T17:13:39-06:00"
+}

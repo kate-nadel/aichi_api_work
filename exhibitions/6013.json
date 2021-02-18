@@ -1,0 +1,39 @@
+{
+    "id": 6013,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6013",
+    "title": "Swiss Drawings: Masterpieces of Five Centuries",
+    "is_featured": false,
+    "description": "This exhibit was sponsored in part by the Swiss government and was circulated through the Smithsonian Institution. It marked one of the first times American viewers had the privilege of seeing a full sweep of Swiss draftsmanship over the course of five centuries.  It featured the work famous Swiss artists like Giacometti, Holbien, Hodler, Lindtmeyer, Moilliet, and Master H.F.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1968-02-24T00:00:00-06:00",
+    "aic_end_at": "1968-03-26T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Swiss Drawings: Masterpieces of Five Centuries"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-11-18T10:31:09-06:00",
+    "last_updated": "2019-11-18T11:11:22-06:00",
+    "timestamp": "2021-01-14T17:14:49-06:00"
+}

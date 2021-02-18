@@ -1,0 +1,39 @@
+{
+    "id": 1930,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1930",
+    "title": "Heaven and Earth: Art of Byzantium from Greek Collections",
+    "is_featured": false,
+    "description": "Heaven and Earth: Art of Byzantium from Greek Collections presents 63 superb artworks from the early Christian and Byzantine eras in the Mary and Michael Jaharis Galleries of Greek, Roman, and Byzantine Art. Originally exhibited at the National Gallery of Art in Washington, DC, and the J. Paul Getty Museum in Los Angeles, the exhibition represents major artistic holdings from Greece\u2014many of which have never been exhibited outside that country\u2014consisting of shimmering mosaics, architectural fragments, manuscripts, luxury glass, silver, personal adornments, liturgical textiles, and painted icons. The Art Institute\u2019s display offers a selection of exceptional works from the original exhibition, including the debut of the 14th-century Icon of Saint Prokopios.\n\nFor over 1,000 years, Greece was part of the vast Byzantine Empire, established in 330 A.D. by the emperor Constantine, who moved the capital of the Roman Empire eastwards to a small town named Byzantium in modern-day Turkey. Renamed and transformed into Constantinople, Byzantium would later lend its name to an empire of splendor and power that endured for more than a millennium. Greek replaced Latin as the language of the empire, and Greece itself was home to important centers of theology, scholarship, and artistic production. Heaven and Earth explores the rich legacy of the Byzantine Empire through five main themes: the transition from the Classical to the Byzantine world, spiritual life, intellectual life, the pleasures of life, and crosscurrents between East and West during the final days of the empire in the 15th century.",
+    "short_description": "Over 60 sumptuous works of art\u2014mosaics, architectural fragments, manuscripts, glass, silver, textiles, and painted icons\u2014come together from museums throughout Greece.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1930/heaven-and-earth-art-of-byzantium-from-greek-collections",
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2014-09-27T00:00:00-05:00",
+    "aic_end_at": "2015-05-10T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ancient and Byzantine Art",
+    "gallery_id": 26777,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Heaven and Earth: Art of Byzantium from Greek Collections"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:07-06:00",
+    "timestamp": "2021-01-14T17:13:34-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 2152,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2152",
+    "title": "Bridget Riley",
+    "is_featured": false,
+    "description": "Although Bridget Riley\u2019s bold, rhythmic abstractions are emblematic of the Op Art craze of the 1960s\u2014examining the reversible figure-ground relationship, perceptual vibrations, and hypnotic appeal\u2014her intense, rigorous works span more than this short-lived moment in art history. This single-gallery exhibition, Riley\u2019s first solo presentation at an American museum in nearly 15 years, features the Art Institute\u2019s own Ascending and Descending Hero (1963/65), an important early canvas, alongside an immersive, spiral-shaped sculpture, Continuum (1962/2005)\u2014on view for the first time in the United States\u2014that was, in many respects, the inspiration for the museum\u2019s painting. The installation also includes two of her iconic \u201cstripe\u201d paintings, offering insight into the artist\u2019s changing notions of spectacle and spectatorship.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-11-11T00:00:00-06:00",
+    "aic_end_at": "2015-03-08T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 23975,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Bridget Riley"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:00-06:00",
+    "timestamp": "2021-01-14T17:13:36-06:00"
+}

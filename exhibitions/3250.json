@@ -1,0 +1,39 @@
+{
+    "id": 3250,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3250",
+    "title": "The Challenge of American Style: McKim, Mead, and White's 1892 Lathrop Residence",
+    "is_featured": false,
+    "description": "In the final decades of the Victorian era, architectural critics lamented contemporary trends in domestic construction\u2014\u201criots of ugliness\u201d\u2014which they believed were responsible for a general disintegration of architectural tradition in the United States. These complaints focused on architects and builders who used a variety of stylistic borrowings from pattern books and popular magazines to appeal to a new market for \u201cindividualized\u201d houses incorporating neoclassical columns, pointed gothic arches, and a veritable cacophony of brick, stone, and painted wood finishes. As a reaction against these popular hybrid building practices, East Coast architects began to develop a more scholarly approach to historical European styles\u2014often with knowledge gained abroad\u2014which appealed to their elite clientele and effectively set the tone for a new era of American architecture.\n\nThis exhibition concentrates on a house designed in 1892 by one of the most vigorous designers in this new mode, Charles Follen McKim of the New York firm McKim, Mead, and White, who was well known for his refined and modern adaptations of historical styles. McKim designed this large Chicago residence for Bryan Lathrop, a prosperous real estate developer, and the plan remains one of the most complete examples of the Georgian Revival style\u2014an American fusion of early Colonial and 18th-century British models. The presentation of exquisite drawings of the Lathrop House interior and fa\u00e7ade demonstrates a new position of stylistic rigor in the late 19th-century \u201cBattle of the Styles.\u201d\n\nThis display is the first installment of a three-part exhibition exploring different architectural responses to the problem of style in American architecture. The series will continue through 2011 in the architecture and design galleries of the historic Michigan Avenue building.",
+    "short_description": "In the final decades of the Victorian era, architectural critics lamented contemporary trends in domestic construction\u2014\u201criots of ugliness\u201d\u2014which they believed were responsible for a general disintegration of architectural tradition in the United States. These complaints focused on architects and builders who used a variety of stylistic borrowings from pattern books and popular magazines to appeal to a new market for \u201cindividualized\u201d houses incorporating neoclassical columns, pointed gothic arches, and a veritable cacophony of brick, stone, and painted wood finishes.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3250/the-challenge-of-american-style-mckim-mead-and-whites-1892-lathrop-residence",
+    "image_url": "https://artic-web.imgix.net/6bf7794d-b171-44d5-ad71-123a974b9557/1996.806.75McKimMeadWhite.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=58%2C78%2C2337%2C1319",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-02-27T00:00:00-06:00",
+    "aic_end_at": "2010-06-13T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 2147473418,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Challenge of American Style: McKim, Mead, and White's 1892 Lathrop Residence"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:53-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

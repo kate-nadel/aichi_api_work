@@ -1,0 +1,39 @@
+{
+    "id": 3067,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3067",
+    "title": "France in the 18th Century: The Allure of China and Persia",
+    "is_featured": false,
+    "description": "In Gallery 220A, a small but choice group of prints from the Dorothy Braude Edinburg collection and a sheet of studies by Nicolas Lancret reveal the fascination with which 18th-century France contemplated the \u201cexotic\u201d cultures of the East. In this period, the tremendous vogue for Chinese and Persian luxury goods ignited a burning curiosity about the people and lifestyles of Oriental cultures.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-04-21T00:00:00-05:00",
+    "aic_end_at": "2007-10-01T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": 2147483611,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "France in the 18th Century: The Allure of China and Persia"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:23:08-06:00",
+    "timestamp": "2021-01-14T17:13:52-06:00"
+}

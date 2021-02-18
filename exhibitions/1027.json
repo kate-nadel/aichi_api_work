@@ -1,0 +1,41 @@
+{
+    "id": 1027,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1027",
+    "title": "Light Years: Conceptual Art and the Photograph, 1964-1977",
+    "is_featured": false,
+    "description": "From the mid-1960s, at a time when photography was commonly kept separate from the fine arts, a variety of artists associated with the nascent Conceptual Art movement began making and exhibiting photographic works as an integral contribution to debates about avant-garde painting and sculpture. Within a few years, their efforts had brought photography definitively into the mainstream of contemporary art.\nConceptual Art questioned habitual expectations of a work of art\u2014for example, that it should be singular and self-contained, or that it should emanate from an indescribable authorial sensibility. Uses of photography in the movement went hand in hand with an emphasis on art as information and on the roles played by spectators, critics, museums, and market values in validating the status of a work as art.\nConceptual photography also brought a new range of expression to progressive art, from humor to political critique, grounded in the mimicry of vernacular and commercial photographic genres. In exploring these areas, Conceptual artists helped to redefine the relationship of fine art to the broad public sphere of image creation and consumption.\nConceptual photography took many forms\u2014from photo-canvases and mixed-media sculptures to photobooks, magazine articles, slide and film projections, and postcards, as well as \"straight\" photographic prints shown singly or in series. It is this diversity of objects and presentation methods, rather than any fixed, categorical notion of photography or art in general, that is the lasting legacy of Conceptual Art: the establishment of contemporary art as a field without a medium.\nAs befits the presentation of this innovative exhibition, a special opening event occurred on Friday, December 9. Beginning at 6:00 p.m., the Art Institute projected Andy Warhol's 1964 film Empire\u2014a single, eight-hour-long nighttime take of the Empire State Building\u2014from the museum's Bluhm Family Terrace across Millennium Park to the upper stories of the Aon Center. Warhol's work thus set the stage for the artists featured in Light Years, who redrew the boundaries of both photography and contemporary art.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2011-12-11T00:00:00-06:00",
+    "aic_end_at": "2012-03-11T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 2147475902,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [
+        59
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Light Years: Conceptual Art and the Photograph, 1964-1977"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:32-06:00",
+    "timestamp": "2021-01-14T17:13:16-06:00"
+}

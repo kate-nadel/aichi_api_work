@@ -1,0 +1,46 @@
+{
+    "id": 2224,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2224",
+    "title": "Frances Stark: Intimism",
+    "is_featured": false,
+    "description": "For more than two decades Frances Stark (American, born 1967) has made a variety of work\u2014from essays, drawings, and iPhone photographs to moving-image work, performances, and PowerPoint presentations\u2014about the confluence of her art and her life. More specifically, Stark focuses on the working life of an artist as it converges with the non-working life of an artist, and vice versa; the contiguous spaces of productivity and procrastination; and the simultaneous sensations of pride and doubt.\n\nStark\u2019s primary mode is appealingly, even alluringly, confessional, yet not simply autobiographical. The distinction is key. She is blazingly honest\u2014indeed, equal parts courageous and audacious\u2014in her acts of self-assessment and self-exposure. She is likewise forthcoming in her deployment of the confessional mode to assess and expose art-world pressures as well as the pressures and rhetorical devices of self-presentation more broadly. Further, while Stark calls herself \u201cpathologically open,\u201d her gift for sharing intimate content is part and parcel with her gifts for both formal refinement and manifest theatricality.\n\nThe word Intimism\u2014the title of Stark\u2019s exhibition\u2014often refers to late 19th- and early 20th-century French paintings of small-scale, jewel-like domestic interiors, richly decorated and quietly inhabited. But the term can also be more broadly applied and is in fact renewed by Stark\u2019s work, which invests questions of privacy, affinity, proximity, and communion with both affective and political urgency.\n\nPart of the focus series, this exhibition marks the first comprehensive survey of Stark\u2019s video and digital production, from her prescient, lo-fi Cat Videos, begun in 1999, through slideshows derived from her Instagram feed, @therealstarkiller. Presented in both the Abbott Galleries and the Ryerson and Burnham Libraries and enhanced by a brief residency by Stark on the museum\u2019s Instagram account, the presentation is framed by early and new works on paper as well as a key selection from the museum\u2019s historical holdings, juxtaposing \u201cmoving\u201d images with \u201cstatic\u201d ones. Stark has a gift for balancing intimate content with a sense of theatricality; here the natural allure of the artist\u2019s confessional mode is matched by her concerted desire to draw the viewer into varying states of arrest, passage, and attention.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-04-21T00:00:00-05:00",
+    "aic_end_at": "2015-09-30T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "1cd1fd9d-d7c6-d2bd-b399-32941c5e552f",
+        "bbfb54d9-e974-83f4-0571-1c74448b828f",
+        "f0308de5-e746-77b5-0899-793c806c82db",
+        "48d98d16-fac4-430b-1985-7bccf372ca2f",
+        "ff8e1935-4323-1d97-4b34-b70a177dc972",
+        "36f89ad1-2ab6-0df5-a81a-b9a44f9794f3"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Frances Stark: Intimism"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:05-06:00",
+    "timestamp": "2021-01-14T17:13:36-06:00"
+}

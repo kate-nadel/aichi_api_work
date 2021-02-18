@@ -1,0 +1,49 @@
+{
+    "id": 4295,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4295",
+    "title": "Edward Hopper Retrospective",
+    "is_featured": false,
+    "description": "This Edward Hopper retrospective boasted more 130 oils, watercolors, drawings, and prints from 1908-1963. At the time of this exhibit, Hopper was 82 and had finally began receiving acclaim after living in relative obscurity for the first twenty years of his career before receiving his first retrospective at the Museum of Modern Art in 1933. The exhibit featured several renderings of New England landscapes that emphasized Hopper\u2019s honest portrayal of America with his signature style\u2014 overwhelmingly beautiful realism, as well as Hopper\u2019s equally classic city scenes which often featured nearly empty, dimly-lit rooms with people who seemed alone in a crowd..",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1964-12-18T00:00:00-06:00",
+    "aic_end_at": "1965-01-31T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "American Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "99abd4b1-648e-5ff0-236b-7661c549c417",
+    "alt_image_ids": [
+        "8d2adfb6-9a73-600b-c77c-892d965c01c5",
+        "27fe9289-2eec-0924-5c9b-757022b088a5",
+        "bf25ad6a-3c2c-8403-3499-875eab11245e",
+        "1fb2e6bc-225f-883e-9fa4-ead06eab9f15",
+        "4446dd06-8638-8ce1-2fc2-85858d2ba82d",
+        "1dda6a32-7e61-dd21-4a4f-f5d147bae008",
+        "fcf30d42-b6f1-dc27-3842-2eb0d36b7559"
+    ],
+    "document_ids": [
+        "f1fe27ef-939b-4842-c344-f432e6d2de95"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Edward Hopper Retrospective"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T14:40:46-05:00",
+    "last_updated": "2019-10-14T14:41:20-05:00",
+    "timestamp": "2021-01-14T17:14:17-06:00"
+}

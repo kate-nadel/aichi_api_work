@@ -1,0 +1,41 @@
+{
+    "id": 8703,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/8703",
+    "title": "American Exhibition of Painting and Sculpture 58th Annual: Abstract and Surrealist American Art",
+    "is_featured": false,
+    "description": "Most years the annual American exhibition showcased a cross section of contemporary American art, spanning a wide array of artistic trends. In 1947-48 however, the exhibition was solely focused on Abstract and Surrealist art, produced within the last 5 years. Of the 252 artists in the show, 111 had never exhibited in a museum before. Curator Katharine Kuh gained international fame by making this show a reality.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1947-11-06T00:00:00-06:00",
+    "aic_end_at": "1948-01-11T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "a0c16fdd-0d17-cb0b-5912-3a26f0cb73ed"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "American Exhibition of Painting and Sculpture 58th Annual: Abstract and Surrealist American Art"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:12:14-06:00",
+    "timestamp": "2021-01-14T17:15:56-06:00"
+}

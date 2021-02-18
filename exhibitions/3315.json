@@ -1,0 +1,39 @@
+{
+    "id": 3315,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3315",
+    "title": "Coursework: The 2012 Schiff Foundation Fellowship for Architecture",
+    "is_featured": false,
+    "description": "Founded by Harold Schiff in 1988, the Schiff Foundation Fellowship for Architecture is among the most prestigious prizes for architecture students in the United States. Each year the Illinois Institute of Technology, the School of the Art Institute of Chicago, and the University of Illinois at Chicago nominate a select group of students to submit projects developed in advanced design studios. The award serves as an important primer for future architectural competitions and has enabled winners to complete graduate degrees, pursue internships at firms around the world, and launch their own architecture offices.\n\nFollowing in the early 20th-century tradition of annual juried architecture exhibitions at the Art Institute, this presentation of the 2012 submissions to the Schiff Foundation Fellowship is a testament to the vibrant culture of architectural research and education in Chicago. The wide range of approaches to subject matter, research, and presentation in these projects reflects the goals of studio courses at the three schools, while highlighting important contemporary issues in the architectural profession at large. From buildings that respond to local ecology and recent political events, to critical reappraisals of historical districts and architectural styles, these topical proposals explore how architects engage with the world today.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-06-02T00:00:00-05:00",
+    "aic_end_at": "2012-09-03T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 2147473418,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Coursework: The 2012 Schiff Foundation Fellowship for Architecture"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:33-06:00",
+    "timestamp": "2021-01-14T17:13:59-06:00"
+}

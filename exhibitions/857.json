@@ -1,0 +1,39 @@
+{
+    "id": 857,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/857",
+    "title": "Picture Perfect: Art from Caldecott Award Books, 2006 - 2009",
+    "is_featured": false,
+    "description": "More than just a fun pastime, picture books can excite, challenge, or comfort children as well as teach lessons that help them make sense of the world. An integral component of these books\u2014their artwork\u2014vividly brings the stories to life, presenting both new and familiar situations in surprising and engaging ways. Each year the Association for Library Service to Children, a division of the American Library Association, honors the most outstanding picture book art by awarding these distinguished artists the Caldecott Medal. Named for the 19th-century English illustrator Randolph Caldecott, whose work was known for its humor and vitality, this prestigious annual award recognizes \u201cthe artist of the most distinguished American picture book for children.\u201d\n\nThis exhibition highlights 17 books that have received a Caldecott Medal or Honor Award for illustration between 2006 and 2009 and presents original picture book art that portray real-life situations, adventure, and family. The featured artworks offer a world of different media for families to explore, including watercolor, oil, woodblock prints, scratchboard, collage, ink, and pencil drawings. Parents and children can compare the original art to the works on the printed page to see how color, size, and texture change when art is reproduced in a book.\n\nThe exhibition is located in both the Family Room in the Ryan Education Center and Gallery 10, and picture books are available for families to read in each space. The award-winning artists included are Brian Collier, Marla Frazee, Beth Krommes, David McLimans, Jon J. Muth, Kadir Nelson, Beckie Prange, Marjorie Priceman, Chris Raschka, Laura Vaccaro Seeger, Brian Selznick, Uri Shulevitz, Peter S\u00eds, Melissa Sweet, David Wiesner, and Mo Willems.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2009-05-09T00:00:00-05:00",
+    "aic_end_at": "2009-11-08T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Learning & Public Engagement",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Picture Perfect: Art from Caldecott Award Books, 2006 - 2009"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:37-06:00",
+    "timestamp": "2021-01-14T17:13:14-06:00"
+}

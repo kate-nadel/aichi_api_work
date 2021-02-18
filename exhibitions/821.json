@@ -1,0 +1,41 @@
+{
+    "id": 821,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/821",
+    "title": "A Case for Wine: From King Tut to Today",
+    "is_featured": false,
+    "description": "Highlighting the museum and Chicago\u2019s special wine connections, the exhibition begins with one of the Art Institute\u2019s most famous vessels, the Chicago Painter\u2019s Vase, a Greek stamnos or wine jar that was purchased for the museum in 1889 during one of its very first European buying expeditions. The Bacchanalian revelry painted on the exquisite vessel is also explored in other works, from Italian Renaissance master Andrea Mantegna to Prohibition\u2013protesting sculptor Paul Manship.\nAfter boisterous scenes of Bacchus, the exhibition moves on to an examination of wine vessels both secular and religious. A comprehensive collection of 17th- and 18th-century English seal bottles trace the wine bottle\u2019s form from its more bulbous beginnings to its present-day svelte cylindrical shape, while a selection of chalices (many lent by Loyola University Museum of Art) dating from 14th-century Siena to mid-20th-century Chicago document the evolution of that form in both Catholic and Protestant worship.\nThe intoxicating exhibition offers several more exceptional highlights. The museum\u2019s outstanding collection of 16th- to 19th-century European wine glasses is displayed alongside paintings by Pieter Claesz, Jean Baptiste Sim\u00e9on Chardin, and Henri Fantin-Latour that incorporate remarkably similar wine glasses. A gallery saluting wine-related works of the World\u2019s Fairs offers a recent acquisition, Victorian architect William Burges\u2019s sideboard whose polychromatic surface tells the apocryphal story of \u201cSaint Bacchus\u201d who dies by drowning in a barrel of wine. Works by Impressionists, Cubists, and Surrealists offer insight into the wine-infused atmosphere of caf\u00e9 life. And in the final gallery, the work of modern and contemporary artists is featured including German painter Brigitte Riesebrodt\u2019s The Last Supper. Composed of recycled wooden wine barrel staves found near her studio in Tuscany, the work, thanks to the still saturated wood, suffuses the air with the subtle scent of wine, offering wine enthusiasts a chance to put their well-trained noses to work.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2009-07-11T00:00:00-05:00",
+    "aic_end_at": "2009-09-20T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [
+        44
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "A Case for Wine: From King Tut to Today"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:36-06:00",
+    "timestamp": "2021-01-14T17:13:13-06:00"
+}

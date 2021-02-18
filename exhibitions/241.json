@@ -1,0 +1,43 @@
+{
+    "id": 241,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/241",
+    "title": "Jeff Wall",
+    "is_featured": false,
+    "description": "Epic and luminous, the work of Jeff Wall has overturned nearly every convention of photography. Meticulously staged and theatrical in scale, Wall\u2019s images have more in common with the grandest history painting of the 18th century and the flickering mesmerism of cinema than with the fleeting, documentary style of much of modern photography. Forty-one works of the Vancouver-based artist, who pioneered the use of the light box as a vehicle for displaying photographs, are included in this major retrospective exhibition, previously installed in the Museum of Modern Art in New York. \n\nThe size and scale of the works in Jeff Wall, measuring on average 6 feet by 8 feet, are testaments to the ambitions of permanence the artist brings to photography\u2014as grand as monumental painting of the past three centuries, painstakingly staged and constructed, and digitally combined and altered. Wall\u2019s vision and use of photography represent a bold step forward in the reconsideration of this medium as a fine art, equal in stature to painting and sculpture, rather than relegated to a separate sphere of technically driven image-making. Jeff Wall is a rare opportunity to see works produced over nearly three decades, allowing viewers to not only enjoy the dazzling images themselves but to also experience the evolution and development of an artist's career.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2007-06-30T00:00:00-05:00",
+    "aic_end_at": "2007-09-23T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 2147475902,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [
+        59979
+    ],
+    "site_ids": [
+        10
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jeff Wall"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:49-06:00",
+    "timestamp": "2021-01-14T17:12:56-06:00"
+}

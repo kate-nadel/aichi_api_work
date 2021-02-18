@@ -1,0 +1,39 @@
+{
+    "id": 4000,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4000",
+    "title": "Greece: By 11 Greek Photographers",
+    "is_featured": false,
+    "description": "This exhibition contained 42 photographs, which highlighted the people, cities, and landscapes of Greece. As Curator of Photography, Peter Pollack noted, \u201cIt is a composite picture of old Greece and new Greece, but above all it is a picture of living Greece by its own photographers, shown outside its native land for the first time.\u201d The eleven Greek photographers with work in the exhibition included: Peter Broussalis, Manolis Diamantis, Nina Emmanuel, Dimitrios Harissiadis, Aris Konstantinidis, Nicholas Kydonieus, Athanasios Michalos, Pavlos Mylof, Demosthenes Patridis, Constantin Roucanis, Demetrios Sotiropulos.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1957-07-15T00:00:00-05:00",
+    "aic_end_at": "1957-09-30T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Greece: By 11 Greek Photographers"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T09:07:07-05:00",
+    "last_updated": "2019-10-15T09:11:18-05:00",
+    "timestamp": "2021-01-14T17:14:12-06:00"
+}

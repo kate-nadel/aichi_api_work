@@ -1,0 +1,39 @@
+{
+    "id": 3377,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3377",
+    "title": "The Making of a Woodblock Print",
+    "is_featured": false,
+    "description": "Traditionally, the creation of a woodblock print starts with a sketch or drawing. These can be preliminary, presenting only a rough idea of the ultimate composition. A final drawing, or hanshita, is one that is \u201cblock ready;\u201d the outlines are clear and serve as guides for production of the key block, which is carved with the outlines of the composition. Once a drawing is ready, it is laid face-down and adhered to the block. The carver then carves through the drawing, destroying it in the process. However, not all drawings were turned into prints. Publishers were known to cancel a particular print run if it would turn out to be too expensive to produce or yield little profit. In the modern era, artists would often draw out their ideas without the intention of creating a print, and therefore these sketches are more likely to remain.\n\nWoodblocks are made of a hard wood such as cherrywood. Multiple blocks were created to produce one image: a key block plus several color blocks. In pre-modern Japan, woodblocks were precious inventory for publishers, as they served as the copyright to an image. As long as the original woodblocks remained, an image could be reprinted and sold many times. This exhibition includes a key block from the 1850s as well as a replica that can be touched by visitors. Also on view is a book from the 1920s detailing the printing process, with one step illustrated per page, and a set of pigments and printmaking tools.",
+    "short_description": "This exhibition features rarely seen materials from the museum\u2019s collection that illuminate the process of Japanese woodblock printing.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3377/the-making-of-a-woodblock-print",
+    "image_url": "https://artic-web.imgix.net/16007205-c1b5-4ee7-b90c-7e87174e8df3/Utamaro_main.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=26%2C11%2C423%2C238",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2017-02-04T00:00:00-06:00",
+    "aic_end_at": "2017-04-16T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Making of a Woodblock Print"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:11-06:00",
+    "timestamp": "2021-01-14T17:14:00-06:00"
+}

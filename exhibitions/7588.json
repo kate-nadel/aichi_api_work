@@ -1,0 +1,43 @@
+{
+    "id": 7588,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7588",
+    "title": "Retrospective Exhibition of Paintings by Georgia O'Keeffe",
+    "is_featured": false,
+    "description": "A former student at the School of the Art Institute of Chicago, Georgia O\u2019Keeffe had a warm and lifelong affinity for the Art Institute. She was particularly close to the Institute\u2019s director Daniel Catton Rich (1939-1958), who offered her the opportunity of a retrospective exhibition at the museum in early 1943. Later in life, and in her bequest, O\u2019Keeffe donated many works painted or collected by her and her husband, Alfred Stieglitz, to the museum.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1943-01-21T00:00:00-05:00",
+    "aic_end_at": "1943-02-22T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "3c139f26-8d3e-645a-bf78-140adf0cc0d3",
+    "alt_image_ids": [
+        "e6c84332-a801-7a83-1405-815182b2ed0a"
+    ],
+    "document_ids": [
+        "bf203cce-4637-a0ff-c8f4-900945dc0875"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Retrospective Exhibition of Paintings by Georgia O'Keeffe"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:15:06-06:00",
+    "timestamp": "2021-01-14T17:15:24-06:00"
+}

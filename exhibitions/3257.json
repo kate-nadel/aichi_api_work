@@ -1,0 +1,39 @@
+{
+    "id": 3257,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3257",
+    "title": "Alfredo Jaar: Muxima",
+    "is_featured": false,
+    "description": "Since first coming to prominence in the early 1980s, Alfredo Jaar has simultaneously asserted and questioned art\u2019s ability to raise awareness, solicit empathetic response, and effectively advance social justice. He explores the ways in which social and economic inequities in the developing world are understood in the industrialized West. Exposing the often invisible prejudices embedded in images of cultural difference, his work aims to uncover power imbalances on a global scale: the working conditions of Brazilian gold miners, the detainment of Vietnamese boat people by the Hong Kong government, and the slaughter of the Tutsi by Hutu death squads in Rwanda. Jaar has used his pictures to question journalistic photography\u2019s drive for a total disclosure that results not in the production of objective records but in the creation of new forms of domination and dissociation.\n\nMuxima, Jaar\u2019s first film, is \u201ca cinematic elegy dedicated to the people of Angola.\u201d The structure of the film is deeply rooted in the artist\u2019s love for African music. Muxima (meaning \u201cheart\u201d in the indigenous Angolan language, Kimbundu) is guided by five interpretations of a local folk song and edited into ten cantos, each depicting an aspect of Angola\u2019s devastating history: colonization, Communism, and a 30-year civil war, as well as the current challenges presented by the AIDS epidemic, the oil industry, and extreme poverty. The artist\u2019s repeated references to water suggest a rebirth, giving the viewer hope that, if left undisturbed, Angola might have a chance to thrive. In the second canto, Jaar captured a street sign that asserts the underlying aim of his career: \u201cThe most important is to resolve the problems of the people.\u201d\n\nSponsor\nThis exhibition is made possible through the generous support of the Community Associates of the Art Institute of Chicago.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-12-17T00:00:00-06:00",
+    "aic_end_at": "2012-04-08T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": 25208,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Alfredo Jaar: Muxima"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:32-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

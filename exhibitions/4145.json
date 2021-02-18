@@ -1,0 +1,39 @@
+{
+    "id": 4145,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4145",
+    "title": "Max Ernst",
+    "is_featured": false,
+    "description": "This exhibit was the first Max Ernst retrospective to be held in the United States. It originally began in New York at the Museum of Modern Art, where curator William S. Lieberman organized the show, which was held in tandem with the celebration of Ernst\u2019s 70th birthday. True to the Dadaist and Surrealist schools of thought from which his career flourished, Ernst\u2019s works were created through experimentation and a sense of humor. This retrospective offered a timeline of Ernst\u2019s life alongside the many mediums he explored. The show boasted over 200 works, the majority of which were paintings, but also included sculptures, collages, drawings, theatre design prints, and book illustrations.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1961-06-15T00:00:00-05:00",
+    "aic_end_at": "1961-07-23T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Max Ernst"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T11:11:32-05:00",
+    "last_updated": "2019-10-14T11:16:18-05:00",
+    "timestamp": "2021-01-14T17:14:14-06:00"
+}

@@ -1,0 +1,41 @@
+{
+    "id": 6072,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6072",
+    "title": "Picasso Engravings",
+    "is_featured": false,
+    "description": "Each etching in the museum for this show was created by Pablo Picasso between March 16, 1968 and October 5, 1968, thus presenting itself as a very recent exhibition of Picasso\u2019s work. The etchings serve almost as a diary of Picasso\u2019s thoughts and had a mythological, fantastical element in their subject matter. The work in the gallery were unsigned artist proofs made by master printer Aldo Crommelynck. This exhibit showed over 300 etchings and it was the only version of this exhibit to appear in the United States.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1968-12-18T00:00:00-06:00",
+    "aic_end_at": "1969-02-01T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "08c3c96c-e98d-b535-c0a5-999793fec83a"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Picasso Engravings"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-11-18T10:35:38-06:00",
+    "last_updated": "2019-11-18T11:11:22-06:00",
+    "timestamp": "2021-01-14T17:14:50-06:00"
+}

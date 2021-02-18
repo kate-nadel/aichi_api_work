@@ -1,0 +1,39 @@
+{
+    "id": 657,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/657",
+    "title": "Deft Hands, Discerning Eyes: Chinese and Korean Ceramics from the Harry B. and Bessie Braude Memorial Collection",
+    "is_featured": false,
+    "description": "The Art Institute\u2019s 2006 exhibition Drawings in Dialogue brought to public view and appreciation Dorothy Braude Edinburg\u2019s magnificent collection of European and American graphic arts. Deft Hands, Discerning Eyes will turn the spotlight on Edinburg\u2019s Chinese and Korean ceramics\u2014a remarkable collection formed with similar enthusiasm and acumen over the past 50 years.The most vibrant works in this diverse collection date from China\u2019s powerful Tang dynasty (7th/8th century) and reflect the exuberance of that age. Colorful glazes are variously dripped, spotted, splashed, or neatly contained in carved or molded designs, while twisted clays create dynamically marbleized patterns. Such vivid Tang pieces dramatically contrast with the extraordinarily restrained and refined tastes fostered by the imperial court and intellectual aristocracy during the subsequent Song dynasty (10th/13th century). Edinburg\u2019s collection includes almost all premier Song ceramic types\u2014exquisite white porcelains and celadon green stonewares, many carved and molded with subtle underglaze designs, as well as vessels richly glazed in pure brownish black or opalescent sky blue. The lustrous, jadelike surfaces of Song celadons inspired contemporary Korean potters to create their own stunningly original wares, which will also be on display.\n\nUnlike pieces that distinguish the Art Institute\u2019s collection, many of the ceramics in this exhibition are small, even diminutive, in scale. As works of intrinsic beauty, their masterful craftsmanship is remarkable, and their close study exceptionally rewarding.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-10-24T00:00:00-05:00",
+    "aic_end_at": "2010-01-17T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147478129,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Deft Hands, Discerning Eyes: Chinese and Korean Ceramics from the Harry B. and Bessie Braude Memorial Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:46-06:00",
+    "timestamp": "2021-01-14T17:13:10-06:00"
+}

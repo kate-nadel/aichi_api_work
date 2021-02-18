@@ -1,0 +1,39 @@
+{
+    "id": 3119,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3119",
+    "title": "Impressionist and Post-Impressionist Collection Returns to New Galleries",
+    "is_featured": false,
+    "description": "Works from the museum\u2019s Impressionist and Post-Impressionist collection are now on view in beautifully renovated galleries. These masterpieces are set in a new space that transforms the way visitors will experience this remarkable collection.\n\nIn the new installation, visitors are once again greeted at the top of the Grand Staircase by Gustave Caillebotte\u2019s Paris Street, Rainy Day and other iconic paintings from the height of the Impressionist period in the 1870s. However, works that once were located in galleries south of this central space now stretch east though upper Gunsaulus Hall, completing the Allerton Building\u2019s chronological circuit of European painting from the 15th through the 19th century. Two additional galleries and nearly 5,000 square feet of extra space house not only the paintings and sculpture that had been on loan but also works from the collection of European decorative arts and recently acquired objects that have never before been displayed.\n\nEspecially notable among the new objects are several three-dimensional works, including Le Grenouillard (Frog-Man), a patinated plaster by symbolist artist Jean Carri\u00e8s, and Earthly Paradise, a buffet-cabinet carved and painted by Paul Gauguin and Emile Bernard in 1888. Several of the museum\u2019s best-known paintings by Edgar Degas, Claude Monet, and Pierre Auguste Renoir have also been reframed, transforming their appearance. The new suite of Impressionist and Post-Impressionist galleries are completed by a selection of Wiener Werkst\u00e4tte decorative arts and paintings by Swiss artist Ferdinand Hodler from around 1900, ideal stepping-stones to the collections of the Modern Wing.\n\nRearranged to more clearly and completely tell the story of Impressionism, Post-Impressionism, and its contemporary movement, Symbolism, these new galleries offer a richer presentation of this pivotal art movement of the late 19th century.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2008-12-19T00:00:00-06:00",
+    "aic_end_at": "2008-12-19T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Impressionist and Post-Impressionist Collection Returns to New Galleries"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:23:05-06:00",
+    "timestamp": "2021-01-14T17:13:53-06:00"
+}

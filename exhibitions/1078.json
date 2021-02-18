@@ -1,0 +1,39 @@
+{
+    "id": 1078,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1078",
+    "title": "Sound & Vision",
+    "is_featured": false,
+    "description": "Blue, blue, electric blue\nThat\u2019s the color of my room\nWhere I will live . . .\n\nI will sit right down\nWaiting for the gift of Sound & Vision\n\u2014David Bowie, \u201cSound & Vision,\u201d Low, 1977\n\nEven before Bowie united them in song, sound and vision had been closely intertwined in the visual and audio art recordings of the early 1970s. This focused exhibition of a dozen works in various media explores the symbiotic relationship between art and music, presenting humorous yet rigorous investigations in which the two do not connect in any synesthetic sense but rather come together via acts of transposition\u2014balls cast aloft are made to resemble notes in a musical score, honking drivers are photographed in mock (and silent) symphonic array, artists\u2019 names are called out as if by imaginary birds.\n\nAt the center of the installation hangs the recently acquired Auto Series, a unique piece from 1971\u201373 by American artist Robert Watts. These 23 photographs capture drivers sounding their horns while nearing a bend in the road beside the artist\u2019s Pennsylvania home. Another audio/auto piece is the six-part Car Radios (Autoradios) by German artist Hans-Peter Feldmann, consisting of photographs taken during the 1970s and 1990s \u201cwhen good music was playing.\u201d Louise Lawler\u2019s Bird Calls, a sound piece from 1976, and John Baldessari\u2019s 1973 Songs: Sky/Sea/Sand, from the Hirshhorn Museum, give a strong sense of the relations of sound to vision in the 1970s.\n\nMore recent artists have also pursued the theme, in some cases making it a central aspect of their practice. Artist and experimental DJ Christian Marclay has visualized the musical in consistently funny and frustrating ways, most recently by creating cyanotype photograms using unspooled cassette tapes as photosensitive material. The videos of Dara Birnbaum, David Hammons, Hirsch Perlman, and Cory Arcangel pick up this direct correlation between art and music in their work with the moving image. These pieces all show humor, low-tech inventiveness, rigor masked with deceptive nonchalance\u2014and a real, unconventional love of art and music.\n\nA series of Friday night performances, Summer Sounds, accompanies this exhibition.\n\nPlus, join us weekly for Internet Video Thursdays.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-06-12T00:00:00-05:00",
+    "aic_end_at": "2010-08-29T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25210,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sound & Vision"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:17-06:00",
+    "timestamp": "2021-01-14T17:13:18-06:00"
+}

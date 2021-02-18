@@ -1,0 +1,39 @@
+{
+    "id": 649,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/649",
+    "title": "Girls on the Verge: Portraits of Adolescence",
+    "is_featured": false,
+    "description": "In recent years, adolescence\u2014especially of girls\u2014has become of renewed interest to artists who have matched that bodily transformation with photography\u2019s particular gift for surface description. Contemporary artists such as Rineke Dijkstra, Lauren Greenfield, Sally Mann, Hellen van Meene, and others have explored this topic with empathetic images that capture universal experience. From documentary photographs examining peer groups and body image to posed individual portraits, the pictures in this exhibition are poignant reminders of the complexity and vulnerability of girls in this time of change.\n\nAdolescent girls find themselves on the cusp between girl and woman, child and adult. It is a time of physical and emotional changes, of yearning for freedom while secretly cherishing constraints, of finding the pleasures as well as the terrors of one\u2019s own appeal to the world. In our increasingly sexualized, media-driven culture, adolescence seems to arrive ever earlier, and the dividing line between innocence and adulthood seems more and more blurred. Not surprisingly, then, this simultaneously beautiful and awkward transition has provided photographers with rich subject matter.\n\nInspired by recent acquisitions and with select local loans, Girls on the Verge offers a snapshot of contemporary explorations of female adolescence. The exhibition of more than 40 photographs and one video includes work by the previously mentioned artists along with Tina Barney, Melissa Pinney, Judith Joy Ross, Mark Steinmetz, Katherine Turczan, and Celine van Balen. Sensitive and evocative, these images together begin to reveal the many sides of metamorphosis.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-12-08T00:00:00-06:00",
+    "aic_end_at": "2008-02-24T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Girls on the Verge: Portraits of Adolescence"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:45-06:00",
+    "timestamp": "2021-01-14T17:13:10-06:00"
+}

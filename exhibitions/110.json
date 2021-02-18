@@ -1,0 +1,43 @@
+{
+    "id": 110,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/110",
+    "title": "Girodet: Romantic Rebel",
+    "is_featured": false,
+    "description": "Special tickets are not required for this exhibition.\n\nGirodet: Romantic Rebel\nFebruary 11\u2013April 30, 2006\nRegenstein Hall\n\nGirodet: Romantic Rebel is the first retrospective in the United States devoted to the works of gifted French painter Anne-Louis Girodet de Roussy-Trioson (1767\u20131824). The exhibition assembles more than 100 seminal works (about 60 paintings and 40 drawings) that demonstrate the artist\u2019s impressive range as a painter as well as a draftsman. \n\nProfoundly shaped by the dramatic social and political upheaval brought about by the French Revolution, Girodet early on broke free from his mentor Jacques-Louis David\u2019s influence and veered away from the rigid Neoclassical style then prevalent in France. He interpreted his subjects in an evocative and dreamlike manner, often adding a strange, erotic charge. Increasingly he explored themes of a more Romantic nature, taking up subjects that involved irrational emotions and the exotic. He executed pictures representing the legends of Ossian, a fanciful Nordic myth contrived by contemporary writer James Macpherson; and the tragic story of the American Indian woman, Atala, based on the eponymous novel by the artist\u2019s friend, Romantic writer Chateaubriand. Also featured in the exhibition are some of the artist\u2019s exotic fantasies, including several drawn and painted studies for the spectacular Revolt of Cairo (1810), a depiction of a Mameluke rebellion in Cairo during Napoleon\u2019s 1798 Egyptian campaign.\n\nIn the range of subjects that he embraced\u2014from family portraits, to mythological fantasies, to Napoleonic battle scenes\u2014Girodet constantly reinvented his style and expanded the boundaries of what was considered appropriate by the French art establishment. His penchant for unconventional interpretation of traditional subjects and his tendency to produce controversial works brought him fame as well as constant challenge. In his innovative exploration of new and exotic themes, visual effects, and untoward or violent emotions, Girodet was an early proponent of what came to be called the Romantic movement in art and literature.\n\n\nCATALOGUE\nThe exhibition catalogue, Girodet: Romantic Rebel, will be available in spring 2006. $65, hardcover. Please contact the Museum Shop at (312) 443-3533 for purchase information.\n\n\nORGANIZERS AND SPONSORS\nThis exhibition was initiated by the Cleveland Museum of Art and organized by the Mus\u00e9e du Louvre and the R\u00e9union des Mus\u00e9es Nationaux, Paris, in collaboration with the Art Institute of Chicago, the Metropolitan Museum of Art, New York, and the Montreal Museum of Fine Arts, in cooperation with the Mus\u00e9e Girodet, Montargis.\n\nThis exhibition is made possible by the Old Masters Society of the Art Institute of Chicago, and through generous contributions from Marilynn Alsdorf; Scott, Lynda, Jonathan, and Lindsey Canel; Alexandra and John Nichols; and Patrick G. and Shirley W. Ryan. Additional support has been provided by the Rhoades Foundation/Julius Lewis Exhibition Fund.\n\nThe exhibition catalogue is made possible by The Isaacson-Draper Foundation and The Florence Gould Foundation. Additional support for the catalogue has been provided by the Getty Research Institute and the Getty Grant Program.\n\nThis exhibition is supported by an indemnity from the Federal Council on the Arts and the Humanities.\n\n\nCURATORS\nGeneral Curator\nSylvain Bellenger, Chief Curator of the National Patrimony, Institut National d\u2019Histoire de l\u2019Art, Paris\n\nCurators\n\nParis\nSylvain Laveissi\u00e8re, Head Curator in the Department of Paintings, Mus\u00e9e du Louvre\n\nChicago\nDouglas W. Druick, Prince Trust Curator of Prints and Drawings, Searle Curator of Medieval through Modern European Painting and Modern European Sculpture, The Art Institute of Chicago\n\nLarry J. Feinberg, Patrick G. and Shirley W. Ryan Curator in Medieval through Modern European Painting and Modern European Sculpture, The Art Institute of Chicago\n\nJay A. Clarke, Associate Curator in Prints and Drawings, The Art Institute of Chicago\n\nNew York\nGary Tinterow, Engelhard Curator in Charge, Nineteenth-Century, Modern, and Contemporary Art, The Metropolitan Museum of Art\n\nAssisted by Kathryn Calley Galitz, Assistant Curator, Nineteenth-Century, Modern, and Contemporary Art, The Metropolitan Museum of Art\n\nMontreal\nGuy Cogeval, Director, The Montreal Museum of Fine Arts\n\n\nOTHER VENUES\nParis, Mus\u00e9e du Louvre, September 22, 2005\u2013January 2, 2006.\nNew York, The Metropolitan Museum of Art, May 24\u2013August 27, 2006.\nMontreal, The Montreal Museum of Fine Arts, October 12, 2006\u2013January 21, 2007.",
+    "short_description": "Girodet: Romantic Rebel is the first retrospective in the United States devoted to the works of gifted French painter Anne-Louis Girodet de Roussy-Trioson (1767\u20131824). The exhibition assembles more than 100 seminal works (about 60 paintings and 40 drawings) that demonstrate the artist\u2019s impressive range as a painter as well as a draftsman.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/110/girodet-romantic-rebel",
+    "image_url": "https://artic-web.imgix.net/71273214-c2bd-47ce-9e95-90921931c9e9/1986.428HermioneRejectingOrestes.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=51%2C137%2C2937%2C1650",
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2006-02-11T00:00:00-06:00",
+    "aic_end_at": "2006-04-30T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": 2147475902,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [
+        40605
+    ],
+    "site_ids": [
+        7
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Girodet: Romantic Rebel"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:20-06:00",
+    "timestamp": "2021-01-14T17:12:49-06:00"
+}

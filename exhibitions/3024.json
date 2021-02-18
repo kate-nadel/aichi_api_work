@@ -1,0 +1,39 @@
+{
+    "id": 3024,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3024",
+    "title": "Chicago Looks Ahead: 100 Years of Planning, 1909-2009",
+    "is_featured": false,
+    "description": "The 1909 Plan of Chicago\u2014which presented one group\u2019s radical vision for a more beautiful, orderly, and unified city\u2014was a deeply influential document which has shaped the course of urban planning in Chicago for nearly a century. This exhibition examines both the legacy of the Plan and the ideas which would come to supplant it in later years. As a repository rich in collections documenting the last 100 years of Chicago planning, the Libraries will feature a a selection of papers, photographs, maps and books relating to: the early Plan-related projects prior to World War II, New Deal-funded infrastructure improvements, the post-war housing crisis and genesis of urban renewal, the regional growth of the 1950s and 1960s, and the proliferation of local planning organizations and policies in the last half of the 20th century.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2010-09-29T00:00:00-05:00",
+    "aic_end_at": "2010-12-02T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago Looks Ahead: 100 Years of Planning, 1909-2009"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:20-06:00",
+    "timestamp": "2021-01-14T17:13:51-06:00"
+}

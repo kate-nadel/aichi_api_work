@@ -1,0 +1,39 @@
+{
+    "id": 3299,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3299",
+    "title": "Egoyomi: Japanese Picture Calendars",
+    "is_featured": false,
+    "description": "In celebration of the New Year and new calendars to be filled, this exhibition brings together approximately 40 egoyomi, the unique Japanese prints that cleverly incorporated calendar markings into their designs. Until 1873, the Japanese calendar was based on a lunar system that divided months into dai no tsuki (long months) of 30 days and sho no tsuki (short months) of 29 days. Because the sequence of long and short months changed annually, the order of the months was recorded subtly and skillfully in the lush pictures of egoyomi prints.\n\nEgoyomi flourished during the Meiwa era (1764\u201371) when the laws of the ruling shogunate dictated that only a handful of publishers were officially allowed to produce calendars for the public. Nevertheless, wealthy patrons often privately commissioned egoyomi, eagerly exchanging them among the members of their literary circles. It has been argued that because these independent egoyomi were in defiance of the law, the calendar markings were hidden in an attempt to obscure the true purpose of the prints. To what extent the designs actually misled the authorities, however, is a matter of some debate.\n\nWhile illegal, these private egoyomi prints and their patrons\u2019 competition to have more elaborate and lavish designs gave rise to the development of printing with multiple colors, a watershed moment in the history of printing in Japan. The egoyomi of 1765, many of which are on display in this exhibition, mark the first dated examples of such multicolored prints. The leading print designer working in this new technique was Suzuki Harunobu (1725\u201370), whose graceful female figures and skillful allusions to ancient legends were enormously popular. In one of Harunobu\u2019s designs featured in the exhibition, the Zen patriarch Daruma is shown consorting with a courtesan. The nervous look in his eyes makes the scene all the more amusing. The numbers for the short months of 1765 are hidden within the medallions on the woman\u2019s sash, while those of the long months are cleverly nestled amid Daruma\u2019s chest hairs. Many of the colorful egoyomi Harunobu designed were so popular that they were later reissued for commercial sale with the calendar markings removed.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-01-15T00:00:00-06:00",
+    "aic_end_at": "2011-04-03T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Egoyomi: Japanese Picture Calendars"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:22-06:00",
+    "timestamp": "2021-01-14T17:13:58-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 1241,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1241",
+    "title": "Ancient Chinese Bronzes from the Shouyang Studio: The Katherine and George Fan Collection (working title)",
+    "is_featured": false,
+    "description": "For the ruling elite of ancient China, prestigious objects of bronze signified supreme political power, devout spiritual beliefs, and exalted social status. Foremost among these bronzes are vessels that were used for the ritual preparation and offering of food and drink to deceased ancestors. Beginning in about 1200 B.C., many of these bronzes were cast with pictographic images or insignia and sometimes with archaic forms of Chinese written characters. Whether naming an honoree, recounting a military campaign, or declaring an imperial edict, such inscriptions preserve firsthand, if highly formulaic, records of their time. Inscribed bronzes also present us with some of the earliest evidence for China\u2019s most prized cultural possession\u2014its written language.\n\nOver the past millennium, ancient bronzes have been collected and studied by Chinese intellectuals, who have valued inscriptions as direct links to antiquity. Today, both Western and Chinese scholars continue this epigraphic tradition while also benefiting from important insights gleaned from ongoing archaeological finds. Among the most eminent proponents of these historical perspectives are the collectors George and Katherine Fan of New York, who have chosen \u201cShouyang\u201d as the traditional \u201cstudio\u201d name for their bronze collection.\n\nThis exhibition features 72 bronzes collected by the Fans over more than 20 years. Also included is a set of models that illustrates the technique of piece-mold casting distinctive to ancient Chinese foundries. The Shanghai Museum, where the exhibition opened in 2009, has generously lent this reconstruction, as well as ink impressions (rubbings) of all inscriptions and prominent surface designs. Together with the bronzes, these materials illuminate historical, epigraphic, stylistic, and technical developments that span almost two millennia, from the early Bronze Age through China\u2019s first centralized empire.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2010-11-07T00:00:00-05:00",
+    "aic_end_at": "2011-01-02T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ancient Chinese Bronzes from the Shouyang Studio: The Katherine and George Fan Collection (working title)"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:17-06:00",
+    "timestamp": "2021-01-14T17:13:21-06:00"
+}

@@ -1,0 +1,41 @@
+{
+    "id": 4281,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4281",
+    "title": "Ivan Albright Retrospective",
+    "is_featured": false,
+    "description": "This exhibit was a retrospective of Ivan Albright\u2019s career. He became internationally acclaimed with his painting \u201cPicture of Dorian Gray.\u201d Albright has been compared to the \u2018old masters\u2019 and is generally known for his abstract portraits that are characteristically rife with symbolism. The exhibit included several of Albright\u2019s well known works, including \u201cPoor Room,\u201d \u201cThe Window,\u201d and \u201cThe Door.\u201d The exhibit included 39 paintings, 5 lithographs, 4 drawings, 5 sculptures, and some of Albright\u2019s medical notebooks.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1964-10-30T00:00:00-06:00",
+    "aic_end_at": "1964-12-27T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "American Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "fcabb620-7e49-e186-a38f-695c5bbec4d2"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ivan Albright Retrospective"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T14:31:13-05:00",
+    "last_updated": "2019-10-14T14:31:26-05:00",
+    "timestamp": "2021-01-14T17:14:17-06:00"
+}

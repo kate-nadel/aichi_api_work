@@ -1,0 +1,43 @@
+{
+    "id": 2831,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2831",
+    "title": "Taoism and the Arts of China",
+    "is_featured": false,
+    "description": "Overview\nThe exhibition Taoism and the Arts of China is on view at The Art Institute of Chicago from November 4, 2000, to January 7, 2001, and at the Asian Art Museum of San Francisco from February 21 to May 13, 2001. This is the first major exhibition of Taoist art in the United States, showcasing 151 works of art illustrating many facets of the Taoist religion. The exhibition includes paintings, calligraphy, sculpture, porcelain, lacquer, and ritual robes and implements from museums and private collections in the United States, Europe, Japan, China, Taiwan, and Hong Kong. These items date from the Warring States period to the Qing dynasty and demonstrate the development of Taoism and Taoist art from its earliest precedents to its \"renaissance\" in the late imperial age.\n\nAdmission to the exhibition is free with museum admission. The Art Institute will publish a catalogue of the exhibition, with essays by prominent scholars of Taoism and Chinese art history, and sponsor a symposium in the museum's Rubloff Auditorium on December 2 and 3, 2000. There will also be public lectures and other educational events relating to Taoism during the run of the exhibition. Families visiting the exhibition with children should pick up the free Family Self-Guide at the exhibition entrance or download it as a .pdf file. You will need Adobe Acrobat Reader to read and print the document. This site provides an overview of the exhibition using 28 works that address the themes of Taoism and the Arts of China.",
+    "short_description": "The exhibition\u00a0Taoism and the Arts of China\u00a0is on view at The Art Institute of Chicago from November 4, 2000, to January 7, 2001, and at the Asian Art Museum of San Francisco from February 21 to May 13, 2001. This is the first major exhibition of Taoist art in the United States, showcasing 151 works of art illustrating many facets of the Taoist religion. The exhibition includes paintings, calligraphy, sculpture, porcelain, lacquer, and ritual robes and implements from museums and private collections in the United States, Europe, Japan, China, Taiwan, and Hong Kong.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2831/taoism-and-the-arts-of-china",
+    "image_url": "https://artic-web.imgix.net/f27467df-773b-4476-990f-a3fb4104eef4/110823.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C226%2C1015%2C571",
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2000-11-04T00:00:00-06:00",
+    "aic_end_at": "2001-01-07T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147475902,
+    "gallery_title": null,
+    "artwork_ids": [
+        60877
+    ],
+    "artwork_titles": [
+        "Vestment (For a First-degree Taoist Priest)"
+    ],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Taoism and the Arts of China"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:53-06:00",
+    "timestamp": "2021-01-14T17:13:45-06:00"
+}

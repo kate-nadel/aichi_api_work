@@ -1,0 +1,39 @@
+{
+    "id": 2405,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2405",
+    "title": "Invisible Man: Gordon Parks and Ralph Ellison in Harlem",
+    "is_featured": false,
+    "description": "Gordon Parks and Ralph Ellison are both recognized as major figures in American art and literature: Parks, a renowned photographer and filmmaker, was best known for his poignant and humanizing photo-essays for Life magazine. Ellison authored one of the most acclaimed\u2014and debated\u2014novels of the 20th century, Invisible Man (1952). What is less known about these two esteemed artists is that their friendship, coupled with a shared vision of racial injustices and a belief in the communicative power of photography, inspired collaboration on two projects, one in 1948 and another in 1952.\n\nCapitalizing on the growing popularity of the picture press, Parks and Ellison first joined forces in 1948, on an essay titled \u201cHarlem Is Nowhere,\u201d for \u201948: The Magazine of the Year, which focused on Harlem\u2019s Lafargue Mental Hygiene Clinic as a means of highlighting the social and economic effects of racism and segregation. In 1952 they again worked together, producing \u201cA Man Becomes Invisible\u201d for Life magazine, which illustrated scenes from Ellison\u2019s Invisible Man. Both projects aimed to make the black experience visible in postwar America, with Harlem as its nerve center. However, neither essay was published as originally conceived\u2014the first was lost, while only a fragment of the second appeared in print.\n\nThis exhibition reunites for the first time the surviving photographs and texts intended for the two projects, including never-before-seen photographs by Parks from the collections of the Art Institute and the Gordon Parks Foundation and unpublished manuscripts by Ellison. Revealed in these frank depictions of Harlem is Ellison and Parks\u2019s symbiotic insistence on making race a larger, universal issue, finding an alternative, productive means of representing African American life, and importantly, staking a claim for the black individual within\u2014rather than separate from\u2014the breadth of American culture.",
+    "short_description": "Exploring the little-known collaboration of Parks and Ellison, this exhibition reunites the never-before-seen photographs and unpublished manuscripts intended for two projects.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2405/invisible-man-gordon-parks-and-ralph-ellison-in-harlem",
+    "image_url": "https://artic-web.imgix.net/891950ed-6925-4973-94dc-c093ef4d73e8/artfeed_gordonparks_360h_0.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-05-20T00:00:00-05:00",
+    "aic_end_at": "2016-08-28T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 25210,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Invisible Man: Gordon Parks and Ralph Ellison in Harlem"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:38-06:00",
+    "timestamp": "2021-01-14T17:13:40-06:00"
+}

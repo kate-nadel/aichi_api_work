@@ -1,0 +1,41 @@
+{
+    "id": 1699,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1699",
+    "title": "When Collecting Was New: Photographs from the Robert A. Taub Collection",
+    "is_featured": false,
+    "description": "Robert A. Taub purchased his first photograph\u2014an 1870s image of the Spanish Peaks taken by expeditionary photographer William Henry Jackson\u2014at a bookstore in 1960. By the 1970s, Taub was collecting regularly, just as a market for photography finally gained footing in the United States. After isolated beginnings earlier in the 20th century, viable commercial photography galleries and an auction market emerged in the 1970s. Additionally, many civic museums, including the Art Institute (1974), established separate departments dedicated exclusively to photography. This was a time of openness\u2014to high and low, new and old\u2014but also the beginning of a search for appropriate forms for selling and exhibiting photography such as portfolios, editioned prints, and \u201ckey sets\u201d of older artists\u2019 work. The attention given to the medium at this time, its late entry into the art market, and its relative affordability opened the door for wide-ranging exploration by collectors and museums alike.\n\nThe Taub Collection reflects that breadth and eclecticism. It ranges in its holdings from August Sander portraits to Cindy Sherman\u2019s Film Stills, from iconic images by Ansel Adams and Walker Evans to advertising photographs by Nickolas Muray and space exploration photographs by NASA. It also has a decided focus on artists of the 1970s and early 1980s\u2014Lee Friedlander, Nicholas Nixon, and Stephen Shore, among them\u2014acquired from the most influential dealers of the time.\n\nA longstanding member of the Committee on Photography, Taub recently gave the core of his collection\u2014some 200 photographs and photographic portfolios\u2014to the Art Institute. When Collecting Was New presents over 100 works selected from that gift, complemented by selections from the museum's permanent collection, that together tell the story of photography\u2019s booming popularity and its entry into the art market from the 1960s through the 1980s.",
+    "short_description": "More than 100 photographs chart the rebirth of an American photo market from the 1960s through the 1980s.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1699/when-collecting-was-new-photographs-from-the-robert-a-taub-collection",
+    "image_url": "https://artic-web.imgix.net/e5b6b6da-01fc-4329-917e-b4407a9ffdb5/2012.314LeeFriedlanderNewYorkCity.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C149%2C3000%2C1690",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-12-15T00:00:00-06:00",
+    "aic_end_at": "2013-05-12T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "da7c785f-573a-0568-4fe2-8fe3750849b7"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "When Collecting Was New: Photographs from the Robert A. Taub Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:11-06:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

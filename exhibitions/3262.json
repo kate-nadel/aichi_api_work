@@ -1,0 +1,39 @@
+{
+    "id": 3262,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3262",
+    "title": "Rodney Graham: Torqued Chandelier Release",
+    "is_featured": false,
+    "description": "Vancouver-based artist Rodney Graham is known for many roles\u2014musician, performer, philosopher, scientist, and writer\u2014but he is perhaps most recognized for his cerebral and captivating moving-image installations.\n\nTorqued Chandelier Release (2005) is the third in a trio of films that the artist describes as \u201cillustrated \u2018thought experiments\u2019 documenting transitory lighting events within the context of a single roll of film.\u201d Inspired by Sir Isaac Newton\u2019s famous water-bucket experiment exploring rotational motion, Torqued Chandelier Release vividly demonstrates Newton\u2019s investigations as the chandelier, wound-up off-camera and then released, spins in one direction then reverses course until it finally comes to rest. The dizzying image of the spinning fixture takes on a sculptural, three-dimensional appearance, echoing Newton\u2019s original experiment and illuminating the values of the Enlightenment itself.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-03-08T00:00:00-06:00",
+    "aic_end_at": "2013-06-21T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25208,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rodney Graham: Torqued Chandelier Release"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:42-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

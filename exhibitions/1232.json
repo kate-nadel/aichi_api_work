@@ -1,0 +1,41 @@
+{
+    "id": 1232,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1232",
+    "title": "Kings, Queens, and Courtiers: Art in Early Renaissance France",
+    "is_featured": false,
+    "description": "Emerging from decades of civil war and struggles to defend its own territory, France was on the move in the years around 1500, led first by Charles VIII and then by his cousin Louis XII, each king in turn marrying Anne, the spirited young duchess of Brittany. Through an extraordinary range of rare and precious objects, this exhibition tells the story of art in this dynamic period\u2014an exuberant mixture of spiritual and secular work, the union of traditional late Gothic form and a new antique vocabulary, and the combination of the many symbols of the French monarchy with the latest trends imported from Milan, Genoa, and Naples, cities that French forces occupied in this period. A rich and varied panorama of this transitional moment is illustrated through tapestries, stained glass, goldsmithwork, monumental sculpture, painted portraits and altarpieces, and intimate illuminated manuscripts. The diverse offerings include a witty stained-glass roundel designed by court painter Jean Fouquet depicting two maidens holding the initials of Laurens Girard for the home of this courtier, one of the king's treasurers. The luminous Nativity by Jean Hey, known as the Master of Moulins, is also on display, a commission from Cardinal Jean Rolin, bishop of Autun in Burgundy, as an epitaph near his grave. The cardinal's favorite lapdog accompanies him as he kneels in perpetual prayer before the vulnerable, newborn Christ Child. And the poetic The Madonna of the Yarnwinder by Leonardo da Vinci and his assistants exemplifies how the French kings and leading courtiers sought from Italy marble, sculptors, and paintings in the latest fashion to decorate their castles and monuments.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2011-02-26T00:00:00-06:00",
+    "aic_end_at": "2011-05-30T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": 2147475902,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [
+        57
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Kings, Queens, and Courtiers: Art in Early Renaissance France"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:22-06:00",
+    "timestamp": "2021-01-14T17:13:21-06:00"
+}

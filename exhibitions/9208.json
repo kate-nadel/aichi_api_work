@@ -1,0 +1,40 @@
+{
+    "id": 9208,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9208",
+    "title": "A New View of African Art",
+    "is_featured": true,
+    "description": "A freshly reconsidered and reinstalled gallery of African art welcomes four new acquisitions as well as 10 exceptional loans, presenting new perspectives on all the objects displayed.",
+    "short_description": "<p>A freshly reconsidered and reinstalled gallery of African art welcomes four new acquisitions as well as several exceptional loans, presenting new perspectives on the arts of Africa\u2019s many regions and cultures.</p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9208/a-new-view-of-african-art",
+    "image_url": "https://artic-web.imgix.net/2d4e4d1c-cc60-46b9-b45d-8ea602b6c24e/IM039642_002-int.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C184%2C3000%2C1686",
+    "type": "Permanent Collection Special Project",
+    "status": "Confirmed",
+    "aic_start_at": "2019-02-09T00:00:00-06:00",
+    "aic_end_at": null,
+    "date_display": null,
+    "department_display": "Arts of Africa and the Americas",
+    "gallery_id": 2147470998,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_boosted": "A New View of African Art",
+    "suggest_autocomplete_all": {
+        "input": [
+            "A New View of African Art"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:23:33-06:00",
+    "timestamp": "2021-01-14T17:16:08-06:00"
+}

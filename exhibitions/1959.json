@@ -1,0 +1,39 @@
+{
+    "id": 1959,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1959",
+    "title": "Renoir\u2019s True Colors: Science Solves a Mystery",
+    "is_featured": false,
+    "description": "Presenting a unique behind-the-scenes look at recent conservation research on Pierre-Auguste Renoir\u2019s painting Madame L\u00e9on Clapisson, this focused exhibition offers a rare peek at both the detective work done by our conservators and scientists and the secrets they have uncovered about the beloved Impressionist\u2019s painting process.\n\nRenoir\u2019s 1883 portrait depicts the socially ambitious young wife of one of Renoir\u2019s wealthy patrons (she was not yet 16 when they married). The painting was the artist\u2019s second attempt at her portrait; the first was done outdoors and satisfied neither the artist nor the client. So pleased was Renoir with this second portrait, capturing Madame Clapisson in an evening dress, set against an abstract background, that it was the only work the artist chose to enter in the 1883 Salon, the most influential art exhibition for the French public of the time.\n\nRecently this striking work was taken into the conservation lab, and just the removal of the frame led to an unexpected discovery: around the perimeter at the top and left was a sliver of intense violet-red, much more vibrant than the adjacent colors of the background that had not been protected from light by the frame. This deeply hued clue tipped off researchers to the fact that the cool and restrained mood of the current image probably does not match the artist\u2019s original intent. Rather they found that Renoir initially infused the backdrop of the portrait with scarlets and purples largely made of carmine lake, a brilliant red pigment that, while bright and beautifully colored, is often very light-sensitive and can fade with time.\n\nArmed with this new knowledge and new technologies such as nanotechnology, laser light, and advanced image processing software, the conservation department has been able to reconstruct the work\u2019s original colors in a full-scale digital reproduction. This exhibition displays both this re-colorized reproduction and the original painting side by side, offering an opportunity to appreciate the changes, which, while dramatic, have not lessened the beauty and luminosity of the painting as it appears today. The original work is additionally presented in a case that allows 360-degree views and thus a glimpse of the revelatory hues that have been hidden under the frame for over a century. Providing this front-row seat to the in-depth research work that typically takes places behind the scenes at the museum, this special presentation reveals the hidden story of how the painting was made and how it has changed over time, bringing visitors closer to the artist and his creative process.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-02-12T00:00:00-06:00",
+    "aic_end_at": "2014-04-27T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Conservation",
+    "gallery_id": 2147483601,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Renoir\u2019s True Colors: Science Solves a Mystery"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:47-06:00",
+    "timestamp": "2021-01-14T17:13:34-06:00"
+}

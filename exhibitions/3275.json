@@ -1,0 +1,39 @@
+{
+    "id": 3275,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3275",
+    "title": "Eija-Liisa Ahtila: The House",
+    "is_featured": false,
+    "description": "The Donna and Howard Stone Gallery for Film, Video, and New Media features a new work by Finnish artist Eija-Liisa Ahtila. Ahtila\u2019s films, culled from research and interviews with individuals suffering from psychotic disorders, are sensual, profoundly moving vignettes. Her chosen subject matter lends itself easily to perceptual distortions, as series of images flow seamlessly between reality and illusion and draw the viewer into uncanny and deeply fractured environments. \n\nTalo/The House is a three-channel video installation that envelops viewers, mirroring the protagonist\u2019s acts of self-confinement. The film opens with a woman driving up to a secluded house in the woods. Through a series of fixed camera angles that recall surveillance-camera footage in their passivity and fragmentation, Ahtila describes the interior of the house and its surroundings in vibrant, contrasting colors and lush images. As the film progresses, the protagonist hears voices, her awareness of her environment beginning to disintegrate. She describes her experience to the viewer, stating, \u201cEverything is now simultaneous, here, being. Nothing happens before or after. Things don\u2019t have causes. Things that occur no longer shed light on the past. Time is random and spaces have become overlapping. No place is just one anymore.\u201d As the woman\u2019s perceptions unravel, the images become increasingly dreamlike, eventually creating a complete rupture of spatial and temporal boundaries. As the work reaches its conclusion, she is enveloped in the shadow and solitude of her home, and the onscreen tension is made palpable by the increasing darkness of the gallery space.",
+    "short_description": "The Donna and Howard Stone Gallery for Film, Video, and New Media features a new work by Finnish artist Eija-Liisa Ahtila. Ahtila\u2019s films, culled from research and interviews with individuals suffering from psychotic disorders, are sensual, profoundly moving vignettes. Her chosen subject matter lends itself easily to perceptual distortions, as series of images flow seamlessly between reality and illusion and draw the viewer into uncanny and deeply fractured environments.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3275/eija-liisa-ahtila-the-house",
+    "image_url": "https://artic-web.imgix.net/a8bf0a94-c5d3-4545-a664-319d404fa256/2004.483Eija-LiisaAhtilaTaloTheHouse.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C134%2C3000%2C1686",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-06-24T00:00:00-05:00",
+    "aic_end_at": "2011-11-27T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25208,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Eija-Liisa Ahtila: The House"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:15-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

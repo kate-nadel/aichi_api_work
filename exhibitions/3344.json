@@ -1,0 +1,39 @@
+{
+    "id": 3344,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3344",
+    "title": "The [Not So] Still Life",
+    "is_featured": false,
+    "description": "Participate in the rich history of the still-life tradition. Create your own arrangements of still-life elements in this experimental gallery installation. Choose \nfrom a variety of objects selected for their form, material, texture, and size. Draw a picture of your still lie with materials provided in the gallery or snap a picture of the\narrangement with your phone and share it through social media to become part of a digital gallery display.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-02-06T00:00:00-06:00",
+    "aic_end_at": "2014-11-16T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Learning & Public Engagement",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The [Not So] Still Life"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:32-06:00",
+    "timestamp": "2021-01-14T17:13:59-06:00"
+}

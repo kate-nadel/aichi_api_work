@@ -1,0 +1,39 @@
+{
+    "id": 3015,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3015",
+    "title": "Beauty and the Book: 19th- and Early 20th-Century Folios on the Decorative Arts",
+    "is_featured": false,
+    "description": "The artistic practices of numerous cultures and eras are represented within the collections of the Ryerson & Burnham Libraries. Among the Libraries' holdings is a group of nineteenth- and early twentieth-century folio volumes on the decorative arts. These exquisite, large-format books comprise a range of cultural and historical styles of ornamentation and design, lavishly illustrated through both the written word and vividly rendered imagery. Various forms of decorative art are depicted in these volumes including illuminations, metalwork and jewelry, architectural ornamentation, costume and tapestry design, mosaics, pottery, furniture design, and glasswork. The illustrations employ printing techniques such as chromolithography, wood engraving, photogravure, and pochoir. The bindings themselves are an additional vehicle for the depiction of ornamentation, resulting in splendidly decorated books. \n\nUnfortunately, some of these volumes, most among the Libraries' earliest acquisitions, possess inherent condition problems associated with books from that period, compromising their usability. The paper is often in poor condition, the binding materials weakened and leather deteriorated. Additionally, the size and weight of these large format books contribute to their instability. In 2009, with the support of the Art Institute of Chicago's Auxiliary Board, the Ryerson & Burnham Libraries' Conservation Department embarked upon a project to conserve and stabilize this group of approximately six hundred folios on the decorative arts. This exhibition showcases a selection of the treasures uncovered during the project, and features some of the more complex conservation treatments performed.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2012-02-28T00:00:00-06:00",
+    "aic_end_at": "2012-05-07T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Beauty and the Book: 19th- and Early 20th-Century Folios on the Decorative Arts"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:15-06:00",
+    "timestamp": "2021-01-14T17:13:51-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 820,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/820",
+    "title": "Becoming Edvard Munch: Influence, Anxiety and Myth",
+    "is_featured": false,
+    "description": "Edvard Munch\u2019s work has been frequently connected to his emotional pain and instability, as his iconic work The Scream suggests. However, when his art is considered in light of his personal diaries and letters and the writings of contemporary critics, a very different picture of the artist emerges. Contrary to the prevailing view, recent scholarship demonstrates that Munch was very much in control of his professional career, a savvy businessman keenly aware of how to manipulate the art market and shape popular opinion. Moreover, he built his art on specifically Norwegian pictorial traditions.\nThis rich exhibition brings together approximately 150 works, including 75 paintings and 75 works on paper by Munch and his peers, many rarely seen in the United States. It is organized around the following themes: loneliness and solitude, the street, anxiety, love and sexuality, death and dying, the bather, and nature.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2009-02-14T00:00:00-06:00",
+    "aic_end_at": "2009-04-26T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Becoming Edvard Munch: Influence, Anxiety and Myth"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:41-06:00",
+    "timestamp": "2021-01-14T17:13:13-06:00"
+}

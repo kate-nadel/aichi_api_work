@@ -1,0 +1,39 @@
+{
+    "id": 1739,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1739",
+    "title": "Play, Pretend, and Dream: Caldecott Medal and Honor Books, 2010 - 2013",
+    "is_featured": false,
+    "description": "This family exhibition celebrates the 75th anniversary of the Caldecott award by showcasing the magical world of children\u2019s books with an illustration from each of the 16 books that have won the distinguished medal or honor award over the past four years.\n\nThe Caldecott Medal, America\u2019s oldest award for picture book illustrations, was first given in 1938, when members of the American Library Association (ALA), who were already honoring children\u2019s book authors with the Newbery Medal, realized that the illustrators of these books were deserving of recognition as well. The ALA members named the new award after Randolph Caldecott, a 19th-century illustrator whose work was unique in his time\u2014not just in its humor but also in its sense of movement, vitality, and action that so perfectly complemented the stories it accompanied. Today\u2019s \nwinners are selected by a team of respected librarians and children\u2019s literature experts who review books throughout a year and award the medal and several honors to the most distinguished American picture book illustrators.\n\nAmong the featured works in this special anniversary display are Jon Klassen\u2019s striking illustrations for the darkly humorous This Is Not My Hat, a tale of a tiny fish on the run after stealing a much bigger fish\u2019s hat, as well as his innovative digital designs that weave an infectious vibrancy through Extra Yarn, the story of a little girl knitting colorful knitwear for everyone and everything in her black-and-white town. Peter Brown\u2019s gripping cinematic style in Creepy Carrots! has the suspicious vegetables flipping in delight after stopping their antagonist, while Chris Raschka\u2019s masterful paintings of watercolor, gouache, and ink are all that is needed to tell the tale of a little dog who has lost her most cherished toy in the delightfully wordless A Ball for Daisy.\n\nIn these and all of the award-winning paintings, drawings, and prints on display, artists have conjured wondrous worlds on the page, offering a place not only where their characters play, pretend, and dream but where children\u2019s imaginations can soar.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-06-01T00:00:00-05:00",
+    "aic_end_at": "2013-12-01T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Play, Pretend, and Dream: Caldecott Medal and Honor Books, 2010 - 2013"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:02-06:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

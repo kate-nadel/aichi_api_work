@@ -1,0 +1,40 @@
+{
+    "id": 9300,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9300",
+    "title": "Ray Johnson c/o",
+    "is_featured": true,
+    "description": null,
+    "short_description": "<p>This exhibition devoted to \u201cNew York\u2019s most famous unknown artist\u201d focuses on Johnson's collaborations with friends and correspondents as his most consistent means of self-reinvention. </p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9300/ray-johnson-co",
+    "image_url": "https://artic-web.imgix.net/nullnullf73c5661-32b6-4430-b061-bdc1d650f73b/IM041914-int_web.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=21%2C441%2C955%2C539",
+    "type": "AIC Only",
+    "status": "Confirmed",
+    "aic_start_at": "2021-01-23T00:00:00-06:00",
+    "aic_end_at": "2021-05-17T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_boosted": "Ray Johnson c/o",
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ray Johnson c/o"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-12-17T11:37:24-06:00",
+    "last_updated": "2021-01-13T23:23:16-06:00",
+    "timestamp": "2021-01-14T17:16:09-06:00"
+}

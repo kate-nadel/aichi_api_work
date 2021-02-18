@@ -1,0 +1,39 @@
+{
+    "id": 2953,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2953",
+    "title": "Color Studies",
+    "is_featured": false,
+    "description": null,
+    "short_description": "This installation mines the Art Institute\u2019s collection to explore the intriguing, if sometimes understated, role of color in the history of architecture and design.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2953/color-studies",
+    "image_url": "https://artic-web.imgix.net/617465bc-9db9-440a-9933-733db243b326/SilkscreenPortfolio_Hofmann.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C78%2C966%2C543",
+    "type": "AIC Only",
+    "status": "Confirmed",
+    "aic_start_at": "2017-09-11T00:00:00-05:00",
+    "aic_end_at": "2018-02-25T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 23967,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Color Studies"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:20-06:00",
+    "timestamp": "2021-01-14T17:13:48-06:00"
+}

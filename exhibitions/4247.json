@@ -1,0 +1,42 @@
+{
+    "id": 4247,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4247",
+    "title": "The Decade of the Armory Show",
+    "is_featured": false,
+    "description": "This exhibit was put together as a reference to the Armory Show of 1913, which was largely responsible for introducing many Americans to Modern Art. This show focused on its connection with its origins, but ultimately the curators did not try to recreate the original show, nor did they limit their work to artists who were featured in the first show. Instead, the Armory Show of 1913 became a reference point for curators to select works that would highlight advanced techniques and ground-breaking new art being produced by American artists from 1910-1920. Among the artists included in this show are Lyonel Feininger, Stuart Davis, Francis Picabia, Georgia O\u2019Keeffe, and Elie Nadelman.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1963-11-15T00:00:00-06:00",
+    "aic_end_at": "1963-12-29T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "28b8c6d6-a83c-c4a6-e0c9-546461e7b52c",
+    "alt_image_ids": [
+        "7b97a065-f804-cc62-95f8-30395ad4343e",
+        "91848a61-aa5c-0f24-98e2-846dd461ebd4"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Decade of the Armory Show"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T14:15:24-05:00",
+    "last_updated": "2019-10-14T14:16:21-05:00",
+    "timestamp": "2021-01-14T17:14:16-06:00"
+}

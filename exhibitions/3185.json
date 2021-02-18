@@ -1,0 +1,39 @@
+{
+    "id": 3185,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3185",
+    "title": "Joseph Beuys: Untitled (Sun State)",
+    "is_featured": false,
+    "description": "An advocate for the transformative potential of art through what he termed \u201csocial sculpture,\u201d Joseph Beuys made his first trip to the United States in 1974, with the purpose of promoting his Free International University. He spoke at the School of the Art Institute of Chicago during his American tour, where he was met with an enthusiastic reception and a lively exchange.\n\nThis chalkboard, created during that lecture-performance, maps the connections Beuys perceived between the spiritual, social, and natural worlds. The return of this work to Chicago on the 40th anniversary of the artist\u2019s historic trip has been made possible with generous support by the Goethe-Institut and the Foreign Office of the Federal Republic of Germany, and is presented by the School of the Art Institute of Chicago\u2019s Department of Exhibitions and Exhibition Studies in conjunction with its exhibition A Proximity of Consciousness: Art and Social Action, on view at the Sullivan Galleries, 33 South State Street, from September 20 to December 20, 2014.\n\nLender\nOn loan from the Museum of Modern Art, New York. Gift of Abby Aldrich Rockefeller (by exchange) and acquired through the Lillie P. Bliss Bequest (by exchange).",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-08-08T00:00:00-05:00",
+    "aic_end_at": "2015-01-18T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 23975,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Joseph Beuys: Untitled (Sun State)"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:56-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

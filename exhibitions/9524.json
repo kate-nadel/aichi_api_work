@@ -1,0 +1,39 @@
+{
+    "id": 9524,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9524",
+    "title": "Nancy Rubins: Our Friend Fluid Metal",
+    "is_featured": false,
+    "description": null,
+    "short_description": "<p>The artist\u2019s first exhibition at the Art Institute of Chicago features massive and gravity-defying sculptures that transform defunct playground equipment into something entirely new.&nbsp;</p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9524/nancy-rubins-our-friend-fluid-metal",
+    "image_url": "https://artic-web.imgix.net/nulld8311739-072e-4701-ae31-215144ba1f64/Rubins.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C3118%2C6132%2C3461",
+    "type": "AIC Only",
+    "status": "Confirmed",
+    "aic_start_at": "2021-08-21T00:00:00-05:00",
+    "aic_end_at": "2022-08-07T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": 25238,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nancy Rubins: Our Friend Fluid Metal"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-06-04T13:27:01-05:00",
+    "last_updated": "2021-01-13T23:23:30-06:00",
+    "timestamp": "2021-01-14T17:16:10-06:00"
+}

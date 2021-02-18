@@ -1,0 +1,39 @@
+{
+    "id": 1861,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1861",
+    "title": "Shomei Tomatsu: Island Life",
+    "is_featured": false,
+    "description": "The first museum exhibition on Japanese photographer Shomei Tomatsu (1930\u20132012) since his death, anywhere in the world, and his first solo show in the United States in nearly ten years, Island Life is also the first to concentrate on Tomatsu\u2019s long fascination with Japan\u2019s southern islands. \n\nIn 1966, when he was just a decade into his career but already a highly influential figure, Tomatsu published a magazine series called The Sea around Us that ran for nearly a year. This sustained look at coastal waters, for which Tomatsu traveled all around his country, was inspired by a book of that title by the American environmentalist Rachel Carson, but also by Americanization itself, which had wrought profound changes in Japan since the bombings and occupation that ended World War II. \n\nIn 1969 Tomatsu went to Okinawa, the main island in an archipelago of several hundred islands that stretches across the sea from Japan to Taiwan. Okinawa was then under United States jurisdiction, and few Japanese were permitted entry. Tomatsu eventually moved there for several years, making four books and many more magazine stories on life in the southern or Ryukyu islands. The politically incisive black-and-white photographs he had made in the 1960s\u2014including pictures of American bombers taking off from Okinawa for Vietnam\u2014gave way to seascapes of dazzling color and more everyday scenes. But Tomatsu never stopped making tightly composed and moving photographs, guided by a finely developed sense of light and visual poetry.",
+    "short_description": "The first museum exhibition on photographer Shomei Tomatsu (1930\u20132012) since his death, this presentation is also the first to focus on Tomatsu\u2019s long fascination with Japan\u2019s southern islands.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1861/shomei-tomatsu-island-life",
+    "image_url": "https://artic-web.imgix.net/cee82e4f-b427-4721-b785-bea71aaf94b9/default.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C155%2C2999%2C1687",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-09-14T00:00:00-05:00",
+    "aic_end_at": "2014-01-12T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 25210,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Shomei Tomatsu: Island Life"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:39-06:00",
+    "timestamp": "2021-01-14T17:13:30-06:00"
+}

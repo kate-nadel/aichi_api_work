@@ -1,0 +1,39 @@
+{
+    "id": 3305,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3305",
+    "title": "Blood, Gold, and Fire: Coloring Early German Woodcuts",
+    "is_featured": false,
+    "description": "During the 15th century, quickly painted woodcuts were the favorite art form of the masses. The woodblock\u2019s hardy constitution allowed thousands of impressions to be printed so that they were much more affordable than paintings or manuscript illuminations. Yet despite their initial numbers and popularity, very few sheets have survived\u2014in some cases, only a single one.\n\nThis exhibition brings together a small group of brilliantly colored European woodcuts that show exactly how a largely illiterate public liked their devotional imagery: raw, emotional, and very bloody. Indeed, Christ\u2019s blood flows freely throughout the works gathered in this intimate exhibition\u2014thickly painted onto his tortured body and symbolically transmuting from wine into blood at the Last Supper and later, miraculously, during the Eucharist. The Scourging of Christ woodcut particularly demonstrates a fascination with violence. While the print originally included no indication of blood, it was supplied in abundance in the hand-colored impression. As this print has never before been exhibited\u2014and exposed to the harmful effects of light\u2014its garish tones look the way they did when the color was first applied.\n\nIn fact, many of these rare early German woodcuts were vibrantly decorated with stencils and less stable media such as hand-coloring or gold-leaf illumination, which is why they have been infrequently displayed at the Art Institute of Chicago. To limit fading, hand-colored prints can be exposed to light for a maximum of three months every five years. Thus, four of the woodcuts in this exhibition will be exchanged halfway through the six-month installation, offering an unusual opportunity to see a total of eight of the museum\u2019s early hand-colored prints.\n\nFor even more early German woodcuts, leaf through the pages of our Devotional Scrapbook online, one selection from the Department of Prints and Drawings and the Ryerson and Burham Libraries Special Collections that has been digitized as part of Turning the Pages.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-08-13T00:00:00-05:00",
+    "aic_end_at": "2013-02-17T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": 2147483640,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Blood, Gold, and Fire: Coloring Early German Woodcuts"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:38-06:00",
+    "timestamp": "2021-01-14T17:13:58-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 651,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/651",
+    "title": "Improvisations: Picture Books by Chris Raschka",
+    "is_featured": false,
+    "description": "Chris Raschka\u2019s books beg to be read out loud. Bits of paper, splashes of paint, and zig-zag and twirling lines create pictures and texts that pop and sing together like the punctuated rhythms of poetry. Raschka maneuvers a brush or oil crayon with skill and swiftness, creating characters that weave through colors and shapes and dance upon the open background of a stage-like setting.\n\nImprovisations: Picture Books by Chris Raschka features picture-book art that highlights American musicians, poets, and storytellers. Also on view are early dummy books showing the development of images prior to their final form. Enjoy looking at these original drawings and paintings and visit the Family Room to read these Raschka books and other stories.\n\nBorn in Pennsylvania, the young Raschka enjoyed drawing and playing the viola. He also had a knack for science. He studied biology in college, and was about to enter medical school when his love of art and music caused him to drastically redirect his career. Moving his family to New York, he published his first book, Charlie Parker Played Be Bop, in 1992. Since then, he has also visualized the work of musicians Thelonious Monk and John Coltrane, and has interpreted the words of poets bell hooks, Nikki Giovanni, and the nation\u2019s first Children\u2019s Poet Laureate, Jack Prelutsky. Raschka won a 1994 Caldecott Honor for Yo! Yes? and the 2006 Caldecott Medal for The Hello, Goodbye Window written by Norton Juster.",
+    "short_description": "Chris Raschka\u2019s books beg to be read out loud. Bits of paper, splashes of paint, and zig-zag and twirling lines create pictures and texts that pop and sing together like the punctuated rhythms of poetry. Raschka maneuvers a brush or oil crayon with skill and swiftness, creating characters that weave through colors and shapes and dance upon the open background of a stage-like setting.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/651/improvisations-picture-books-by-chris-raschka",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-12-08T00:00:00-06:00",
+    "aic_end_at": "2008-08-03T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Learning & Public Engagement",
+    "gallery_id": 25727,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Improvisations: Picture Books by Chris Raschka"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:20-06:00",
+    "timestamp": "2021-01-14T17:13:10-06:00"
+}

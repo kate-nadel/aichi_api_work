@@ -1,0 +1,39 @@
+{
+    "id": 3294,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3294",
+    "title": "The Challenge of American Style: Richard Morris Hunt and the American Renaissance in Architecture",
+    "is_featured": false,
+    "description": "New York architect Richard Morris Hunt\u2019s influential practice spanned four decades and was distinguished by his eclectic adaptations of historical styles, most famously displayed in the flamboyant ch\u00e2teauesque revival style developed for a series of Vanderbilt family residences. Although short-lived, this hybrid of gothic and classical motifs borrowed from royal French architecture had a powerful impact on the cultural landscape of the United States in the closing decades of the 19th century. In addition to symbolizing the rise of Gilded Age industrialists, the style also exemplified the ideals of artistic renewal promoted by Hunt and other artists of the American Renaissance movement that blossomed at the 1893 Columbian Exposition and continued well into the first decade of the 20th century.\n\nAs the second installment of our series exploring the question of historical style in American residential architecture, this exhibition features Hunt\u2019s drawings for real estate magnate William Borden\u2019s Gold Coast residence\u2014widely considered to be the most refined example of the ch\u00e2teauesque genre\u2014as well as a Renaissance Revival palace designed by Boston architect R. Clipston Sturgis for Victor Lawson, founder of the Chicago Daily News. Embodying the great ambition of the American Renaissance, both residences incorporated models from the past with a vital monumentality that celebrated the richness of urban development in Chicago and across the country.\n\nThe series, which began in early 2010 with an exhibition of McKim, Mead, and White\u2019s Georgian Revival residence for Bryan Lathrop, will conclude in the summer of 2011 with a suite of drawings for Chicago houses in the popular Queen Anne style.",
+    "short_description": "New York architect Richard Morris Hunt\u2019s influential practice spanned four decades and was distinguished by his eclectic adaptations of historical styles, most \u2026",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3294/the-challenge-of-american-style-richard-morris-hunt-and-the-american-renaissance-in-architecture",
+    "image_url": "https://artic-web.imgix.net/2eec1642-36e8-4825-a1e2-7afc4bf079c8/1982.607RichardMorrisHunt.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C147%2C1892%2C1062",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-02-12T00:00:00-06:00",
+    "aic_end_at": "2011-05-15T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 2147473418,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Challenge of American Style: Richard Morris Hunt and the American Renaissance in Architecture"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:16-06:00",
+    "timestamp": "2021-01-14T17:13:58-06:00"
+}

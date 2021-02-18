@@ -1,0 +1,39 @@
+{
+    "id": 3364,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3364",
+    "title": "Who Builds Your Architecture?",
+    "is_featured": false,
+    "description": "Whether majestic skyscrapers, eye-catching museums, or sprawling residential complexes, buildings emerge from intricate, lengthy processes of design and construction that involve a host of different actors, from architects and engineers to clients and banks to contractors and construction workers. These relationships operate within a global network of knowledge transfer, manufacturing, and labor\u2014people and materials moving around the world, often in uneven and unequal ways.\n\nThis exhibition is part of a series for which the Department of Architecture and Design enlists contemporary architects and designers to organize installations that investigate critical issues within their practices. For this installation, the New York\u2013based group Who Builds Your Architecture? (WBYA?), who gives the show its name, has presented research related to migrant workers and the global construction industry. The exhibition is divided into two parts: the first looks broadly at the construction process through a drawing of a fictional transnational project. The second examines the design and construction of specific facade components from buildings in four global cities.\n\nInternational human rights organizations have been documenting construction worker deaths and unsafe jobsite and housing conditions for years, but there has been little response from the architecture profession. WBYA? hopes to change this by advocating for fair labor practices at construction sites worldwide and by working to reveal the often hidden networks that impact labor and sustainability in building architecture.\n\nAn architectural collaborative, WBYA? was founded in 2011 and is comprised of academics, architects, curators, students, and writers. The group has organized and participated in workshops, panels, and exhibitions in Chicago, Istanbul, Montreal, Mumbai, New York, Sharjah, Stockholm, and Venice. WBYA? is Kadambari Baxi, Jordan H. Carver, Laura Diamond Dixit, Tiffany Rattray, Lindsey Wikstrom, and Mabel O. Wilson. Special thanks to Beth Stryker, Gulf Labor; MTWTF: Glen Cummings, Aliza Dzik, Michela Povoleri, and Sarah Dunham; Graph Commons and Burak Arikan; and Columbia University GSAPP and Dean Amale Andraos.",
+    "short_description": "For this series exploring critical issues within architecture and design, the New York\u2013based group WBYA? presents research related to migrant workers and the global construction industry.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3364/who-builds-your-architecture",
+    "image_url": "https://artic-web.imgix.net/19b1d05d-95a2-469a-88f6-ba3fabc77670/exh_wbya-1-globalnetwork2_main.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-10-20T00:00:00-05:00",
+    "aic_end_at": "2017-06-11T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 23966,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Who Builds Your Architecture?"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:25-06:00",
+    "timestamp": "2021-01-14T17:14:00-06:00"
+}

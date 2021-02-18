@@ -1,0 +1,39 @@
+{
+    "id": 3189,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3189",
+    "title": "Jes\u00fas Rafael Soto: P\u00e9n\u00e9trable de Chicago",
+    "is_featured": false,
+    "description": "Renowned abstract artist Jes\u00fas Rafael Soto was a pioneer\u2014and ultimately lifelong practitioner\u2014of the Op and kinetic art movements, which prioritized both optical illusion and physical dynamism. After training in Caracas, Soto moved to Paris in 1950, where he participated in the seminal 1955 group exhibition Le Mouvement at Galerie Denise Ren\u00e9, considered a crucial launching point for postwar experimentation with interactivity and perceptual experience. Believing that perception involves the entire body and not just the mind, Soto and his peers sought to revise the fundamentals of how an audience engages with art. \n\nIn 1967 Soto created his first so-called p\u00e9n\u00e9trable, a kind of luminous environmental sculpture that not only invites but in fact demands audience participation. One of only about 30 ever produced by the artist, this iconic installation is on display for the first time since 1986. An early example of Soto\u2019s signature environments, P\u00e9n\u00e9trable de Chicago presents thousands of transparent filaments hanging from the ceiling in a rectangular formation. Visitors are thus invited to enter an immersive forest of plastic tubes that shimmer and shift in response to every movement. \u201cWe are in the world like fish in water,\u201d Soto once explained. In keeping with such a metaphor, his multisensory p\u00e9n\u00e9trables render our passage through space fully palpable.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-10-09T00:00:00-05:00",
+    "aic_end_at": "2015-03-08T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25469,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jes\u00fas Rafael Soto: P\u00e9n\u00e9trable de Chicago"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:00-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 4180,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4180",
+    "title": "Redon, Moreau, and Bresdin",
+    "is_featured": false,
+    "description": "This exhibit was the result of collaboration between the Museum of Modern Art in New York and the Art Institute of Chicago. Simplistic in title, the Redon, Moreau, Bresdin exhibit was perhaps one of the most complex exhibits of it\u2019s time. The three artists, Odilon Redon, Gustave Moreau, and Rodolphe Bresdin, were all acquainted in Paris during their careers. Bresdin was a teacher to Redon, yet it is Redon who gained prominence as an artist, while Bresdin\u2019s name descended into relative obscurity. Gustave Moreau was also an elder of Redon\u2019s, but was more well known for having taught the likes of Henri Matisse and Georges Rouault. In this exhibit, all three artists are honored for their art, which many now consider to be a precursor to Surrealism. Many of the works included in this exhibit had previously not been publicly shown in the United States.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1962-03-02T00:00:00-06:00",
+    "aic_end_at": "1962-04-15T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Redon, Moreau, and Bresdin"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T11:50:04-05:00",
+    "last_updated": "2019-10-14T11:51:20-05:00",
+    "timestamp": "2021-01-14T17:14:15-06:00"
+}

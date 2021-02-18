@@ -1,0 +1,78 @@
+{
+    "id": 2756,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2756",
+    "title": "Rodin: Sculptor and Storyteller",
+    "is_featured": false,
+    "description": null,
+    "short_description": "This focused exhibition brings together sculptures and drawings from private collections and the museum\u2019s holdings to explore the artist\u2019s creative process and his narrative skill.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2756/rodin-sculptor-and-storyteller",
+    "image_url": "https://artic-web.imgix.net/375e2560-1ca3-4471-bb2d-44ee6bb3c37d/exh_rodin_adam_360h.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C57%2C263%2C148",
+    "type": "AIC Only",
+    "status": "Confirmed",
+    "aic_start_at": "2017-11-03T00:00:00-05:00",
+    "aic_end_at": "2018-04-01T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": 2147479700,
+    "gallery_title": null,
+    "artwork_ids": [
+        241755,
+        43876,
+        43879,
+        43888,
+        80888,
+        66961,
+        105773,
+        4841,
+        66956,
+        66958,
+        43882,
+        43885,
+        11320,
+        13600,
+        16963,
+        69852
+    ],
+    "artwork_titles": [
+        "Nude Woman Standing, Seen from the Back with Her Hands on Her Hips",
+        "Auguste Rodin",
+        "Auguste Rodin",
+        "Auguste Rodin",
+        "Portrait of the Sculptor Auguste Rodin in his Studio",
+        "Leaving the Earth",
+        "Rodin Sculpting",
+        "Pivoting Nude, Seen from Above",
+        "Standing Nude with Draperies",
+        "Sunset",
+        "Auguste Rodin",
+        "Auguste Rodin",
+        "Adam",
+        "Sorrow",
+        "Eve after the Fall",
+        "The Walking Man"
+    ],
+    "artist_ids": [
+        36418,
+        35201,
+        40762,
+        4124
+    ],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rodin: Sculptor and Storyteller"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-06-15T22:03:46-05:00",
+    "last_updated": "2021-01-13T23:28:20-06:00",
+    "timestamp": "2021-01-14T17:13:44-06:00"
+}

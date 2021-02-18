@@ -1,0 +1,39 @@
+{
+    "id": 2995,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2995",
+    "title": "Islamic Art at the Art Institute: A Century of Exhibitions and Acquisitions",
+    "is_featured": false,
+    "description": "Since 1892, more than sixty exhibitions related to Islamic art have been held at the Art Institute of Chicago. Some of the earliest shows were organized by Arthur Upham Pope, who worked in various capacities for the Department of Asian Art during the first part of the 20th century. Pope, a noted American art historian, is credited with being one of the first scholars to introduce Persian art to the American public. Later, Charles Fabens Kelly and Donald Jenkins curated several important exhibitions, most notably the immensely popular Antique Oriental Rugs in 1947 and Near Eastern Art In Chicago Collections in 1974. \n\nThis exhibition in the Ryerson and Burnham Libraries' Franke Reading Room displays some of the finest 18th- and 19th-century antiquarian books on Islamic art and culture by prominent travelers to the Middle East and North Africa such as Sir John Chardin (1643\u20131713), James Justinian Morier (1782\u20131849), and Frederic Shoberl (1775\u20131853). Also displayed, and especially noteworthy, are the jewel-encrusted masterpiece prints by French artist Jean Baptiste Vanmour (1671\u20131737) depicting traditional garments from different countries of the region as well as intriguing archival documents, ephemera, and photographs related to past exhibitions and important acquisitions by the Art Institute.\n \nNote: This exhibition is not open during weekends.",
+    "short_description": "Tracing the development of the museum\u2019s Islamic collections and exhibitions, this presentation features archival documents, ephemera, and rare books.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2995/islamic-art-at-the-art-institute-a-century-of-exhibitions-and-acquisitions",
+    "image_url": "https://artic-web.imgix.net/cd772cfd-3fb3-4b05-9534-552c6f58223b/exh_Century-of-Exhibitions_main_480.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=9%2C84%2C446%2C251",
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2016-07-19T00:00:00-05:00",
+    "aic_end_at": "2016-09-26T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Islamic Art at the Art Institute: A Century of Exhibitions and Acquisitions"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:07-06:00",
+    "timestamp": "2021-01-14T17:13:50-06:00"
+}

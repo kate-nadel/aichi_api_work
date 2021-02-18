@@ -1,0 +1,39 @@
+{
+    "id": 3063,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3063",
+    "title": "The Inspired Chinese Brush",
+    "is_featured": false,
+    "description": "The primary tools of the traditional Chinese painter are black water-based ink and bamboo brushes with animal-hair tips. By controlling the density of ink and the movement, pressure, and speed of the brush, artists could interpret the world around them through a rich variety of textural effects. Whereas some brushstrokes are visually descriptive\u2014wet, blurry washes that evoke mist or sharp, \u201caxe-cut\u201d strokes that capture the surface of steep cliffs\u2014others, such as conspicuous dotting that lines hills and mountains, are purely aesthetic.\n\nThe six paintings included in this exhibition present a range of visual effects major artists of the 16th through the 18th century implemented through their brushwork. A work of precise draftsmanship and elegantly modeled details of nature constrasts with others that appear simply or naively executed\u2014even slapdash\u2014in their broad, wet washes and ostensibly scribbly definition of figures and their surroundings.",
+    "short_description": "These six paintings present the rich variety of textural effects Chinese artists of the 16th through t18th century implemented by controlling the movement, pressure, and speed of their brush.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3063/the-inspired-chinese-brush",
+    "image_url": "https://artic-web.imgix.net/72002c21-3350-4602-af6b-ff56fd7d7072/exh_Chinese_Brush_feature_480crop.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-02-05T00:00:00-06:00",
+    "aic_end_at": "2016-10-02T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147478117,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Inspired Chinese Brush"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:30-06:00",
+    "timestamp": "2021-01-14T17:13:52-06:00"
+}

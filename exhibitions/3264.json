@@ -1,0 +1,39 @@
+{
+    "id": 3264,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3264",
+    "title": "The Marguerite Michaels Collection: Japanese Prints of the 1960s and 1970s",
+    "is_featured": false,
+    "description": "The artists on display are all members of the Creative Print (S\u00f4saku Hanga) movement that began in the early 20th century but truly flourished in the 1960s. Creative prints differ from traditional ukiyo-e prints in that the artist designs, draws or carves, and prints the images themselves. For centuries, this process had been divided among various artisans in Edo period (1615\u20131868) Japan. In addition, plywood has replaced katsura as the wood of choice in the 20th century. Of course, using woodblocks is only one technique open to the contemporary printmaker, and some artists choose to work with silkscreen, photo-etching, or a combination of methods.\n\nMany of the prints are by artists who were previously not represented in the Art Institute\u2019s collection or were represented by only one or two works. For example, Iwami Reika\u2019s large Horizon B is a composition of severely shaped chunks of wood whose grain the artist faithfully renders with heavy embossing and dramatic black and white coloring. Naoko Matsubara\u2019s Walden Pond is a rare artist\u2019s proof. The large horizontal composition is crowded with trees printed in green only, making a breathtaking landscape.\n\nOf artists already represented in the Art Institute, the gifts from Ms. Michaels enhance the collection by adding, in most cases, the finest or earliest examples of works by these artists. Prints by Mori Yoshitoshi (1898\u20131992), Saito Kiyoshi (1907\u20131997), Nakayama Tadashi (b. 1927), and Azechi Umetaro (1902\u20131999) greatly widen the scope and raise the quality of works by these well-known printmakers among our collection. In addition, a few of the prints are by foreign artists who lived in Japan and have had a great impact on modern printmaking in that country.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-12-17T00:00:00-06:00",
+    "aic_end_at": "2012-03-04T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Marguerite Michaels Collection: Japanese Prints of the 1960s and 1970s"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:22:51-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

@@ -1,0 +1,56 @@
+{
+    "id": 2531,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2531",
+    "title": "H\u00e9lio Oiticica: To Organize Delirium",
+    "is_featured": false,
+    "description": "H\u00e9lio Oiticica (1937\u201380) is arguably the most influential Latin American artist of the post\u2013World War II period and is recognized for his significant contributions to the development of contemporary art. A relentless innovator always pushing the traditional boundaries of art, Oiticica moved rapidly and radically from early works influenced by European modernism to large-scale installations that were meant to be physically experienced and often to critique political and social issues. This exhibition offers the first retrospective in the United States of the Brazilian artist\u2019s groundbreaking and influential achievements.\n\nDemonstrating the great breadth of the artist\u2019s work, the exhibition begins with the adventurously elegant works on paper from early in Oiticica\u2019s career (1955\u201358).  These progressively dynamic compositions paved the way for his works that liberated painting from a flat plane. By 1959, Oiticica\u2019s painterly-sculptural Spatial Reliefs and Nuclei broke free of the wall and entered the space of the viewer. The Nuclei, composed of panels suspended from the ceiling, created areas through which the viewer could walk. His later installations continued to revolutionize the role of the viewer, as they responded to the increasingly oppressive political situation in Brazil under the military dictatorship. Oiticica\u2019s most famous work, Tropic\u00e1lia (1967) brings together a series of clich\u00e9s associated with tropicalness\u2014sand, gravel, exotic birds, and lush foliage\u2014which was contrasted with a television monitor that emits continuous images and sounds. Tropic\u00e1lia, a name subsequently borrowed by the musician Caetano Veloso for his anthem against Brazil\u2019s dictatorship, became a powerful movement in all the arts\u2014a political position both against the right\u2019s conservatism and the left\u2019s desire for a purely Brazilian art.\n\nThroughout his brief but energetic career, Oiticica seamlessly melded formal and social concerns in his art, seeking to be internationally relevant and, at the same time, specifically Brazilian. Above all, he aimed to communicate to his audiences the deep pleasure and satisfaction inherent in creative work. That aim reached fruition as his career advanced and his art took on an increasingly immersive nature, transforming the viewer from a spectator to an active participant or \u201cparticipator.\u201d This exhibition is the first anywhere to treat these later works in depth, acknowledging Oiticica\u2019s New York years (1971\u201378) and his return to Brazil (1978\u201380) as discrete periods within his career. In addition to viewing the original works on display, visitors will be invited to take off their shoes and walk through sand-filled installations, view Amazonian parrots, and try on exhibition copies of Oiticica\u2019s Parangol\u00e9s, objects he created to be carried or worn and among the artist\u2019s most radical contributions to contemporary art.\n\nA fully illustrated catalogue covering the artist\u2019s entire career in essays by authors from the United States and Latin America accompanies the exhibition.",
+    "short_description": "The first U.S. retrospective of the Brazilian artist's achievements traces his career from early works influenced by European Modernism to large-scale installations meant to be experienced.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2531/helio-oiticica-to-organize-delirium",
+    "image_url": "https://artic-web.imgix.net/b62d0679-4e85-4bf8-98be-905ed30c846f/IM017946_293.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C125%2C3000%2C1688",
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2017-02-18T00:00:00-06:00",
+    "aic_end_at": "2017-05-07T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 2147475902,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "46449bf6-f002-632b-3d55-87b1c80cfcc6",
+    "alt_image_ids": [
+        "6bd295d5-a728-837c-4c0f-f44938fb9a2a",
+        "866707d5-abd4-59eb-e1a7-1da85c1eab00",
+        "350dc10b-2ff6-15be-3c86-6109799edd7c",
+        "eaed32bf-32a0-404b-a918-9e84435aa022",
+        "40c89195-bf94-3a9f-2be6-82a902c21e6d",
+        "da4e9da7-c57c-5503-a232-90180d7aced7",
+        "be90cc67-e3c0-8ec0-0d34-0a8722d8e1d8",
+        "0b703ee3-836e-76bf-e084-d50015c5c0f0",
+        "b7ab0bf5-3d9d-1b71-7c4e-398a3e6cfac8",
+        "60fa51d4-8fcd-09e2-a9c9-bf293b5df13e",
+        "2268be50-0428-92ee-92bc-4717a491c8da",
+        "91e87f05-f473-7841-efdc-c094ccce65b2",
+        "5ebb6ed5-80f8-b244-563f-249c912ccf4a",
+        "04de31a8-a132-e2d7-543a-15531b9f3e2b",
+        "aa088bcd-23df-6dfd-b0d5-bd9742bbfe58",
+        "595740bf-723c-d90a-5eea-58002875415d"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "H\u00e9lio Oiticica: To Organize Delirium"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-12-11T19:00:52-06:00",
+    "last_updated": "2021-01-13T23:26:29-06:00",
+    "timestamp": "2021-01-14T17:13:41-06:00"
+}

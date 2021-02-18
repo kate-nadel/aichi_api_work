@@ -1,0 +1,39 @@
+{
+    "id": 3020,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3020",
+    "title": "Making History: Women of the Art Institute",
+    "is_featured": false,
+    "description": "This exhibition showcases archival items linked to 8 women who were made significant contributions to the Art Institute, or who had a lifelong association with the museum or school. Three curators (Bessie Bennett, Katharine Kuh and Christa Mayer Thurman), three donors (Kate Buckingham, Annie Swan Coburn and Margaret Day Blake), one teacher/author (Helen Gardner) and one artist (Georgia O\u2019Keeffe) put their stamp on this institution, often without much fanfare or public recognition. Bessie Bennettt was the first female curator in a major museum in the United States, Helen Gardner wrote with her \u201cArt Through The Ages\u201d the first comprehensive art historical handbook, Annie Swan Coburn enriched the museum\u2019s permanent collection with a fabulous gift of first rate Impressionist paintings. Each of these women has a story to tell, of dedication, hardship, perseverance and success.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2011-07-05T00:00:00-05:00",
+    "aic_end_at": "2011-09-05T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Making History: Women of the Art Institute"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:19-06:00",
+    "timestamp": "2021-01-14T17:13:51-06:00"
+}

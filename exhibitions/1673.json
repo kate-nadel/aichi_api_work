@@ -1,0 +1,39 @@
+{
+    "id": 1673,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1673",
+    "title": "Violence and Virtue: Artemisia Gentileschi\u2019s \u201cJudith Slaying Holofernes\u201d",
+    "is_featured": false,
+    "description": "One of the most famous and skilled painters of the Baroque era, Artemisia Gentileschi was centuries ahead of her time. Among the first women artists to achieve success in the 17th century, she brought to her work an electric sense of narrative drama and a unique perspective that both celebrated and humanized strong women characters. Rediscovered by feminist art historians in the past few decades, Gentileschi has inspired a spate of books, both scholarly and popular, and a number of films. But it is the sensational painting Judith Slaying Holofernes (c. 1620) that epitomizes her career. The Art Institute of Chicago, in collaboration with the Foundation for Italian Art and Culture (FIAC), is thrilled to present this stunning work, an exceptional loan from the Uffizi Gallery in Florence, for its first display in Chicago.\n\nThe daughter of painter Orazio Gentileschi, Artemisia trained in her father\u2019s workshop and quickly earned acclaim, completing her first signed painting, a dramatic yet sensitive rendering of Susanna and the Elders, when she was just 17. Her style bears some resemblance to that of her father, who was a follower of Caravaggio, but Artemisia\u2019s paintings stand out for their theatricality\u2014the raw emotional intensity of a few figures daringly arranged. The younger Gentileschi\u2019s work is also distinctive in its focus on powerful heroines, capturing both their vulnerability and strength, a feature many attribute to events in Gentileschi\u2019s own life. At the age of 18, she was raped by one of her father\u2019s colleagues, Agostino Tassi. He was convicted in a trial a year later after Artemisia was tortured to \u201cconfirm\u201d her testimony, but Tassi was never punished. Within months of the conclusion of the trial, Artemisia was quickly married and moved to Florence with her new husband.\n\nThe brutal depiction in the monumental Judith Slaying Holofernes is often interpreted as a painted revenge for the rape. Unlike other artists who focused on the ideals of beauty and courage evoked by the Jewish heroine Judith, Gentileschi chose to paint the biblical story\u2019s gruesome climax, producing a picture that is nothing short of terrifying. As the heroine decapitates Holofernes, the general of King Nebuchadnezzar, to save the Jewish people, her brow is furrowed in concentration, her forearms are tensed, and blood spurts wildly from her victim\u2019s neck. The startling naturalism of the scene owes much to the influence of Caravaggio; Artemisia followed his technique of painting directly from life and employing sharp contrasts of light and dark. The power of the scene, however, is all her own, and the painting endures as a masterpiece of Baroque art.\n\nViolence and Virtue and its accompanying catalogue explore Gentileschi\u2019s painting in the context of her remarkable career and the complex responses of Renaissance and Baroque artists to the story of Judith. The exhibition draws on the rich holdings of the Art Institute as well as a private collection in Chicago, putting Artemisia Gentileschi\u2019s extraordinary work together with paintings and works on paper by such artists as Lucas Cranach, Jan Sanders van Hemessen, Jacopo de\u2019 Barbari, and Felice Ficherelli, thereby enhancing a rare presentation of this truly pioneering and compelling artist.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-10-17T00:00:00-05:00",
+    "aic_end_at": "2014-01-09T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": 2147483640,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Violence and Virtue: Artemisia Gentileschi\u2019s \u201cJudith Slaying Holofernes\u201d"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:01-06:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

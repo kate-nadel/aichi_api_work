@@ -1,0 +1,39 @@
+{
+    "id": 3150,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3150",
+    "title": "Elemental Beauty: Japanese Shigaraki Ceramics",
+    "is_featured": false,
+    "description": "Shigaraki wares, featuring rough textured clay and natural ash glazes, are one of the characteristic types of Japanese ceramics first produced in earnest in the Kamakura period (1185-1333). Named after a valley southeast of Kyoto, where many of the old kilns that produced the wares were situated, they were originally primarily utilitarian objects that were used in kitchens or storerooms to hold seeds or other ingredients. The white clay bodises of such wares turn colors when scorched in a kiln, and the use of wood ash can form a greenish glaze over them.\n\nPrized for use during tea gatherings for centuries, most often as water jars or flower vases, older Shigaraki-wares only came to be seen as collectible works of art after World War II. The medium continues to appeal to contemporary artists who feel compelled to produce their own examples of Shigaraki ware, albeit in accord with a more modern aesthetic, as demonstrated by the 20th-century works on display here.",
+    "short_description": "Shigaraki wares, featuring rough textured clay and natural ash glazes, are one of the characteristic types of Japanese ceramics first produced in earnest in the Kamakura period (1185-1333). Named after a valley southeast of Kyoto, where many of the old kilns that produced the wares were situated, they were originally primarily utilitarian objects that were used in kitchens or storerooms to hold seeds or other ingredients. The white clay bodises of such wares turn colors when scorched in a kiln, and the use of wood ash can form a greenish glaze over them.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3150/elemental-beauty-japanese-shigaraki-ceramics",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2009-08-15T00:00:00-05:00",
+    "aic_end_at": "2010-01-03T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480173,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Elemental Beauty: Japanese Shigaraki Ceramics"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:54-06:00",
+    "timestamp": "2021-01-14T17:13:54-06:00"
+}

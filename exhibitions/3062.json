@@ -1,0 +1,39 @@
+{
+    "id": 3062,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3062",
+    "title": "Our Most Distinguished Outcast: Frank Lloyd Wright and \u201cWendingen\u201d",
+    "is_featured": false,
+    "description": "This intimate library exhibition explores Wright\u2019s relationship with and influence on early 20th-century Dutch avant-garde architecture. The editors and contributors to Wendingen, a magazine that ran from 1918 to 1932, saw in Wright the embodiment of their architectural goals: cohesive structures that seamlessly unite every aspect of a building\u2019s design. Over seven issues, Dutch architects and other of Wright\u2019s contemporaries praise him, his designs, and reveal to us their vision of a society as harmonious as the buildings it erects.",
+    "short_description": "Using the magazine \"Wendingen,\" which ran 1918\u20131932, this intimate library exhibition explores Wright\u2019s relationship with and influence on early 20th-century Dutch avant-garde architecture.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3062/our-most-distinguished-outcast-frank-lloyd-wright-and-wendingen",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-12-15T00:00:00-06:00",
+    "aic_end_at": "2016-02-12T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Our Most Distinguished Outcast: Frank Lloyd Wright and \u201cWendingen\u201d"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:11-06:00",
+    "timestamp": "2021-01-14T17:13:52-06:00"
+}

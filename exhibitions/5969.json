@@ -1,0 +1,39 @@
+{
+    "id": 5969,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5969",
+    "title": "Rugs from the McMullan Collection",
+    "is_featured": false,
+    "description": "This exhibit was organized by the Smithsonian Institution\u2019s Traveling Exhibition Services. From 1966-1968, fifty Islamic carpets from the private collection of Joseph V. McMullan were shown at several galleries around the United States. The exhibition included fine classical rugs of the Court schools, as well as Persian, Caucausian, and Turkish rugs. The rugs were all created between the 16th and 19th century, with many of them being nomad and village rugs of the 18th and 19th century. Because some of the rugs were considered \u201cpeasant carpets,\u201d they were neglected by curators and collectors. In this exhibit however, the rugs have been carefully selected and preserved so that they may represent the ancient traditions of design, form, and aesthetic history.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1967-06-02T00:00:00-05:00",
+    "aic_end_at": "1967-07-04T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rugs from the McMullan Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-11-05T13:05:53-06:00",
+    "last_updated": "2019-11-05T13:10:37-06:00",
+    "timestamp": "2021-01-14T17:14:48-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 891,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/891",
+    "title": "Scott Burton",
+    "is_featured": false,
+    "description": "During the course of a relatively short career, Scott Burton created extraordinary works of art that blur the boundaries between sculpture and furniture. Known for meticulously crafted objects made of stone, metal, and concrete, Burton consistently demonstrated a profound awareness of aesthetics and utility, and above all, a desire to engage social space.\n\nWhile his mature vocabulary of reductive, geometric forms has often been related to Minimalist sculpture of the 1960s, Burton\u2019s nearly utopian vision of the role of the applied arts in the service of social transformation was inspired less by Minimalism than by a variety of other precedents in the history of 20th-century design, most specifically Russian Constructivism, German Bauhaus, and Dutch De Stijl. In 1987 the artist stated, \u201cVisual art is moving away from the hermetic, the hieratic, the self-directed toward more civic, more outer-directed, less self-important relations with social history. I want to get some social meaning back into art.\u201d\n\nAs a locus for explorations of both form and function, chairs and benches occupy a position of singular importance within the context of Burton\u2019s larger project. All of the works presented here attest to his passion for combining fine art and practical design and, in the process, opening up the scope of inquiry in both disciplines. These objects may be appreciated as beautiful works of sculpture, but they may also be used\u2014to relax, rest, and contemplate.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2009-05-09T00:00:00-05:00",
+    "aic_end_at": "2010-04-12T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Design",
+    "gallery_id": 25238,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Scott Burton"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:37-06:00",
+    "timestamp": "2021-01-14T17:13:14-06:00"
+}

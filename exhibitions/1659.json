@@ -1,0 +1,41 @@
+{
+    "id": 1659,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1659",
+    "title": "Focus: Hito Steyerl",
+    "is_featured": false,
+    "description": "Hito Steyerl is among the keenest observers of our thoroughly globalized, digitized condition. Her practice describes with uncommon precision the fluidity and mutability of images\u2014how they are produced, interpreted, translated, packaged, transported, and consumed by a multitude of users. Most often, Steyerl\u2019s art takes the form of video essays that comprise exhaustive research, montage, composite imagery, first-person voiceovers, and interviews. While her subjects vary widely, her work is consistently based on the premise that we are always implicated, consciously and unconsciously, in the stories that we tell. Hers is a documentary form that is emphatically transparent about its subjectivity and its uncertainty.\n\nPresenting six new and recent video installations, this exhibition\u2014the 28th installment of the Art Institute of Chicago\u2019s focus series\u2014is organized in conjunction with Hito Steyerl on view at e-flux, NY. The earliest work on view, November (2004), is a self-reflexive video that examines the role of images in the post-revolutionary moment, primarily through the figure of Andrea Wolf, a friend of the artist\u2019s from her teenage years who eventually fought alongside Kurdish rebels. Steyerl tracks the increasingly unstable transformations of Wolf\u2019s image following her death at the hands of the Turkish government. Lovely Andrea (2007) follows the artist\u2019s quest to find a bondage photograph she posed for while in Tokyo as a film student. The film explores ideas of bondage and domination as they extend to self-identification, popular culture, and politics. In Free Fall (2010) similarly takes on questions of continuous circulation as Steyerl uses the story of a particular Boeing 707 to analyze the social relations enmeshed in processes of production, consumption, destruction, and reuse. Abstract (2012) is a return to the contested narrative of Wolf\u2019s death with the artist traveling to Kurdistan in search of information about her friend's murder. The work links cinematic shooting and military warfare together, implicating Germany\u2019s role in the operation. Adorno\u2019s Grey (2012) expands outward from an infamous protest that took place during one of philosopher Theodor Adorno\u2019s last lectures in 1969, wherein three female students bared their breasts amid widespread student demonstrations. In her most recent piece, Steyerl turns her focus to the overlapping structures of security and culture. Guards (2012) was shot on location at the Art Institute and features interviews with museum security personnel who have military backgrounds. Intermingled with new and found footage, the interviews explore the officers' experiences of protecting art and protecting the nation.",
+    "short_description": "This focus exhibition features six works by German artist Hito Steyerl, whose practice combines elements of experimental film, auteur cinema, documentary, and video art.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1659/focus-hito-steyerl",
+    "image_url": "https://artic-web.imgix.net/c304463b-e0ab-4f48-93e2-732607ae3569/2012.123HitoSteyerlLovelyAndrew.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C199%2C2953%2C1659",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-11-01T00:00:00-05:00",
+    "aic_end_at": "2013-01-27T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "07198bac-6d03-4c5a-7d27-ee63771e9f41"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Focus: Hito Steyerl"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:44-06:00",
+    "timestamp": "2021-01-14T17:13:28-06:00"
+}

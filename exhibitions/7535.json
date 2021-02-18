@@ -1,0 +1,39 @@
+{
+    "id": 7535,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7535",
+    "title": "Hodler and the Swiss Landscape",
+    "is_featured": false,
+    "description": "This exhibition of 29 paintings by the Swiss Symbolist painter was sponsored by the Union Bank of Switzerland and organized by the Swiss Institute for Art Research. Most of the artworks on display were examples of what Hodler called his \"planetary landscapes,\" horizontal bands of color that were applied based on the artist's own system of scientific principles to depict mountains and bodies of water and instill a sense of tranquility in the viewer.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "1987-06-27T00:00:00-05:00",
+    "aic_end_at": "1987-08-30T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hodler and the Swiss Landscape"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-03-31T18:17:28-05:00",
+    "last_updated": "2020-03-31T18:20:45-05:00",
+    "timestamp": "2021-01-14T17:15:23-06:00"
+}

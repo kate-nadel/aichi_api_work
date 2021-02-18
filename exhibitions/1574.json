@@ -1,0 +1,39 @@
+{
+    "id": 1574,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1574",
+    "title": "Told and Retold: Picture Book Artists from Studio Goodwin Sturges",
+    "is_featured": false,
+    "description": "The most popular children\u2019s stories feature a familiar cast of characters such as princesses or pirates and are set in places like castles or faraway enchanted lands, but what happens when you turn these well-known tales on their heads? Told and Retold features works from Studio Goodwin Sturges that pick up the threads of seasoned stories and weave them into new contexts with unexpected twists. These artworks illustrate novel narratives about famous personalities like Puff the Magic Dragon or Mark Twain and invigorates oft-told tales with new characters and alternative places.\n\nStudio Goodwin Sturges is an artists\u2019 agency dedicated to nurturing creative talent and developing quality literature for children. Judy Sue Goodwin Sturges, owner and founder of the studio, is also a professor of illustration at Rhode Island School of Design, and she and her staff work to foster the growth of each artist in the studio. The agency works with children\u2019s book publishers across the country and with more than 40 artists and authors from around the world.\n\nEach of the eight artists whose work is featured in Told and Retolduses different illustration techniques, from textiles and found objects to pencil, paint, and digital media. Preparatory sketches accompany the original illustrations on view affording the opportunity to gain insight into the artists\u2019 working processes and explorations of materials. The exhibition thus not only offers the chance to experience favorite stories in new and fascinating ways but to explore the various paths that led to these inventive retellings.\n\nSponsor\nPicture book exhibitions in the Ryan Education Center are made possible by the Mr. and Mrs. William E. Thoreson Fund.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-05-12T00:00:00-05:00",
+    "aic_end_at": "2012-10-28T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Learning & Public Engagement",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Told and Retold: Picture Book Artists from Studio Goodwin Sturges"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:06-06:00",
+    "timestamp": "2021-01-14T17:13:25-06:00"
+}

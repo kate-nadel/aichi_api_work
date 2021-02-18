@@ -1,0 +1,39 @@
+{
+    "id": 3186,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3186",
+    "title": "Wade Guyton",
+    "is_featured": false,
+    "description": "Wade Guyton has been widely recognized for paintings and sculptures that mine art historical sources\u2014in particular, Constructivism and Concrete art traditions\u2014while also marshaling both technology and everyday objects, both precision and accident. In recent paintings, for instance, he runs blank linen canvas through consumer-grade ink-jet printers, which results in minimal abstractions that are nevertheless sensitive and sensual. Guyton\u2019s unique process reduces evidence of the artist\u2019s hand, yet it also foregrounds the struggle between a painter\u2019s canvas and machines designed for slick digital photographs. This method of working introduces a tension between conception and execution\u2014a dynamic triangulation between Guyton\u2019s own intentionally limited decision making, his chosen technology, and the physical manifestation of their interaction. Moreover, Guyton is concerned with the interaction of his paintings with each other, with his sculptures, and with the architecture in which they are presented. \n\nThis installation pairs a painting with a sculptural work. Both objects are constituted by, and so carry with them, a prior context. For the painting Untitled (2014), the artist enlarged an existing digital file to match the width of the Epson 11880, the printer through which the linen was then fed. Meanwhile the length of the canvas was determined by the size of the painting\u2019s original exhibition site. Here it hangs on a larger wall opposite the sculpture Untitled (2014), a careful replica of the coat-check counter at the Carnegie Museum in Pittsburgh, now separated from its original site and function. Perched on concrete blocks rather than fixed more permanently into the floor, this sculpture rises to the precise height of the Carnegie\u2019s counter: in Guyton\u2019s words, \u201cI liked where [the counter] hit your body if you were leaning on it. And I wanted that relationship to one\u2019s body to be the same and to travel with the object wherever it went.\u201d",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-09-12T00:00:00-05:00",
+    "aic_end_at": "2015-03-01T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25468,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Wade Guyton"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:00-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

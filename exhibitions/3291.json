@@ -1,0 +1,43 @@
+{
+    "id": 3291,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3291",
+    "title": "Harlequin",
+    "is_featured": false,
+    "description": "Harlequin is one of the most recognizable and enduring figures of the Commedia dell'Arte, an improvised form of theater performed by masked actors that originated in the mid-16th century in northern Italy but soon spread to the streets and courts of Europe. Commedia dell'Arte troupes were especially popular at the French court, where their performances were enjoyed for nearly two centuries. These shows involved drama, comic skits, and acrobatic routines not necessarily linked to any one story. Stock characters were identified by specific masks, costumes, and accessories. Although these have changed little today, the personalities of the characters have evolved. Harlequin, for example, was originally an oafish but agile figure from the Italian region of Bergamo, whose poverty was symbolized by a costume of multicolored patches. By the late 18th century, he had developed into a quick-witted trickster. His diamond-patterned suit now referred to his physical agility and to his multifaceted nature, at once cunning and foolish, shrewd and absurd.\nThroughout the 19th century, Harlequin and other commedia figures like Polichinelle were regular features in popular entertainments in Paris, such as vaudeville \"harlequinades\" or inexpensive theatrical productions, puppet theaters, caf\u00e9-concerts, and ballets. Harlequin costumes, along with those of other commedia characters like Pierrot (a French addition to the original Italian cast), were available to regular Parisians, who donned them during Mardi Gras celebrations and for other masked balls.\nThis special exhibition, drawn from the Art Institute of Chicago's permanent collection, celebrates the extraordinary loan of Paul C\u00e9zanne's Harlequin from the National Gallery of Art in Washington, D.C. The works on display by C\u00e9zanne, Edgar Degas, \u00e9douard Manet, and Pablo Picasso speak to the appeal of Harlequin and other commedia figures to avant-garde artists of the 19th and early 20th centuries.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2011-02-26T00:00:00-06:00",
+    "aic_end_at": "2011-05-30T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": 2147479700,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [
+        40482
+    ],
+    "site_ids": [
+        50
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Harlequin"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:22-06:00",
+    "timestamp": "2021-01-14T17:13:58-06:00"
+}

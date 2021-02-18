@@ -1,0 +1,39 @@
+{
+    "id": 1480,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1480",
+    "title": "Exposure: Matt Keegan, Katie Paterson, Heather Rasmussen",
+    "is_featured": false,
+    "description": "This continuing series in the Department of Photography showcases the Art Institute\u2019s commitment to collecting and exhibiting the most dynamic new work by emerging artists. The fourth installment in the series explores the diverse approaches to photography in work by Matt Keegan, Katie Paterson, and Heather Rasmussen.\n\nMatt Keegan\u2019s site-specific installation grew out of the artist\u2019s longstanding fascination with cities. Focusing on Chicago and New York, Keegan creates a meandering visual conversation with sculptures, printed materials, and seemingly random photographs mounted on sheet-metal panels painted the standard-issue color of municipal bridges in Chicago. These works, along with Keegan\u2019s annotated artist book, A History of New York, remind us not only of the constant dialogue between the cities but also their constant flux.\n\nKatie Paterson has said, \u201cI like to work on the brink of impossibility.\u201d Her slide catalogue and resulting photographs\u2014History of Darkness\u2014offer a romantic as well as scientific example of this working method. Images of pure darkness captured at different times and places in the universe are accompanied by handwritten labels indicating the distance in light years of each spot from the Earth. Paterson worked with astronomers at Hawaii\u2019s Keck Observatory, home to the world\u2019s largest optical telescopes, and photographed points in the galaxy more than 13 million years old. Thus, looking at History of Darkness, it is possible to look back to a time and space before Earth\u2019s existence.\n\nHeather Rasmussen\u2019s attraction to bold and colorful international shipping containers led her to recreate these objects in miniature, crafting them by hand from colored cardstock. In order to replicate actual shipping container accidents, she arranges her fragile sculptures and photographs the compositions. Although her images and titles appropriate the details of real accidents, Rasmussen\u2019s intermediary sculptures speak more to the underlying fragility of global supply and demand.",
+    "short_description": "This continuing series in the Department of Photography showcases the Art Institute\u2019s commitment to collecting and exhibiting the most dynamic new work by emerging artists. The fourth installment in the series explores the diverse approaches to photography in work by Matt Keegan, Katie Paterson, and Heather Rasmussen.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1480/exposure-matt-keegan-katie-paterson-heather-rasmussen",
+    "image_url": "https://artic-web.imgix.net/f87b1611-2d3e-4150-b4ba-0e7b736ff87f/2012.64HeatherRasmussen.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C53%2C599%2C337",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-09-03T00:00:00-05:00",
+    "aic_end_at": "2012-03-04T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 25210,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Exposure: Matt Keegan, Katie Paterson, Heather Rasmussen"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:12-06:00",
+    "timestamp": "2021-01-14T17:13:22-06:00"
+}

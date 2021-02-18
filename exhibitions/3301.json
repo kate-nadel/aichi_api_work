@@ -1,0 +1,39 @@
+{
+    "id": 3301,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3301",
+    "title": "Expanded Gallery for Arthur Rubloff Collection of Paperweights",
+    "is_featured": false,
+    "description": "\u201cSome fragment of a dream\u201d\u2014that is how American writer Truman Capote, himself a devoted collector of paperweights, described these fascinating objects. The hundreds of thousands of visitors who delight in the Art Institute\u2019s Arthur Rubloff Collection of Paperweights every year would surely agree. Since the fall of 2012, there is even more of that dream to discover. Thanks to the generous support of the International Paperweight Society Foundation and L. H. Selman, Ltd., along with the involvement of the family of Wes Clark in memory of Paul Jokelson, the Art Institute was able to expand our gallery dedicated to paperweights.\n\nBursting with gorgeous color and mesmerizing pattern and design, the Arthur Rubloff Collection of Paperweights came to the museum in 1978. Rubloff, a real estate developer and dedicated philanthropist, was among the first generation of 20th-century paperweight collectors to rediscover objects of the mid-19th century, known as the form\u2019s classic period. He made his first paperweight purchases in 1947 as gifts for his real estate partner, who had a small collection, but soon became enamored with the objects himself. He was not alone; a growing number of collectors gathered under the umbrella of the Paperweight Collectors Association, founded in 1953. Rubloff eventually amassed a total of 1,472 paperweights, of which 1,200 were donated to the Art Institute. This remarkable assemblage is now recognized as one of three premier collections in the world. Few collections more fully showcase the quality of craftsmanship, technological innovation, intricacy, and beauty of this art form.\n\nThe gallery expansion project increased the number of paperweights on view from 341 to more than 800. Eight new wall cases, along with a new pedestal case, have been installed, all to highlight a larger selection from the Rubloff Collection. And, for the first time a dedicated space features a selection of contemporary paperweights, including a beautiful new piece designed especially for the gallery reopening by renowned paperweight artist Paul Stankard.",
+    "short_description": "More than 800 paperweights, including for the first time a selection of contemporary works, are featured in the newly expanded gallery.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3301/expanded-gallery-for-arthur-rubloff-collection-of-paperweights",
+    "image_url": "https://artic-web.imgix.net/f1293f3b-f075-486d-ad19-a76be17d9466/2012.1004PaulStankardHoneyBeeSwarm.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C492%2C2250%2C1266",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": null,
+    "aic_end_at": null,
+    "date_display": null,
+    "department_display": "European Decorative Arts",
+    "gallery_id": 25727,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Expanded Gallery for Arthur Rubloff Collection of Paperweights"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:44-06:00",
+    "timestamp": "2021-01-14T17:13:58-06:00"
+}

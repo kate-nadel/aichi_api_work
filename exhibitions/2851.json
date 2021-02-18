@@ -1,0 +1,39 @@
+{
+    "id": 2851,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2851",
+    "title": "Icons of Divinity from South and Southeast Asia",
+    "is_featured": false,
+    "description": "Many religions in South and Southeast Asia have encouraged the use of images of deities and enlightened beings to assist in worship and instruction. As a result, much pre-modern art from this region is closely associated with the portrayal of the divine realm. Artists often chose to represent the overwhelming power and eternal presence of deities through the permanence of stone and metal sculpture. This exhibition highlights the diverse ways that religious traditions have visualized the divine image, focusing mainly on the art of Buddhism and Hinduism. These images reflect complex ideas about the nature of divinity and range greatly in size since they were meant to be seen in many locations, from small household shrines to immense temple enclosures and public parades.\n\nOrganizer\nThis exhibition is organized by the Art Institute of Chicago.\n\nCurator\nJay Xu, Pritzker Curator of Asian Art, the Art Institute of Chicago.",
+    "short_description": "Many religions in South and Southeast Asia have encouraged the use of images of deities and enlightened beings to assist in worship and instruction. As a result, much pre-modern art from this region is closely associated with the portrayal of the divine realm. Artists often chose to represent the overwhelming power and eternal presence of deities through the permanence of stone and metal sculpture. This exhibition highlights the diverse ways that religious traditions have visualized the divine image, focusing mainly on the art of Buddhism and Hinduism.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2851/icons-of-divinity-from-south-and-southeast-asia",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2006-03-09T00:00:00-06:00",
+    "aic_end_at": "2006-06-30T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147474874,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Icons of Divinity from South and Southeast Asia"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:34-06:00",
+    "timestamp": "2021-01-14T17:13:45-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3010,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3010",
+    "title": "The Mark of Modernism: Published Picasso",
+    "is_featured": false,
+    "description": "Pablo Picasso (1881\u20131973) was one of the most influential, prolific, and discussed artists of the 20th century. Although best known as a painter, sculptor, and printmaker, he was also one of the most, if not the most, productive collaborator on and creator of artists' books, also sometimes called livres d'artiste.\nPicasso's role in the creation of books varied. For some titles, he created illustrations to complement the text; in others, he pulled illustrations from his earlier work. Most frequently, Picasso worked with friends, either by illustrating their books, by drawing their portraits as frontispieces, or by working for those that were publishers to help launch a new project. He was such an important commodity for most of his career that he could pick and choose his endeavors, and despite the myriad ventures that were certainly denied, he still managed to create 156 illustrated books and countless other illustrations for magazines and other ephemera.\nThe types of illustrated publications ranged from editions of classic literature by authors such as Balzac and Ovid to volumes of surrealist poetry to cultural journals such as Minotaure and Verve. The wide assortment is a reflection of Picasso's inexhaustible creativity and many interests.\nThe standard catalog of Picasso's work in books is Sebastian Goeppert et al., Pablo Picasso The Illustrated Books Catalogue Raisonn\u00e9 (Geneva: Patrick Cramer, 1963), cited below as Cramer.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2013-02-12T00:00:00-06:00",
+    "aic_end_at": "2013-04-22T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Mark of Modernism: Published Picasso"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:14-06:00",
+    "timestamp": "2021-01-14T17:13:50-06:00"
+}

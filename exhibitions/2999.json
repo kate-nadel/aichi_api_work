@@ -1,0 +1,39 @@
+{
+    "id": 2999,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2999",
+    "title": "Tools of the Trade: 19th- and 20th- Century Architectural Trade Catalogs",
+    "is_featured": false,
+    "description": "Trade literature - also known as trade, manufacturers\u2019 or commercial catalogs - has been an indispensable tool of the architecture and design profession ever since its popularization in the late 19th century. The earliest precursors to modern trade literature emerged from European publishers and merchants in the 15th and 17th centuries though, given the degree to which the United States would come to dominate this field, it may arguably be Benjamin Franklin\u2019s book, fireplace and stove catalogs of 1744 to which the legacy is rightfully owed.\nCreated by merchants and manufacturers to promote their products and services, these publications were among the most widespread forms of early American advertising. Technological advances of the Industrial Revolution combined with modernization following the Civil War brought advances in printing technology that both reduced production costs and improved the quality of printed materials, the latter of which made the publication of primarily visual materials more viable.\nAmerica\u2019s westward expansion, fueled by the Homestead Act of 1862 and the growth of railroads, set the stage for the introduction of what was to be become the first mass-distributed trade literature: the mail order catalog. By appealing to rural consumers who wanted the selection and pricing of the big city while offering \u201csatisfaction guaranteed or your money back,\u201d Montgomery Ward tapped into a growing market that by 1897 was already generating nearly $7 million in annual sales.\nArchitectural building materials were commonly marketed in trade catalogs as early as the 1850s in such publications as \u201cPorter\u2019s Stone Dressing Machine\u201d (New York, 1855) and the Buffalo Iron Eagle Works catalog of 1854. Beginning around the turn of the century, companies such as Sears Roebuck, Aladdin, Hodgson and many others started selling \u201ckit houses\u201d: inexpensive, customizable mail order houses shipped straight from the factory for assembly either by the new homeowner or a local contractor. Over 200,000 were sold before falling out of favor in the early 1940s. Similarly, businesses such as the William A. Radford Company (see item #1) sold catalogs of well-crafted building plans at various levels of affordability for families and entrepreneurs wishing to build an attractive structure without having to pay an architect's commission.\nDespite their ephemeral nature, trade catalogs remain an important primary resource for the study of historical design and construction practices, and trends in both industry and culture.",
+    "short_description": null,
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2999/tools-of-the-trade-19th-and-20th-century-architectural-trade-catalogs",
+    "image_url": "https://artic-web.imgix.net/20829339-459c-4e4f-83cf-861efedcaab4/ex_tools-of-trade_main_480h_0.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2015-08-04T00:00:00-05:00",
+    "aic_end_at": "2015-10-12T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Tools of the Trade: 19th- and 20th- Century Architectural Trade Catalogs"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:44-06:00",
+    "timestamp": "2021-01-14T17:13:50-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3106,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3106",
+    "title": "Creative Imitation in Chinese Painting",
+    "is_featured": false,
+    "description": "The distinction between creativity and imitation inherent in Western art had been abandoned by some of China\u2019s greatest painters as early as the late 13th century. By the 17th century, all but the most innovative artists sought to reinterpret the compositional principles and brush techniques of earlier masters in new and self-expressive ways. In their inscriptions, many of these later painters typically described their pictures as executed \u201cin the style of\u201d specific predecessors, with whose works they might be familiar from surviving examples, descriptive records, or the works of close contemporaries. For these later artists, the ideal was to assimilate rather than replicate the works of chosen masters.  \n\nBy the 17th century, painters often displayed this original yet art historical approach to their work in the format of multi-leaf albums in which the pictorial style of each leaf evoked that of a different predecessor. Each of these albums could represent either a collaborative project of several painters or an independent work by one painter of extraordinary versatility. The album of 1642 by Lan Ying (1585\u2013about 1642), exhibited here, is a superb example of the latter. Also included are two roughly contemporary works of reinterpretation: a mountainous landscape dated 1715 by the so-called \u201corthodox\u201d master Wang Yuanqi, after the 14th-century painter Wang Meng, and a rendering of soaring peaks by Mei Chong (1623-1697), a highly imaginative allusion to the landscapes of the 10th-century master Li Cheng.",
+    "short_description": "This intimate exhibition examines the ways that Chinese painters since the late 13th century have reinterpreted techniques established by earlier masters in imaginative new ways.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3106/creative-imitation-in-chinese-painting",
+    "image_url": "https://artic-web.imgix.net/17b5d714-4407-4de1-af1b-c5d4da5a947d/exh_ying_autumn_main.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-10-03T00:00:00-05:00",
+    "aic_end_at": "2017-01-08T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147478117,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Creative Imitation in Chinese Painting"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:29-06:00",
+    "timestamp": "2021-01-14T17:13:53-06:00"
+}

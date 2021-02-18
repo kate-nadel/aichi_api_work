@@ -1,0 +1,39 @@
+{
+    "id": 6332,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6332",
+    "title": "The Masterpiece of the Month: St. John the Baptist, Engraving by Giulio Campagnola, Charles Deering Collection",
+    "is_featured": false,
+    "description": "During March 1940, an engraving of St. John the Baptist by Italian master Guilio Campagnola was featured as Masterpiece of the Month. Campagnola is known for his stipple engraving technique; this engraving is a masterful display of that skill. By merging the \u201crugged\u201d style of Mantegna of Padua, evident in the figure of John, and the \u201csoft\u201d landscape inspired by Giorgione of Venice, Campagnola constructs a composition that creates a visual path for the viewer\u2019s eye to ultimately be drawn to St. John\u2019s face.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1940-03-01T00:00:00-06:00",
+    "aic_end_at": "1940-03-30T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Masterpiece of the Month: St. John the Baptist, Engraving by Giulio Campagnola, Charles Deering Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T12:14:23-05:00",
+    "last_updated": "2019-10-15T12:16:17-05:00",
+    "timestamp": "2021-01-14T17:14:56-06:00"
+}

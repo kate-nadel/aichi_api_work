@@ -1,0 +1,39 @@
+{
+    "id": 3095,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3095",
+    "title": "To Build a Modern Campus: Ludwig Mies van der Rohe and the Illinois Institute of Technology, 1939-1948",
+    "is_featured": false,
+    "description": "Former Bauhaus director Ludwig Mies van der Rohe immigrated to Chicago in 1938 to head the architecture program at the Armour Institute, which soon became the Illinois Institute of Technology. Mere months after his arrival, Mies was asked to design a new plan for the university\u2019s rapidly expanding campus on the Near South Side. The German-trained architect spent three years working on a master plan for super blocks that removed city streets and razed nearly all existing buildings on the site. Based on a modular grid that could accommodate different building sizes and allow for future expansions, his drawings and plans envision the campus as a dynamic modern composition of open green space and glass-and-steel architecture.\n\nThe construction of the IIT campus came with a cost, however, as it displaced many residents in the surrounding neighborhood. Among the demolished buildings was the Mecca, a large apartment complex made famous by local jazz musicians, which was torn down to make way for Mies\u2019s masterwork, Crown Hall. Although the IIT campus was widely praised as an exemplary expression of modern technology and advanced planning techniques, we now understand the legacy of the project to include stories of social struggle and cultural erasure.",
+    "short_description": "Drawings and plans for Mies van der Rohe's expansion to IIT's campus offer a view of this masterwork of modern architecture and planning in process.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3095/to-build-a-modern-campus-ludwig-mies-van-der-rohe-and-the-illinois-institute-of-technology-1939-1948",
+    "image_url": "https://artic-web.imgix.net/232072e2-8e68-4d5a-b83c-fdc55698cbeb/exh_modern-campus-der-rohe_featured-480crop_0.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-07-02T00:00:00-05:00",
+    "aic_end_at": "2016-10-16T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 2147473418,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "To Build a Modern Campus: Ludwig Mies van der Rohe and the Illinois Institute of Technology, 1939-1948"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:34-06:00",
+    "timestamp": "2021-01-14T17:13:53-06:00"
+}

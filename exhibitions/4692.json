@@ -1,0 +1,42 @@
+{
+    "id": 4692,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4692",
+    "title": "Rene Magritte",
+    "is_featured": false,
+    "description": "This retrospective exhibit held over eighty paintings by Rene Magritte. It was the first time American viewers could assess his work in a large-scale, comprehensive exhibit held by a major museum. Magritte was largely identified as a surrealist who produced lifelike, dream motivated, symbolic paintings. According to co-curator of the exhibit James Thrall Soby, Magritte \u201cmade consistent use of what Apollinaire called art\u2019s greatest potential\u2014 surprise.\u201d This was evident in several of the works shown in the exhibit, which often included an odd assortment of objects decontextualized from their intended use. Known as the \u201cMiddle Class Magician,\u201d Magritte transposed reality into fantasy with his painting career, and was finally given his due in America with this historic exhibit.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1966-05-27T00:00:00-05:00",
+    "aic_end_at": "1966-07-04T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "5a0ae26a-0fd2-941e-be55-d743ba2a4c2f",
+    "alt_image_ids": [
+        "84cf126c-963a-7adf-b912-67c76aaf3999",
+        "a356a223-012d-52c6-37fc-6da2b7bcd4dd"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rene Magritte"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-31T14:23:33-05:00",
+    "last_updated": "2019-10-31T14:25:38-05:00",
+    "timestamp": "2021-01-14T17:14:24-06:00"
+}

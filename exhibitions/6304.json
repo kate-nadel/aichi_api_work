@@ -1,0 +1,39 @@
+{
+    "id": 6304,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6304",
+    "title": "The Masterpiece of the Month: Philadelphia Highboy, Mahogany, gift of Mrs. E. Crane Chadbourne",
+    "is_featured": false,
+    "description": "During November 1939, a rare mahogany Highboy made in Philadelphia between 1760-1775 was featured as Masterpiece of the Month from the Decorative Arts department. As described by the newsletter announcing its exhibition, \u201cAmong the many wonderful pieces of Colonial craftsmanship which have survived to rejoice the modern collector, no piece of furniture can claim to surpass the imposing \u201chigh chest of drawers\u201d which typifies the skill of the Philadelphia cabinet-maker of the third quarter of the eighteenth century.\u201d",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1939-11-01T00:00:00-06:00",
+    "aic_end_at": "1939-11-30T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Masterpiece of the Month: Philadelphia Highboy, Mahogany, gift of Mrs. E. Crane Chadbourne"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T12:09:11-05:00",
+    "last_updated": "2019-10-15T12:11:21-05:00",
+    "timestamp": "2021-01-14T17:14:55-06:00"
+}

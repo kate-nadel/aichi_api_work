@@ -1,0 +1,39 @@
+{
+    "id": 2070,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2070",
+    "title": "Focus: Lucy McKenzie",
+    "is_featured": false,
+    "description": "In her work, Scottish-born, Belgium-based artist Lucy McKenzie mines and merges source material from the realms of political and design history, advertising and architecture, fandom and friendship. Specially trained in the commercial techniques of decorative painting, her primary mode is trompe l\u2019oeil (literally, \u201cdeceive the eye\u201d). She renders still lifes and lived spaces in such meticulous detail that specific content cannot be separated from the casually theatrical qualities of its formal presentation. Yet McKenzie\u2019s practice is also crucially collaborative and interdisciplinary. The paintings operate in parallel with ongoing projects that engage other media, from writing to film to the design of clothing and interiors.\n\nMcKenzie creates environments, scenes, and stylistic contexts as much as individual artworks. For this exhibition\u2014her largest in the United States to date\u2014she has re-imagined the Art Institute\u2019s Abbott Galleries variously as a dynamic shop window, an airy \u201cExpo Hall,\u201d and an intimate artist\u2019s studio. Twelve new paintings made for this show will be augmented by four early canvases, as well as archival materials from McKenzie\u2019s adolescent and student years. Similarly, a recent video installation breaks new ground for the artist at the same time that it marks a return to earlier work, renewing a past collaboration with photographer and filmmaker Richard Kern first initiated when McKenzie was a teenager.\n\nWhile the appropriation of preexisting objects, imagery, and formats has always been fundamental to her work, McKenzie developed the Art Institute exhibition as a way to analyze the implications and possibilities of self-appropriation. In her words, \u201cThinking about how the access to and consumption of images has changed in recent years, I wanted to re-examine my relationship to appropriation. Every quote is an acquisitive, colonizing act, so how can one appropriate without inherent exploitation? By appropriating oneself?\u201d The artist does not simply create in an echo chamber, however. Her work is personal yet open, demanding but inviting. McKenzie invests in anachronistic, craft-based techniques to rich and radical effect, not only illuminating what she calls \u201can alternative history of painting,\u201d but, in fact, extending it.",
+    "short_description": "In her largest US exhibition, the Scottish-born artist presents 12 new paintings, transforming our galleries into a department-store display and an intimate artist\u2019s archive.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2070/focus-lucy-mckenzie",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-10-23T00:00:00-05:00",
+    "aic_end_at": "2015-01-18T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Focus: Lucy McKenzie"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:35-06:00",
+    "timestamp": "2021-01-14T17:13:35-06:00"
+}

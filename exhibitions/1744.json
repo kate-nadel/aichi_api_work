@@ -1,0 +1,39 @@
+{
+    "id": 1744,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1744",
+    "title": "Tomoaki Suzuki",
+    "is_featured": false,
+    "description": "Japanese artist Tomoaki Suzuki\u2019s diminutive sculptures put a decidedly contemporary twist on the millennia-long tradition of Japanese woodcarving. Drawing on his life in London, Suzuki creates painstakingly detailed portraits of diverse urban youths at one-third their actual size. The five sculptures on view on the Art Institute\u2019s Bluhm Family Terrace demonstrate a shift in the artist\u2019s practice\u2014they are his first works to be executed in bronze.\n    \nSuzuki began his training at Tokyo Zokei University, where he learned the fundamental principles of figurative sculpture. The artist\u2019s work documents consumer culture and the quickly shifting trends driven by ready access to fast fashion and recycled clothing. The expressive ensembles worn by his models provide insight into their character. Largely disinterested in gestural or emotive expression, Suzuki strives to articulate his models\u2019 identities\u2014as he believes they do\u2014through their personal style.  \n\nThe artist\u2019s process begins with photographs and drawings of each sitter with careful attention to the nuances of pose and dress. He then often casts a plaster maquette of the subject's hands to determine accurate dimensions for the sculpture before beginning the laborious task of transforming a wooden block into a hyperrealistic sculpture. In the case of the works on view at the Art Institute, the wooden sculptures are then cast in bronze, and finally, meticulously painted. Because Suzuki works alone, each sculpture can take up to two to three months to complete with no more than four sculptures produced each year.\n\nThe artist maintains that by working in small scale he is able to focus his attention on the figures in a way that would not be possible on a larger scale. Plus, because of their size, the figures physically draw the viewer in and down to their level, and yet in spite of their size, the sculptures have a powerful presence.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-05-23T00:00:00-05:00",
+    "aic_end_at": "2013-10-20T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25238,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Tomoaki Suzuki"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:02-06:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

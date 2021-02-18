@@ -1,0 +1,43 @@
+{
+    "id": 8114,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/8114",
+    "title": "Portraits of My People: Photographs by Willie Robert Middlebrook",
+    "is_featured": false,
+    "description": null,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1995-04-15T00:00:00-05:00",
+    "aic_end_at": "1995-09-04T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "f948786c-fa39-482c-ccb6-a5aefe808326",
+    "alt_image_ids": [
+        "39678412-17cf-5fca-706e-849ccc0375f5",
+        "ff5425b6-52e6-54c6-d2fd-fe4f63c65eda",
+        "13eb380f-b2f1-b197-bce0-a9db9ca87965"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Portraits of My People: Photographs by Willie Robert Middlebrook"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:13:45-06:00",
+    "timestamp": "2021-01-14T17:15:38-06:00"
+}

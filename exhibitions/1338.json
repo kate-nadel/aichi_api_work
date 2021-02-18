@@ -1,0 +1,39 @@
+{
+    "id": 1338,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1338",
+    "title": "Uta Barth",
+    "is_featured": false,
+    "description": "Since the early 1990s, Los Angeles\u2013based artist Uta Barth has examined photographic and visual perception\u2014how the human eye sees differently from the camera lens and how the incidental and atmospheric can become subject matter in and of themselves. That is to say, she is perhaps less interested in where the camera is pointing than the act of looking through the lens in the first place.\n\nThe works that brought her to international attention, the series Ground and Field, presented photographic blurs caused by focusing the camera on an unoccupied foreground; these lushly colored images tested connections between the descriptive clarity of photography and the haze of memory. The 2002 series, white blind (bright red), which was rooted in the process of staring at a tree outside her window, explored optical after-images as literal and metaphorical modes of perception. And in 2007, Barth produced Sundial, a series of photographs in her home at dusk. Made at the moment when light begins to transition and fade, these images operate between positive and negative, visibility and invisibility, and shadow and light.\n\nBarth\u2019s latest series, ... and to draw a bright white line with light, debuts with this Art Institute exhibition. As with much of her earlier work, the domestic setting continues to be fertile ground for nuanced explorations of changes in atmosphere, although for the first time the artist has intervened in the scene she previously had only observed. In this new series, Barth transforms a simple observation\u2014the dance of a ribbon of light across curtains\u2014into a complex photographic experience describing perception and the passage of time. The word \u201cphotograph\u201d translates as drawing or writing with light; Barth\u2019s new images, then, are quite literally photographs. This newest work is contextualized in the exhibition with select examples from white blind (bright red) and Sundial that have furthered her investigations into perception and light.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-05-14T00:00:00-05:00",
+    "aic_end_at": "2011-08-16T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Uta Barth"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:26-06:00",
+    "timestamp": "2021-01-14T17:13:22-06:00"
+}

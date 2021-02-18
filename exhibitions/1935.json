@@ -1,0 +1,39 @@
+{
+    "id": 1935,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1935",
+    "title": "Dayanita Singh",
+    "is_featured": false,
+    "description": "Although Indian artist Dayanita Singh (born 1961) began her career as a photojournalist, she now considers herself \u201ca bookmaker working with photography.\u201d Over the last 30 years, she has developed a way of working in fluid, interconnected photographic series that she revisits in various contexts\u2014often in book form. Singh has referred to the photographs in her vast archive as individual \u201cwords\u201d that she arranges and rearranges into diaristic narratives dealing with Indian life and culture. \n\nWhile the artists' book has been her primary mode of display and communication, in 2013 Singh began constructing what she calls portable \u201cMuseums\u201d\u2014large wooden structures that can be opened and placed in various architectural configurations, each holding 70 to 140 photographs that span her artistic oeuvre. For each presentation, Singh rearranges the photographs so that at any given time only a portion of the photographs is on view, while others wait their turn within the structure. This installation brings together one of Singh\u2019s earliest photographic series, Myself Mona Ahmed (1989\u20132001), newly acquired by the Art Institute of Chicago, with a recent related Museum structure, Museum of Chance (2013).\n\nSingh met the outcast eunuch Mona Ahmed (a combination of female and male first names) on assignment in 1989. The two, who became fast friends and remain very close to this day, have together endeavored to think through and explain what it means to be truly unique in the world. \u201cShe wanted to tell the story,\u201d writes Singh, \u201cof being neither here nor there, neither male nor female, and finally, neither a eunuch nor someone like me.\u201d In addition to the series devoted to her, Singh frequently uses images of Mona Ahmed in her Museum structures, attesting to the significance of their friendship. The Museum of Chance, which features more recent photographs of Mona Ahmed, was selected for the Art Institute\u2019s installation for its use of images connecting the artist\u2019s past and present, making it an anchor of the Museum series.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-03-01T00:00:00-06:00",
+    "aic_end_at": "2014-06-01T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 25469,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Dayanita Singh"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:51-06:00",
+    "timestamp": "2021-01-14T17:13:34-06:00"
+}

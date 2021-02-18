@@ -1,0 +1,39 @@
+{
+    "id": 9169,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9169",
+    "title": "Malangatana: Mozambique Modern",
+    "is_featured": false,
+    "description": "Co-curated by Hendrik Folkerts (Dittmer Curator of Modern and Contemporary Art),\nFelicia Valentine Mings (Academic Curator), and Constantine Petridis (Curator of African Art and Chair of the Department of Arts of Africa and the Americas)",
+    "short_description": "<p>This exhibition brings together more than 40 paintings and drawings and invites us to consider Malangatana\u2019s development as an artist part and parcel with the emergence of modern African art.</p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9169/malangatana-mozambique-modern",
+    "image_url": "https://artic-web.imgix.net/null09361fb1-4c32-4f52-8505-5e70e10a521b/FountainofBloodCLEVELAND2012.67_press.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C6%2C3000%2C1687",
+    "type": "AIC Only",
+    "status": "Confirmed",
+    "aic_start_at": "2020-07-30T00:00:00-05:00",
+    "aic_end_at": "2020-11-16T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Malangatana: Mozambique Modern"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-08-27T15:52:41-05:00",
+    "last_updated": "2021-01-13T23:23:25-06:00",
+    "timestamp": "2021-01-14T17:16:07-06:00"
+}

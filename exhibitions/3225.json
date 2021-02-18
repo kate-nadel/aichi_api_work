@@ -1,0 +1,39 @@
+{
+    "id": 3225,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3225",
+    "title": "Ed Clark",
+    "is_featured": false,
+    "description": "A native of New Orleans, Edward Clark grew up in Chicago, attending the School of the Art Institute of Chicago on a GI Bill scholarship, which also supported study in Paris in the early 1950s. As with so many of his expatriate peers, Paris played a crucial role in the transformation of Clark\u2019s work. In addition to being a refuge from the general discrimination Clark experienced in the United States, the city also provided a respite from the expectation that African American artists paint in a realist mode. Indeed in Paris Clark turned emphatically toward abstraction: \u201cIt struck me that if I paint a person\u2014no matter how I do it\u2014it is a lie. The truth is in the physical brushstroke and the subject of the painting is the paint itself.\u201d \n\nThroughout the 1950s, Clark\u2019s brushstrokes grew bolder and looser, conceived by the artist as bearers of \u201cenergy and speed.\u201d The early abstract canvas Untitled (1953) establishes a striking verticality, almost human in its scale. Meanwhile Silver Screen\u2014in keeping with its title\u2014expands horizontally, as if pushed outward by the artist\u2019s vivid, fanlike applications of color. Following five years in Paris, Clark moved to New York City, where in late 1957 he exhibited a work often acknowledged as the first shaped painting. Few of these paintings survive, but Untitled (1957) is an important example of Clark\u2019s innovation: collaged elements break the traditional rectangular limits of the canvas, carrying the dynamism of his brushstrokes into the spaces beyond.\n\nThese pioneering paintings come together in celebration of Clark on the occasion of his receiving the Art Institute\u2019s Legends and Legacy Award, an honor recognizing living African American artists who have achieved national acclaim with careers spanning over 50 years.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-10-11T00:00:00-05:00",
+    "aic_end_at": "2014-03-09T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25472,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ed Clark"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:46-06:00",
+    "timestamp": "2021-01-14T17:13:56-06:00"
+}

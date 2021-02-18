@@ -1,0 +1,39 @@
+{
+    "id": 5558,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5558",
+    "title": "American Federation of Arts: Mexican Art",
+    "is_featured": false,
+    "description": "This exhibit was created through the cooperation of The American Federation of Arts and the Mexican government to give the American public an opportunity to know Mexican art in its many forms. The exhibition, featuring works by artists Diego Rivera, Francisco D\u00edaz de Le\u00f3n, Jos\u00e9 Miguel Covarrubias Duclaud, Agust\u00edn Lazo Adalid, Jos\u00e9 Clemente Orozco, and David Alfaro Siqueros, aimed to present a Mexican interpretation of Mexico though early and contemporary applied arts, early fine arts, and contemporary fine arts.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "1931-12-22T00:00:00-06:00",
+    "aic_end_at": "1932-01-17T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "American Federation of Arts: Mexican Art"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-03-31T17:03:43-05:00",
+    "last_updated": "2021-01-13T23:23:33-06:00",
+    "timestamp": "2021-01-14T17:14:40-06:00"
+}

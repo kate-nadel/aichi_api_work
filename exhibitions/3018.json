@@ -1,0 +1,39 @@
+{
+    "id": 3018,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3018",
+    "title": "Architecture for Urbanism: Selections from the Bertrand Goldberg Archive",
+    "is_featured": false,
+    "description": "Known for his commitment to socially progressive design in large-scale residential and institutional projects, Goldberg's distinctive work often juxtaposed fluid, organic shapes against the rectilinear forms popularized after World War II. His work can be seen in such noted buildings as Marina City and River City in Chicago, and in hospitals across the United States. This exhibition examines the full breadth of Goldberg's career\u2014from his early work in prefabrication, through the leisure projects of the 1950s, to the skyscrapers of the 1980s\u2014all bound together by his belief in architecture's obligation to improve the state of the human condition and the conviction that urbanism was the best avenue to that end.",
+    "short_description": "Known for his commitment to socially progressive design in large-scale residential and institutional projects, Goldberg's distinctive work often juxtaposed fluid, organic shapes against the rectilinear forms popularized after World War II.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3018/architecture-for-urbanism-selections-from-the-bertrand-goldberh-archive",
+    "image_url": "https://artic-web.imgix.net/ddc85880-2587-4f5d-b2af-13b8128db3c6/ArchitectureforUrbanism.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=1%2C88%2C1484%2C835",
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2011-11-01T00:00:00-05:00",
+    "aic_end_at": "2012-01-02T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Architecture for Urbanism: Selections from the Bertrand Goldberg Archive"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:30-06:00",
+    "timestamp": "2021-01-14T17:13:51-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3006,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3006",
+    "title": "The Czech Avant-Garde Book",
+    "is_featured": false,
+    "description": "In the period between the two world wars artistic movements in Czechoslovakia produced outstanding examples of avant-garde book cover design, layout and typography. Czech artists, designers and architects adopted and developed trends from the avant-garde in other parts of Europe and created what they saw as a new approach to book cover design and typography. These artists rejected the bibliophile tradition of book design and sought instead to use avant-garde aesthetics to create simply produced books that could be made available to all. This was not merely an attempt to put modern art on a book cover but rather to rethink the entire aesthetics of the thing and so produce a modern book and a modern book cover.\nThis exhibition covers the work of the Czech artists and designers Ladislav Sutnar, Toyen, Jind\u0159ich \u0160tyrsk\u00fd, Karel Teige and several others. Many of the designers of these books were members of the Dev\u011btsil artist group, which was founded in Prague in 1920. Early on Dev\u011btsil artists began producing \"Pictorial Poems,\" which used the techniques of collage and photomontage to visually recreate the lyricism of poetry and can be seen on the covers of some of their books. These artists also drew from other artistic movements such as Constructivism, Surrealism, and Socialist Realism to create what are often graphically striking designs. This exhibition is drawn from the Ryerson Library's special collections, especially the Leibowits and Mary Reynolds collections.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2014-01-28T00:00:00-06:00",
+    "aic_end_at": "2014-04-07T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Czech Avant-Garde Book"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:14-06:00",
+    "timestamp": "2021-01-14T17:13:50-06:00"
+}

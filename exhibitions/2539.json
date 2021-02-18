@@ -1,0 +1,39 @@
+{
+    "id": 2539,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2539",
+    "title": "Takuma Nakahira: Circulation",
+    "is_featured": false,
+    "description": "In the fall of 1971, Japanese photographer and cultural critic Takuma Nakahira (1938\u20132015)\u2014lead editor of Provoke magazine and guiding figure of the \u201cProvoke era\u201d in postwar Japan\u2014took part in the seventh edition of the Paris Biennale. He brought no existing work but instead created from scratch a visionary photo-performance titled Circulation. Every day for one week, Nakahira strolled the streets of Paris, taking pictures with a handheld camera; every evening the artist rapidly developed his negatives and just as quickly made prints, which he then glued to the wall inside the biennale hall.\n\nAfter one week, the lengthy wall was covered from top to bottom and end to end with these pictures, nearly 600 in all. Further photographs were arranged in rows on the floor and also came to cover an adjacent cinderblock \u201cdesk.\u201d The massive installation\u2014covering a total of 15 meters\u2014included photographs of its own progress, along with pictures of works that had crept in from other artists. Sections were divided by date. When the week was over, Nakahira and his friends tore it down, leaving a heap of prints strewn across the floor that visitors were encouraged to take with them.\n\nIn 1975 Nakahira destroyed almost all of his negatives and prints from the Provoke era. Only one of these projects still exists intact in any form: Circulation. This lone surviving project is also one of Nakahira\u2019s greatest ideas\u2014to transform photography into performance art. Negatives for many of the pictures have survived, as have a scattering of prints made at the time, some of which were used in the weeklong performance. The only evocation of Circulation at exhibition to date has been as enlarged, selected modern prints.\n\nUsing a darkroom facility in the Art Institute that long lay dormant, the Department of Photography has recreated the 1971 installation of Circulation. The entirety of the pictures, printed chemically from the original negatives, are glued to the wall or laid on the floor as they were in Paris; even the photo-covered cinderblock \u201cdesk\u201d is included, along with a selection of the vintage prints. The result presents an archeological view of one of the most original uses of photographs anywhere in the world in recent decades",
+    "short_description": "This exhibition recreates for the first time Provoke artist\u2019s 1971 installation for the Paris Biennale, in which he covered a 15-meter span with nearly 600 photographs over a weeklong period.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2539/takuma-nakahira-circulation",
+    "image_url": "https://artic-web.imgix.net/d59e5570-2052-48a1-8542-ceb80144ac8a/exh_Takuma-Nakahira_mega-2000.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C363%2C2000%2C1123",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2017-01-28T00:00:00-06:00",
+    "aic_end_at": "2017-04-30T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 25210,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Takuma Nakahira: Circulation"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:11-06:00",
+    "timestamp": "2021-01-14T17:13:41-06:00"
+}

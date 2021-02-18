@@ -1,0 +1,39 @@
+{
+    "id": 3060,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3060",
+    "title": "Holiday Thorne Rooms",
+    "is_featured": false,
+    "description": "The beloved decorating tradition is back\u2014and continues to ramp up the festivities\u2014with a Twelfth Night\u2013themed room joining in the fun.\n\nSeveral other rooms once again get their seasonal trimmings. Among the most elaborate is the English Drawing Room of the Victorian Period, the only room with a Christmas tree. Now a ubiquitous feature of the season, the Christmas tree or tannenbaum, was only brought to England from Germany in 1840 with the marriage of Prince Albert to Queen Victoria. The Thorne Room tree and accoutrements are based on a famous engraving of the royal couple and their children surrounding a trimmed and toy-bedecked tree, an image that would forever popularize this holiday fixture. Other ornamented rooms include:\n\nThe English Great Hall of the Tudor period with a wassailing bowl, yule log, and an essential part of the costuming for that period\u2019s singing-dancing revelers\u2014a mummer\u2019s mask\nThe Virginia Entrance Hall with mistletoe, wreath, and garland\nThe French Provincial Bedroom with shoes, or sabots, lined up before the fireplace, a cr\u00e8che, and puzzle\nThe modern-era California Hallway with an Otto Natzler mid-century menorah and box with a dreidel\nThe New Orleans, New Mexico, and the Pennsylvania Dutch (German) rooms filled with regional treats of the season\nThe 1930s French Library with a tiny taste of Art Deco holiday glamour\nThe traditional Chinese interior filled with shadow puppets and instruments that would have been used to celebrate the Chinese New Year as well as other festive occasions",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2015-11-20T00:00:00-06:00",
+    "aic_end_at": "2016-01-10T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "European Decorative Arts",
+    "gallery_id": 2147477257,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Holiday Thorne Rooms"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:09-06:00",
+    "timestamp": "2021-01-14T17:13:52-06:00"
+}

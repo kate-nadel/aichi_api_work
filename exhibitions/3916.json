@@ -1,0 +1,39 @@
+{
+    "id": 3916,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3916",
+    "title": "Photographs of San Francisco, Perspective Photographs by Fred Lyon",
+    "is_featured": false,
+    "description": "Fifty-nine photographs of San Francisco comprised this exhibition. The Golden Gate Bridge or the Bay Bridge appeared in some form in each photograph.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1955-09-15T00:00:00-05:00",
+    "aic_end_at": "1955-11-01T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Photographs of San Francisco, Perspective Photographs by Fred Lyon"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T08:47:49-05:00",
+    "last_updated": "2019-10-15T08:51:24-05:00",
+    "timestamp": "2021-01-14T17:14:11-06:00"
+}

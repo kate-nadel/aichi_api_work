@@ -1,0 +1,39 @@
+{
+    "id": 3046,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3046",
+    "title": "Jos\u00e9 Guadalupe Posada and the Mexican Broadside",
+    "is_featured": false,
+    "description": "Two consecutive installations focus attention on the Art Institute's outstanding but rarely exhibited collection of late 19th- and early 20th-century Mexican broadsides. Popular press publishers and itinerant hawkers sold these colorful, graphically powerful sheets on the street as penny handbills.\n\nPart I: June 24-October 1\nPart II: October 7-January 21\n\nMade by renowned broadside illustrator Jos\u00e9 Guadalupe Posada, his colleague Manuel Manilla, and various anonymous artists, the 75 featured works cover a wide range of themes and aesthetic strategies. One can see scandal sheets covering the latest crimes and curiosities; news of dramatic and noteworthy events from natural disasters to military campaigns to national celebrations; popular song sheets introducing the latest compositions and corridos, narrative songs that tell of the escapades of bandits and heroes; and sheets marking Day of the Dead celebrations that feature the often humorous and satirical calaveras, or skeleton figures. Jos\u00e9 Guadalupe Posada and the Mexican Broadside also explores the technical aspects of broadside production and examines its popular precursors.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-06-24T00:00:00-05:00",
+    "aic_end_at": "2008-01-21T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Unknown",
+    "gallery_id": 2147475001,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jos\u00e9 Guadalupe Posada and the Mexican Broadside"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:49-06:00",
+    "timestamp": "2021-01-14T17:13:52-06:00"
+}

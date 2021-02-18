@@ -1,0 +1,53 @@
+{
+    "id": 4665,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4665",
+    "title": "The Golden Age: Viking Art in Sweden",
+    "is_featured": false,
+    "description": "This exhibit showed artwork ranging from the Viking Era (800-1050 A.D.) and the Migration Period (100-800 A.D.). When the exhibit initially travelled, it was the first time any of the treasures in the show were seen in America. Unlike many Viking-related exhibits at the time, this show focused on the \u201cartistic capacities\u201d of the Vikings, with special attention paid to unique practices like casting, engraving, chasing, punching and stamping, incrustation, and filigree and granulation. Many of the works were done in silver and gold, which was plentiful due to the rich trade relations Vikings had with other nations. Because of this prosperity, the \u201cGolden Age\u201d of the Vikings allowed for ornamental and decorative art. This exhibit coincided with Prince Bertil of Sweden\u2019s visit to Chicago, and another exhibit of paintings and etchings by Swedish artist Anders Zorn.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1965-11-24T00:00:00-06:00",
+    "aic_end_at": "1966-01-02T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "94685a04-56dd-247a-6323-6cf03c8a75d4",
+    "alt_image_ids": [
+        "20da1e08-f1b7-7612-3ca5-b93fb18db47a",
+        "03e9a624-d318-63e9-be24-84964609a18c",
+        "00a40fc2-e456-acd2-919d-30976623420b",
+        "60887c16-37a5-339b-0a21-fcbbc48cef43",
+        "371d01b5-e2f2-1742-37b4-8ab7b85877f1",
+        "e73ed0c5-9f5b-6626-ca8c-44aef40229cf",
+        "223e1f32-b562-cef5-dbfc-140eccfc01f1",
+        "f87f6316-6e03-35b9-22a1-5126497e4901",
+        "1ef602a6-5486-a45f-48b7-5a434ef6d400",
+        "eebd6d88-75eb-2a61-91aa-adf42682f2d8",
+        "455592fc-5e7a-30ba-d89d-098584719f07",
+        "e7a2868e-71b3-a429-ca52-daa4e7d2f824",
+        "e48a23d5-924a-eaa3-7ad8-0253005eca22"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Golden Age: Viking Art in Sweden"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-31T14:08:34-05:00",
+    "last_updated": "2019-10-31T14:13:55-05:00",
+    "timestamp": "2021-01-14T17:14:24-06:00"
+}

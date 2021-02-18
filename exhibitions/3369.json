@@ -1,0 +1,39 @@
+{
+    "id": 3369,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3369",
+    "title": "Design Episodes: The Modern Chair",
+    "is_featured": false,
+    "description": "In the fall of 2017, the Art Institute of Chicago will debut the museum\u2019s first permanent installation dedicated to 20th- and 21st-century architecture and design. In the months leading up to this major display on the second floor of the Modern Wing, the space will feature a series of three mini-exhibitions showcasing different aspects of the museum\u2019s design holdings\u2014from an exploration of the modern chair to a look at different expressions of postmodernism to a celebration of typography in graphic design. Tying the three installments together is an installation design by Amir Berbic for the galleries and the windows facing onto Griffin Court.\n\nThe first episode of the series focuses on a piece of furniture that has captivated the popular imagination like no other: the modern chair. Beginning in the Machine Age with the promise of industrial production, chair design took off in new directions dynamically engaged with contemporary forms. Furniture design moved out of the realms of the carpenter and the decorator as architects and industrial designers took on the chair as a problem of engineering, materials research, and the scientific study of the human body. With this new attitude, one of the most important drivers of modern chair design became new materials\u2014from tubular steel in 1920s Europe to the later largely American development of plywood and fiberglass chairs. This exhibition presents iconic examples from throughout the 20th century by makers including Le Corbusier and Charlotte Perriand, Harry Bertoia, and Charles and Ray Eames, all of whose work contributed to the evolution of a new, modern ideal.",
+    "short_description": "The first installment of this series presents iconic chairs by makers including Le Corbusier and Charlotte Perriand, Harry Bertoia, and Charles and Ray Eames.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3369/design-episodes-the-modern-chair",
+    "image_url": "https://artic-web.imgix.net/5b875712-bb50-4193-bf86-081eeaa42468/exh_modern-chair_feature_480_0.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-04-23T00:00:00-05:00",
+    "aic_end_at": "2016-10-02T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Design",
+    "gallery_id": 23970,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Design Episodes: The Modern Chair"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:30-06:00",
+    "timestamp": "2021-01-14T17:14:00-06:00"
+}

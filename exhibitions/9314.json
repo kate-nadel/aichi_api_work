@@ -1,0 +1,39 @@
+{
+    "id": 9314,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9314",
+    "title": "Room to Move",
+    "is_featured": false,
+    "description": null,
+    "short_description": "<p>Our Interactive Gallery becomes a site for your movement creations.</p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9314/room-to-move",
+    "image_url": "https://artic-web.imgix.net/3301f7a9-51a0-4acd-a3b2-743b6f056150/28_RoomToMove_JuanArango.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C127%2C3000%2C1687",
+    "type": "AIC Only",
+    "status": "Confirmed",
+    "aic_start_at": "2019-05-18T00:00:00-05:00",
+    "aic_end_at": "2019-12-31T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Learning & Public Engagement",
+    "gallery_id": 26771,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Room to Move"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-04-26T10:40:35-05:00",
+    "last_updated": "2021-01-13T23:24:00-06:00",
+    "timestamp": "2021-01-14T17:16:09-06:00"
+}

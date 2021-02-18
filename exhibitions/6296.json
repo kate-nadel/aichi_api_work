@@ -1,0 +1,39 @@
+{
+    "id": 6296,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6296",
+    "title": "The Masterpiece of the Month: Christ Preaching, Etching and Drypoint by Rembrandt van Rijn, Clarence Buckingham Collection",
+    "is_featured": false,
+    "description": "During August 1939, a famous etching titled \u201cChrist Preaching (La Petite Tombe)\u201d by renowned Dutch artist, Rembrandt van Rijn, was Masterpiece of the Month. This print is a great display of Rembrandt\u2019s mastery of value manipulation and composition. According to the newsletter announcing its exhibition, \u201c[Rembrandt] may have had in mind Matthew 9:35, \u2018And Jesus went about all the cities and villages, teaching in their synagogues and preaching the gospel of the kingdom\u2026\u2019\u201d",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1939-08-01T00:00:00-05:00",
+    "aic_end_at": "1939-08-30T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Masterpiece of the Month: Christ Preaching, Etching and Drypoint by Rembrandt van Rijn, Clarence Buckingham Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T12:04:23-05:00",
+    "last_updated": "2019-10-15T12:06:25-05:00",
+    "timestamp": "2021-01-14T17:14:55-06:00"
+}

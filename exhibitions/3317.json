@@ -1,0 +1,39 @@
+{
+    "id": 3317,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3317",
+    "title": "Connoisseurship of Japanese Prints, Part II: 20th-Century Prints",
+    "is_featured": false,
+    "description": "As opposed to their Edo-period predecessors, many 20th-century printmakers had complete control over the entire process, from initial sketch to carving and finally on to printing. Therefore, any changes made during a print run\u2014such as altering color choice, texture, or modifying the subject\u2014were done almost entirely for aesthetic reasons alone. Such changes resulted in works that look similar but have different details, and often different moods. This exhibition brings together examples of prints from the same edition that display subtle alterations. In addition, several preparatory sketches along with their final printed versions are shown to further elucidate particular artists\u2019 working methods. Some artists draw a simple sketch before carving; others create a fully worked-up watercolor; and still other artists use both to prepare for printing a finished image.\n\nA special feature of the exhibition is a set of prints depicting each stage in the printing process of Onchi Koshiro\u2019s Portrait of Poet Hagiwara Sakutaro, a pivotal image in the history of 20th-century printmaking. As far as can be determined, this set is unique to the Art Institute\u2019s collection.",
+    "short_description": "As opposed to their Edo-period predecessors, many 20th-century printmakers had complete control over the entire process, from initial sketch to carving and finally on to printing. Therefore, any changes made during a print run\u2014such as altering color choice, texture, or modifying the subject\u2014were done almost entirely for aesthetic reasons alone. Such changes resulted in works that look similar but have different details, and often different moods. This exhibition brings together examples of prints from the same edition that display subtle alterations.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3317/connoisseurship-of-japanese-prints-part-ii-20th-century-prints",
+    "image_url": "https://artic-web.imgix.net/bdfaf74f-e76f-4e06-98e1-dc00adc4bb13/1962.251OnchiKoshiroPortraitofthePoetHagiwaraSakutaro.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=98%2C851%2C2195%2C1235",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-06-02T00:00:00-05:00",
+    "aic_end_at": "2012-08-11T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Connoisseurship of Japanese Prints, Part II: 20th-Century Prints"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:44-06:00",
+    "timestamp": "2021-01-14T17:13:59-06:00"
+}

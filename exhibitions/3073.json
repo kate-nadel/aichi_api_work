@@ -1,0 +1,39 @@
+{
+    "id": 3073,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3073",
+    "title": "Japan's Great Female Poets",
+    "is_featured": false,
+    "description": "Japan has a long history of recognizing the talents of great female poets. During the Heian period (794\u20131185), the golden age of the Japanese imperial court, women stood out as practitioners of a specific type of poetry called waka and the novel. This exhibition focuses on two most of the country\u2019s most renowned female poets, Murasaki Shikibu (about 973\u20131016) and Ono no Komachi (active about 833\u201357). Although little is known about them, these women inspired numerous legends, some of which became the subjects of N\u014d and Kabuki plays, as well as woodblock prints. The images in this exhibition, made during the Edo (1615\u20131868) and Meiji (1868\u20131912) periods, show the various ways in which artists have interpreted these stories.",
+    "short_description": "This exhibition shows how artists have interpreted the stories and legends about two of the country's most renowned female poets, Murasaki Shikibu and Ono no Komachi.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3073/japans-great-female-poets",
+    "image_url": "https://artic-web.imgix.net/fe984055-6b9c-4ce0-b393-7ee97a1536c7/exh_japan_female_poets_360h.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-04-02T00:00:00-05:00",
+    "aic_end_at": "2016-06-19T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Japan's Great Female Poets"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:39-06:00",
+    "timestamp": "2021-01-14T17:13:52-06:00"
+}

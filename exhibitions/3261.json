@@ -1,0 +1,39 @@
+{
+    "id": 3261,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3261",
+    "title": "Sharing Space: Creative Intersections in Architecture and Design",
+    "is_featured": false,
+    "description": "From the powerful effect of color to the rigor of geometry, this exhibition mines the permanent collection of the Department of Architecture and Design to expose common creative concepts and formal strategies across the fields of architecture and design. Including work by architects, urban planners, graphic designers, and industrial designers created from the 1940s to 2012, this broadly thematic organization highlights important recent acquisitions and gems of the collection, presenting visitors with new and unexpected relationships among these various interwoven disciplines. Architects Doug Garofalo and David Leary, for example, used color as a conceptual strategy in the 1991 Camouflage House to simultaneously hide and define the contours of the building within the landscape. Similarly, a glass table designed by Johanna Grawunder in 2010 has radial supports in vivid translucent hues that blur the boundaries of the object when viewed from different angles. While the theory and visual languages underpinning these two objects diverge, this juxtaposition creates a new argument for an underlying relationship stemming from their shared use of color.\n\nGroupings throughout the exhibition, based on similar approaches to geometry and structure among others, invoke fresh readings of well-known works and allow new connections to emerge across a large range of media and varying scales. In this way, the presentation reveals nuanced relationships and deep structural connections that run through this selection of exceptional modern and contemporary works.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-04-06T00:00:00-05:00",
+    "aic_end_at": "2013-08-18T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sharing Space: Creative Intersections in Architecture and Design"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:42-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

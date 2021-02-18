@@ -1,0 +1,43 @@
+{
+    "id": 855,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/855",
+    "title": "John Marin's Watercolors: A Medium for Modernism",
+    "is_featured": false,
+    "description": "John Marin (1870\u20131953) enjoyed enormous success and visibility during his lifetime, both at home and in Europe. (In fact, Look magazine named him \u201cAmerica\u2019s No. 1 artist\u201d in 1948.) While Marin worked prolifically in watercolor, etching, and oil during a career that spanned more than 50 years, it was the medium of watercolor that encouraged his development of a bold, original style that is both contemporary and authentically American. John Marin\u2019s Watercolors: A Medium for Modernism explores the artist\u2019s working method, his modernist vision as it developed through etching and into watercolor, and his intuitive investigation of the inherent properties of the medium to craft a new avant-garde methodology. Examining the tension between representation and abstraction, Marin conjured in line and color his visceral reactions to his favorite subjects. The over 100 works in the exhibition, which include loans from the Terra Foundation for American Art and the collection of Edward McCormick Blair, are organized chronologically and grouped according to the sites where they were painted, including New York City, France and the Tyrol, the Maine coastline, and the New Mexico desert.\nThe exhibition and accompanying catalogue also illuminate how Marin, who had a strong interest in the presentation of his watercolors, chose frames and mounts for each work. Legendary photographer, dealer, and collector Alfred Stieglitz bequeathed a significant number of Marin\u2019s frames and mounts, along with some 40 watercolors, to the Art Institute. These frames have been researched, conserved, and in some cases also replicated for the exhibition, where each work will be presented in a frame of the artist\u2019s own design. The catalogue\u2019s authors also examine Marin and Stieglitz\u2019s strategies for the presentation and display of modern American art, highlighting their championing of works on paper.\nThe exhibition has been undertaken as a sequel to the Art Institute\u2019s 2008 exhibition Watercolors by Winslow Homer: The Color of Light.",
+    "short_description": null,
+    "web_url": "https://nocache.www.artic.edu/exhibitions/855/john-marins-watercolors-a-medium-for-modernism",
+    "image_url": "https://artic-web.imgix.net/61555e33-c654-423e-afc8-b2b7fcd61814/1949.561RJohnMarinTheRedSunBrooklynBridge.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=293%2C419%2C2222%2C1251",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-01-22T00:00:00-06:00",
+    "aic_end_at": "2011-04-17T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "American Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [
+        35606
+    ],
+    "site_ids": [
+        61
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Marin's Watercolors: A Medium for Modernism"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:22-06:00",
+    "timestamp": "2021-01-14T17:13:14-06:00"
+}

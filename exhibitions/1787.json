@@ -1,0 +1,41 @@
+{
+    "id": 1787,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1787",
+    "title": "Focus: Monika Baer",
+    "is_featured": false,
+    "description": "The first museum exhibition in the United States devoted to the work of Berlin-based artist Monika Baer, this presentation includes nearly 30 paintings created between 1990 and 2013. The selection of canvases and their non-chronological groupings reflect the emphatic diversity of subject matter and the stylistic and material explorations of Baer\u2019s idiosyncratic practice. Often called both conceptual and performative, her paintings are simultaneously spare and sensuous, oscillating between revealing and pretending to reveal themselves.\n\nBaer studied painting at the internationally renowned D\u00fcsseldorf Art Academy from 1985 to 1992, a time when photography had been the prevailing field of study for nearly a decade. Meanwhile, the medium of painting was decidedly male dominated in Germany, and Baer\u2019s early work evidences that tension: she was an artist compelled to make paintings but as if without relevant models for what those paintings should be in that moment, in that place, and by her hand.\n\nShortly after leaving the academy, Baer received recognition for a series known as the Mozart paintings, two of which are in this exhibition. The series expanded on her interest in the canvas as theater set that had developed in her student years, taken to an extreme, almost cinematic scale. Highly stylized and rendered in elaborate rococo detail, these paintings act as a foil for the more abstracted work that would follow. Across the subsequent 15 years, Baer has punctuated atmospheric, monochrome passages with numerous recognizable motifs\u2014keyholes, spider webs, brick walls, and paper currency, for instance\u2014through which her canvases enter a dialogue with one another.\n\nThe subjects of Baer\u2019s paintings at times intentionally push up against her own standards of taste: if the artist is not sure whether she likes what she is depicting, then the painting has to work that much harder to resolve itself. Baer\u2019s singular practice might be best understood as a torrid love affair with the medium of painting\u2014with all the pleasure and pain that such a relationship entails.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-10-24T00:00:00-05:00",
+    "aic_end_at": "2014-01-26T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "41c69f9b-be7c-1228-3841-03eb946b206c"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Focus: Monika Baer"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:01-06:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

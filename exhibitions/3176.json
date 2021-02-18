@@ -1,0 +1,39 @@
+{
+    "id": 3176,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3176",
+    "title": "Chicago Cabinet: Views from the Street",
+    "is_featured": false,
+    "description": "Chicago Cabinet is an exhibition series showcasing the Art Institute\u2019s photographic holdings relating to the city of Chicago\u2014its built environment, neighborhoods, and civic history. The second exhibition in the series, Views from the Street, features seven artists who have taken inspiration from the city's buildings, pedestrians, and vivid street life. Walker Evans, best known for his Depression-era images of the American south, photographed Chicago in 1946 for Fortune magazine, looking at shoppers, burlesque signs, and tumbling-down brownstones. Yasuhiro Ishimoto and Ray K. Metzker, both students of Harry Callahan\u2019s at the city\u2019s legendary Institute of Design (ID), found photographic material in children playing on south side streets and in the light and shadows within the physical boundaries of the Loop. Arthur Siegel, who helped found the ID\u2019s photography program, saw Freudian themes of the self in the colors and shoppers of State Street in the 1950s. And in the 1970s, photographers as diverse as David Plowden, Luis Medina, and Gary Stochl took their cameras to the streets, exploring the urban and industrial landscape, graffiti and gang members, and the odd juxtapositions that occur in a bustling city. Together, these groups of street photographs reveal a surprising and vibrant Chicago.",
+    "short_description": "Chicago Cabinet is an exhibition series showcasing the Art Institute\u2019s photographic holdings relating to the city of Chicago\u2014its built environment, neighborhoods, and civic history. The second exhibition in the series, Views from the Street, features seven artists who have taken inspiration from the city's buildings, pedestrians, and vivid street life. Walker Evans, best known for his Depression-era images of the American south, photographed Chicago in 1946 for Fortune magazine, looking at shoppers, burlesque signs, and tumbling-down brownstones. Yasuhiro Ishimoto and Ray K.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3176/chicago-cabinet-views-from-the-street",
+    "image_url": "https://artic-web.imgix.net/1eb611e5-5510-4863-a5f9-56e66c48627c/1960.182RayKruegerMetzkerTheLoop.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C445%2C2416%2C1359",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-10-16T00:00:00-05:00",
+    "aic_end_at": "2011-01-17T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago Cabinet: Views from the Street"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:16-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

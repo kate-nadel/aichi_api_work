@@ -1,0 +1,42 @@
+{
+    "id": 3130,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3130",
+    "title": "Casas Grandes and the Ceramic Art of the Ancient Southwest",
+    "is_featured": false,
+    "description": "In the deserts and mountains of the American Southwest and Northwestern Mexico, there flourished ancient Indian communities whose ceramics are among the most accomplished in the world. Bearing plumed and horned serpents, macaws, and lively geometric designs, these objects reveal an unknown story in the art and culture of Southwestern American Indian antiquity. This innovative exhibition highlights the imaginative graphic complexity and distinctive symbolism of Casas Grandes ceramics with vessels from c. 1250-1450.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2008-04-22T00:00:00-05:00",
+    "aic_end_at": "2008-08-13T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Arts of Africa and the Americas",
+    "gallery_id": 2147475902,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "a07a97a9-27de-1989-0ceb-3cc701f67725",
+    "alt_image_ids": [
+        "59abfbdb-46b1-0230-0e70-3504243e7041",
+        "0a8c4683-8819-acd7-8dc8-32dc96cf8e1c"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Casas Grandes and the Ceramic Art of the Ancient Southwest"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:41-06:00",
+    "timestamp": "2021-01-14T17:13:54-06:00"
+}

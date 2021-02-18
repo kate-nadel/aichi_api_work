@@ -1,0 +1,39 @@
+{
+    "id": 3228,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3228",
+    "title": "Japanese Art of the 1960s: The Challenge of Tradition",
+    "is_featured": false,
+    "description": "In the 1960s, the work of many contemporary Japanese artists meshed with the international interest in abstract art and Eastern cultures, serving to catapult them to the world stage. Many took inspiration from Japan\u2019s artistic past, motivated by the image of the traditional potter as in the work of Kitaoji Rosanjin, Hamada Shoji, and Kawai Kanjiro. Others turned to classic art forms such as calligraphy, however transforming them to the point of abstraction. This was the case with Morita Shiry\u016b who has written the barely recognizable word for dragon (ry\u016b) with metallic paint on a black lacquer screen. Some set off in entirely new directions and experimented with mixed-media abstraction such as Hamada Taisuke with his Three Samurai folding screen. Shinoda T\u014dk\u014d and Tajima Hiroyuki (whose works rotate in this exhibition) pushed the boundaries of expression in print. All of these artists utilized some aspect of tradition in an effort to forge a contemporary art that was distinctly Japanese.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-07-13T00:00:00-05:00",
+    "aic_end_at": "2014-01-12T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 2147480173,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Japanese Art of the 1960s: The Challenge of Tradition"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:22:53-06:00",
+    "timestamp": "2021-01-14T17:13:56-06:00"
+}

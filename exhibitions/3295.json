@@ -1,0 +1,39 @@
+{
+    "id": 3295,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3295",
+    "title": "Project Projects: Test Fit",
+    "is_featured": false,
+    "description": "Project Projects, a New York\u2013based graphic design firm led by Prem Krishnamurthy, Adam Michaels, and Rob Giampietro, has become known for developing publications, exhibitions, and identities for a range of cultural institutions and educational organizations, as well as for creating self-initiated curatorial and research projects. Project Projects has won numerous awards for how it addresses intellectual, cultural, and social questions related to daily life, and how it probes the discourse of graphic design. Commissioned as part of a series in which architects and designers are invited to explore their own interests as a way to instigate new thinking and practices within and beyond their professional disciplines, this exhibition provided Project Projects the opportunity to use the permanent collection of the Art Institute as a means of investigating the curatorial process and issues related to exhibition design.\n\nThe studio was initially inspired by the mock-ups that curators often produce when preparing the layout of an exhibition. Driven also by the unusual characteristics of the Kurokawa Gallery, which is a well-trafficked, transitional space between the Modern Wing and other parts of the museum, Project Projects decided to develop a model of an exhibition that could serve as a framework for addressing issues of representation and reproductions in a playful, yet critical way.\n\nThe studio\u2019s selection of works is based on the personal concerns of its partners, as expressed in the accompanying texts they have written. Although they began with an interest in European modernism, as imported to Chicago in the mid-twentieth century by such practitioners as L\u00e1szl\u00f3 Moholy-Nagy and Ludwig Mies van der Rohe, the present collection of works speaks more broadly to Project Projects\u2019 own interest in the history of design practice. Using a consistent format of printed facsimiles at a one-to-one scale, the studio encourages viewers to consider this exhibition as a mode of creative and cultural expression in and of itself.",
+    "short_description": "New York\u2013based graphic design firm Project Projects offers a model of an exhibition that addresses issues of representation and reproductions in a playful, yet critical way.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3295/project-projects-test-fit",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-11-17T00:00:00-06:00",
+    "aic_end_at": "2013-04-28T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 23966,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Project Projects: Test Fit"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:11-06:00",
+    "timestamp": "2021-01-14T17:13:58-06:00"
+}

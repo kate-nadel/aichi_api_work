@@ -1,0 +1,39 @@
+{
+    "id": 3144,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3144",
+    "title": "Chicago Cabinet: C. D. Arnold Photographs of the World's Columbian Exposition",
+    "is_featured": false,
+    "description": "Chicago Cabinet is an exhibition series showcasing the Art Institute\u2019s photographic holdings relating to the city of Chicago: its built environment, neighborhoods, and civic history.\n\nThe first exhibition in the series features highlights from the Ryerson Library\u2019s archive of large platinum prints made by C. D. Arnold, the official photographer of the 1893 World\u2019s Columbian Exposition. The Chicago World\u2019s Fair, as it is also known, attracted some 27 million people, or nearly half the population of the United States, to the city during its six-month run. Arnold\u2019s photographic project, begun two years earlier and completed in 1894, traces the fair\u2019s development, particularly the architectural concept put in place by Daniel H. Burnham, who is perhaps best known for his 1909 Plan of Chicago.",
+    "short_description": "Chicago Cabinet is an exhibition series showcasing the Art Institute\u2019s photographic holdings relating to the city of Chicago: its built environment, neighborhoods, and civic history.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3144/chicago-cabinet-c-d-arnold-photographs-of-the-worlds-columbian-exposition",
+    "image_url": "https://artic-web.imgix.net/8b915067-b7d4-420b-8856-55867181309e/1992.100ElLissitzky.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C306%2C3000%2C1688",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2009-12-19T00:00:00-06:00",
+    "aic_end_at": "2010-03-21T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago Cabinet: C. D. Arnold Photographs of the World's Columbian Exposition"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:53-06:00",
+    "timestamp": "2021-01-14T17:13:54-06:00"
+}

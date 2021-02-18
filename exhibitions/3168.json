@@ -1,0 +1,39 @@
+{
+    "id": 3168,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3168",
+    "title": "The Beauty of the Beasts: Artists and their Pets in 20th-Century Art",
+    "is_featured": false,
+    "description": "Ever since early man first painted on the walls of caves, animals have constituted an important subject in art. The ancients depicted beasts as mystical; medieval Christians portrayed animals allegorically in bestiaries, meant to provide religious and moral guidance; and portraitists of all eras used animals as symbols of the sitter\u2019s importance, as seen in the hunting dogs favored by Renaissance noblemen to denote virility and aristocratic style or the pedigreed horses that wealthy and equally well-bred Englishmen of the Georgian age kept for hunting and racing.\n\nThe history of art also reveals a number of artists who had animal companions of their own. In his autobiography, Renaissance sculptor Benvenuto Cellini mentions Barucco, a \u201cshaggy dog, big and handsome,\u201d while Caravaggio is recorded as having gone about Baroque Rome with a black poodle called Cornacchia. Many modern artists have also documented their pets in their work. For some, like Frida Kahlo, they are beloved friends; for others, like Pablo Picasso, convenient models. Some of these animals have become pop culture icons in their own right, like the Blue Dog; others, like Pierre Bonnard\u2019s dachshunds, sit quietly in the background.\n\nThis exhibition in the Reading Room of the Ryerson Library highlights several books from the collection that feature artists and the animals that have inspired them. Please note that the exhibition is closed on Sundays.",
+    "short_description": "Ever since early man first painted on the walls of caves, animals have constituted an important subject in art. The ancients depicted beasts as mystical; medieval Christians portrayed animals allegorically in bestiaries, meant to provide religious and moral guidance; and portraitists of all eras used animals as symbols of the sitter\u2019s importance, as seen in the hunting dogs favored by Renaissance noblemen to denote virility and aristocratic style or the pedigreed horses that wealthy and equally well-bred Englishmen of the Georgian age kept for hunting and racing.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3168/the-beauty-of-the-beasts-artists-and-their-pets-in-20th-century-art",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2009-01-07T00:00:00-06:00",
+    "aic_end_at": "2009-03-16T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Beauty of the Beasts: Artists and their Pets in 20th-Century Art"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:20-06:00",
+    "timestamp": "2021-01-14T17:13:54-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 785,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/785",
+    "title": "The Bill Peet Storybook Menagerie",
+    "is_featured": false,
+    "description": "After a 27-year career working as Walt Disney\u2019s principal animator and main \u201cstoryman,\u201d Bill Peet devoted himself full-time to writing and illustrating children\u2019s books. Along with sketches and storyboards from his Disney days, this exhibition features original works of art from 14 of Peet\u2019s 34 published books, including Buford the Little Bighorn, The Caboose Who Got Loose, Capyboppy, Chester the Worldly Pig, Cowardly Clyde, Ella, How Droofus the Dragon Lost His Head, Kermit the Hermit, Pamela Camel, The Wump World, and the Caldecott Honor Book Bill Peet: An Autobiography.\n\nAs a child growing up in Indiana, Bill Peet\u2019s secret ambition was to be an illustrator of animal stories. He would draw for hours at a time, but he didn\u2019t really believe that drawing could become a career. Then, in 1933 he was awarded a scholarship to attend the Herron School of Art in Indianapolis, and he was on his way.\n\nAfter graduation, Peet headed to California and began working for the legendary Walt Disney Studios. During his 27-year Disney career, Peet created characters such as Dumbo and animated countless Disney classics including 101 Dalmations, The Sword in the Stone, Cinderella, and Sleeping Beauty. In his autobiography, Peet gives an insider view of what it was like to work for Disney, and the exhibition includes sample storyboards and animated sketches from that period of his life. With both his beloved animated characters and award-winning children\u2019s picture books, Peet certainly achieved, and even surpassed, his childhood ambition to be an illustrator of animal stories.",
+    "short_description": "After a 27-year career working as Walt Disney\u2019s principal animator and main \u201cstoryman,\u201d Bill Peet devoted himself full-time to writing and illustrating children\u2019s books.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/785/the-bill-peet-storybook-menagerie",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2008-08-23T00:00:00-05:00",
+    "aic_end_at": "2009-05-24T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Bill Peet Storybook Menagerie"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:20-06:00",
+    "timestamp": "2021-01-14T17:13:13-06:00"
+}

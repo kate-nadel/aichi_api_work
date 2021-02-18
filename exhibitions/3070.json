@@ -1,0 +1,39 @@
+{
+    "id": 3070,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3070",
+    "title": "Van Gogh",
+    "is_featured": false,
+    "description": "When Vincent van Gogh decided to become an artist at the age of 27, he had already lived in 16 cities and had failed at five different professions. Though finally settled in his career, his home life was anything but\u2014Van Gogh remained a wanderer until his death 10 years later, despite his dream of a permanent home. With each move, the change in environment took his artistic aesthetic in a new direction. \n\nTo complement the exhibition Van Gogh\u2019s Bedrooms, which explores the theme of home in the artist\u2019s oeuvre, the Ryerson and Burnham Libraries present Van Gogh: In Search Of, a focused exhibition featuring photographs of the many residences and locales Van Gogh frequented over the course of his artistic career. \n\nThe selection of images, drawn largely from the libraries\u2019 own archives, were made possible by a friendship established between the Art Institute and the Van Gogh family in the 1940s. While preparing for a Van Gogh exhibition at the museum in 1949, Art Institute Director Daniel Catton Rich and Public Relations Counsel Peter Pollack visited the artist\u2019s nephew, Vincent Willem van Gogh, to ask for a loan of many of his uncle's paintings for the show. A close friendship among the men developed, and the three of them set out to visit most of the sites captured by the famous artist in his fabulous paintings. These site visits were documented by Pollack, a trained photographer. This remarkable assemblage of images offers a unique glimpse into the artist's life seen through the lens of the photographer.",
+    "short_description": "Please note: this exhibition is open on weekdays only.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3070/van-gogh",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-02-16T00:00:00-06:00",
+    "aic_end_at": "2016-05-09T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Van Gogh"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-05-10T15:52:37-05:00",
+    "last_updated": "2021-01-13T23:28:45-06:00",
+    "timestamp": "2021-01-14T17:13:52-06:00"
+}

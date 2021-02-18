@@ -1,0 +1,39 @@
+{
+    "id": 3120,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3120",
+    "title": "The New Alsdorf Galleries of Indian, Southeast Asian, Himalayan, and Islamic Art",
+    "is_featured": false,
+    "description": "After over a year of construction and installation, the Alsdorf Galleries of Indian, Southeast Asian, Himalayan, and Islamic Art will open on December 12. Featuring the only space in the museum outside of the Modern Wing designed by the Renzo Piano Building Workshop, this new home for South and Southeast Asian art cohesively presents jewels from the museum\u2019s holdings that have in the past been displayed only in temporary spaces or special exhibitions. Bringing together a remarkable collection that spans centuries and creating a literal bridge from the arts of East Asia to the ancient art of Western civilization and the Modern Wing, these galleries create a new crossroads for the museum.The newly designed space contains 435 works, half of which are from the distinguished Alsdorf collection, and extends from galleries that house the art of China, Japan, and Korea. In a seamless transition between the two spaces, a selection of Chinese and Sino-Tibetan Buddhist images in Gallery 101a introduces the Alsdorf Galleries, which begin in Gallery 140. Upon entering, a vista between the Chinese Buddha of Gallery 101 and a 12th-century stone Buddha from South India visually links these two cultures and reminds the viewer of Buddhism\u2019s Indian origins. While this remarkable view entices entry into the space, smaller cases catch the eye and display exquisite objects of Himalayan art, many of which have not been on view since the 2003 exhibition Himalayas: An Aesthetic Adventure.\n\nThe center of these galleries feature works from one of the strongest sections of the museum\u2019s collection of South Asian art: classical and medieval Indian sculpture. Works in this area represent not only the diversity of Indian culture itself but also its focus on religious subjects. The warm light emitted from the galleries\u2019 new windows enhances the dark stone of these works, revealing striking details. As the Alsdorf Galleries stretch toward McKinlock court, works from Burma, Thailand, Cambodia, Vietnam, and Indonesia are featured.\n\nOpening soon after the Alsdorf Galleries, the new Galleries of Indian and Islamic Art will contain later works of Indian art representative of pre-1947 India and also its Imperial Mughal and royal past. Works from Middle Eastern and Islamic cultures of South Asia will complete the space.\n\nThese galleries will feature rotating exhibitions, allowing the museum to present focused displays of work from these cultures and time periods.\n\nSettled in the heart of the museum, the Alsdorf Galleries provide not only a passage through the museum but also a calm, light-filled space to contemplate masterworks of Asia and Chicago\u2019s magnificent skyline. Watch in the future for performances from contemporary Indian and Southeast Asian cultures that will enliven these remarkable objects.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2008-12-12T00:00:00-06:00",
+    "aic_end_at": "2008-12-12T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The New Alsdorf Galleries of Indian, Southeast Asian, Himalayan, and Islamic Art"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:23:03-06:00",
+    "timestamp": "2021-01-14T17:13:53-06:00"
+}

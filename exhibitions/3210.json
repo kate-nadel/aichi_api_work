@@ -1,0 +1,39 @@
+{
+    "id": 3210,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3210",
+    "title": "Onchi Koshiro: The Abstract Prints",
+    "is_featured": false,
+    "description": "Onchi Koshiro (1891\u20131955) was a leader and innovator of the sosaku hanga (creative print) movement that revolutionized Japanese printmaking before and after World War II, bringing it to the level of international acclaim. He was a pioneer in producing abstract designs, many of which sprang from his love for poetry, and felt that it was only through abstraction that he could purely express his thoughts in print. Thanks to Oliver Statler and other early collectors of Onchi\u2019s works, the Art Institute boasts a significant group of Onchi\u2019s abstract prints, most of which were produced in extremely limited editions.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-07-19T00:00:00-05:00",
+    "aic_end_at": "2014-10-05T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Onchi Koshiro: The Abstract Prints"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:52-06:00",
+    "timestamp": "2021-01-14T17:13:56-06:00"
+}

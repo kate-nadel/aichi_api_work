@@ -1,0 +1,39 @@
+{
+    "id": 154,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/154",
+    "title": "The Concerned Photographer",
+    "is_featured": false,
+    "description": "\"The concerned photographer finds much in the present unacceptable which he tries to alter. Our goal is simply to let the world also know why it is unacceptable.\" --Cornell Capa (b. 1918), photographer\n\nDrawn entirely from the collection of the Art Institute, The Concerned Photographer considers how socially motivated and widely circulated photographs are intended to move, inspire, and impact their viewers. This exhibition showcases work by Margaret Bourke-White, Bruce Davidson, Walker Evans, Lewis Hine, Susan Meiselas, and Sebastio Salgado, among others. Together, these photographers confronted issues ranging from child labor to the Great Depression, from the Civil Rights movement to gold mining.\n\nThe ways in which these photographs were disseminated vary as much as the issues they tackle. Most of these photographers published their work widely in newspapers and magazines, and some even circulated their photographs as posters and broadsides. In addition to circulating in the mass media, their work was also introduced to the public through exhibitions and books. Producing images that are often challenging in their directness, these photographers aspired to go beyond dispassionate objectivity, beyond merely bearing witness to their times.\n\nWhile these works are a product of the last century, the causes they championed and the changes they tried to effect relate to current events and issues. The Concerned Photographer invites you to consider these images from the past alongside information about social change today.\n\nOrganizer\nArt Institute of Chicago\n\nCurator\nKatherine A. Bussard, Gregory J. Harris, and Newell G. Smith, Department of Photography, Art Institute of Chicago\n\nSponsor\nThe films on view in this exhibition have been generously supported by First Run/Icarus Films.\n\nAdditional Resource\nLearn more about social change today. Visit the Web sites of organizations that have causes and goals in common with the concerned photographers in this exhibition.",
+    "short_description": "\"The concerned photographer finds much in the present unacceptable which he tries to alter. Our goal is simply to let the world also know why it is unacceptable.\" \u2014Cornell Capa (b. 1918), photographer",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/154/the-concerned-photographer",
+    "image_url": "https://artic-web.imgix.net/2c862ed8-d16f-4826-b6fc-c67452a1b976/Concerned.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C166%2C2999%2C1687",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2006-03-18T00:00:00-06:00",
+    "aic_end_at": "2006-06-11T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Concerned Photographer"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:34-06:00",
+    "timestamp": "2021-01-14T17:12:50-06:00"
+}

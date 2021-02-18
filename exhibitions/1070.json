@@ -1,0 +1,39 @@
+{
+    "id": 1070,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1070",
+    "title": "Caravaggio and The Supper at Emmaus",
+    "is_featured": false,
+    "description": "This October and through the holidays, the National Gallery of London is sending an exceptional loan to Chicago: Caravaggio\u2019s The Supper at Emmaus. In return, the Art Institute\u2019s renowned painting The Crucifixion by Francisco de Zurbar\u00e1n will travel to London, where it will play a key role in the exhibition The Sacred Made Real, Spanish Painting and Sculpture 1600\u20131700. Caravaggio\u2019s The Supper at Emmaus will temporarily take its place at the Art Institute amid the collection\u2019s \u201cCaravaggesque\u201d paintings.\n\nThis is an extremely rare opportunity to view firsthand one of the most highly regarded paintings by one of the most influential Western artists of all time. There are very few paintings by Caravaggio in American museums, and none that can rival this painting in its immediate impact. The Supper at Emmaus, painted in 1601 for a Roman nobleman, comes from the outset of a new, mature phase of the master\u2019s career in which he treated great religious subjects with uncompromising realism, while at the same time employing his trademark contrasts of light and dark to great dramatic effect. In this revelatory image, two of Christ\u2019s disciples have just recognized that the stranger at their table is none other than Christ himself, reappearing to them after his death and Resurrection.\n\nThe Supper at Emmaus will serve as the centerpiece for a focus installation in Gallery 211 of the Art Institute\u2019s collection of \u201cCaravaggesque\u201d paintings. Caravaggio\u2019s insistence on heightened realism and the sculptural qualities of his figures, often brightly lit against a dark background, are evident in works such as Bartolomeo Manfredi\u2019s Cupid Chastised and Cecco del Caravaggio\u2019s The Resurrection. A gallery brochure will also lead visitors to other galleries where the diffusion of Caravaggio\u2019s style throughout Europe will be immediately apparent in works such as Rembrandt\u2019s Old Man with a Gold Chain and Rubens\u2019s The Capture of Samson.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2009-10-10T00:00:00-05:00",
+    "aic_end_at": "2010-01-31T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "European Decorative Arts",
+    "gallery_id": 2147483626,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Caravaggio and The Supper at Emmaus"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:33-06:00",
+    "timestamp": "2021-01-14T17:13:16-06:00"
+}

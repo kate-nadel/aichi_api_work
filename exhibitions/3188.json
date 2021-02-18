@@ -1,0 +1,39 @@
+{
+    "id": 3188,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3188",
+    "title": "Sarah Charlesworth: Stills",
+    "is_featured": false,
+    "description": "In February 1980, artist Sarah Charlesworth (1947\u20132013) exhibited a group of seven cropped and greatly enlarged news photographs in the East Village apartment of fledgling dealer Tony Shafrazi. Each pictured a solitary individual jumping or falling from a tall building. With these pieces, Charlesworth married the dry reserve of Conceptual Art to works of high drama. Stills helped to define a movement in American art that remains among the most influential of the last 40 years: the Pictures Generation.\n\nCharlesworth never again exhibited these works as a group, and others she had prepared for enlargement were left unfinished. In 2012 the artist created a single artist proof edition of the complete series of 14 photographs\u2014six of them never before shown\u2014especially for the Art Institute. The 78-inch-tall prints were made chemically from the original negatives with Charlesworth carefully replicating the appearance of that first set. This exhibition of the complete series is the first US museum solo show of Charlesworth\u2019s work in 15 years.\n\nOn September 17, artists Laurie Simmons, Sara VanDerBeek, and Liz Deschenes discussed the work of Charlesworth with activist Kate Linker. The exhibition and discussion are part of Photography Is ____________ , a nine-month celebration of photography at the Art Institute that includes pop-up gallery talks, online events, and the presentation of the museum\u2019s most treasured photographs.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-09-18T00:00:00-05:00",
+    "aic_end_at": "2015-01-04T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 25210,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sarah Charlesworth: Stills"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:56-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3004,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3004",
+    "title": "Around the World in Travel Sketches",
+    "is_featured": false,
+    "description": "Drawn from the Ryerson & Burnham Libraries' archives, a selection of sketches from artists' and architects' papers offers insight into the travelers' personal experiences and their visual responses. The sketches were made to document delightful curiosities or pleasurable events to be recalled at a later time. For both the artist and the architect the act of sketching establishes a more permanent image in the mind and memory.\nIn Creation is a Patient Search (1960), Le Corbusier sums up the process: \"When one travels and works with visual things... one uses one's eyes and draws so as to fix deep down in one's experience what is seen. Once the impression has been recorded by the pencil, it stays for good, entered, registered, inscribed. The camera is a tool for idlers, who use a machine to do their seeing for them.\" (p. 37)",
+    "short_description": "This selection of sketches from artists\u2019 and architects\u2019 papers offers insight into the travelers\u2019 personal experiences and their visual responses.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3004/around-the-world-in-travel-sketches",
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2014-06-17T00:00:00-05:00",
+    "aic_end_at": "2014-09-01T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Around the World in Travel Sketches"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:57-06:00",
+    "timestamp": "2021-01-14T17:13:50-06:00"
+}

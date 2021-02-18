@@ -1,0 +1,39 @@
+{
+    "id": 3149,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3149",
+    "title": "On the Scene: Jason Lazarus, Wolfgang Pl\u00f6ger, Zoe Strauss",
+    "is_featured": false,
+    "description": "The Department of Photography\u2019s continuing series On the Scene showcases the Art Institute\u2019s commitment to collecting and exhibiting the most dynamic new work by emerging artists. The third exhibition in the series explores the diverse range of art being produced by Jason Lazarus, Wolfgang Pl\u00f6ger, and Zoe Strauss.\n\nJason Lazarus\u2019s installation grew out of the artist\u2019s fascination with the family snapshot and its durability in our digital era. After amassing a small archive of found photographs, Lazarus became especially compelled by the handwritten texts on the backs of the photos and began arranging the snapshots to create small conversations based on the text, tonality, and spacing of surrounding photos. Importantly, the dates of the photographs comprising the unique installation at the Art Institute range from 1899 to 1996, beginning roughly a decade into the personal snapshot craze initiated by Kodak and continuing up to the threshold of the digital era.\n\nInspired by another found collection of language, Wolfgang Pl\u00f6ger\u2019s work Make No Mistake about This uses the text of death row inmates\u2019 final statements. Wanting to incorporate these last words into his work without making them readily discernible simply through the act of reading, Pl\u00f6ger handwrote the statements on lengths of film celluloid and projected this flickering calligraphy onto the wall. Pl\u00f6ger also removed the projector\u2019s take-up reels so that as the last statements race and loop throughout the gallery, their speed and scale necessitate that viewers strain to make sense of glimpses of language that might convey error, confession, or apology.\n\nThe third work in the exhibition, Zoe Strauss\u2019s site-specific installation Week of the Perfect Game, suggests the idiosyncrasies, exchanges, and moments of one week in Chicago this past July. Traveling south from the Loop to Gary, Indiana, Strauss captured the Chicago atmosphere on a grand national scale, as Barack Obama\u2019s hometown and a finalist city in the bid to host the 2016 Olympics, as well as on a more intimate scale, as the location of an ongoing hotel-workers\u2019 strike and a commemoration of a teen gunned down on its streets. Together Strauss\u2019s photographs provide an open-ended and all-encompassing narrative set against the backdrop of Lake Michigan. The work is one of the museum\u2019s most recent acquisitions.",
+    "short_description": "The Department of Photography\u2019s continuing series On the Scene showcases the Art Institute\u2019s commitment to collecting and exhibiting the most dynamic new work by emerging artists. The third exhibition in the series explores the diverse range of art being produced by Jason Lazarus, Wolfgang Pl\u00f6ger, and Zoe Strauss.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3149/on-the-scene-jason-lazarus-wolfgang-ploger-zoe-strauss",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2009-09-19T00:00:00-05:00",
+    "aic_end_at": "2010-01-24T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 25210,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "On the Scene: Jason Lazarus, Wolfgang Pl\u00f6ger, Zoe Strauss"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:02-06:00",
+    "timestamp": "2021-01-14T17:13:54-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 2998,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2998",
+    "title": "\u201cThere is Hardly a Book That Has Not Seen Hard Use\u201d: Books for Working Artists",
+    "is_featured": false,
+    "description": "The Art Institute of Chicago has purchased artists' manuals, treatises, and other publications for working artists since 1879. By July of 1909, the Bulletin of the Art Institute of Chicago reported that there had been more than 45,000 student visits to the library in the last year, \u201cand there is hardly a book that has not seen hard use.\u201d (\u201cThe Ryerson Library. II. Its Recent Development and Its Future.\u201d Bulletin of the Art Institute of Chicago. Vol. 3, No. 1 (July, 1909) p. 15.)\nThe materials in these cases, collected by the Ryerson & Burnham Libraries to support the work of practicing artists, architects, and designers, reveal the way that art education has changed over time; illustrate the manner in which instructors and students have worked with the library collections; and testify to the hard use that the library collections have received.",
+    "short_description": "The Art Institute of Chicago has purchased artists\u2019 manuals, treatises, and other publications for working artists since 1879. In July of 1909, the Bulletin of the Art Institute of Chicago reported that there had been more than 45,000 student visits to the library the previous year, \u201cand there is hardly a book that has not seen hard use.\u201d",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2998/there-is-hardly-a-book-that-has-not-seen-hard-use-books-for-working-artists",
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2015-10-13T00:00:00-05:00",
+    "aic_end_at": "2015-12-14T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "\u201cThere is Hardly a Book That Has Not Seen Hard Use\u201d: Books for Working Artists"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:34-06:00",
+    "timestamp": "2021-01-14T17:13:50-06:00"
+}

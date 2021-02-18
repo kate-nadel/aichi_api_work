@@ -1,0 +1,39 @@
+{
+    "id": 3083,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3083",
+    "title": "Supernatural Shakespeare",
+    "is_featured": false,
+    "description": "The title characters of William Shakespeare\u2019s plays certainly might get the most name recognition, but the Bard\u2019s meddling witches and mischievous faerie folk often steal the scenes and have rightly become some of his most memorable characters. Part of the Shakespeare 400 Festival, this focused installation features three atmospheric engravings of fantastical Shakespearian scenes by various artists emulating works by the renowned Gothic artist Henry Fuseli (1741\u20131825). Fuseli himself favored heroic subjects taken from Shakespeare along with other celebrated writers including Dante Alighieri and John Milton. Fuseli\u2019s theatrical paintings hang in the nearby gallery: his macabre Head of a Damned Soul from Dante's \"Inferno\" (1770/78) and his mystical Milton Dictating to His Daughter (1794) among them. \n\nThe selections for the intimate Supernatural Shakespeare presentation copy several paintings Fuseli created for the 1790s Boydell Shakespeare Gallery in London, one of the catalysts for the Romantic revival of Shakespeare in the early 1800s. The Nursery of Shakespeare (1810) depicts the baby Bard already beset by host of phantasmal inspirations. The Witches Appear to Macbeth and Banquo (1798) portrays the three sorceresses getting ready to triple the antihero\u2019s toil and trouble, while Titania and Bottom with Ass\u2019s Head (1796) features the enchanted odd couple carousing in their sylvan bower. \n\nOn May 1, these fantastical characters and prints are joined by song as musicians from the Chicago Symphony Orchestra play selections from Felix Mendelssohn\u2019s beloved A Midsummer Night\u2019s Dream in the Art Institute\u2019s Fullerton Hall.",
+    "short_description": "Part of the Shakespeare 400 Festival, this focused installation features three engravings of Shakespearian scenes by various artists emulating works by the renowned Gothic artist Henry Fuseli.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3083/supernatural-shakespeare",
+    "image_url": "https://artic-web.imgix.net/4d01f586-3fa6-4f83-b93f-6eb5db4feddd/exh_supernatural-shakespeare_mega_2000.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-04-11T00:00:00-05:00",
+    "aic_end_at": "2016-10-10T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": 2147483613,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Supernatural Shakespeare"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:34-06:00",
+    "timestamp": "2021-01-14T17:13:53-06:00"
+}

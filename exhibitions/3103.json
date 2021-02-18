@@ -1,0 +1,39 @@
+{
+    "id": 3103,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3103",
+    "title": "Lion Hunters: Copying Delacroix's Big Cats",
+    "is_featured": false,
+    "description": "Capturing big cats in bold colors, slashing their likeness across a lithography stone, or attending privileged social gatherings to probe exotic feline anatomy for human characteristics\u2014these were favorite pastimes of Eug\u00e8ne Delacroix and many animal artists he influenced in the early 19th century.\n\nAccording to Delacroix, copying was the ultimate painting lesson, whether from direct experience of animals at the Jardin des Plantes or from the Old Masters at the Mus\u00e9e du Louvre. Eschewing classical academy training, he copied Peter Paul Rubens especially, whose Lion Hunts became a major source of inspiration throughout his career. Delacroix would later insist that pupils copy his own paintings as a learning exercise.\n\nThis collaborative corridor installation explores copying in lion- and tiger-obsessed Paris in many forms: drawing, painting, printing, and sculpting. It pairs Delacroix\u2019s 1860 Lion Hunt with a copy of his 1855 Lion Hunt by his longtime assistant, Pierre Andrieu. Here Delacroix entrusted Andrieu with documenting the complete composition of a severely damaged original. The installation further examines the role of copying and style in Delacroix\u2019s workshop through examples of stylistic mimicry in two paintings of wild cats, which have been recently reattributed to Andrieu from Delacroix.\n\nIn the early 19th century, the attraction of the wild animal, particularly the feline, was seemingly becoming universal. Many artists, including Delacroix and his friend, sculptor Antoine Louis Barye, frequented the Jardin des Plantes menagerie to draw big cats from life and death. On June 19, 1829, they spent an evening in director Georges Cuvier's laboratory sketching from a flayed lion cadaver. The excited letter that Delacroix sent Barye beforehand shows their mutually intense enthusiasm for such studies, especially considering the summer heat: \n    The lion is dead\u2014make haste. The weather forces us to act. \n    I'll wait for you there. In great friendship, Eug. Delacroix\n\nLion Hunters: Copying Delacroix's Big Cats marks a special collaboration between the Departments of European Painting and Sculpture and the Department of Prints and Drawings. Featuring works by Delacroix, Barye, Andrieu, and others, the installation includes four paintings, a relief sculpture, and a rotating total of 15 works on paper.",
+    "short_description": "Featuring works by Delacroix, Barye, Andrieu, and others, this focused installation explores copying in lion- and tiger-obsessed Paris in many forms: drawing, painting, printing, and sculpting.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3103/lion-hunters-copying-delacroixs-big-cats",
+    "image_url": "https://artic-web.imgix.net/10817d3a-8a53-495c-9405-9f0b633810cc/exh_copycats_main_1.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-07-15T00:00:00-05:00",
+    "aic_end_at": "2017-01-10T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": 2147483611,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Lion Hunters: Copying Delacroix's Big Cats"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:29-06:00",
+    "timestamp": "2021-01-14T17:13:53-06:00"
+}

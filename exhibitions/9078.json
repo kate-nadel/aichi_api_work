@@ -1,0 +1,39 @@
+{
+    "id": 9078,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9078",
+    "title": "Ellen Gallagher: Are We Obsidian?",
+    "is_featured": false,
+    "description": null,
+    "short_description": null,
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9078/ellen-gallagher-are-we-obsidian",
+    "image_url": "https://artic-web.imgix.net/c261cf02-b184-45b1-b54b-c345d0506cbe/IM036384_093-int.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C63%2C3000%2C1688",
+    "type": "Mini Exhibition",
+    "status": "Confirmed",
+    "aic_start_at": "2018-09-27T00:00:00-05:00",
+    "aic_end_at": "2019-01-21T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25470,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ellen Gallagher: Are We Obsidian?"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-05-21T12:38:06-05:00",
+    "last_updated": "2021-01-13T23:24:10-06:00",
+    "timestamp": "2021-01-14T17:16:05-06:00"
+}

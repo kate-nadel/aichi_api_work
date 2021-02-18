@@ -1,0 +1,40 @@
+{
+    "id": 9455,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9455",
+    "title": "Jo Ractliffe: DRIVES",
+    "is_featured": true,
+    "description": null,
+    "short_description": "<p>The first-ever survey of the South African photographer\u2019s work brings together more than one hundred works from across her career, including haunting, dreamlike landscapes and allegorical images of common animals, illustrating the aftermath of apartheid.</p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9455/jo-ractliffe-drives",
+    "image_url": "https://artic-web.imgix.net/nullbb06b3ee-81ab-4033-950e-15fba764b9c7/nadir11_press.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=20%2C100%2C2914%2C1636",
+    "type": "AIC Only",
+    "status": "Confirmed",
+    "aic_start_at": "2020-10-17T00:00:00-05:00",
+    "aic_end_at": "2021-04-26T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_boosted": "Jo Ractliffe: DRIVES",
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jo Ractliffe: DRIVES"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-11-17T09:27:14-06:00",
+    "last_updated": "2021-01-13T23:23:21-06:00",
+    "timestamp": "2021-01-14T17:16:10-06:00"
+}

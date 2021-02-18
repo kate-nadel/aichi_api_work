@@ -1,0 +1,39 @@
+{
+    "id": 1758,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1758",
+    "title": "Zarina: Paper Like Skin",
+    "is_featured": false,
+    "description": "The Art Institute is thrilled to welcome the first retrospective of Indian-born American artist Zarina. Organized by the Hammer Museum, Los Angeles, this long-overdue survey traces Zarina\u2019s career from 1961 to the present and features approximately 60 works from the artist\u2019s studio, as well as from public and private collections.\n\nZarina Hashmi was born in Aligarh, India, in 1937 and has lived and worked in New York for the past 30 years. Her main medium is paper, which she employs in woodcuts,\netchings, drawings, rubbings, and casts made from paper pulp. Although she is primarily a printmaker, she considers herself to be a sculptor as well, in part because the activity of carving blocks of wood is central to her practice.\n\nZarina\u2019s vocabulary is minimal yet rich in associations. Her abstract compositions are inextricably linked to her life and to the themes of dispossession and exile that have marked it. Her family is Muslim but chose to stay in India following the partition of 1947, which resulted in the uprooting and deaths of millions of people. Conditions in India eventually made it impossible for them to remain any longer, but by the time her parents chose to immigrate to Pakistan in 1959, Zarina was married and living in Thailand. She was unable to return to her childhood home and was also not \u201cat home\u201d in Pakistan. She later lived in Germany, France, and Japan before settling in the United States. The concept of home\u2014whether personal, geographical, national, spiritual, or familial\u2014resonates throughout Zarina\u2019s work. The lines that define her spaces are never anonymous; on the contrary, they are handcrafted and calligraphic. Although it appears in different guises throughout her oeuvre, her distinctive sense of line is the unifying element of her compositions, like an umbilical cord that ties her to this world regardless of where she is.\n\nZarina, who chooses to be referred to simply by her first name, was a prominent figure in feminist circles of the New York art scene in the 1970s. While her work has been featured in major exhibitions and is represented in important public collections, including those of the Hammer Museum, the Museum of Modern Art and the Guggenheim Museum in New York, and the Victoria and Albert Museum in London, this exhibition marks the most comprehensive survey to date of her strikingly beautiful, contemplative, and poetic oeuvre.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2013-06-26T00:00:00-05:00",
+    "aic_end_at": "2013-09-22T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Zarina: Paper Like Skin"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:42-06:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

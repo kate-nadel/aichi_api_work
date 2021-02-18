@@ -1,0 +1,39 @@
+{
+    "id": 1721,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1721",
+    "title": "Kara Walker, Rise Up Ye Mighty Race!",
+    "is_featured": false,
+    "description": "Kara Walker (American, born 1969) is best known for cut-paper silhouettes that critically address race, gender, sexuality, and power. Most often taking the form of large-scale tableaux of antebellum stereotypes, they present slavery as an absurd theater of eroticized violence and self-deprecating behavior. Her flat caricatures\u2014mammies, sambos, slave mistresses, masters, and Southern belles\u2014are depicted nearly life-size, arranged in narrative sequences that further exaggerate the already grotesque history of slavery. For Walker, the simplified details of a human form in the black cutouts resonate with racial stereotypes. She has said, \"The silhouette says a lot with very little information, but that's also what the stereotype does.\"\n\nWalker has, over the years, pursued the silhouette\u2019s implications and transformations in paintings, drawings, collages, shadow puppets, cut steel, film and video animations, and \u201cmagic-lantern\u201d projections. She will return to the cut-paper medium in monumental form for a new commissioned installation that she has designed especially for display at the Art Institute. The installation, titled Rise Up Ye Mighty Race! (2013), will include five large framed graphite drawings and 40 small framed mixed-media drawings along with the cut paper silhouettes. The title refers to comments made by Barack Obama in his 1995 book, Dreams from My Father, about the challenges of community organizing in Chicago, in which he quotes the Jamaican political leader Marcus Garvey (1887\u20131940). Merging handwritten text with the images in the drawings, the work takes a diaristic form that revolves around The Turner Diaries, written in 1978 by the white nationalist William Luther Pierce, and investigates the notion of the \u201crace war\u201d as it exists in the contemporary imagination. Walker has referred to the work in progress as, \u201ca kind of paranoid panorama wall work\u2014with supplemental drawings large and small, to chronicle what can be called a diary of my ever-present, never-ending war with race.\"",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-02-21T00:00:00-06:00",
+    "aic_end_at": "2013-08-11T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "American Art",
+    "gallery_id": 25470,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Kara Walker, Rise Up Ye Mighty Race!"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-09-16T10:18:26-05:00",
+    "last_updated": "2019-09-16T10:21:15-05:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

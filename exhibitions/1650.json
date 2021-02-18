@@ -1,0 +1,44 @@
+{
+    "id": 1650,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1650",
+    "title": "Building:  Inside Studio Gang Architects",
+    "is_featured": false,
+    "description": "Immerse yourself in the richly creative environment of one of today's most innovative architectural firms with Building: Inside Studio Gang Architects, the first exhibition in the world devoted to the Chicago-based group headed by MacArthur Fellow Jeanne Gang. This innovative presentation of the work of Studio Gang Architects (SGA) allows visitors to see how buildings and projects are created, what issues they resolve, and how solutions are shaped. Rightly recognized for such landmark buildings as Chicago's Aqua Tower, SGA is as much a laboratory for ideas and problem-solving as it is an architectural firm. Building brings visitors into that laboratory by examining SGA's built and unbuilt works in an engaging studio-like space.\n\nThough best known for Aqua Tower, the undulating 82-story mixed-use high-rise that is the tallest building in the world designed by a woman, Gang is also distinguished by the great diversity of her work, which includes the Hyderabad O2, a high-rise community in Hyderabad, India; the Zhong Bang Village residential towers in Shanghai; an ecological revitalization project for Lincoln Park Zoo's South Pond; and Oculus, a concert venue and public park in Taipei. All of these projects\u2014which reflect the wide range of today's built environment\u2014are marked by an open-minded practice committed to research and experimentation with materials and technologies. Visitors will be able to see beyond the buildings and into the creative process that brought them into being.\n\nThe exhibition, a custom-made installation designed by SGA in collaboration with curators from the museum's Department of Architecture and Design, echoes the firm's studio-like environment, allowing visitors to see material samples, full-scale project mock-ups, research materials, digital media, and films. Building: Inside Studio Gang Architects truly brings contemporary architecture to life, showing the full lifespan of the creative architectural process\u2014how an idea becomes a building.\n\nDuring the course of this exhibition, two Archi-Salons will engage a host of architects, journalists, and critics in discourse surrounding the contemporary practice of architecture. Held within the gallery space, the two salons will focus on different perspectives that influence current practices. These conversations will be inspired by Studio Gang's work, but ultimately will address larger issues in the field of contemporary architecture.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-09-21T00:00:00-05:00",
+    "aic_end_at": "2013-02-24T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [
+        103040,
+        104629
+    ],
+    "site_ids": [
+        94
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Building:  Inside Studio Gang Architects"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:38-06:00",
+    "timestamp": "2021-01-14T17:13:28-06:00"
+}

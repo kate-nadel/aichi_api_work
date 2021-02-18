@@ -1,0 +1,43 @@
+{
+    "id": 2842,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2842",
+    "title": "Rembrandt's Journey: Painter, Draftsman, Etcher",
+    "is_featured": false,
+    "description": "Rembrandt\u2019s Journey: Painter, Draftsman, Etcher\nFebruary 14\u2013May 9, 2004\nRice Building, Galleries 262-72\n\nRembrandt van Rijn (1606\u20131669) is one of the most celebrated artists in history. With more than 200 works from all periods of his long career\u201420 paintings, 33 drawings, 153 prints, and 7 copper plates taken from major collections here and abroad\u2014this is the first American exhibition to explore Rembrandt\u2019s astonishing range and variety of activity as a brilliant etcher seen in the context of his paintings and drawings. Rembrandt\u2019s Journey highlights the parallel relationships among the master\u2019s paintings, drawings, and prints\u2014closely examining imagery, narrative content, and the marks of the artist\u2019s hand, as well as his approach to religious illustration in all of the media he mastered and reinvented. A closer study of the expressions, gestures, and body language of his figures will provide deeper insight into the inventive, subtle, and complex way he interpreted biblical texts and imaginatively projected himself into them. The exhibition will focus on several of the subjects to which Rembrandt returned\u2014portraits and self-portraits, everyday life, landscape, the nude\u2014at various stages of his career.\n\n\nCATALOGUE\nRembrandt\u2019s Journey: Painter, Draftsman, Etcher exhibition catalogue: 344 pages. Hardcover $60; softcover $35.\nORGANIZERS\nRembrandt\u2019s Journey: Painter, Draftsman, Etcher is co-organized by the Museum of Fine Arts, Boston, and the Art Institute of Chicago.\n\nCURATORS\nRembrandt\u2019s Journey: Painter, Draftsman, Etcher was curated in Boston by Clifford S. Ackley, chair of the Department of Prints, Drawings, and Photographs (Ruth and Carl Shapiro Curator of Prints and Drawings); in Chicago by Suzanne McCullagh, Anne Vogt Fuller and Marion Titus Searle Curator of Earlier Prints and Drawings, Department of Prints and Drawings, the Art Institute of Chicago.\n\nSPONSORS\nThis exhibition is supported by an indemnity from the Federal Council on the Arts and the Humanities. Additional support has been provided by The Rhoades Foundation/Julius Lewis Exhibition Fund.\n\nSponsorship support for the Chicago presentation is provided by the Abbott Laboratories Fund.",
+    "short_description": "Rembrandt van Rijn (1606\u20131669) is one of the most celebrated artists in history. With more than 200 works from all periods of his long career\u201420 paintings, 33 drawings, 153 prints, and 7 copper plates taken from major collections here and abroad\u2014this is the first American exhibition to explore Rembrandt\u2019s astonishing range and variety of activity as a brilliant etcher seen in the context of his paintings and drawings.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2842/rembrandts-journey-painter-draftsman-etcher",
+    "image_url": "https://artic-web.imgix.net/c6f696e8-4748-4220-9230-d2e65ee1d9bd/journey.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=1%2C485%2C2275%2C1280",
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2004-02-14T00:00:00-06:00",
+    "aic_end_at": "2004-05-09T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": 2147478064,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [
+        40769
+    ],
+    "site_ids": [
+        20
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rembrandt's Journey: Painter, Draftsman, Etcher"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:47-06:00",
+    "timestamp": "2021-01-14T17:13:45-06:00"
+}

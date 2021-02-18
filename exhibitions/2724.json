@@ -1,0 +1,50 @@
+{
+    "id": 2724,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2724",
+    "title": "Ink on Paper: Japanese Monochromatic Prints (2016)",
+    "is_featured": false,
+    "description": "The impression of dark ink on paper provides the most basic formula for printed images the world over. In Japan, printing with black ink only was employed before color printing became widespread in the 1760s; early monochromatic commercial prints are known as sumizuri-e\u2014literally, \u201cpictures printed in ink.\u201d Despite their technical simplicity, works by such early 18th-century artists as Torii Kiyonobu and Okumura Masanobu have a presence and immediacy that would not be seen again in Japanese prints until the 20th century.\nAfter the development of full-color printing, some publishers chose to continue printing with only black ink for its cost effectiveness when producing illustrated books as well as single-sheet prints. Other publishers used black ink to make a statement about the skill of an artist or the quality of a print, seen in the entrancing images, mostly in shades of gray by Katsukawa Shunch\u014d and Utagawa Hiroshige in this exhibition.\nIn the 20th century, print artists took up the challenge of producing powerful images employing the most basic materials, emphasizing bold design. Artists such as Munakata Shik\u014d and Hiratsuka Un\u2019ichi worked almost exclusively in monochrome, perfecting the use of one color to create a lasting impression.\nThe works in this exhibition span nearly 250 years and are drawn entirely from the rich holdings of the Art Institute's Japanese print collection.\n \n[image and caption:\nMunakata Shik\u014d. The Night Visit, from the series The Tale of the Auklet (Ut\u014d Hanga-kan), 1938. Woodblock print. Kate S. Buckingham Endowment, 1979.624.\n\nPublished to the communication update form",
+    "short_description": "Spanning nearly 250 years, this selection of prints showcases the simple and striking use of dark ink on paper from the years before color printing.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2724/ink-on-paper-japanese-monochromatic-prints-2016",
+    "image_url": "https://artic-web.imgix.net/c18a307d-713f-4187-a5a4-92c4670e22d4/exh_ink_mega_2000.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-11-12T00:00:00-06:00",
+    "aic_end_at": "2017-01-29T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "40d1afcf-8c70-7f0c-621a-f4bcb17b2a1b",
+        "3bd2899a-9b83-8479-cfd3-e847cc51c1ed",
+        "af509e82-ad3f-f8be-3174-5695e7c5269c",
+        "c0a96dca-9450-3c66-7d50-1de22bc83167",
+        "3df62a76-6117-2e19-b7c9-127db490a427",
+        "63fc3bd9-e10e-9a8b-07d7-3cf6833cf8ff",
+        "ef7a1c90-1142-9602-caed-5369160960cd",
+        "00021783-5d88-d77d-bcb3-4fe3f161d1d8",
+        "33494df5-1b9d-d6d9-15a1-1286ea5e3260",
+        "15ddf57e-7356-e2a6-481b-23d77a6a0191"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ink on Paper: Japanese Monochromatic Prints (2016)"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:24-06:00",
+    "timestamp": "2021-01-14T17:13:43-06:00"
+}

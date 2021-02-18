@@ -1,0 +1,43 @@
+{
+    "id": 6350,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6350",
+    "title": "The Masterpiece of the Month: A Group of Mexican Majolica of the 17th and 18th Centuries, Herbert Pickering Lewis Collection",
+    "is_featured": false,
+    "description": "During May 1940, pieces of Mexican majolica ware was displayed as Masterpiece of the Month. Majolica is earthenware that has been decorated with colored lead glazes directly to an unglazed body. This set of Mexican majolica ware was curated by Mrs. Eva Lewis in memory of her husband, Herbert Pickering Lewis.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1940-05-01T00:00:00-05:00",
+    "aic_end_at": "1940-05-30T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "01a2ba5a-a3b1-6466-4073-2431777af1eb",
+    "alt_image_ids": [
+        "87ea97f6-c74a-38ea-bf13-3b9c7230c879",
+        "7bc8a2e1-0ff0-4b77-cecc-8da34be82b1d",
+        "bc036eab-e9e9-3366-80db-457c1f0b3b3c"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Masterpiece of the Month: A Group of Mexican Majolica of the 17th and 18th Centuries, Herbert Pickering Lewis Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T12:17:34-05:00",
+    "last_updated": "2019-10-15T12:21:20-05:00",
+    "timestamp": "2021-01-14T17:14:56-06:00"
+}

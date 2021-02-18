@@ -1,0 +1,39 @@
+{
+    "id": 668,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/668",
+    "title": "Infinite Shades: Contemporary Chinese Ink",
+    "is_featured": false,
+    "description": "For a thousand years, ink has been the supreme medium of artistic expression in China thanks to its close association with writing, scholarship, and cultured taste. This time-honored yet daunting tradition has presented a stimulating challenge in modern times. The dichotomy of innovation and tradition and the tension between global convergence and regional cultural identity has energized some of the most talented Chinese artists active in China or on the international stage. This exhibition presents works by five contemporary artists that exemplify the diverse exploration of the infinite shades of ink.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-09-22T00:00:00-05:00",
+    "aic_end_at": "2007-11-07T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Infinite Shades: Contemporary Chinese Ink"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:49-06:00",
+    "timestamp": "2021-01-14T17:13:10-06:00"
+}

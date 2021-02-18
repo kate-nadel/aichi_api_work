@@ -1,0 +1,39 @@
+{
+    "id": 3902,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3902",
+    "title": "Chicago a many faceted portrait (Press Photographers)",
+    "is_featured": false,
+    "description": "Art Institute Curator of Photography Peter Pollack selected 54 prints from the \u201cprint morgues,\u201d of Chicago\u2019s four newspapers in 1955 for this exhibition. Pollack sought to demonstrate an undeniable portrait of Chicago. He eliminated traditional action scenes and posed photographs, photographs taken by the wire services, and those sent in by press agents. Photographs in this exhibition captured the lakefront, river, steel mills, Chinatown, and other street scenes. The following press photographers from either the Chicago Tribune, Chicago Sun Times, Chicago American, and the Chicago Daily News had prints in this exhibition: Bill Allison, John Austad, Frank Berger, Edward De Luga, William De Luga, Fred Eckhardt, Louis Giampa, Russell Hamm, Irvin Heberg, Loyal Jansen, Thomas Johnson,Alton Kaste, Joe Kordick, Robert Kotalik, Joe Kordick, Mel Larson, William Loewe, Dave Mann, Frank Masters, Joe Migon, Cliff Oliver, Louis Paus, George Peebles, Al Phillips, Eugene Powers, Angus Robinson, Swain Scalf, Edward Smith, Al Struck, Bill Sturm, Arnold Tolchin, Edward Wagner, Ralph Walters, William Yates, Jr., Joe Zack.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1955-07-15T00:00:00-05:00",
+    "aic_end_at": "1955-09-01T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago a many faceted portrait (Press Photographers)"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T08:45:55-05:00",
+    "last_updated": "2019-10-15T08:46:22-05:00",
+    "timestamp": "2021-01-14T17:14:10-06:00"
+}

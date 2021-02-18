@@ -1,0 +1,48 @@
+{
+    "id": 455,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/455",
+    "title": "Xefirotarch:  Design Series 4, Hernan Diaz Alonso",
+    "is_featured": false,
+    "description": "Since its founding in 2001, Hern\u00e1n D\u00edaz Alonso\u2019s Los Angeles\u2013based architectural firm, Xefirotarch, has attracted critical praise and global attention for its highly imaginative designs. Characterized by biomorphic forms that meld the organic with the supernatural, Xefirotarch\u2019s projects reveal cinematic influences\u2014D\u00edaz Alonso initially considered a career as a filmmaker\u2014and an innovative approach to integrating multipurposed spaces. The exhibition includes design maquettes, architectural models, digital animations, and a specially created sculptural installation called Sangre (Spanish for \u201cblood\u201d), a dramatic, undulating fiberglass construction coated in patented, factory-issued Ferrari Red paint.\n\nD\u00edaz Alonso draws freely from a wide range of visual-arts disciplines. His sources include science-fiction films, the works of contemporary artist Matthew Barney, and the paintings of Francis Bacon. He combines these influences with digital manipulation and distortion to explore the limits of beauty and scale. Xefirotarch\u2019s process revolves around the evolution of formal genealogies or families of design. Certain characteristics are heightened from one project to the next, like genetic mutations, and these traits evolve in form and substance as they pass from design to design. Viewed together, the groupings are something like family portraits.\n\nA typical Xefirotarch project begins with a selection of abstract formal elements, which are then altered or combined to create composite, figurative, and sometimes monstrous structures. The relationship between unnatural forms and notions of beauty has always been complex. Depending on cultural context, monstrosity can inspire reactions ranging from distaste to fascination and be perceived as grotesque or sublime. In architecture, beauty has been linked historically to balanced proportion and Cartesian form. Once architects venture outside that realm, elegance and harmony cease to apply. Xefirotarch\u2019s constructions, with their deliberate subversions and hybridizations, constitute an entirely new and original chapter in the course of experimental architecture.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-07-11T00:00:00-05:00",
+    "aic_end_at": "2007-10-28T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 2147476836,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "59aaec65-36d6-5be4-38c5-523bea07cb62",
+    "alt_image_ids": [
+        "76bb84c4-081d-b1e6-a889-01c53005431a",
+        "b8ca4caa-588f-f17c-d325-c5df05f2d367",
+        "07a00642-7bcc-0682-c2a1-a1770f8aa9ab",
+        "0a5a254f-d31d-8764-e0bb-87be18d76b6b",
+        "e5b6760f-b369-ed12-a4f3-da4366e702b6",
+        "e349317b-3780-082b-28ec-8b0f4526f2f6",
+        "98aa4db8-580f-fd1a-27ea-2c37873ca197",
+        "561cc210-617c-b01a-2cd0-c4019bf71af1"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Xefirotarch:  Design Series 4, Hernan Diaz Alonso"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:49-06:00",
+    "timestamp": "2021-01-14T17:13:08-06:00"
+}

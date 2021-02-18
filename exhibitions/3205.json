@@ -1,0 +1,39 @@
+{
+    "id": 3205,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3205",
+    "title": "Conservation Live: Francis Picabia's \u201cEdtaonisl\u201d",
+    "is_featured": false,
+    "description": "An artist, an exotic dancer, and a priest get on a boat in New York. This sounds like the setup for a joke, but it was actually the catalyst for a major painting in the Art Institute\u2019s collection of modern art. Currently undergoing extensive conservation treatment, the large-scale canvas, Edtaonisl (pronounced ed-town-easel), is now installed at the base of the spiral staircase in the Morton Wing, where, in a first-of-its-kind public demonstration, the last stages of the conservation work are being performed this summer for visitors to witness.\n\nThe monumental Edtaonisl was painted by Francis Picabia after returning to France by boat from the 1913 Armory Show in New York, the first exhibition of modern art in the United States. (The show traveled to the Art Institute in March of that year.) Among the few passengers who were not seasick during the bumpy transatlantic voyage, Picabia spent considerable time on the upper deck of the ship in the company of an unlikely pair: an exotic dancer named Stasia Napierskowska and a Dominican priest who would regularly watch her rehearse. Picabia enjoyed this modernist moment, this mash-up of sensuality and austerity, flesh and machine. Indeed, the shapes of Edtaonisl suggest fragments of bodies and nautical architecture broken apart and recombined to evoke the dual sensations of dance and a ship moving through rolling seas. Even the title plays on this experience: \u201cEdtaonisl\u201d alternates the letters of the French words \u00e9toile (star) and dans[e] (dance). \n\nBack in Paris, Picabia painted the immense work and presented it at the 1914 Salon d\u2019Automne. Soon after, however, the painting disappeared from public view until it was discovered by Marcel Duchamp in the late 1940s, rolled up in a corner of Picabia\u2019s studio. Restretched and restored, it ended up in the possession of New York architect Armand Bartos, who gave it to the Art Institute in 1953. The traditionally trained Picabia painted Edtaonisl using sound materials and technique, but the work suffered from poor storage conditions before its arrival at the Art Institute. Over the years, museum conservators noted the fragile condition of the surface; in addition to extensive cracking and many tiny paint losses, there was a deteriorating layer of varnish\u2014not original\u2014which altered the work\u2019s appearance by disproportionately saturating and darkening the paint and obscuring the artist\u2019s lively brushwork. \n\nLast year, working in concert with Stephanie D\u2019Alessandro, the Gary C. and Frances Comer Curator of Modern Art, painting conservator Allison Langley began cleaning the work. The removal of varnish instantly revealed the artist\u2019s skillful variations of surface texture and sheen. But the meticulous process of filling and retouching the paint losses requires natural light\u2014lots of natural light. So at the end of April the painting was moved to one of the museum\u2019s most sun-drenched spaces, Gallery 135, just outside the gallery of Indian art of the Americas, where Langley is continuing her work periodically over the next several months. Join us this spring and summer to see a conservator in action as Edtaonisl is returned to its original and evocative dynamism.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-04-29T00:00:00-05:00",
+    "aic_end_at": "2015-10-31T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Conservation",
+    "gallery_id": 2147474874,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Conservation Live: Francis Picabia's \u201cEdtaonisl\u201d"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:09-06:00",
+    "timestamp": "2021-01-14T17:13:56-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3009,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3009",
+    "title": "1913: The Art Institute at the Time of the Armory Show",
+    "is_featured": false,
+    "description": "It was 1913 when the International Exhibition of Modern Art (more popularly known as the Armory Show) came to the Art Institute of Chicago. The museum was acquiring old masters and plaster copies of classical sculpture. Lorado Taft's Fountain of the Great Lakes was erected on the south side of the building that year. This traveling exhibition introduced many Chicagoans to avant-garde movements and artists such as Picasso, Brancusi, Gauguin, and Matisse. In Chicago, the Armory Show competed with a juried watercolor show, the annual Flower Show, and conservative scenes of domesticity as painted by Pauline Palmer and Frederick Frieseke and had a profound effect on many collectors and donors who helped build the museum's collection of modern art.\nThis year marks the 100th anniversary of the Armory Show at the Art Institute, and the Ryerson and Burnham Libraries provide visitors a glimpse into the past with an exhibition of archival documents including photographs, press coverage, accounting ledgers, and correspondence regarding the Armory Show.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2013-04-23T00:00:00-05:00",
+    "aic_end_at": "2013-07-01T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "1913: The Art Institute at the Time of the Armory Show"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:15-06:00",
+    "timestamp": "2021-01-14T17:13:50-06:00"
+}

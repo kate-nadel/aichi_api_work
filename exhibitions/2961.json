@@ -1,0 +1,39 @@
+{
+    "id": 2961,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2961",
+    "title": "Max Lamb: Exercises in Seating",
+    "is_featured": false,
+    "description": null,
+    "short_description": "The inaugural installment of the Franke/Herro Design Series, this exhibition presents chairs and stools by British designer Max Lamb, along with photographs, maquettes, tools, and videos.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2961/max-lamb-exercises-in-seating",
+    "image_url": "https://artic-web.imgix.net/1b2535fc-0ef6-4242-8640-a8fd0ad30b89/TOKONOMA_PROTOTYPES_press.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C158%2C2999%2C1687",
+    "type": "AIC Only",
+    "status": "Confirmed",
+    "aic_start_at": "2018-03-21T00:00:00-05:00",
+    "aic_end_at": "2018-08-26T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 23967,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Max Lamb: Exercises in Seating"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:24-06:00",
+    "timestamp": "2021-01-14T17:13:49-06:00"
+}

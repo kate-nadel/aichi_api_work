@@ -1,0 +1,41 @@
+{
+    "id": 1543,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1543",
+    "title": "Fashioning the Object:  Bless, Boudicca and Sandra Backlund",
+    "is_featured": false,
+    "description": "Bless, Boudicca, and Sandra Backlund are among the most visionary fashion designers working today. Harnessing a conceptual and intellectual approach to design, their practices are located firmly within the fashion industry, yet their work is not driven purely by market forces. Instead, they are aligned with the avant-garde tradition of designers who sought to transform the landscape of fashion through pieces embedded with visual narratives drawn from daily life, including early 20th-century notables Elsa Schiaparelli and Crist\u00f3bal Balenciaga, later luminaries Andr\u00e9 Courr\u00e8ges and Mary Quant, and more recent creators such as Martin Margiela and Hussein Chalayan. Like these designers, Bless, Boudicca, and Backlund view fashion as a critical forum for dialogue and exchange, as well as an armature for understanding our place in the world. However, they endeavor to move beyond previous practices by drawing on an even greater spectrum of ideas inspired by disciplines as diverse as fine art, performance, design, and architecture to create work that responds to the social, political, and cultural environment and explores the creative process.\nThis ambitious approach both allows and requires the designers to extend their practice beyond clothing. Moving away from traditional presentation methods, they embrace a more cross-disciplinary approach, harnessing film, photography, graphic design, and architectural installations to create work that revises traditional methods of fashion presentation and provides tools with which viewers can further engage with the designs. These multifaceted methods, illustrated in three distinct installations, enable the designers to construct narratives that frame their clothing and accessories and provide insights into their working process, emphasizing their ideas and inventive spirit and ultimately offering more complex readings of their work. The result is a rich oeuvre that overturns conformist approaches to fashion and suggests alternative methods that open up the world of clothing design in an effort to emphasize the cultural and social significance of fashion and encourage fresh thinking and discovery.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-04-11T00:00:00-05:00",
+    "aic_end_at": "2012-09-13T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [
+        48
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Fashioning the Object:  Bless, Boudicca and Sandra Backlund"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:37-06:00",
+    "timestamp": "2021-01-14T17:13:24-06:00"
+}

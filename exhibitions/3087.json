@@ -1,0 +1,39 @@
+{
+    "id": 3087,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3087",
+    "title": "18th-Century Masters of Ink: Shohaku and Rosetsu",
+    "is_featured": false,
+    "description": "Soga Shohaku (1730\u20131781) and Nagasawa Rosetsu (1754\u20131799) were two rebels of 18th-century Japanese painting in Kyoto. Both were trained in the classic manner of their respective schools but created a distinctive style that can only be described as independent and daring. Not surprisingly, their art matched their nonconformist personalities. On view will be a pair of screens and several hanging scrolls by these masters of the brush.",
+    "short_description": "Soga Shohaku (1730\u20131781) and Nagasawa Rosetsu (1754\u20131799) were two rebels of 18th-century Japanese painting in Kyoto. Both were trained in the classic manner of their respective schools but created a distinctive style that can only be described as independent and daring. Not surprisingly, their art matched their nonconformist personalities. On view will be a pair of screens and several hanging scrolls by these masters of the brush.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3087/18th-century-masters-of-ink-shohaku-and-rosetsu",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-04-07T00:00:00-05:00",
+    "aic_end_at": "2007-06-24T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480173,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "18th-Century Masters of Ink: Shohaku and Rosetsu"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:25-06:00",
+    "timestamp": "2021-01-14T17:13:53-06:00"
+}

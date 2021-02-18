@@ -1,0 +1,39 @@
+{
+    "id": 1496,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1496",
+    "title": "Animals Around the World: Picture Books by Steve Jenkins",
+    "is_featured": false,
+    "description": "Did you know that the tailorbird, using her sharp beak and silk from a spider\u2019s web, sews a leaf into a pouch that will hold her nest and eggs? In Biggest, Strongest, Fastest, Jenkins presents such facts with awe and reverence, while in Brothers and Sisters he presents equally compelling tidbits about animal siblings. (Did you know that nine-banded armadillos are always born as quadruplets and that whiptail lizards are all females?) Actual Size allows kids to put their hands over the life-sized hand of a gorilla or peer into the eye of a giant squid. The artist often uses handmade paper to capture the various textures and colors of animal skin, creating an added sense of dimensionality. Original pictures from seven books are on view in this exhibition, allowing visitors to compare the original artworks to the illustrations in the picture books\u2014all while learning fun facts to share with classmates and friends.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-11-19T00:00:00-06:00",
+    "aic_end_at": "2012-04-22T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Learning & Public Engagement",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Animals Around the World: Picture Books by Steve Jenkins"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:13-06:00",
+    "timestamp": "2021-01-14T17:13:22-06:00"
+}

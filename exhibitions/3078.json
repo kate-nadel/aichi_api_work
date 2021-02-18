@@ -1,0 +1,39 @@
+{
+    "id": 3078,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3078",
+    "title": "focus: Jana Gunstheimer",
+    "is_featured": false,
+    "description": "German artist Jana Gunstheimer (b. 1974) combines her academic training in ethnology with a refined figurative drawing practice to observe and comment on aspects of her own culture. Gunstheimer responds to the transformations she sees taking place in contemporary German society\u2014including postindustrial desolation, drastic unemployment, and rising levels of aggression among people of her generation\u2014by way of a semi-fictional organization she calls Nova Porta. Complete with a logo, Web site, and an actual membership, the organization offers \u201cPeople without Social Function\u201d a semblance of structure through group cohesion and rigid hierarchy.\n\nAdopting impenetrable rituals, tireless evaluation procedures, and managed leisure, the organization\u2019s stated goal is \u201crisk management\u201d and its activities are driven, if not wholly fabricated, by the artist. Under the conceptual framework of Nova Porta, Gunstheimer effectively parodies hierarchical structures, bureaucracy, and, most importantly, society\u2019s need to define one\u2019s worth in terms of work.\n\nFocus: Jana Gunstheimer is the artist\u2019s first solo museum exhibition in the United States. In one all-encompassing installation, the exhibition features exquisitely rendered, photo-based grisaille watercolors on wood panel, a large-scale paper cutout, a site-specific wall drawing, and a newspaper intervention work that all reference the initiatives of Nova Porta, adapted to the specific context of Chicago.",
+    "short_description": "German artist Jana Gunstheimer (b. 1974) combines her academic training in ethnology with a refined figurative drawing practice to observe and comment on aspects of her own culture. Gunstheimer responds to the transformations she sees taking place in contemporary German society\u2014including postindustrial desolation, drastic unemployment, and rising levels of aggression among people of her generation\u2014by way of a semi-fictional organization she calls Nova Porta.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3078/focus-jana-gunstheimer",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": null,
+    "aic_end_at": null,
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "focus: Jana Gunstheimer"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2017-10-28T12:55:14-05:00",
+    "last_updated": "2021-01-13T23:27:25-06:00",
+    "timestamp": "2021-01-14T17:13:52-06:00"
+}

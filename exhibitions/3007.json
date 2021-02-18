@@ -1,0 +1,39 @@
+{
+    "id": 3007,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3007",
+    "title": "What Vincent Saw",
+    "is_featured": false,
+    "description": "In 1947, while preparing for a Vincent van Gogh exhibition at the museum, Art Institute Director Daniel Catton Rich and Public Relations Counsel Peter Pollack visited Van Gogh's nephew, Vincent Willem van Gogh, to ask him for the loan of many of his uncle's paintings for the show. A close friendship between the men developed, and the three of them set out to visit most of the sites captured by the famous artist in his fabulous paintings. These site visits were documented in photographs taken by Pollack, which now reside in the Art Institute's archives. This exhibition presents some of these historic photographs paired with illustrations of Van Gogh's works.",
+    "short_description": "Photographs of the sites made famous in the paintings of Vincent van Gogh offer insight into the beloved artist's work.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3007/what-vincent-saw",
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2013-09-10T00:00:00-05:00",
+    "aic_end_at": "2013-11-18T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "What Vincent Saw"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:07-06:00",
+    "timestamp": "2021-01-14T17:13:50-06:00"
+}

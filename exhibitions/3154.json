@@ -1,0 +1,39 @@
+{
+    "id": 3154,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3154",
+    "title": "Perpetual Glory: Medieval Islamic Ceramics from the Harvey B. Plotnick Collection",
+    "is_featured": false,
+    "description": "Chicago collector Harvey B. Plotnick has assembled what is generally regarded as the finest private collection of early Islamic ceramics in the world. From these truly outstanding objects\u2014much admired by specialists in the field of Islamic art and connoisseurs alike\u2014a selection of approximately 100 treasures ranging in date from the early Abbasid caliphate in Iraq (9th\u201310th century) and the Mongol Ilkhanid dynasty in Iran (mid-13th\u2013mid-14th century) to the Timurid dynasty in eastern central Asia (14th\u201315th century) is on view in the exhibition Perpetual Glory.\t \n\nThe dramatic development of ceramics in the medieval Islamic period has been called nothing short of an industrial revolution. Glazed pottery\u2014white wares painted in cobalt blue, luxurious lusterware, and prized splashware\u2014was produced in larger quantities and varieties than ever before and was traded widely along the Silk Road. The exhibition closely examines the most important types of ceramics produced in Iraq and Iran during this time\u2014lusterware, slip-painted ceramics, underglaze-painted wares, and overglaze-painted wares most commonly known as mina\u2019i\u2014and features these objects with a number of contextual examples from Egypt, Syria, Afghanistan, and central Asia. \n\nThe extraordinary achievements of Islamic pottery are explored in depth in the example of lusterware, which was produced through an exacting process involving the application of metallic solutions\u2014usually copper and silver oxides\u2014and multiple firings. Its production was a secret jealously guarded by families of craftsmen in the renowned artistic center of Kashan, Iran, in the late 12th and early 13th centuries. Lusterware was first developed in Iraq in the 9th century and was imitated and prized by the Fatimid rulers in Egypt starting in the mid-10th century before spreading to Syria, Anatolia, and ultimately Iran, where it reached its technical and artistic peak. The Plotnick collection is especially strong in its presentation of Iranian lusterwares, which in addition to their lustrous surface feature remarkable figurative images and numerous inscriptions drawn from Arabic aphorisms and blessings and Persian poetry. \n\nThis exhibition is presented in conjunction with Silk Road Chicago, a collaboration among the Art Institute of Chicago, the Chicago Symphony Orchestra, the City of Chicago Department of Cultural Affairs, and the Silk Road Project that explores the cross-cultural artistic legacy of the historic network of overland and maritime trade routes between China and the Mediterranean Sea.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2009-03-31T00:00:00-05:00",
+    "aic_end_at": "2009-10-28T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480089,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Perpetual Glory: Medieval Islamic Ceramics from the Harvey B. Plotnick Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:54-06:00",
+    "timestamp": "2021-01-14T17:13:54-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 1653,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1653",
+    "title": "Picturing Poetry",
+    "is_featured": false,
+    "description": "Picturing Poetry features dynamic interpretations of verse by picture book artists Carin Berger, R. Gregory Christie, Brian Pinkney, James Rumford, Peter S\u00eds, and Ed Young. Conjuring enchanting images to illustrate poems that range from ancient epics like Beowulf and The Conference of the Birds to modern works by writers such as Langston Hughes and Robert Frost, all of these award-winning artists offer new ways of seeing the unique power of poetry.",
+    "short_description": "Award-winning picture book artists Carin Berger, R. Gregory Christie, Brian Pinkney, James Rumford, Peter S\u00eds, and Ed Young transform poetry into unique and unexpected illustrations.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1653/picturing-poetry",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-11-17T00:00:00-06:00",
+    "aic_end_at": "2013-05-12T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Picturing Poetry"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:39-06:00",
+    "timestamp": "2021-01-14T17:13:28-06:00"
+}

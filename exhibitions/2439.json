@@ -1,0 +1,39 @@
+{
+    "id": 2439,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2439",
+    "title": "Humanism + Dynamite = The Soviet Photomontages of Aleksandr Zhitomirsky",
+    "is_featured": false,
+    "description": "\"What gives the strength of dynamite to the photo-poster and pamphlet? First of all, its motto is humanism. And, of course, the ability to see in subjects something new, that which others do not see, but that they should by all means see.\"\n\u2014Aleksandr Zhitomirsky, The Art of Political Photomontage, 1983\n\nThis exhibition, the first museum exhibition in the post-Soviet world devoted to leading Soviet political artist Aleksandr Zhitomirsky (1907\u20131993), offers a captivating portrayal of a satirist and loyal citizen who inventively furthered his country\u2019s official causes across a tumultuous half-century\u2014from the Depression era and World War II through the decades of colonial liberation in Africa and Asia, civil rights in America, and even international crises over oil and dictatorship in the 1970s and 1980s. Over 100 works\u2014all drawn from the Ne boltai! Collection\u2014provide an overview of Zhitomirsky\u2019s career and methods in photomontage.\n\nZhitomirsky began publishing drawings in 1929. He established his reputation as a leading propaganda artist in World War II, when he adopted the techniques of celebrated German photomonteur John Heartfield to striking effect. Zhitomirsky\u2019s photomontage leaflets, dropped on German troops by plane as part of an extensive psychological warfare campaign, caught the attention of many Nazi troops and, reportedly, of Reich Propaganda Minister Joseph Goebbels. \u201cChoose! Like This or Like That\u201d read the pamphlets in German, inviting soldiers to lay down their guns to spare their lives or perish in the long Russian winter, as many did.\n\nFollowing the war, Zhitomirsky adapted his techniques and motifs to new current events: echoes of Hitler and Goebbels, for example, shaped representations of Harry Truman and Winston Churchill. Over time, however, a roster of new objects, and particularly animals, came to life in Zhitomirsky\u2019s work. An airborne scorpion with the head of Uncle Sam, a lion in glasses devouring minarets and oil derricks, simians of various descriptions delivering harangues on television or sporting Wall Street suits\u2014Zhitomirsky\u2019s gift for grotesque satire became more compelling as it grew more fantastical.\n\nAccompanying the exhibition is an extensive monograph on Zhitomirsky that gives the first thorough review of his career and methods in any language. The book includes English-language excerpts from Zhitomirsky\u2019s memoir, The Art of Political Photomontage; correspondence and writings relating to Zhitomirsky\u2019s long-distance friendship with Heartfield; and a thorough reference guide to his published montages.\n\nSponsors\nThis exhibition is made possible by the Ne boltai! Collection.",
+    "short_description": "The first exhibition in the post-Soviet world devoted to leading political artist Aleksandr Zhitomirsky offers an overview of his career and methods in photomontage.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2439/humanism-dynamite-the-soviet-photomontages-of-aleksandr-zhitomirsky",
+    "image_url": "https://artic-web.imgix.net/6321a408-dffc-44d3-b137-46dc8ccf2f56/exh_Humanism-Dynamite_main_1_360.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-09-03T00:00:00-05:00",
+    "aic_end_at": "2017-01-10T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Humanism + Dynamite = The Soviet Photomontages of Aleksandr Zhitomirsky"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:29-06:00",
+    "timestamp": "2021-01-14T17:13:40-06:00"
+}

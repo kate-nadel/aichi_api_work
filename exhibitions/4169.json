@@ -1,0 +1,41 @@
+{
+    "id": 4169,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4169",
+    "title": "Thomas Eakins",
+    "is_featured": false,
+    "description": "This comprehensive retrospective featured one of the widest ranges of Eakins work shown to date. In the exhibition, which traveled between the three museums who had a hand in curating the show, curators included early studies of Eakins\u2019s work after his time at both Pennsylvania Academy of the Fine Arts, and the courses he took at Jefferson Medical College in order to better learn about human anatomy, in the late 1860\u2019s before he went to Europe, all the way up to works done as late as 1910. The retrospective included paintings, drawings, and photography.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1961-12-01T00:00:00-06:00",
+    "aic_end_at": "1962-01-07T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "American Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "04af5d0f-0d70-8da3-f37b-f48039c31afa"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Thomas Eakins"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T11:25:06-05:00",
+    "last_updated": "2019-10-14T11:26:29-05:00",
+    "timestamp": "2021-01-14T17:14:15-06:00"
+}

@@ -1,0 +1,41 @@
+{
+    "id": 4088,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4088",
+    "title": "Form Givers at Mid-Century",
+    "is_featured": false,
+    "description": "This exhibit aimed to examine contemporary architecture as a marriage between art and engineering. Architects featured in the exhibit included Frank Lloyd Wright, Ludwig Mies van der Rohe, Le Corbusier, Walter Gropius, Richard J. Neutra, Alvar Aalto, Marcel Breuer, Wallace K. Harrison, Phillip C. Johnson, Skidmore, Owings & Merrill, Eero Saarinen, Edward D. Stone, and R. Buckminster Fuller.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1960-04-14T00:00:00-06:00",
+    "aic_end_at": "1960-05-15T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "8bf7c8b3-c1db-e5a4-059f-e3c5c28dd346",
+    "alt_image_ids": [
+        "37d9968c-0782-7eba-e5d4-4c0919030122"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Form Givers at Mid-Century"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-11-26T15:34:29-06:00",
+    "last_updated": "2019-11-26T15:35:35-06:00",
+    "timestamp": "2021-01-14T17:14:13-06:00"
+}

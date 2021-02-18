@@ -1,0 +1,41 @@
+{
+    "id": 5991,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5991",
+    "title": "Italian Drawings in the Art Museum, Princeton University",
+    "is_featured": false,
+    "description": "This exhibit was the result of a re-discovery of a generous donation of Italian drawings collected by Frank Jewett Mather Jr. and Dan Fellows Platt. When Princeton University\u2019s new art museum was under construction, the Metropolitan Museum of Art held this collection of drawings, which were then selected for a show at the new Princeton Art Museum. Among the many artists featured in this exhibition were Carpaccio, Barocci, Tintoretto, and Guernico. The exhibit was arranged in chronological order for easy viewing.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1967-11-18T00:00:00-06:00",
+    "aic_end_at": "1967-12-26T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "ad8a1a6e-338e-f709-676b-3625af4d8241"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Italian Drawings in the Art Museum, Princeton University"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-11-05T11:30:58-06:00",
+    "last_updated": "2019-11-05T11:35:39-06:00",
+    "timestamp": "2021-01-14T17:14:48-06:00"
+}

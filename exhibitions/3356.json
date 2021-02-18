@@ -1,0 +1,39 @@
+{
+    "id": 3356,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3356",
+    "title": "Charles Ray: Fashions",
+    "is_featured": false,
+    "description": "Since the early 1970s, Los Angeles\u2013based artist Charles Ray has produced mostly sculptural works that command space in unusual ways, exploring its aesthetic and psychological implications. Central to his work is his choice of subjects that may at first seem simple but, on closer observation, reveal an ambitious combination of formal and technical complexity, contributing to an ambiguous sense of unreality or hyperreality.\n\nThe same is true of his only completed film, Fashions. Here, Ray depicted his friend Frances Stark, who is now herself a noted artist, modeling 100 outfits\u2014designed and then stapled or taped together by Ray\u2014while rotating slowly on a small platform. Her stance mimics both the stoicism of a classical statue and the stiffness of a modern commercial mannequin. But her clearly visible tattoo, uneven tan lines, and blinking eyes signal that she is in fact quite real.\n\nFashions combines ideas about pose, scale, and attire that appear in Ray\u2019s previous work, including his mannequin sculptures of the early 1990s, with an investigation into the concept of fashion as a signifier for identity. Indeed, clothing continues to play a role in his recent work\u2014including Horse and Rider (2014) and School Play (2014), both currently on view as part of the Art Institute exhibition Charles Ray: Sculpture, 1997\u20132014\u2014by adding a contemporary context to figural sculptures that engage historical genres.\n\nA film installation that should be viewed from beginning to end, Fashions is meant to be shown with a whirring, flickering 16 mm film projector, a nearly outmoded format that in turn echoes the movement of Stark\u2019s platform.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-09-07T00:00:00-05:00",
+    "aic_end_at": "2015-10-04T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25208,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Charles Ray: Fashions"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:05-06:00",
+    "timestamp": "2021-01-14T17:13:59-06:00"
+}

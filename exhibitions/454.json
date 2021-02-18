@@ -1,0 +1,41 @@
+{
+    "id": 454,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/454",
+    "title": "Focus: Kasmalieva and Djumaliev\nA New Silk Road: Algorithm of Survival and Hope",
+    "is_featured": false,
+    "description": "Gulnara Kasmalieva (born 1960) and Muratbek Djumaliev (born 1965) are a vital artistic force in Kyrgyzstan, a young nation with an ancient history. Using photography, video, and performance within a critical and conceptual framework, they unpack the multiple layers of Kyrgyz identity: the country\u2019s traditional nomadic and shamanic roots, its recent Soviet Communist past, and its current global capitalist reality.\n\nFor their Focus exhibition, Kasmalieva and Djumaliev will debut a new, multichannel video and photographic installation, A New Silk Road (2006), created especially for the Art Institute. The project follows the extensive scrap-metal trade via truck caravans traveling through the high mountain passes between Kyrgyzstan and China. With almost no manufacturing infrastructure and limited funding for building and growth, Kyrgyzstan\u2019s role remains that of trader, the middle man between China\u2019s booming production and countries such as Russia and Kazakhstan that are in the economic position to support the vigorous importation of consumer goods. Eschewing nostalgia for the historical Silk Road era, Kasmalieva and Djumaliev instead foreground the current, arguably hard, existences faced by the communities along these well-worn trade routes.\n\nAlso on view will be the three-channel video installation Trans-Siberian Amazons (2004). Shot during a tour through Siberia organized by the artists to encourage artistic and cultural exchange, this work portrays two elderly women traders who undertake the arduous task of hauling domestic goods by train across Central Asia. Previously employed in the professional sector, these women and others like them have been forced, as a result of post-Soviet economic devastation, to create new, transient economies based on small-scale trade and transport in order to support their families. The video captures the protagonists\u2019 yearning for times gone by, as they pass the time mournfully singing the Soviet songs of their youth in the dim confines of the train car. At its essence, the practice of Kasmalieva and Djumaliev redefines the terms of art in the face of what the latter refers to as \u201cthe collective phobia, skepticism, and disappointment\u201d that pervades the milieu they inhabit. Melding the poetic with the political, they employ beautifully haunting imagery with minimal narrative structure in order to recount poignant tales of human struggle, perseverance, and hope for the future.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-02-01T00:00:00-06:00",
+    "aic_end_at": "2007-05-06T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "cf6d3324-5233-24a9-a8f3-26c11c9c3816"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Focus: Kasmalieva and Djumaliev\nA New Silk Road: Algorithm of Survival and Hope"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:48-06:00",
+    "timestamp": "2021-01-14T17:13:08-06:00"
+}

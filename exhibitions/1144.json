@@ -1,0 +1,74 @@
+{
+    "id": 1144,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1144",
+    "title": "Roy Lichtenstein: A Retrospective",
+    "is_featured": false,
+    "description": "This exhibition on the art of Roy Lichtenstein (American, 1923\u20131997) included nearly 170 works made between 1950 and 1997, focusing on the artist's achievements in painting, sculpture, and drawing. It was the first major retrospective to broadly examine his art since his death.\nLichtenstein is a figure of monumental importance in the recent history of art. His contribution\u2014the still-potent collision of commercial sources and fine art\u2014defined the enduring legacy of Pop Art. The idea of compositional unity was central to the artist's thinking. Plastic values such as beauty and balance were of primary importance to Lichtenstein, and reliable formal tropes\u2014outlines, halftone dots, and solid diagonals\u2014were the building blocks of nearly all his compositions.\nThe first phase of Lichtenstein's mature career was defined by his \"cartoon\" mode. After 1966 he applied his comic style to a broad range of found imagery. The artist almost always began with a two-dimensional source, often a comic image or another readily distillable form of printed mass communication. He then sketched the image, recomposing it to suit narrative clarity or formal ends. Subsequently, he traced the drawing onto canvas, continuing to make compositional adjustments, and then painted the work, sometimes with the aid of assistants.\nThe tactile sites\u2014in print media\u2014from which Lichtenstein's art emerged are growing progressively extinct. More than 50 years after his opening salvo, his work seems wiser than ever in its insistence on the authority of the artificial. Ultimately, there is a profound radicalness in his project, more extreme than the initially transgressive embrace of pop culture. Impeccable sleight of hand is Lichtenstein's revolutionary stance. In restating the mass-produced image by means of an insistently handmade, painterly process, he confounded the notion of the readymade and forever expanded and altered our understanding of how a painting can be made, how it should look, and how we define the artist in our society.",
+    "short_description": null,
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1144/roy-lichtenstein-a-retrospective",
+    "image_url": "https://artic-web.imgix.net/7b3a38a6-68d9-4be2-b754-59811925c93d/2015.131RoylichtensteinFootMedication.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C276%2C2999%2C1687",
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2012-05-17T00:00:00-05:00",
+    "aic_end_at": "2012-09-03T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 2147475902,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [
+        35480
+    ],
+    "site_ids": [
+        58
+    ],
+    "image_id": null,
+    "alt_image_ids": [
+        "fd8a3e15-8900-f381-2c14-13c2a470923e",
+        "fd6f1dc9-642b-0e60-ff43-431f8aeb19a0",
+        "25d2d66d-37ea-cf56-c8c3-88d9c502a953",
+        "acbcf0b6-7eb4-bc5b-c091-08a7e8a0c0ff",
+        "7a58f702-fd3f-a02e-f279-a7fa60463e2d",
+        "0de6398f-3e4c-b4b2-672e-f4456f5b89c7",
+        "51272f70-8b4e-a041-9abc-208518de8269",
+        "019b28ec-4a40-7c3f-c2a9-79aa607fc157",
+        "3fb3cc1c-3397-1878-b002-bde1398d5a81",
+        "0a1b5710-72f6-fcbf-ad08-88d10c26be85",
+        "a171b949-a91e-73e4-0509-613acc71f491",
+        "789b2f53-5848-09aa-ec80-8b068dbd6d4f",
+        "a0cff763-c0c5-8a15-ebf9-eb3f7c9e61fa",
+        "c06b168d-c326-f316-8217-e228dd6c0432",
+        "a23cd8df-e483-e201-d5bc-918df60985ef",
+        "9a086ba3-946e-8787-9c88-6ef3f229b7cc",
+        "a463366e-13cd-d3a0-37e5-90a8dc2bbe5b",
+        "a4f4e920-62fd-296d-68f1-d8706bc1b8d3",
+        "3a7f7937-3b66-7efa-2a8e-9c6b5092511c",
+        "1bc77f2b-98cf-e484-20a9-6fb287b49f86",
+        "289dc2fd-5142-8add-7538-b713e3f29c3f",
+        "c215bb7c-0ab9-454a-f71b-3ed4e2fcb92d",
+        "dca38647-b5cf-2d4d-dbff-cd736fd3cd20",
+        "046f5d4b-a096-f7ec-53c0-4cf50d24badd",
+        "dedd9031-6da3-c0f2-74d9-0acdf7970318",
+        "6f696994-d336-749d-3a08-e1ec7007f582",
+        "88b91d80-3990-f449-f1a4-232acadbefbd",
+        "212bd7a5-1524-39f2-180b-65f44ae62c3f",
+        "fc89822c-7130-48ec-e933-69bd9eef3b95",
+        "6468d64b-24e8-6db6-604e-aca0b2e72b56"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Roy Lichtenstein: A Retrospective"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-12-11T19:00:25-06:00",
+    "last_updated": "2021-01-13T23:28:02-06:00",
+    "timestamp": "2021-01-14T17:13:19-06:00"
+}

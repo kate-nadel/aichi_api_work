@@ -1,0 +1,39 @@
+{
+    "id": 2033,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2033",
+    "title": "Saul Steinberg: Commemorating the 100th Anniversary of His Birth",
+    "is_featured": false,
+    "description": "Saul Steinberg (1914\u20131999) had one of the most remarkable and varied careers in postwar American art. He is as equally renowned for the covers and drawings that appeared in The New Yorker for nearly six decades as for the drawings, paintings, prints, collages, and sculptures that earned him over 80 solo exhibitions across the world throughout his lifetime. While he was committed to the act of drawing in an era dominated by large-scale painting and sculpture, he explored any visual idiom that met his immediate needs, constantly crossing boundaries into uncharted artistic territory and freely conflating high and low art. As a result Steinberg\u2019s art resists classification, as he himself knew: \u201cI don\u2019t quite belong to the art, cartoon, or magazine world, so the art world doesn\u2019t quite know where to place me.\u201d He nevertheless crafted a rich and ever-evolving oeuvre that found full expression through his various parallel careers and is famed internationally for giving graphic definition to the postwar age.\n\n\nThe Art Institute is thrilled to announce a remarkable gift from the Saul Steinberg Foundation of 54 works on paper, including five masks, by this amazingly versatile artist. In celebration of this significant addition to the collection and in honor of Steinberg\u2019s 100th birthday, this focused installation presents five works from the recent gift\u2014each capturing a distinct style and working method from Steinberg\u2019s long and varied career\u2014alongside three works already in the museum\u2019s collection. The earliest work in the installation is the 1952 collage Downtown Building, which transforms two 19th-century engravings\u2014of an organ and a display cabinet\u2014into a building through the addition of inked doorways and an urban streetscape, while the latest work is the 1989 drawing Las Vegas (which became a 1992 New Yorker cover), a satirical take on the United States\u2019 national icons with a skeleton-faced cowboy, a soldier in camouflage, Abraham Lincoln, Lady Liberty, a Klansman, and Mickey Mouse\u2014all posing as sphinxes along the Las Vegas highway. As wide-ranging stylistically as they are chronologically, the works in this selection demonstrate the rich visual imagination, boundless wit, and keen cultural critique of Steinberg\u2019s art, offering a brief but rich overview of this uncategorizable artist.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-07-04T00:00:00-05:00",
+    "aic_end_at": "2014-10-12T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Saul Steinberg: Commemorating the 100th Anniversary of His Birth"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:56-06:00",
+    "timestamp": "2021-01-14T17:13:35-06:00"
+}

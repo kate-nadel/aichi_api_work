@@ -1,0 +1,39 @@
+{
+    "id": 3374,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3374",
+    "title": "Natural Allusions",
+    "is_featured": false,
+    "description": "For Chinese painters, images of plants and animals could convey human aspirations, seasonal themes, or\u2014through visual puns or rebuses\u2014wishes for well-being and good fortune. The 17th- and 18th-century handscrolls in this rotation may have shared some literary or cultural allusions, but they nonetheless reflected very different artistic traditions and clienteles, whether by a professional artist for a commercial patron or as a birthday gift for a member of the educated elite. The focused exhibition also features several round, handled fans of the type made for wealthy and fashionable men and women of 19th-century Shanghai.",
+    "short_description": "This focused presentation of 17th- and 18th-century Chinese handscrolls examines the many meanings images of plants and animals could convey.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3374/natural-allusions",
+    "image_url": "https://artic-web.imgix.net/0473150d-e71d-4059-8a38-8234e7a7f03e/exh_natural_main_1_480_0.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=4%2C94%2C423%2C238",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2017-01-14T00:00:00-06:00",
+    "aic_end_at": "2017-04-30T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147478117,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Natural Allusions"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:11-06:00",
+    "timestamp": "2021-01-14T17:14:00-06:00"
+}

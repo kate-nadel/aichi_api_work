@@ -1,0 +1,39 @@
+{
+    "id": 1383,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1383",
+    "title": "Renaissance Europe and the Ottoman Empire",
+    "is_featured": false,
+    "description": "Prints and drawings examine the relationship of 15th- and 16th-century Europe to Persia and the Ottoman Empire.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2006-10-21T00:00:00-05:00",
+    "aic_end_at": "2007-04-02T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": 2147483630,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Renaissance Europe and the Ottoman Empire"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:57-06:00",
+    "timestamp": "2021-01-14T17:13:22-06:00"
+}

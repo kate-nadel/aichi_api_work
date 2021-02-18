@@ -1,0 +1,40 @@
+{
+    "id": 9560,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9560",
+    "title": "Toulouse-Lautrec and the Celebrity Culture of Paris",
+    "is_featured": true,
+    "description": "WALL TEXT\nThe entertainment industry exploded in late nineteenth-century Montmartre, a gritty neighborhood on the outskirts of Paris known for its flamboyant nightlife and bohemian atmosphere. Artists, performers, and ambitious entrepreneurs flocked there to capitalize on the cheap rent and lack of police oversight, and the crowds of Paris quickly followed to see the raucous performances at the new cabarets and dance halls. The spirited establishments of the quartier fed into a thriving culture of celebrity, where singers and dancers such as Jane Avril, Aristide Bruant, and May Milton\u2014all depicted in this gallery\u2014sought widespread notoriety and critical acclaim. \n\nPainter and printmaker Henri de Toulouse-Lautrec moved to Montmartre in 1882, and he dedicated his career to depicting the district\u2019s famous personalities, who were often his close friends. Using the relatively new advertising technique of large-scale posters, Lautrec regularly collaborated with performers, writers, and cabaret owners who wanted to distinguish themselves from their competitors. Lautrec\u2019s dynamic and recognizable images, displayed throughout the streets of Paris, quickly catapulted his clients to stardom. Instead of idealizing his subjects, he chose to celebrate their individuality by emphasizing their unique traits. In doing so, he was also able to promote his own cutting-edge artistic endeavors, which included experiments in color lithography, the use of unconventional techniques and materials, and a continued observation of modern life\u2019s cast of characters.",
+    "short_description": "<p>This focused installation features dynamic and instantly recognizable works by Henri de Toulouse-Lautrec that helped catapult his clients to fame.</p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9560/toulouse-lautrec-and-the-celebrity-culture-of-paris",
+    "image_url": "https://artic-web.imgix.net/bf195bce-762a-4961-82b3-6e1c637b754d/MoulinRouge.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C70%2C2573%2C1450",
+    "type": "Permanent Collection Special Project",
+    "status": "Confirmed",
+    "aic_start_at": "2020-03-14T00:00:00-05:00",
+    "aic_end_at": "2021-01-31T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": 2147479703,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_boosted": "Toulouse-Lautrec and the Celebrity Culture of Paris",
+    "suggest_autocomplete_all": {
+        "input": [
+            "Toulouse-Lautrec and the Celebrity Culture of Paris"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-08-27T15:26:42-05:00",
+    "last_updated": "2021-01-13T23:23:25-06:00",
+    "timestamp": "2021-01-14T17:16:10-06:00"
+}

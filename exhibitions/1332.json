@@ -1,0 +1,39 @@
+{
+    "id": 1332,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1332",
+    "title": "Capturing the Sublime: Italian Drawings of the Renaissance and Baroque",
+    "is_featured": false,
+    "description": "The art of drawing assumed an unusually prominent role in Italy during the Renaissance and Baroque eras, not only in the training of artists and the demonstration of inherent genius and ability but also in the systematic development of projects that were ultimately collected and treasured as works of art in their own right. Although most drawings were undertaken for utilitarian purposes\u2014to master representation or to prepare larger compositions\u2014the evidence such sheets provide of an artist\u2019s unique temperament and style led 16th-century artist and author Giorgio Vasari to amass drawings as a reflection of those lives. Collectors ever since have found the process of interacting with these works on paper as satisfying and creative as the act of drawing itself.\n\nAs can be seen in the works assembled by Chicago collector Anne Searle Bent over the past 30 years, these works can range widely, from records of the initial spark of invention to elaborate compositional programs and highly finished individual studies or copies. Each one permits the viewer to enter into the artist\u2019s mind and imagine the exhilaration of the creative process, thus allowing not only the artist but also later witnesses to \u201ccapture the sublime.\u201d\n\nA testimony to the immediacy and universal language of drawings, this fascinating collection of 197 Italian works on paper from the late 15th to the cusp of the 19th century has been quietly assembled by an untrained but highly responsive individual as only one component of a normal, busy life. It is unusual for such a rich and diverse body of studies to be assembled in this modern era, and it is the collector\u2019s hope that by sharing these works others might be introduced to the magic of drawings.\n\nGet a taste of the wonderful works on view by digitally turning through the pages of Giovanni Battista Tiepolo's Scherzi di fantasia etchings, available online and also at a touchscreen kiosk in the exhibition.\n\nCatalogue\nAccompanying the exhibition is a handsome 312-page catalogue edited by Suzanne Folds McCullagh, exhibition curator and Anne Vogt Fuller and Marion Titus Searle Chair and Curator, Department of Prints and Drawings. The volume includes contributions from an impressive array of scholars and analyses of 171 Old Master drawings and 26 etchings by such artists as Raphael, Andrea del Sarto, Baccio Bandinelli, Pontormo, Perino del Vaga, Gian Lorenzo Bernini, Salvator Rosa, Guercino, and Giovanni Battista Tiepolo.\n\nSponsor\nLead sponsorship is provided by an anonymous donor.",
+    "short_description": "This collection of nearly 200 works on paper includes masterpieces by Baccio Bandinelli, Federico Barocci, Guercino, Salvator Rosa, and the Tiepolos.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1332/capturing-the-sublime-italian-drawings-of-the-renaissance-and-baroque",
+    "image_url": "https://artic-web.imgix.net/5d203894-019d-4705-8293-41a1a0a1dc45/1985.1113GiovanniBenedettoCastiglioneTheCreationofAdam.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=33%2C287%2C1865%2C1053",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-03-25T00:00:00-05:00",
+    "aic_end_at": "2012-07-08T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Capturing the Sublime: Italian Drawings of the Renaissance and Baroque"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:45-06:00",
+    "timestamp": "2021-01-14T17:13:22-06:00"
+}

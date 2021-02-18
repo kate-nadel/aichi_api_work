@@ -1,0 +1,39 @@
+{
+    "id": 3127,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3127",
+    "title": "New Light on Old Masters: Research on Northern European and Spanish Paintings before 1600 in the Art Institute",
+    "is_featured": false,
+    "description": "This exhibition presents fascinating insights revealed in the recently published catalogue Northern European and Spanish Paintings before 1600 in the Art Institute of Chicago. Showcasing the results of innovative technological research, the exhibition closely examines a select part of the museum\u2019s collection of Old Master paintings, exploring how these works were created, collected, and displayed.The paintings studied date from an important period of change in the history of European painting, one that saw the transition from the medieval craft tradition to the Renaissance notion of the painter as a self-conscious creator. Themes that emerge from this detailed study include the function of altarpieces; the growing influence of the open market on the production of paintings; and the ways that pictures made for private devotional use fit into this open market.Many of the exhibition\u2019s discoveries came to light through technical study of the pictures, using both well-known and more innovative methods. Illustrated text panels accompany each exhibited work, and an interactive computer station enables visitors to zoom into images of selected works and to shift back and forth between x-radiographs and underdrawings visible in infrared light.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2008-06-26T00:00:00-05:00",
+    "aic_end_at": "2008-09-14T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": 2147472450,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "New Light on Old Masters: Research on Northern European and Spanish Paintings before 1600 in the Art Institute"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:41-06:00",
+    "timestamp": "2021-01-14T17:13:54-06:00"
+}

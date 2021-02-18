@@ -1,0 +1,51 @@
+{
+    "id": 4260,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4260",
+    "title": "Francis Bacon (1964)",
+    "is_featured": false,
+    "description": "This exhibit offered a comprehensive look at Francis Bacon\u2019s art. The show included 64 oil paintings that emphasized the artist\u2019s obsession with macabre subjects such as raw brutality, decomposing flesh, and shocking scene of torment. At the time of the show, Bacon was 55. The show aimed to illuminate Bacon\u2019s pursuit of seemingly tragic imagery as more than just a bizarre obsession or a measurement of cultural happenings. Instead, curator Lawrence Alloway sought to exhibit each painting as its own expression, with deep reverence to the past as much as the present.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1964-01-24T00:00:00-06:00",
+    "aic_end_at": "1964-02-23T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "4de13aab-0b92-ab53-50fb-e8c295f80958",
+    "alt_image_ids": [
+        "d083734a-9037-bc5c-caf8-7840b3d777ea",
+        "848d23b3-a798-e580-7d95-c46aa5cede04",
+        "591d967b-50ab-38d9-d7da-037036ed03af",
+        "8a88163b-14be-f2d3-5c50-d069e18e5eed",
+        "3eee5d75-d234-834f-f33c-7fa9f8bf5117",
+        "ff2f91d9-3f3a-9fd5-278a-bfcf592dfce2",
+        "b114ddbb-7dea-ca9e-6c20-3009612fbf0b",
+        "dd75dd29-6cad-f602-6b1c-d8f20b4557f7",
+        "6493ac6a-7750-6e1f-48c1-471d01639a25"
+    ],
+    "document_ids": [
+        "5acdd70a-8324-851b-0902-acada039d355"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Francis Bacon (1964)"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T14:36:57-05:00",
+    "last_updated": "2019-10-14T14:41:20-05:00",
+    "timestamp": "2021-01-14T17:14:16-06:00"
+}

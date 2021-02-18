@@ -1,0 +1,39 @@
+{
+    "id": 1149,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1149",
+    "title": "Everyday Adventures Growing Up: Art from Picture Books",
+    "is_featured": false,
+    "description": "The world is an exciting and frightening place for a young child. It is fun to make a new friend, discover a treasure, or believe that you can take a plane to the moon, but it can also be terrifying to get up on stage and perform for strangers or have a monster that you drew come to life. The works of Nancy Carlson, Timothy Basil Ering, and Peter McCarty, featured in the exhibition Everyday Adventures Growing Up, address these challenges with humor, simplicity, charm, and the right touch of mystery.\n\nAn integral component of picture books, the artworks bring stories to life, presenting new and familiar situations in surprising and engaging ways. Nancy Carlson, award-winning illustrator of more than 50 books, including the Harriett books and the Loudmouth George and the Louanne Pig series, delivers reassuring stories in bold, cheerful color. Timothy Basil Ering, illustrator of Finn Throws a Fit written by David Elliott and The Story of Frog Belly Rat Bone to name a few, creates expressive paintings that are visual treats for the eye and brings fascinating characters to life. The third artist is Caldecott award winner Peter McCarty who presents soft, spare, and evocative worlds using washes of color and fine line in his picture books which include Henry in Love (2010), Jeremy Draws a Monster (2009), and in an earlier book Moon Plane.\n\nPicture books are often a child\u2019s first experience of visual learning, but the ability to decode images continues to evolve throughout our lives and is essential to the development of critical thinking skills. The beautiful illustrations in this family exhibition provide the perfect bridge to looking at art in the museum and the continued development of these skills as children grow and mature.\n\nAfter viewing the exhibition, families are invited to visit the Vitale Family Room and enjoy their favorite picture books together.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-04-30T00:00:00-05:00",
+    "aic_end_at": "2010-11-28T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Learning & Public Engagement",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Everyday Adventures Growing Up: Art from Picture Books"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:26-06:00",
+    "timestamp": "2021-01-14T17:13:19-06:00"
+}

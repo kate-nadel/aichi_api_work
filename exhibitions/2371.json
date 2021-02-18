@@ -1,0 +1,39 @@
+{
+    "id": 2371,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2371",
+    "title": "The Shogun's World: Japanese Maps of the 18th and 19th Centuries",
+    "is_featured": false,
+    "description": "Maps are practical tools for understanding the world we inhabit, but they are not only visual representations of a particular place and time; their presentations can be strikingly beautiful as well. Japanese mapmaking is particularly distinct, even within the broader context of East Asia\u2019s unique traditions. A multi-directional view, the use of map designs on ceramic plates, and the integration of Western practices like the compass rose, bird\u2019s eye view, and latitude are all part of Japan\u2019s approach to cartography in the 18th and 19th centuries.\n\nA first for the Art Institute\u2019s Japanese print gallery, this exhibition of maps showcases the beauty of Japanese printmaking. The maps on view feature the world, the Japanese archipelago, and major cities, including Osaka, Yokohama, Edo, Nagasaki, and Kyoto. Highlights include works from trustee Barry MacLean\u2019s comprehensive collection, such as a Buddhist map of the world that translates spiritual forces into physical locations. A blue and white \u201cmap plate,\u201d also from the MacLean Collection, features a relief map of Japan divided into provinces, with additional land masses and mythical locations such as \u201cthe land of women\u201d circling the edge of the plate. An 1861 aerial view of Yokohama from the Art Institute\u2019s collection is made up of six standard-sized prints presented as one image, with important buildings and sections of the foreign settlement labeled for ease of use.\n\nIn every map presented, Japan is the focus. Sometimes the geography is of lands that are concrete and known, and sometimes it is a gateway to the realm of the imagination.de",
+    "short_description": "A first for the Art Institute\u2019s Japanese print gallery, this exhibition of maps showcases an important facet of Japanese printmaking through a range of maps depicting both known and spiritual lands.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2371/the-shoguns-world-japanese-maps-of-the-18th-and-19th-centuries",
+    "image_url": "https://artic-web.imgix.net/970049f1-3a30-4579-b34c-742259b47412/exh_MacLean_main_480_0.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C70%2C479%2C269",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-06-25T00:00:00-05:00",
+    "aic_end_at": "2016-11-06T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Shogun's World: Japanese Maps of the 18th and 19th Centuries"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:34-06:00",
+    "timestamp": "2021-01-14T17:13:39-06:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": 958,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/958",
+    "title": "Henri Cartier-Bresson: The Modern Century",
+    "is_featured": false,
+    "description": "The two most important developments in photography in the first half of the 20th century were the emergence of lasting artistic traditions and the rise of mass-circulation picture magazines. Henri Cartier-Bresson (1908\u20132004) was a leading figure in both domains. In the early 1930s, he helped to define photographic modernism, using a handheld camera to snatch beguiling images from fleeting moments of everyday life. After World War II, he turned to photojournalism, and the magic and mystery of his early work gave way to an equally uncanny clarity and completeness.\nBefore the dominance of television, most people saw the world through the eyes of picture magazines. Early in Cartier-Bresson\u2019s postwar career, his photographs of Gandhi\u2019s funeral and the Communist revolution in China were journalistic scoops. But the vast majority of his photographs describe everyday events, for his essential subject was society and culture\u2014civilization.\nCartier-Bresson began traveling at the age of 22. For nearly half a century, he was on the road most of the time, and the geographical range of his work is notoriously wide. Its historical range is just as broad\u2014from ancient patterns of preindustrial life to our contemporary era of ceaseless technological change. In the realm of photography, Cartier-Bresson\u2019s work presents a uniquely rich, far-reaching, and challenging account of the modern century.\nThis retrospective exhibition\u2014the first since the photographer\u2019s death in 2004\u2014draws extensively on the collection and generous cooperation of the Fondation Henri Cartier-Bresson in Paris.\nAll works in this exhibition are by Henri Cartier-Bresson (French, 1908\u20132004) and are gelatin silver prints. All of the publications on view in vitrines are courtesy of The Museum of Modern Art, New York.",
+    "short_description": "The two most important developments in photography in the first half of the 20th century were the emergence of lasting artistic traditions and the rise of mass-circulation picture magazines. Henri Cartier-Bresson (1908\u20132004) was a leading figure in both domains. In the early 1930s, he helped to define photographic modernism, using a handheld camera to snatch beguiling images from fleeting moments of everyday life. After World War II, he turned to photojournalism, and the magic and mystery of his early work gave way to an equally uncanny clarity and completeness.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/958/henri-cartier-bresson-the-modern-century",
+    "image_url": "https://artic-web.imgix.net/ff098173-d2dd-4e7c-8816-c28f15312ce6/1978.1058HenriCartier-Bresson.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=42%2C994%2C1512%2C848",
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2010-07-25T00:00:00-05:00",
+    "aic_end_at": "2010-10-03T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [
+        33885
+    ],
+    "site_ids": [
+        43
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Henri Cartier-Bresson: The Modern Century"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:53-06:00",
+    "timestamp": "2021-01-14T17:13:15-06:00"
+}

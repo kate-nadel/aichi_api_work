@@ -1,0 +1,39 @@
+{
+    "id": 3259,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3259",
+    "title": "focus: Sharon Hayes",
+    "is_featured": false,
+    "description": "Over the past 15 years, American artist Sharon Hayes has been probing how speech\u2014both public and private\u2014intersects with politics, history, personal identity, desire, and love through her performances and multimedia installations. Drawing on a range of artistic and academic practices, her approach is arguably most clearly defined by the New York theater scene that greeted her as an undergraduate student in the early 1990s\u2014staunchly political, feminist, queer-identified, and besieged by the AIDS crisis. It is through this specific temporal and geographic lens that Hayes developed her artistic voice, one with which she has tackled a diversity of issues and topics including the 1968 Democratic Convention, Patty Hearst and the Symbionese Liberation Army, and the wars in Afghanistan and Iraq.\n\nThis presentation, the first solo museum exhibition of the artist\u2019s work in the United States and the 27th installment of the Art Institute\u2019s focus series, includes several recent media and object-based installations as well as a live performance. In the Near Future (2005\u20132009), part of an ongoing project examining the political construction of speech in public space through the figure of the protester and the protest sign, consists of over 350 slide images that document a series of performances that Hayes conducted between 2005 and 2008. Parole (2010), which debuted in the 2010 Whitney Biennial, is a four-channel video installation that continues Hayes\u2019s investigation of the public and private voice through a central character who records sound but never speaks. The exhibition also features An Ear to the Sounds of Our History (2011), a new series of works that draws upon the artist\u2019s vast archive of spoken word vinyl records including speeches by John F. Kennedy, Martin Luther King Jr., Malcolm X, Eldridge Cleaver, Angela Davis, Jackie Kennedy, and Eleanor Roosevelt. Grouping the album covers into \u201csentences\u201d of varying lengths, Hayes looks at the systems of distribution that have determined whose voices predominate and whose have been all but forgotten to history. A related live performance, Spoken Word DJ, in which Hayes mixes and samples the original records, will open the exhibition on November 10.\n\nSponsor\nOngoing support for focus exhibitions is provided by the Alfred L. McDougal and Nancy Lauter McDougal Fund for Contemporary Art. Additional support is provided by the Society for Contemporary Art and Susan and James Herrmann. Generous support is provided by the Exhibitions Trust: Goldman Sachs, Kenneth and Anne Griffin, Thomas and Margot Pritzker, the Earl and Brenda Shapiro Foundation, Donna and Howard Stone, and Melinda and Paul Sullivan.",
+    "short_description": "Over the past 15 years, American artist Sharon Hayes has been probing how speech\u2014both public and private\u2014intersects with politics, history, personal identity, desire, and love through her \u2026",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3259/focus-sharon-hayes-2",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": null,
+    "aic_end_at": null,
+    "date_display": null,
+    "department_display": "Ryerson/Burnham Library/Archives",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "focus: Sharon Hayes"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2017-10-04T15:11:24-05:00",
+    "last_updated": "2021-01-13T23:26:57-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

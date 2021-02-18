@@ -1,0 +1,39 @@
+{
+    "id": 2269,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2269",
+    "title": "Painted Tapestries: Reuniting Two Decorative Paintings by Edouard Vuillard",
+    "is_featured": false,
+    "description": "\u00c9douard Vuillard is best known for his easel paintings of intimate scenes of Parisian domestic life. Yet his most important contributions to modern art are his large-scale d\u00e9corations, or mural-like paintings made to decorate specific interiors. Commissioned by friends and clients for their homes, none remain in situ, and most of the paintings have been dispersed into public and private collections. This exhibition brings together two halves of one of the artist\u2019s most important early decorative ensembles: First Fruits, on loan from the Norton Simon Museum, Pasadena, California, and the Art Institute\u2019s Window Overlooking the Woods.\n\nAt twelve and fourteen feet long, respectively, the Chicago and Pasadena pendants are the largest canvases of Vuillard\u2019s career and among his most successful in blending traditional decoration with a modern subject and technique. The paintings were originally commissioned in 1899 by Adam Natanson for the library of his central Paris home\u2014no doubt at the urging of his sons Alexander, Thad\u00e9e, and Alfred, all of whom were Vuillard\u2019s patrons and intimate friends.\n\nAlthough the subject of both paintings is intimate and genre-like, Vuillard titled them verdures, which can refer to both a lush thicket in a forest and a specific style of tapestry with leafy borders produced during the Renaissance. These historical verdures usually depicted scenes of hunting and other rustic pursuits for royal and notable households. Vuillard\u2019s verdures would have appealed to the aristocratic pretentions of his patron, whose former residence, the Ch\u00e2teau de M\u00e9r\u00e9ville, was decorated with four 18th-century murals by Hubert Robert (now in the Art Institute\u2019s collection in Gallery 218). By 1950 both d\u00e9corations were sold into private collections in the United States and have not been seen together since. This exhibition brings together these rarely traveled paintings for the first time and celebrates the importance of d\u00e9corations to avant-garde artists at the end of the 19th century.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-07-11T00:00:00-05:00",
+    "aic_end_at": "2015-10-06T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": 2147479701,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Painted Tapestries: Reuniting Two Decorative Paintings by Edouard Vuillard"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:05-06:00",
+    "timestamp": "2021-01-14T17:13:38-06:00"
+}

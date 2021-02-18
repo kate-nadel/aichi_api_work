@@ -1,0 +1,39 @@
+{
+    "id": 3001,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3001",
+    "title": "Decidedly Surreal: The Bindings of Mary Louise Reynolds",
+    "is_featured": false,
+    "description": "Mary Louise Reynolds (1891\u20131950) was one of the central figures of the Surrealist movement. As a young American war widow, Reynolds moved to Paris in 1919, where she lived for the rest of her life, except during 1943\u201344, the last two years of the Nazi occupation. In Paris she met the circle of artists and writers who formed the Surrealist movement, becoming a lifelong friend and benefactor to many of them. Reynolds met Marcel Duchamp (1887\u20131968) in July 1923 and began what he called \"a true liaison, over many, many years, and very agreeable.\"\nIn the 1920s, Reynolds studied in the atelier of Parisian master bookbinder Pierre Legrain (1888\u20131929). She applied her skills to the books given to her by such friends as Man Ray, Paul \u00c9luard, Max Ernst, Andr\u00e9 Breton, Jean Cocteau, and Salvador Dal\u00ed. In these works she departed from convention, reworking and manipulating traditional binding elements and structures. She also incorporated a range of materials that were visually and intellectually surprising, from uniquely decorated endpapers to corset stays, broken teacup handles, thermometers, sponge rubber, reptile skins, and kid gloves. Duchamp described her bindings as being \"marked by a decidedly surrealist approach and an unpredictable fantasy.\"\nAfter Reynolds\u2019s death, her brother Frank B. Hubachek, a trustee of the Art Institute of Chicago, decided to keep her collection of nearly 300 books, exhibition catalogues, periodicals, pamphlets, and other ephemera together as a memorial and donated it to the museum in 1954. At the heart of the Mary Reynolds Collection, housed within the Ryerson and Burnham Libraries, are 74 volumes bound by Reynolds. This exhibition showcases a selection of these visionary and uniquely surreal artworks.",
+    "short_description": "This exhibition showcases a selection of visionary bindings by Mary Louise Reynolds, an American who became a central figure in the Parisian Surrealist movement.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3001/decidedly-surreal-the-bindings-of-mary-louise-reynolds",
+    "image_url": "https://artic-web.imgix.net/null6968f9be-870d-486b-9b00-474f7804fba0/Reynold.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=307%2C372%2C2442%2C1372",
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2015-01-20T00:00:00-06:00",
+    "aic_end_at": "2015-03-23T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Decidedly Surreal: The Bindings of Mary Louise Reynolds"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:23:43-06:00",
+    "timestamp": "2021-01-14T17:13:50-06:00"
+}

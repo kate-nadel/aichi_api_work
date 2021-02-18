@@ -1,0 +1,41 @@
+{
+    "id": 3920,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3920",
+    "title": "Venice Biennale: American Artists Paint the City, organized by the AIC",
+    "is_featured": false,
+    "description": "The art exhibition at the American pavilion was selected and organized by Katharine Kuh, Curator of Modern Painting and Sculpture at the Art Institute of Chicago. Rather than selecting a representation of contemporary American artists, Kuh decided upon a thematic exhibition of how artists see or are inspired by the American cities. Artists such as Edward Hopper, Mark Tobey, Jackson Pollack, Willem DeKooning and Ben Shahn participated.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1956-01-16T00:00:00-06:00",
+    "aic_end_at": null,
+    "date_display": null,
+    "department_display": "American Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "0354145e-954f-be30-43dd-885d0655a0f9"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Venice Biennale: American Artists Paint the City, organized by the AIC"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:21:46-06:00",
+    "timestamp": "2021-01-14T17:14:11-06:00"
+}

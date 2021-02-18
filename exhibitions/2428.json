@@ -1,0 +1,56 @@
+{
+    "id": 2428,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2428",
+    "title": "Nothing Personal: Zoe Leonard, Cindy Sherman, Lorna Simpson",
+    "is_featured": false,
+    "description": "In Nothing Personal, works by three American artists come together in a show about the passage from personhood to persona.\n\nThe 82 photographs that make up The Fae Richards Archive provide a convincing record of a person who never existed. Fae Richards could have been an actress and singer who worked from the 1920s to the 1970s. She was black, gay, and talented, and she achieved success to the degree that circumstances permitted. Zoe Leonard meticulously prepared a mix of publicity shots, film stills, and personal photos to create this fictional archive. She researched historically appropriate photographic papers, and \u201ccast\u201d different printers as well, to guard against a uniform look. The results show happiness tinged with melancholy and ask us to think about what it means to go through life behaving as a credible facsimile.\n\nThe 70 black-and-white photographs in Cindy Sherman\u2019s series Untitled Film Stills constitute a major contribution to contemporary art. At 8 \u00d7 10 inches, Sherman\u2019s prints look like ordinary film stills: publicity images that stage scenes from a movie for press and other promotional uses. In fact, Sherman did not re-create any specific character or movie. Her one-person show, modeled mainly on European art-house cinema, features a range of postwar genres and female roles that the artist inhabits like a shadow. \u201cThe characters weren\u2019t just airhead actresses,\u201d Sherman has said. \u201cThe clothes make them seem a certain way, but then you look at their expression and wonder if maybe \u2018they\u2019 are not what the clothes are communicating.\u201d\n\nLorna Simpson\u2019s fifth video work, Corridor, compares two historical periods: the mid-19th and the mid-20th centuries. Two characters, each alone in her domestic world, bring these moments to life, moving in parallel or in tandem through their respective daily routines. One appears to be a household servant or freed slave from around 1860, the other a successful homeowner living one century later\u2014yet both are played by a single person, the artist Wangechi Mutu. The soundtrack, composed by John Davis, similarly contrasts a variety of musical sources, including echoes of \u201cThe Battle Hymn of the Republic,\u201d Chopinesque piano, New Orleans dirges, and free jazz. Using sounds instead of words, the two characters\u2014who are and are not the same woman\u2014carry on a dialogue across the divide of time and circumstance.\n\nSponsors\n\nGenerous in-kind support for this exhibition is provided by Tru Vue, Inc. and Gemini Moulding, Inc.",
+    "short_description": "The work of three Americans comes together in this show exploring the personal and all that it encompasses\u2014personality, personhood, and what it means to be, or not be, able to be your own person.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2428/nothing-personal-zoe-leonard-cindy-sherman-lorna-simpson",
+    "image_url": "https://artic-web.imgix.net/4de95d5d-cf12-4e26-b348-197d35ce3b28/exh_Nothing-Personal_main_480.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-01-23T00:00:00-06:00",
+    "aic_end_at": "2016-05-01T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 25210,
+    "gallery_title": null,
+    "artwork_ids": [
+        72431,
+        72434,
+        72442,
+        229418,
+        212235,
+        212195
+    ],
+    "artwork_titles": [
+        "Untitled Film Still #12",
+        "Untitled Film Still #24",
+        "Untitled Film Still #56",
+        "The Fae Richards Photo Archive",
+        "Untitled Film Still #3",
+        "Untitled Film Still #50"
+    ],
+    "artist_ids": [
+        23759,
+        56379
+    ],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nothing Personal: Zoe Leonard, Cindy Sherman, Lorna Simpson"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-06-15T21:45:35-05:00",
+    "last_updated": "2021-01-13T23:24:11-06:00",
+    "timestamp": "2021-01-14T17:13:40-06:00"
+}

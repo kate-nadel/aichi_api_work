@@ -1,0 +1,39 @@
+{
+    "id": 6308,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6308",
+    "title": "Masterpiece of the Month: The Nativity by Albrecht Altdorfer",
+    "is_featured": false,
+    "description": "For the month of December of 1939, an early sixteenth German century painting of the Nativity was on display as Masterpiece of the Month. The painting was purchased by the museum in 1934 from the Wilson L. Mead Fund and later sold to the Parke-Bernet Gallery in New York City in 1945. According to the Bulletin of The Art Institute of Chicago that covered this exhibition, while attributed to Albrecht Altdorfer, \u201c[critics] opinions differ somewhat in regard to the date and in ascribing it to Altdorfer of one of his associates in the Danube School.\u201d\n\n*Some time after the exhibition, it was discovered that a painter known as the Master of Pulkau, active c.1505-1520, was the artist of the piece. He is indeed also considered a part of the Danube School.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1939-12-01T00:00:00-06:00",
+    "aic_end_at": "1939-12-31T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "5e432969-7661-3867-382a-623fd775a0e8",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Masterpiece of the Month: The Nativity by Albrecht Altdorfer"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T12:10:24-05:00",
+    "last_updated": "2019-10-15T12:11:21-05:00",
+    "timestamp": "2021-01-14T17:14:55-06:00"
+}

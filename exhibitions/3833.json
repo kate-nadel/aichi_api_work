@@ -1,0 +1,39 @@
+{
+    "id": 3833,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3833",
+    "title": "Photographs by Robert Doisneau",
+    "is_featured": false,
+    "description": "This exhibition contained 52 photographs by Robert Dosineau. Art Institute Curator of Photography during this exhibition, Peter Pollack, described the photographs in this show as \u201camusing, humorous, satirical, but rarely caustic or malicious portraits of\npeople and places - taken mostly in his native France.\u201d",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1954-05-15T00:00:00-05:00",
+    "aic_end_at": "1954-07-01T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Photographs by Robert Doisneau"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T08:30:33-05:00",
+    "last_updated": "2019-10-15T08:31:21-05:00",
+    "timestamp": "2021-01-14T17:14:09-06:00"
+}

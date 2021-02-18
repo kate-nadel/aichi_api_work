@@ -1,0 +1,39 @@
+{
+    "id": 3074,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3074",
+    "title": "Japanese Art of the 1960s: The Struggle with Tradition",
+    "is_featured": false,
+    "description": "Most of the works on display in this exhibition date from the 1960s, a decade when Japanese artists were coming into their own as major forces on the contemporary art stage. Many took inspiration from Japan's artistic past, motivated by an image of the traditional potter, as in the work of Kitaoji Rosanjin, Hamada Shoji, and Kawai Kanjiro. Others turned to classic art forms such as calligraphy, yet transforming them to the point of abstraction. This was the case with Morita Shiryu who has written the barely recognizable word for dragon (ryu) with gold paint on a black lacquer screen. A few artists set off in entirely new directions and experimented in abstraction with mixed-media such as Hamada Taisuke and his Three Samurai. The specific works mentioned here are part of the Art Institute's permanent collection and are all on display in the exhibition.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-06-30T00:00:00-05:00",
+    "aic_end_at": "2007-09-16T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480173,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Japanese Art of the 1960s: The Struggle with Tradition"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:23:08-06:00",
+    "timestamp": "2021-01-14T17:13:52-06:00"
+}

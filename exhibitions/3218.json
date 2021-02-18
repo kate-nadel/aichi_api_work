@@ -1,0 +1,39 @@
+{
+    "id": 3218,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3218",
+    "title": "Iterations: John Ronan\u2019s Poetry Foundation",
+    "is_featured": false,
+    "description": "Founded in 1997 by John Ronan, the Chicago-based architecture firm John Ronan Architects has made its mark with a range of critically acclaimed buildings and a thoughtful approach to spatial relationships and materials. The firm uses a distinct, iterative methodology in order to explore a wide range of options at the outset of a project. While many architects have adopted a completely digital process, Ronan sees advantages in both handmade and digital design methods; the handmade process, seen here, allows for a more intuitive and less calculated approach that is valuable in the beginning stages, while digital tools allow for the precision necessary to finalize a design.\n\nOperating on a shoestring budget since its 1912 founding by Harriet Monroe, Chicago-based Poetry magazine experienced a surprising windfall in 2003 with the bequest of approximately $200 million from the pharmaceutical heiress Ruth Lilly. The magazine reorganized as the Poetry Foundation and decided to build a permanent home to advance its mission of raising the public profile of poetry. After a thorough selection process, the organization selected John Ronan Architects to design the building.\n\nFor the Poetry Foundation, Ronan\u2019s design process entailed thoughtful considerations about how to integrate the required elements of the building. As seen here, the iterative approach was used throughout the design\u2019s development\u2014from the initial diagrams and a set of site-specific models to the presentation model\u2014with the goal of creating a compelling spatial narrative. Completed in 2011, the building was recognized with a national design award from the American Institute of Architects.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-12-14T00:00:00-06:00",
+    "aic_end_at": "2014-05-04T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 2147473418,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Iterations: John Ronan\u2019s Poetry Foundation"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:46-06:00",
+    "timestamp": "2021-01-14T17:13:56-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3002,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3002",
+    "title": "The Comic Art and Architecture of Chris Ware",
+    "is_featured": false,
+    "description": "The comics of Chicago artist Chris Ware are widely regarded as some of the most important works in the history of the artform. Ware is known for employing a unique visual language engineered specifically for the way the human mind inherently processes pictures in sequence into something understood as narrative. His meticulously constructed comics depict the adverse lives of his characters often set amongst a backdrop of Midwestern urban architectural design from the last century. Many of the buildings Ware employs in his artwork are revered Chicago architectural spaces that no longer exist and share a quality of hardship and unfortunate circumstance with the characters that dwell within. His depictions return life and emotional energy to these lost buildings, transforming them from setting to the subject.\nThis exhibition draws from the Ryerson & Burnham Libraries\u2019 rich archive of architectural photographs, ephemera, drawings, and artifacts that Ware has looked to for inspiration and source material, alongside drawings from Ware\u2019s comic stories. Starting chronologically with Jimmy Corrigan: The Smartest Kid on Earth, a passage of which takes place during the World\u2019s Columbian Exposition of 1893 until his latest work Building Stories, which tells the story of a young woman renting a room in a quintessential brownstone row house in a rapidly gentrifying west-side Chicago neighborhood.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2014-11-11T00:00:00-06:00",
+    "aic_end_at": "2015-01-19T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Comic Art and Architecture of Chris Ware"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:56-06:00",
+    "timestamp": "2021-01-14T17:13:50-06:00"
+}

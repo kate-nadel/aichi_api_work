@@ -1,0 +1,46 @@
+{
+    "id": 246,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/246",
+    "title": "Jasper Johns: Gray (American Perspectives Series)",
+    "is_featured": false,
+    "description": "Featuring more than 130 paintings, sculptures, prints, and drawings from 1955 to the present, this exhibition tracks Johns's exploration of the color gray throughout his career?an investigation that provides a framework for understanding the development of the artist's entire oeuvre.\n\nJasper Johns: Gray is organized by the Art Institute of Chicago, in cooperation with The Metropolitan Museum of Art, New York.\n\nJasper Johns: Gray is organized by The Art Institute of Chicago, in cooperation with The Metropolitan Museum of Art, New York. The exhibition is made possible by Kenneth and Anne Griffin. Major funding is generously provided by the Harris Family Foundation in memory of Bette and Neison Harris. The project is also supported by an award from the National Endowment for the Arts. An indemnity is provided by the Federal Council on the Arts and the Humanities.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2007-11-03T00:00:00-05:00",
+    "aic_end_at": "2008-01-06T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [
+        43768,
+        104542,
+        35139
+    ],
+    "site_ids": [
+        2,
+        9
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jasper Johns: Gray (American Perspectives Series)"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:45-06:00",
+    "timestamp": "2021-01-14T17:12:56-06:00"
+}

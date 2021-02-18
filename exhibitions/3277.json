@@ -1,0 +1,39 @@
+{
+    "id": 3277,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3277",
+    "title": "Fujinuma Noboru: Master of Bamboo",
+    "is_featured": false,
+    "description": "Renowned today as an innovator of contemporary basket artistry, Fujinuma Noboru did not begin his study of traditional Japanese crafts until 1974. His career as a bamboo artist took off in 1992 when one of his pieces won a top prize at the Traditional Craft Arts Exhibition and was subsequently purchased by the National Museum of Modern Art in Tokyo.\n\nThis exhibition presents for the first time bamboo baskets that were part of a gift to the Art Institute from the artist\u2019s personal collection. Most of the works are flower baskets, but the group includes an array of shapes and techniques. Some baskets are in the morikago or tray shape, while others are cylindrical or globular in form. The works\u2019 color palette ranges from undyed bamboo to the deep russet color of farmhouse rafters, and techniques encompass ara-ami, meaning \u201crough\u201d or \u201ccoarse\u201d plaiting, as well as meticulous fine plaiting.\n\nThis beautiful and varied assemblage represents a tremendous leap forward for the museum\u2019s collection of contemporary Japanese art and bamboo baskets in general. The Art Institute now has the largest collection of Fujinuma\u2019s work in the United States, incredibly significant, as he is one of the great living masters of this important craft",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-05-28T00:00:00-05:00",
+    "aic_end_at": "2011-11-13T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480173,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Fujinuma Noboru: Master of Bamboo"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:28-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

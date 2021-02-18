@@ -1,0 +1,39 @@
+{
+    "id": 3082,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3082",
+    "title": "A Global View: Recent Acquisitions of Textiles, 2012\u20132016",
+    "is_featured": false,
+    "description": "The Department of Textiles periodically celebrates its good fortune by presenting installations of works the department has acquired in the preceding few years. Since the last such presentation in 2012, the department has acquired 105 objects, some by purchase, others by gift.\n\nThis display features 39 of those works\u2014showcasing a remarkable variety of cultures, periods, and textile types that mirror the encyclopedic scope of the museum as a whole. The objects are divided into three sections: contemporary weavings, American and European textiles, and Middle Eastern and Asian works. There are masterpieces in each section.\n\nThe installation also continues the celebration of the museum\u2019s long and symbiotic relationship with the School of the Art Institute, as several of the contemporary works are by three artists with connections to the school.\n\nAs this presentation attests\u2014in its breadth and its quality\u2014the last few years have indeed been fortuitous for the Department of Textiles, and our gratitude is extended to all whose generosity helped strengthen this collection, either through the direct gift of objects or through the contribution of funds that made acquisitions possible",
+    "short_description": "This selection of 39 works showcases a remarkable variety of cultures, periods, and textile types, mirroring the encyclopedic scope of the museum as a whole.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3082/a-global-view-recent-acquisitions-of-textiles-20122016",
+    "image_url": "https://artic-web.imgix.net/7346bacd-9c74-471c-9a33-a45e963d9828/exh_Global-View_main_1_480.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-04-08T00:00:00-05:00",
+    "aic_end_at": "2016-09-18T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Textiles",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "A Global View: Recent Acquisitions of Textiles, 2012\u20132016"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:39-06:00",
+    "timestamp": "2021-01-14T17:13:53-06:00"
+}

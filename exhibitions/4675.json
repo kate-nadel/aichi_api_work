@@ -1,0 +1,46 @@
+{
+    "id": 4675,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4675",
+    "title": "School of Paris: Paintings from May Schoenborn and Samuel Marx Collection",
+    "is_featured": false,
+    "description": "This exhibition consisted of forty-four paintings that were publicly on view for the first time ever. The collection of paintings were lent by the widowed Mrs. Samuel A. Marx, also known as Florene May Schoenborn. Mr. and Mrs. Samuel A. Marx of Chicago, who started gathering the works in 1939, kept an eye out for refined work that truly captured the exalted magnificence of the various artists they collected from over the years. Among the collection, one could find outstanding workings by Bonnard, Braque, de Chirico, Dubuffet, Gris, Leger, Matisse, Miro, Picasso, and Rouault.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1966-02-11T00:00:00-06:00",
+    "aic_end_at": "1966-03-27T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "2405b9f9-1733-ac88-bbac-b832e7a6e5ad",
+    "alt_image_ids": [
+        "a3282cf7-de8b-6956-c782-df9798917e4c",
+        "d0d996da-1c3e-5e6a-e536-90a3b3b31a8f",
+        "f503a260-2932-318b-c155-c6c632af7a52",
+        "ab3136ef-f553-3ad3-de88-536ac98f1189",
+        "d1bdab10-cda1-ac5c-8ae9-7776c4fba46a",
+        "46073471-0c1c-87fe-0c8b-c8a99aa6f34c"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "School of Paris: Paintings from May Schoenborn and Samuel Marx Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-31T14:29:04-05:00",
+    "last_updated": "2019-10-31T14:30:44-05:00",
+    "timestamp": "2021-01-14T17:14:24-06:00"
+}

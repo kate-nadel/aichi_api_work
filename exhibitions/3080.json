@@ -1,0 +1,39 @@
+{
+    "id": 3080,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3080",
+    "title": "Typing for Tomorrow: Modernism and Typography in the Collection of the Ryerson and Burnham Libraries",
+    "is_featured": false,
+    "description": "In the opening decades of the 20th century, the printed word became increasingly important to the visual and verbal explorations of modern artists. Revolutions in printing, typography, and advertising saturated modern life with printed words. Although diverse in their goals and expressive strategies, artists working in a variety of styles and locations\u2014including Italian Futurists, Berlin Dadaists, and Russian Constructivists\u2014cohered around a shared interest in deploying modern typography. Co-opting the raw material of industrial, technological culture into their critiques of the artistic and social status quo, artists used the printed word as a key medium for communicating the avant-garde perspective. They eagerly sought out new typographical styles, which represented the graphic embodiment of one of the central tenets of the artistic vanguard: fusing form with function.\n\nTyping for Tomorrow features periodicals, books, and exhibition catalogues that highlight the Modernist romance with the typographical arts. The exhibition considers these publications as a kind of \u201cvirtual salon,\u201d where an international community of artists showed their work and, in turn, influenced on another. Key players in the world of publications\u2014Filippo Tommaso Marinetti, John Heartfield, Raoul Hausmann, Herbert Bayer, L\u00e1szl\u00f3 Moholy-Nagy, Theo van Doesburg, Kurt Schwitters, and Jan Tschichold\u2014are represented.\n\nOne spectacular example is the cover of Die Kunstismen/Les ismes de l\u2019art/the isms of art by El Lissitzky. Published in 1925 for the Paris Exposition des arts decoratifs et industriel moderne, the volume documented 16 of the signature avant-garde movements, or \u201cisms,\u201d of the preceding decade. Lissitzky\u2019s cover itself reveals the Modernist pursuit of new, more powerful modes of communication. Drawing on his architectural background and influenced by the Constructivist movement from which he emerged, he used dominant letters and rectangular bars, accentuated by a limited red and black palette, to create a graphic scaffold that serves as an entry into the parade of styles featured inside.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-05-01T00:00:00-05:00",
+    "aic_end_at": "2007-07-31T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Typing for Tomorrow: Modernism and Typography in the Collection of the Ryerson and Burnham Libraries"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:23:07-06:00",
+    "timestamp": "2021-01-14T17:13:53-06:00"
+}

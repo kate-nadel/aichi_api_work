@@ -1,0 +1,39 @@
+{
+    "id": 3179,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3179",
+    "title": "Chicago-Scope: The Films of Tom Palazzolo, 1967\u20131976",
+    "is_featured": false,
+    "description": "Chicago-Scope celebrates one of Chicago\u2019s original experimental filmmakers. Born in St Louis, Missouri, in 1937, Tom Palazzolo attended graduate school for painting and photography at the School of the Art Institute of Chicago. His classmates at the time included several Chicago Imagists (Gladys Nilsson, Jim Nutt, Ed Paschke, and Karl Wirsum), with whom he has exhibited his work.\n\nPalazzolo began making films in 1965, a key moment for experimental film in the United States. Since then, his colorful, subtly critical documentaries have captured Chicago\u2019s complex sociopolitical fabric. Taking as his muse the rich Americana and quotidian rituals of his environment, Palazzolo chronicled bodybuilding, senior picnics, carnivals, parades, protests, weddings, and the like in over 50 films that have been screened at museums, film festivals, and cinemas around the world. Between 2005 and 2007, Chicago Filmmakers preserved eight of Palazzolo\u2019s early films, three of which are included in the Art Institute\u2019s presentation.\n\nChicago-Scope focuses on a key period of Palazzolo\u2019s development as a filmmaker. This exhibition of four important films from 1967 to 1976 explores the decade bridging the artist\u2019s early Surrealist experimentations and quirky cinema verit\u00e9 portraits. A sense of the absurd connects these works. As the artist explained, \u201c[I] looked to nonfiction for the fix I needed.\u201d O (1967; 12 minutes), one of his first films, was inspired in part by Ren\u00e9 Clair\u2019s 1924 film starring Francis Picabia, Entr\u2019acte. O\u2019s use of double exposure, free association and improvisation, chiaroscuro, and a nonsensical \u201cmusique concr\u00e8te\u201d soundtrack pay homage to these masters of Dada and Surrealism. A tour de force of late 1960s civic and political countercultures, Love It/Leave It (1971; 14 minutes) juxtaposes the annual Naked City contest in Roselawn, Indiana, neighborhood characters, and American consumerism with the foment of the 1968 Democratic National Convention in Chicago (replete with cameos by William S. Burroughs, Mayor Richard J. Daley, and Allan Ginsburg). The film reaches a crescendo with the insistent refrain of the Vietnam-era expression \u201clove it or leave it.\u201d Ricky and Rocky (1972; 15 minutes), which Palazzolo made with Jeff Kreines, focuses on a backyard wedding shower in suburban Chicago for Polish-American Roxanne (Rocky) and Italian-American Ricky. Kreines\u2019s intimate camerawork and Palazzolo\u2019s clever editing demonstrate that the couple\u2019s families\u2014and their fashion\u2014are more memorable than the event itself. Finally, Jerry\u2019s (1976; 9 minutes) looks at the lunchtime mayhem in a South Loop sandwich shop, intercutting scenes of its eponymous owner infamously barking at customers with those featuring his quieter recollections of fighting in World War II and battling postwar racial discrimination.\n\nWhile Tom Palazzolo\u2019s films feature distinctively Chicago imagery and subjects, they move beyond purely regional concerns to embrace archetypal ideas about American history, civil rights, and personal and political expression. They depict the spectrum of human experience and, as he noted, \u201care a celebration of reality even if there is no understanding it.\u201d\n\nSpecial thanks to Chicago Filmmakers, Carolyn Faber, and the Gene Siskel Film Center.\n\nCurator\nKelly Shindler (SAIC MA \u201911), guest curator\n\nSponsor\nO, Love It/Leave it, and Jerry's were preserved with generous support from the Film Foundation and the National Film Preservation Foundation.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-11-04T00:00:00-05:00",
+    "aic_end_at": "2011-01-09T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": 25208,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago-Scope: The Films of Tom Palazzolo, 1967\u20131976"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:22:58-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

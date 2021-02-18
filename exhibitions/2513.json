@@ -1,0 +1,39 @@
+{
+    "id": 2513,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2513",
+    "title": "Abstract/Object",
+    "is_featured": false,
+    "description": "L\u00e1szl\u00f3 Moholy-Nagy (American, born Hungary, 1895\u20131946) pioneered approaches to abstraction using industrial technology and emphasized art viewing as an intellectual and physical encounter involving more than eyesight alone. A companion to the concurrent Moholy-Nagy retrospective, this exhibition examines the resonance of the artist\u2019s experiments and open-mindedness with works in film, photography, painting, and printed matter made from the 1960s to the present.\n\nLiz Deschenes (American, born 1966) shapes cameraless photographs into simple geometric forms that derive from Bauhaus-era diagrams. Wolfgang Tillmans\u2019s (German, born 1967) Lighter presents a monochrome photogram on stiff, glossy paper that has been folded into a sculptural relief. Drawing attention to the inbuilt distortions of camera equipment, painter and sculptor Mel Bochner (American, born 1940) took up photography in 1966\u20131970 to show that all camera images necessarily make abstractions of physical objects. Bochner\u2019s contemporary Bruce Nauman (American, born 1941) created a small but influential body of photographic work in the same years, including the book L.A. Air, while a third member of their generation, Gordon Matta-Clark (American, 1943-1978) made his gallery debut in 1969 by frying Polaroid photographs in cooking oil as \u201csouvenirs.\u201d In the early 1970s, a fourth participant in international conceptualism, Arte Povera member Giuseppe Penone (Italian, born 1947) used photographs, like Matta-Clark, as a point of interchange between physical objects and dematerialized images.\n\nLooking back to Conceptual Art, painter R. H. Quaytman (American, born 1961) made an exhibition at the Renaissance Society in Chicago in 2014 that paid homage to earlier shows at that institution, among them a presentation by conceptualist Daniel Buren. Merging references to Nauman and Buren, Chicago artist Gaylen Gerber (American, born 1955) framed his early photographs of \u201cclear sky\u201d\u2014atmospheric abstractions\u2014using portions of orange Plexiglas from a show that Buren had held in 2006 at another fabled local institution, the Arts Club of Chicago. Gerber\u2019s \u201coriginal art\u201d accordingly disappears behind that of Buren, reversing the typical role of art and its frame. \n\nWalead Beshty (English, active Los Angeles, born 1976) created Pictures Made by My Hand with the Assistance of Light (2006\u20132011) by crumpling and folding photosensitive paper in the darkroom, then exposing it to pinpoint light sources, such that the work could be said to have \u201cmade itself.\u201d Sculptor Wolfgang Pl\u00f6ger (German, born 1971) turned words into abstractions of a similar kind, copying by hand final statements from death-row inmates onto sections of colored film reel, then creating elaborate sculptures by suspending the reel from the ceiling as well as running it through a projector. Most invasively of all, Carter Mull\u2019s (American, born 1977) photographic \u201cscatter pieces,\u201d such as Virus (2014) are composed of thousands of photographically imprinted, reflective mylar rectangles spread across the floor\u2014the exhibition is thus be awash in imagery underfoot.\n\nAbstraction can be deeply personal, whether it is approached \u201chands on\u201d or \u201chands off.\u201d Photographer and conservator Alison Rossiter (American, born 1953) develops expired photographic papers straight from the box, fixing and making visible all signs of decay or prior handling. Rossiter\u2019s pieces recall the early cyanotypes (blueprints) of Barbara Kasten (American, born 1936), who in the mid-1970s took imprints from textile samples. But they also relate to the idiosyncratic quest carried out over 40 years by Horst Ademeit (German, 1937\u20132010), who obsessively documented through photographs the existence of otherwise undetectable \u201ccold rays\u201d that, he was convinced, alien beings were beaming at Earth. Finally, Brazillian filmmakers Rivane Neuenschwander (born 1967) and Cao Guimar\u00e3es (born 1965) document another barely perceptible community in Quarta-feira de Cinzas/Epilogue (2006)\u2014ants carting off colorful, sugar-coated confetti discs in a movable feast for the senses.\n\nSponsors\nAbstract/Object is made possible by the Chauncey and Marion D. McCormick Family Foundation.",
+    "short_description": "A companion to the concurrent Moholy-Nagy retrospective, this exhibition of contemporary work examines the influence the artist had on the field of photography.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2513/abstractobject",
+    "image_url": "https://artic-web.imgix.net/49ad635b-17cb-48ce-9383-a5c282501d9b/exh_abstract-mega-2000.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-09-10T00:00:00-05:00",
+    "aic_end_at": "2017-01-02T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 25210,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Abstract/Object"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:29-06:00",
+    "timestamp": "2021-01-14T17:13:41-06:00"
+}

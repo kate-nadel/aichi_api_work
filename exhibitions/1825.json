@@ -1,0 +1,39 @@
+{
+    "id": 1825,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1825",
+    "title": "Josef Koudelka: Nationality Doubtful",
+    "is_featured": false,
+    "description": "Czech-born French artist Josef Koudelka belongs in the firmament of classic photographers working today. Honored with the French Prix Nadar (1978), the Hasselblad Prize (1992), and the International Center of Photography Infinity Award (2004), Koudelka is also a leading member of the world-renowned photo agency Magnum. This exhibition, his first retrospective in the United States since 1988, is also the first museum show ever to emphasize his original vintage prints, period books, magazines, and significant unpublished materials.\n\nKoudelka became famous in anonymity through the worldwide publication of his daring photographs of the Soviet-led invasion of Prague in August 1968. Just 30 years old at the time, Koudelka had already worked for a decade, principally on Gypsies, for which he visited Roma populations for weeks at a time in his home country and later abroad over the course of years. This ambitious series beautifully combines a sense of modern history with timeless humanism.\n\nChoosing exile to avoid reprisals for his Invasion photographs, Koudelka traveled throughout Europe during the 1970s and 1980s, camping at village festivals from spring through fall and then printing in wintertime. His photographs of those decades became the series Exiles. Since the late 1980s Koudelka has made panoramic landscape photographs in areas massively shaped by industry, territorial conflict, or\u2014in the case of the Mediterranean rim\u2014the persistence of Classical civilization.\n\nTracing this long and impressive career, this exhibition draws on Koudelka\u2019s extensive holdings of his own work and on recent major acquisitions by the Art Institute, including the complete surviving contents of the debut presentation of Gypsies in 1967 (22 photographs), as well as ten Invasion images printed by the photographer just weeks after the event. Also on display are early experimental and theater photographs and some of the photographer\u2019s beautifully produced books\u2014which stretch dozens of feet when unfolded. A fully illustrated catalogue accompanies the exhibition, which after its debut at the Art Institute travels to the J. Paul Getty Museum, Los Angeles, and Fundaci\u00f3n MAPFRE, Madrid.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2014-06-07T00:00:00-05:00",
+    "aic_end_at": "2014-09-21T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Josef Koudelka: Nationality Doubtful"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:52-06:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

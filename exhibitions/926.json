@@ -1,0 +1,39 @@
+{
+    "id": 926,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/926",
+    "title": "Photography on Display:  Modern Treasures",
+    "is_featured": false,
+    "description": "This exhibition, presented in conjunction with the debut of the new photography galleries of the Modern Wing, explores the different avenues for presenting photographs in the world. Around 130 works by some 70 modernist figures, including classics such as Albert Renger-Patzsch, Walker Evans, and Dorothea Lange, demonstrate the range of photography\u2019s spaces of display: from salon exhibitions to commercial galleries, magazine spreads, or art-school assignments. Each of these spaces helped shape the ideas that continue to make photography a singularly influential field.\n\nThis selection of treasures from the Art Institute and other outstanding Chicago collections focuses on the first half of the 20th century, when photography came into its own as a progressive art form. Presented in four sections, the exhibition first displays photographs of 1900 and after from professional studios, clubs for serious amateurs, and the often mammoth salons they organized\u2014the earliest institutions to promote photography as modern art. Second to be explored are a handful of art museums and emergent galleries that began to exhibit photography at this time and, in exceptional cases, to collect it. Third, with the expansion of the illustrated press around 1920, the printed page became a favorite space for photographic display, in which images seemed to eclipse written communication. And finally, some of the boldest experiments in modern photography were revealed in the privacy of artists\u2019 living rooms, or even in the darkroom. These experiments found their echo in curricular and extracurricular activity at art schools such as the Bauhaus (and its Chicago successors), where photography ultimately was accepted as an academic discipline.\n\nThe Art Institute of Chicago has long been celebrated for its holdings in modern photography. The Alfred Stieglitz collection, donated to the museum by Georgia O\u2019Keeffe in 1949, includes nearly 250 works by Stieglitz, Edward Steichen, Paul Strand, and other luminaries of American modernism. The Julien Levy collection, acquired in 1979, added a decidedly transatlantic strength, with signature images by Ilse Bing, Henri Cartier-Bresson, and Man Ray among its more than 300 photographs. The Art Institute also followed the careers of important mid-century artists while they were active, exhibiting and collecting Berenice Abbott, Ansel Adams, Brassa\u00ef, and Harry Callahan, among others. Work by all these major figures will be included in this upcoming exhibition.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2009-05-09T00:00:00-05:00",
+    "aic_end_at": "2009-09-13T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Photography on Display:  Modern Treasures"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:40-06:00",
+    "timestamp": "2021-01-14T17:13:14-06:00"
+}

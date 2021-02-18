@@ -1,0 +1,44 @@
+{
+    "id": 4221,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4221",
+    "title": "American Primitive Painting from the Collection of Edgar William and Bernice Chrysler Garbisch",
+    "is_featured": false,
+    "description": "This national exhibition offers audiences a glimpse into the early art of America. The exhibit features works and cultural content from 1710 through 1885, and features of 2,500 works. The exhibit focused on many facets of daily life for early Americans, such as fashion, furnishings, work, recreation, home life, transportation, and war. The artists are \u201cprimitive\u201d artists because they are largely self-taught. Portraits of sea captains, lawyers, women, and children were featured in the exhibit.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1963-03-01T00:00:00-06:00",
+    "aic_end_at": "1963-03-31T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Arts of Africa and the Americas",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "6f4b3d0a-a905-9d95-de9d-a04fd67ab606",
+    "alt_image_ids": [
+        "fbaaa91d-092c-fd15-10d2-ab351963452e",
+        "e3cc4921-87b7-4ebd-3fe9-4e94f9b20ea3",
+        "fa5fdd63-3e30-3da7-3c73-cc301bb99ddf",
+        "da0e8a31-d50b-49eb-ea3a-ba7f220865c1"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "American Primitive Painting from the Collection of Edgar William and Bernice Chrysler Garbisch"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T14:29:15-05:00",
+    "last_updated": "2019-10-14T14:31:26-05:00",
+    "timestamp": "2021-01-14T17:14:16-06:00"
+}

@@ -1,0 +1,40 @@
+{
+    "id": 9562,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9562",
+    "title": "Intimate Modernity",
+    "is_featured": true,
+    "description": "WALL TEXT\n\nIn the 1890s, a new generation of artists emerged who came of age after the height of Impressionism and pioneered a variety of different artistic styles. Unified primarily by their close personal friendships with each other, many of the artists on display in this gallery became known as Intimists, named for their generally smaller-scale works and intimate subject matter. Unlike the Impressionists, who often portrayed landscapes, outdoor gardens, or city streets, these artists focused instead on interior scenes as a way to experiment with color, form, pattern, and atmosphere. They populated these domestic spaces with relatives, friends, or employees, who tend to blend into their decorative settings. Some artists, inspired by the sculptures of Rodin, chose to focus on the female body, while others used their children or household pets to fill the spaces they created.\n\nIn alignment with international movements such as Art Nouveau, the artists Pierre Bonnard and \u00c9douard Vuillard were also preoccupied with breaking down barriers between the \u201chigh art\u201d form of painting, and \u201ccraft\u201d media that included furniture and the decorative arts. The paintings, prints, and pastels in this gallery were mostly intended for display in private spaces, such as apartments or houses, where they would become a part of the viewer\u2019s everyday life. The artists envisioned that by bringing innovative art into the home\u2014a place typically reserved for \u201ccraft\u201d\u2014they would erode the distinctions between art and life, and produce psychologically intimate, art-filled spaces for reflection.",
+    "short_description": "<p>This focused installation highlights works by Intimist artists, who depicted interior scenes as a way to experiment with color, form, pattern, and atmosphere.</p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9562/intimate-modernity",
+    "image_url": "https://artic-web.imgix.net/nulla6babd52-706e-410c-a0be-af9ed4d3a442/MadameVallatton.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C202%2C1280%2C719",
+    "type": "Permanent Collection Special Project",
+    "status": "Confirmed",
+    "aic_start_at": "2020-03-14T00:00:00-05:00",
+    "aic_end_at": "2021-01-31T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": 2147479704,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_boosted": "Intimate Modernity",
+    "suggest_autocomplete_all": {
+        "input": [
+            "Intimate Modernity"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-09-10T17:02:20-05:00",
+    "last_updated": "2021-01-13T23:23:20-06:00",
+    "timestamp": "2021-01-14T17:16:10-06:00"
+}

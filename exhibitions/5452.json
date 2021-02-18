@@ -1,0 +1,41 @@
+{
+    "id": 5452,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5452",
+    "title": "Paintings by Macena Barton, Claude Buck, Gustaf O. Dalstrom, Frances M. Foy and Eda Sterchi, Paintings by William S. Schwartz",
+    "is_featured": false,
+    "description": null,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1929-07-18T00:00:00-05:00",
+    "aic_end_at": "1929-10-11T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "28469307-198e-8f38-7110-4f78fcdc738a"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Paintings by Macena Barton, Claude Buck, Gustaf O. Dalstrom, Frances M. Foy and Eda Sterchi, Paintings by William S. Schwartz"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:19:22-06:00",
+    "timestamp": "2021-01-14T17:14:38-06:00"
+}

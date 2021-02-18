@@ -1,0 +1,39 @@
+{
+    "id": 2849,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2849",
+    "title": "Photographs by the Score: Personal Visions Twenty-Some Years Apart",
+    "is_featured": false,
+    "description": "This revealing exhibition examines 128 examples of artistic progression and comparison and includes work by 44 photographers. By comparing works 20 years apart, one can find those master photographers not only using similar subjects, approaches, and formal arrangements but also refining their perceptions as well as their ability to make use of a greater wealth of life experiences.\n\nPhotographers who improve and remain inventive and creative decade after decade are a welcome phenomenon in a \ufb01eld known too often for its hot streaks and short careers.\n\nThe poet W. H. Auden made an insightful observation about long-tenured poets that also may apply to photographers. He noted that when young poets are \ufb01rst successful in writing, they often hope it will happen again and again. When two decades have passed, however, they realize that they never want to repeat the individual success of any single poem. Auden felt that one\u2019s self did not change, but the individual\u2019s worth and depth were discovered over time, making a work created later in an artist\u2019s career necessarily different from an earlier expression of the same idea.\n\nThis revealing exhibition includes work by Ansel Adams, Eug\u00e8ne Atget, Bill Brandt, Harry Callahan, Henri Cartier-Bresson, Imogen Cunningham, Walker Evans, Andr\u00e9 Kert\u00e9sz, Eliot Porter, Alfred Stieglitz, Paul Strand, Edward Weston, and Minor White. Examples by living photographers include works by Dawoud Bey, William Clift, Gregory Conniff, Roy DeCarava, Terry Evans, Steven Foster, Lee Friedlander, Kenneth Josephson, Ray K. Metzker, Joel Meyerowitz, Joel Sternfeld, Bob Thall, and others.",
+    "short_description": "This revealing exhibition examines 128 examples of artistic progression and comparison and includes work by 44 photographers. By comparing works 20 years apart, one can find those master photographers not only using similar subjects, approaches, and formal arrangements but also refining their perceptions as well as their ability to make use of a greater wealth of life experiences.\nPhotographers who improve and remain inventive and creative decade after decade are a welcome phenomenon in a \ufb01eld known too often for its hot streaks and short careers.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2849/photographs-by-the-score-personal-visions-twenty-some-years-apart",
+    "image_url": "https://artic-web.imgix.net/7caa7f49-8bc0-4e6d-8a3d-9ceb147a0b6e/twenty.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=1%2C282%2C2995%2C1685",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2006-10-07T00:00:00-05:00",
+    "aic_end_at": "2007-01-14T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Photographs by the Score: Personal Visions Twenty-Some Years Apart"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:39-06:00",
+    "timestamp": "2021-01-14T17:13:45-06:00"
+}

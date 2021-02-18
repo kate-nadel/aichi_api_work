@@ -1,0 +1,41 @@
+{
+    "id": 6878,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6878",
+    "title": "Architecture in Context: Selections from the Burnham Library of Architecture: 360 N. Michigan Ave.",
+    "is_featured": false,
+    "description": "Nineteen drawings for the London Guarantee and Accident Company building were displayed for this exhibition. These drawings were selected among the 96 sheets in the Burnham Library at the Art Institute.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1981-01-22T00:00:00-06:00",
+    "aic_end_at": "1981-05-31T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "b905e4c8-2357-47d9-3db8-a2427bff4546"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Architecture in Context: Selections from the Burnham Library of Architecture: 360 N. Michigan Ave."
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T11:57:35-05:00",
+    "last_updated": "2019-10-15T12:01:22-05:00",
+    "timestamp": "2021-01-14T17:15:09-06:00"
+}

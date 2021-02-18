@@ -1,0 +1,39 @@
+{
+    "id": 3354,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3354",
+    "title": "The Power of Place",
+    "is_featured": false,
+    "description": "In the late Ming and early Qing dynasties (c. 1570\u20131700), some of China\u2019s most visionary artists explored new ways of representing the world around them and depicting purely imaginary realms. Whereas precise naturalism had been abandoned as early as the eleventh century, most painters prior to the late Ming dynasty maintained visually credible proportions and modes of recession\u2014flat earth at the bottom, hills in the middle distance, and patches of sky at the top. Beginning in the late sixteenth century, more innovative artists sought to manipulate form and space in ways that seem, with hindsight, radically new. The landscapes in this exhibition display some of the features and later impact of their vision. \n\nDeparting from long-established traditions of composition and brushwork, these artists might consciously distort their subject\u2019s form and surroundings. By reversing conventions of light and dark ink, they could transpose images of earth and sky as well as spaces that appear near and distant or filled and empty. Rocks and caverns might even defy the laws of gravity. This taste for the idiosyncratic reached its apogee in the seventeenth century, when artists and art critics shared common values that championed uniqueness and originality. The most prominent painters of this era, in turn, inspired intensely personal if not radically individualist work of later generations. A testament to the ability of today\u2019s artists to reinterpret time-honored landscape themes in new and unexpected ways, a remarkable work by Wucius Wong (b. 1936), one of China\u2019s foremost contemporary painters, is also displayed",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-09-25T00:00:00-05:00",
+    "aic_end_at": "2015-12-20T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147478117,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Power of Place"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:09-06:00",
+    "timestamp": "2021-01-14T17:13:59-06:00"
+}

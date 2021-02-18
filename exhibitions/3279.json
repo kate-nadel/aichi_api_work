@@ -1,0 +1,43 @@
+{
+    "id": 3279,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3279",
+    "title": "Japanese Kimono, 1915\u20131940: From Tradition to Ready-to-Wear",
+    "is_featured": false,
+    "description": "Clothing\u2019s ability to express and convey information such as age, class, marital status, or social condition is not limited to a single culture or locale but is truly universal. Japanese kimonos are no exception with features such as sleeve length or decoration offering the viewer information about the wearer. This exhibition explores the role that traditional motifs, techniques, and modernization played in the development of pattern design in women\u2019s kimono and haori, a short kimono-like jacket, during the Taish\u00f4 period (1912\u20131926) and the early Sh\u00f4wa period (1926\u20131989).\n\nThe designs of kimono for formal and ceremonial events often adhered to conventional patterns with carefully planned designs suited to specific occasions. They were expensive undertakings, often custom-made and purchased from merchants who specialized in kimonos. With noticeably shorter sleeves, informal kimono and haori for everyday use were less opulent than their formal counterparts. The design of this more casual wear borrowed from the large repertoire of traditional motifs but also included abstracted forms and designs inspired by Western art movements.\n\nIn the 1910s, informal kimonos took a new turn with ready-to-wear designs appearing in department stores, where a quality garment could be bought at an affordable price, and by the mid-1920s, these broadly available styles were changing seasonally akin to Western fashion. Often referred to as taish\u00f4 modo (referring to Taish\u00f4 fashionable kimono) or taish\u00f4 roman (Taish\u00f4 romantic style), these desirable and fashionable garments maintained a conventional form while displaying bold and brightly colored designs and ornamentation. They appealed to the urban modern girl who embraced popular culture and changing fashions.\n\nAlthough the basic construction and form of the kimono has altered little over the course of six centuries, the evolving patterning and decoration make the kimono an exquisite and dynamic garment. By showcasing the kimono\u2019s influences and developments from formal traditions to graphically vibrant off-the-rack designs, this exhibition illustrates how the Japanese have embraced modernism while still retaining their cultural history.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-06-16T00:00:00-05:00",
+    "aic_end_at": "2011-11-13T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [
+        121662
+    ],
+    "artwork_titles": [
+        "Kimono (Kosode)"
+    ],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Japanese Kimono, 1915\u20131940: From Tradition to Ready-to-Wear"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:27-06:00",
+    "timestamp": "2021-01-14T17:13:58-06:00"
+}

@@ -1,0 +1,43 @@
+{
+    "id": 7638,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7638",
+    "title": "European Terracotta Sculpture from the Arthur M. Sackler Collection",
+    "is_featured": false,
+    "description": "Selected from more than 100 terracotta sculptures in the Arthur M. Sackler collection, the artworks in this exhibition traced changes in the popularity and function of terracotta through six centuries, from its use for sculptural studies to an appreciation of the qualities of the material itself.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1987-12-09T00:00:00-06:00",
+    "aic_end_at": "1988-03-06T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "46066692-4235-3da9-ba34-7c5f0cf9a092",
+    "alt_image_ids": [
+        "094bf0c6-bbf1-b9a2-8a86-eb852c5c9683"
+    ],
+    "document_ids": [
+        "6b418311-75e6-6517-cbfe-4bbd88bec148"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "European Terracotta Sculpture from the Arthur M. Sackler Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-12-30T16:51:22-06:00",
+    "last_updated": "2020-01-08T01:43:09-06:00",
+    "timestamp": "2021-01-14T17:15:26-06:00"
+}

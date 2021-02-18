@@ -1,0 +1,39 @@
+{
+    "id": 3128,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3128",
+    "title": "A Mind at Play",
+    "is_featured": false,
+    "description": "Brassa\u00ef once told an interviewer that were he to record their conversation he would get nothing but a voice on tape; otherwise he could enjoy a mind at play. This situation is similar to the way many people think about photography, that is, the resulting picture is merely an optical copy of what was in front of the camera. Yet, because each of us may perceive the same scene or object differently, the mind of the observer can be at play creating a personal experience of the work through mystery, humor, sentiment, drama, illusion, or emotional empathy.\n\nThis exhibition features the work of artists who embraced this notion of the viewer\u2019s subjective experience and explored how such perceptions can be manipulated through photography. Works from the Art Institute's collection, including those by Kenneth Josephson, Robert Cumming, and Andre Kertesz, provide unexpected and often humorous approaches to this theme. Boundaries of traditional photography will also be explored from an unconventional, though more somber perspective with the work of Duane Michals. The images presented in this exhibition examine the realm of photography beyond its basic function of strict recording and challenge the ways in which this medium can illuminate how one perceives reality.",
+    "short_description": "Brassa\u00ef once told an interviewer that were he to record their conversation he would get nothing but a voice on tape; otherwise he could enjoy a mind at play. This situation is similar to the way many people think about photography, that is, the resulting picture is merely an optical copy of what was in front of the camera. Yet, because each of us may perceive the same scene or object differently, the mind of the observer can be at play creating a personal experience of the work through mystery, humor, sentiment, drama, illusion, or emotional empathy.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3128/a-mind-at-play",
+    "image_url": "https://artic-web.imgix.net/0b4371a2-bd94-4a4b-a5d8-2892d1bc3507/1995.287ColvinCalum.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=80%2C216%2C2852%2C1605",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2008-06-14T00:00:00-05:00",
+    "aic_end_at": "2008-09-07T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "A Mind at Play"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:49-06:00",
+    "timestamp": "2021-01-14T17:13:54-06:00"
+}

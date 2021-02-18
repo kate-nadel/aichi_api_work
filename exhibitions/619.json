@@ -1,0 +1,45 @@
+{
+    "id": 619,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/619",
+    "title": "Richard Misrach:  On the Beach (American Perspectives Series)",
+    "is_featured": false,
+    "description": "For the past five years Richard Misrach, renowned color photographer of the desert, has worked on a series of pictures of beaches, the ocean, sunbathers, and swimmers. Dramatically scaled and shot from above, the photographs envelop the viewer with a strangely disorienting perspective and hint at the sublime.\n\nThis exhibition was organized by the Art Institute of Chicago. This exhibition is made possible by David Yurman and the Black Dog Fund.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-09-15T00:00:00-05:00",
+    "aic_end_at": "2007-11-25T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [
+        43768,
+        104542,
+        35139
+    ],
+    "site_ids": [
+        2
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Richard Misrach:  On the Beach (American Perspectives Series)"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:44-06:00",
+    "timestamp": "2021-01-14T17:13:10-06:00"
+}

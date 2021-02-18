@@ -1,0 +1,39 @@
+{
+    "id": 2188,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2188",
+    "title": "John Gossage: Three Routines",
+    "is_featured": false,
+    "description": "The first museum survey of American photographer John Gossage\u2019s career ever mounted, this \u201cretrospective in a room\u201d brings together several decades\u2019 worth of work\nto show three distinct ways, or routines, in which the artist has approached photography.\n\nOne routine concentrates on his intensely productive time in Berlin in the 1980s; on display are two dozen images from the nearly 600 that make up his Berlin series, which the Art Institute is fortunate to own in its entirety. The second routine comes from Gossage\u2019s recent year spent traveling the United States on a prestigious Guggenheim Foundation Fellowship, making portraits of art students and capturing views in smaller towns and cities, from Albuquerque, New Mexico, to Rochester, Minnesota. The third offers a \u201cmedley\u201d of images from across his career, which he began in his teenage years as a student of Lisette Model, Alexey Brodovich, and Bruce Davidson. In addition to highlighting the various photographic methods Gossage has used throughout his career, the exhibition includes a reading table with a selection of the artist\u2019s publications, showcasing his talents as a consummate printer and an ingenious book artist.",
+    "short_description": null,
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2188/john-gossage-three-routines",
+    "image_url": "https://artic-web.imgix.net/24d051bf-c474-4a0a-835b-c5f7e6573f95/2011.406.234JohnGossageDoris%2CFriedrichstr..jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=15%2C560%2C855%2C483",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-01-21T00:00:00-06:00",
+    "aic_end_at": "2015-05-03T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 25210,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "John Gossage: Three Routines"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:23:43-06:00",
+    "timestamp": "2021-01-14T17:13:36-06:00"
+}

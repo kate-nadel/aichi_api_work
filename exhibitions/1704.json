@@ -1,0 +1,39 @@
+{
+    "id": 1704,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1704",
+    "title": "Irving Penn: Underfoot",
+    "is_featured": false,
+    "description": "The path that led Irving Penn to the seemingly galactic abstractions of his late series Underfoot lay just outside his studio door. Walking the streets of Manhattan with a portable stool and a camera fitted with several extension tubes, Penn lowered his eye and his equipment nearly to the pavement. There he found a universe of abject form: pebbled concrete, cheap discarded matches and cigarette butts, and above all a wealth of masticated gum. Capturing patches of this blobby urban landscape at close range, Penn transformed it with characteristic precision into a world of odd beauty, complete unto itself and unplaceably remote. Former Art Institute Director James Wood, with whom Penn had worked closely to establish the vast archive of his photographs and papers held at the museum, visited the studio and later marveled to Penn at how these photographs showed \u201cthe cosmos underfoot.\u201d The Irving Penn Foundation has generously offered all 36 photographs from Underfoot as a gift to the Art Institute in Wood\u2019s memory.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-01-17T00:00:00-06:00",
+    "aic_end_at": "2013-05-12T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 25210,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Irving Penn: Underfoot"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:41-06:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

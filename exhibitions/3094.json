@@ -1,0 +1,45 @@
+{
+    "id": 3094,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3094",
+    "title": "Ragnar Kjartansson / The National: A Lot of Sorrow",
+    "is_featured": false,
+    "description": "celandic artist and musician Ragnar Kjartansson\u2019s often intensely durational performance-based works manifest a rare synthesis of pathos and humor. A Lot of Sorrow is both a music video and an extended concert film, in which Brooklyn-based band the National performs its three-and-a-half minute ballad \u201cSorrow\u201d on repeat for six hours. The band\u2019s music and lyrics frequently conjure notions of romantic suffering and melancholy\u2014themes common to Kjartansson\u2019s emotive, theatrical work.\n\nAs the hours pass and fatigue sets in, the musicians subtly alter their song; the original track is always recognizable but is also shown to be elastic and expressive rather than rigid. Kjartansson is sometimes visible in the role of roadie, offering water and food to the performers throughout the concert. Multiple camera angles grant the viewer access to both the perspective of the musicians and that of the audience, as the band and the crowd feed off each other\u2019s energy with every repetition.",
+    "short_description": "Icelandic artist and musician Ragnar Kjartansson\u2019s 2013\u201314 video features Brooklyn-based band the National performing its three-and-a-half minute ballad \u201cSorrow\u201d on repeat for six hours.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3094/ragnar-kjartansson-the-national-a-lot-of-sorrow",
+    "image_url": "https://artic-web.imgix.net/70b6fc25-020d-4bf0-8436-b842f9e9afb6/cal_Ragnar-Kjartansson-A-Lot-of-Sorrow_480.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-06-24T00:00:00-05:00",
+    "aic_end_at": "2016-10-23T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25208,
+    "gallery_title": null,
+    "artwork_ids": [
+        228827
+    ],
+    "artwork_titles": [
+        "A Lot of Sorrow"
+    ],
+    "artist_ids": [
+        114275
+    ],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ragnar Kjartansson / The National: A Lot of Sorrow"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-09-13T11:46:58-05:00",
+    "last_updated": "2021-01-13T23:28:34-06:00",
+    "timestamp": "2021-01-14T17:13:53-06:00"
+}

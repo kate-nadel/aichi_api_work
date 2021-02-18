@@ -1,0 +1,39 @@
+{
+    "id": 3256,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3256",
+    "title": "The Yoshida Family: Three Generations of Japanese Print Artists",
+    "is_featured": false,
+    "description": "The Yoshida family has remarkably produced three generations of woodblock print artists, all of whom have been integral in major 20th-century Japanese print movements. The patriarch of the family, Yoshida Hiroshi (1876\u20131950), was one of the most prolific artists in the history of woodblock printing and produced nostalgic landscape images coveted by those in Japan and abroad. After his death in 1950, the Yoshida family artists embarked on a new path, adding abstraction and a multiplicity of foreign influences to their art. Hiroshi's oldest son, Toshi, worked closely under his father's tutelage but later began to make stylistically very different prints\u2014from those depicting animals in Africa to line-based portraits. Hiroshi\u2019s youngest son, Hodaka, led the family into a new world of abstract prints. Having been instilled with a love for travel by his father, Hodaka transferred his reactions to different locales to his artwork, which itself underwent several radical shifts during his career. The late 1950s and early 1960s saw abstract and energetic works inspired by his trip to Mexico. His mother, Fujio, at the age of 62 began to explore sensual abstracted floral themes in prints. His wife, Chizuko, was trained as an abstract painter but started making after she married. The current generation's Yoshida Ayomi is the most conceptual of the Yoshida artists, her prints reflecting the main focus of her work\u2014the carving process.",
+    "short_description": "Woodblock prints from the remarkable Yoshida family span three generations from those by the family patriarch, Yoshida Hiroshi (1876\u20131950), to today's Yoshida Ayomi.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3256/the-yoshida-family-three-generations-of-japanese-print-artists",
+    "image_url": "https://artic-web.imgix.net/19a1d772-56e4-4b8b-a9f3-565da7a64b9d/Yoshida_Ancient-People.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C865%2C2191%2C1235",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-04-27T00:00:00-05:00",
+    "aic_end_at": "2013-07-14T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Yoshida Family: Three Generations of Japanese Print Artists"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:08-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3181,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3181",
+    "title": "Cy Twombly: Sculpture Selections, 1948-1995",
+    "is_featured": false,
+    "description": "This ongoing presentation features outstanding examples of Cy Twombly\u2019s sculpture made between 1948 and 1995. Composed primarily of rough elements of wood coated in plaster and white paint, these objects are fundamentally abstract, yet they evoke a range of associations to both the built environment and the natural world.\n\nTwombly (American, born 1928) is best known for profoundly original paintings and drawings, tensely balanced between expressively abstract and suggestively pictorial impulses that merge drawing, painting, and writing. He began to make sculpture at a young age, and object making has remained an essential, if somewhat less examined, aspect of his art. The earliest work in this grouping, incorporating metal doorknobs from his parents' house, demonstrates his interest in modern European art, particularly the assemblage techniques and use of found objects pioneered by the Dada and Surrealist movements.\n\nFrom 1959 to 1976, Twombly worked exclusively on canvas and paper. Returning to sculpture at mid-career, he continued to combine the textures of found objects with the rawness of weathered wood. Twombly\u2019s signature coating of raw plaster and white paint unifies the disparate components that constitute these assemblages. His sculptures are talismanic mementos fashioned or brought into being in order to evoke memories or experiences associated with a particular place or state of mind. The artist habitually inscribes or titles his works as a diarist might annotate a journal entry. Names of places recur and acquire significance as records of homes or sojourns. Also through inscription or title, the works often allude to mythological or literary subjects. To F.P. (The Keeper of the Sheep), for example, refers to a well-known verse by the 20th-century Portuguese poet Fernando Pessoa.\n\nCy Twombly\u2019s sculptures are crude and elegant, tough and refined, ancient and contemporary. These spare, complex wooden constructions are evocative of archaic relics but distilled through a uniquely modern language of sculptural form.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-12-12T00:00:00-06:00",
+    "aic_end_at": "2015-03-07T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25471,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Cy Twombly: Sculpture Selections, 1948-1995"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:22:58-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

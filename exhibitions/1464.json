@@ -1,0 +1,39 @@
+{
+    "id": 1464,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1464",
+    "title": "Entre Nous: The Art of Claude Cahun",
+    "is_featured": false,
+    "description": "Born Lucy Schwob to a family of French intellectuals and writers, Claude Cahun (who adopted the pseudonym at age 22) is best known for the staged self-portraiture, photomontages, and prose texts she made principally between 1920 and 1940. Rediscovered in the late 1980s, her work has not only expanded our understanding of the Surrealist era but also serves as an important touchstone to later feminist explorations of gender and identity politics. In her self-portraits, which she began creating around 1913, Cahun dismantled and questioned preexisting notions of self and sexuality. Posing in costumes and elaborate make-up, Cahun appears masked as various personae: man or woman, hero or doll, both powerful and vulnerable. Almost a century after their making, these innovative photographs and assemblages remain remarkably relevant in their treatment of gender, performance, and identity.\n\nFrom her university years until her death, Cahun was accompanied by her partner and artistic collaborator, Suzanne Malherbe, a childhood friend and stepsister. They surrounded themselves with members of the Surrealist movement and created work that embraced leftist politics. Cahun, with assistance from Malherbe (under the pseudonym Marcel Moore), produced photographs, assemblages, and publications from the 1920s on. The photograph Entre Nous (Between Us), featuring a pair of masks embedded in sand, gives the title to this show and is emblematic of their multifaceted relationship.\n\nThe first retrospective exhibition in the United States of Cahun\u2019s work, Entre Nous: The Art of Claude Cahun brings together over 80 photographs and published material by Cahun and Moore, including several photomontages from their 1930 collaborative publication Aveux non avenus (Disavowals), and the only surviving object by Cahun, which is in the Art Institute\u2019s permanent collection.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-02-25T00:00:00-06:00",
+    "aic_end_at": "2012-06-03T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 2147476637,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Entre Nous: The Art of Claude Cahun"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:32-06:00",
+    "timestamp": "2021-01-14T17:13:22-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3342,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3342",
+    "title": "Modern Masters Return",
+    "is_featured": false,
+    "description": "After a seven-month absence, the Art Institute\u2019s renowned collection of modern painting and sculpture will be returning to its home on the third floor of the Modern Wing. Removed in September to refresh and fine-tune their galleries, more than 100 works by artists such as Pablo Picasso, Henri Matisse, Marc Chagall, Constantin Br\u00e2ncusi, and Salvador Dal\u00ed have since been on loan to the Kimbell Art Museum in Fort Worth, Texas, to help celebrate the Kimbell\u2019s opening of a Renzo Piano\u2013designed addition.\n\nSince the opening of the Modern Wing in 2009, millions of visitors to the Art Institute have enjoyed the collection, which includes such masterworks as Picasso\u2019s The Old Guitarist, Matisse\u2019s Bathers by a River, and Chagall\u2019s White Crucifixion, resulting in wear and tear on the galleries. For the reopening, all gallery walls, floors, cases, and platforms have been refinished and repainted. Additionally, the energy-efficient light harvesting system for the galleries has been improved to ensure consistent light levels across all rooms. Visitors will also be greeted with a new interpretive approach to the collection that offers a deeper layer of historical context for the works and the debut of a new free app for handheld iOS devices based on the interactive LaunchPad platform already in use in some of the museum\u2019s galleries. The app will feature additional and customizable information on select works, including audio and video clips and interviews, as well as the ability to share related stories and narratives about highlights of the collection.\n\nMost importantly, while visitors will be pleased to see many of their favorite works back in Chicago, there will also be new opportunities to see the collection afresh. During the past months, a number of canvases have been treated by the Department of Conservation, and others have been outfitted with new, historically appropriate frames. Some galleries will feature works in the collection not yet seen in the Modern Wing installation, particularly those from our world-renowned holdings of Surrealism. And, excitingly, there will be a few new faces in the galleries, including Joaqu\u00edn Torres-Garcia\u2019s Object with Number One (1932), a major recent acquisition by this important Latin American artist. Made while the artist lived for a number of years in Europe, the powerful sculpture demonstrates his involvement with Constructivism and friendship with such abstract artists as Piet Mondrian and Georges Vantongerloo.",
+    "short_description": "The Art Institute\u2019s renowned collection of modern art returns to its home on the third floor of the Modern Wing with new acquisitions and loans and a new interpretive program.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3342/modern-masters-return",
+    "image_url": "https://artic-web.imgix.net/a67f46a5-6a7c-47b8-b3ed-66f18b5fcbc2/ArtInsights_1017.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C3000%2C1688",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": null,
+    "aic_end_at": null,
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Modern Masters Return"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:39-06:00",
+    "timestamp": "2021-01-14T17:13:59-06:00"
+}

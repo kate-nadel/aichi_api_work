@@ -1,0 +1,39 @@
+{
+    "id": 6640,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6640",
+    "title": "Photographs from the Julien Levy Collection",
+    "is_featured": false,
+    "description": "This exhibition highlighted Julien Levy\u2019s collection of photographs starting in 1927. Before this exhibition, Levy was most known as and dealer and collector, who had given Max Ernst, Salvador Dali, and others their first shows in New York City. The exhibition contained works by Bernice Abbott, Eug\u00e8ne Atget, Ilse Bing, Brassa\u00ef, Manuel Alvarez Bravo, Anton Bruehl, Fracis Brugui\u00e8re, Henri Cartier-Bresson, Imogen Cummingham, Walker Evans, Watler Hege, Andr\u00e9 Kert\u00e9sz, Clarence John Laughlin, Alice Lex-Nerlinger, Elit Lotar, George Platt Lynes, Lee Miller, Lucia Moholy, Laszlo Moholy-Nagy, Oscar Nerlinger, Paul Outerbridge, Jr., Roger Parry, Man Ray, Charles Sheeler, Emmanuel Sougez, Ralph Steiner, Maurice Tabard, Umbo.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1976-12-11T00:00:00-06:00",
+    "aic_end_at": "1977-02-20T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Photographs from the Julien Levy Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-06-04T11:51:22-05:00",
+    "last_updated": "2020-06-04T11:55:34-05:00",
+    "timestamp": "2021-01-14T17:15:02-06:00"
+}

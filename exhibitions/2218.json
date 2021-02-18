@@ -1,0 +1,77 @@
+{
+    "id": 2218,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2218",
+    "title": "A Portrait of Antinous, In Two Parts",
+    "is_featured": false,
+    "description": "An exceptionally beautiful Greek youth, Antinous was a favorite of Roman Emperor Hadrian. Following the young man\u2019s mysterious death by drowning in the Nile River, Antinous was proclaimed a god, and portraits of him appeared across the Roman Empire.\n\nThis focused exhibition unites two marbles portraying Antinous\u2014which recent discoveries reveal were originally one. After years of careful study, an international collaboration among the Art Institute of Chicago, the Palazzo Altemps Museum in Rome, and the University of Chicago determined that the Art Institute\u2019s fragment of a portrait of Antinous was originally the face of the Altemps\u2019s bust. (That bust received a replacement face by the mid-18th century.)\n\nThe centerpiece of the exhibition is a reconstruction of the original statue combining the two parts, showing how the statue would have appeared in antiquity. Laser scanning and three-dimensional printing were used to produce a mold from which the plaster replica was created. This very 21st-century plaster cast, together with both ancient works\u2014the Art Institute\u2019s face and the Altemps\u2019s bust\u2014and additional information present new and intriguing stories about these sculptures and the fascinating subject they depict.\n\nSponsors\nSupport for this exhibition is provided by Fred Eychaner and the Jaharis Family Foundation, Inc.",
+    "short_description": "Uniting the \u201ctwo parts\u201d of a bust from the Art Institute and Rome\u2019s Palazzo Altemps Museum, this exhibition features a reconstruction of the original piece as it would have appeared in antiquity.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2218/a-portrait-of-antinous-in-two-parts",
+    "image_url": "https://artic-web.imgix.net/4debf0a1-6acd-4d25-9963-fc75a8ec0a5a/exh_antinous_feature_480crop_1.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-04-02T00:00:00-05:00",
+    "aic_end_at": "2016-09-05T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ancient and Byzantine Art",
+    "gallery_id": 26777,
+    "gallery_title": null,
+    "artwork_ids": [
+        13852,
+        58135,
+        182871,
+        5638,
+        39690,
+        72127,
+        148264
+    ],
+    "artwork_titles": [
+        "Fragment of a Portrait Head of Antinous",
+        "Portrait Head of Emperor Hadrian",
+        "Aureus (Coin) Portraying Emperor Hadrian",
+        "Aureus (Coin) Portraying Empress Sabina",
+        "Portrait of Charles Lawrence Hutchinson",
+        "Stamnos (Mixing Jar)",
+        "Design: Proportions of the Antino\u00fcs Statue, from Encyclop\u00e9die"
+    ],
+    "artist_ids": [
+        51349,
+        35732,
+        58772,
+        74071
+    ],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [
+        "64771d1f-6709-5b53-4952-6dee76888a4b",
+        "c447595b-94e6-815c-93a9-70b55164caac",
+        "6485de74-db3b-8ce4-1c7a-309768c14c99",
+        "cb1417c3-24e0-3083-dfac-9d3a56e94a1c",
+        "1a71b008-6dfa-97a4-377b-b5282db8ac90",
+        "11213dc6-3e22-5c04-e218-876c3765f2b1",
+        "e436d985-15bf-3bdf-b2e2-acb632df5d69",
+        "32b06b04-e70d-7bc3-ce72-9bbc5b67a247",
+        "d38f5370-eea8-4326-eddd-078d409975c0",
+        "6816e7ad-0404-d4be-bc3d-b76c101888ca",
+        "163ab777-e728-da8f-ae12-a3e6d6d570fe",
+        "d6f27098-e550-a794-fb35-cb094b2463cf",
+        "cc4e2594-8bba-e10b-b2c0-665d57931cf8",
+        "83deda7c-15f5-edf1-8bb9-05527f6d8bb0",
+        "fa6c272e-3301-e7fd-48f4-61b0978d850f",
+        "89e7ec97-5ca8-e7ac-c158-a2b5445c149b"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "A Portrait of Antinous, In Two Parts"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:06-06:00",
+    "timestamp": "2021-01-14T17:13:36-06:00"
+}

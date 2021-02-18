@@ -1,0 +1,39 @@
+{
+    "id": 3017,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3017",
+    "title": "Rough, Blurred, and Out of Focus: Provoke Magazine and Postwar Japanese Photography",
+    "is_featured": false,
+    "description": "Perhaps no other country underwent such drastic change after World War II as Japan. A traditional island nation before the war, in 1945 the country lay in ruins after relentless air raids and the atomic bombs dropped on Hiroshima and Nagasaki. The American Occupation lasted until 1952 and brought not only American armed forces but also American products and attitudes. Japan was able to recover from the war's devastation and modernization and developing technology led to such rapid economic growth that Tokyo hosted the Olympics in 1964. In 1969, student protests erupted in Japan and disenchantment with the newfound wealth and development was a common theme in the Seventies. Still vested in its traditions, Japan was transforming into a more modern, more Western place. \n\nPhotography was the perfect medium to capture these post-war tensions. After the deprivation of the war years, the Japanese public was ready to consume books and magazines, the usual forms for publishing photography, and exhibitions were commonly held in department stores. Pre-war photographers returned to the old objective style, but photographers first taking up their cameras developed a new way to document their changing world and a new aesthetic philosophy: the individual behind the lens was important to the photograph. Apres-guerre (French for 'after war') was adopted into Japanese as apure geru, and apure came to be used on its own as an adjective meaning cool, new, stylish, and bold. It was just the right word to describe the new, post-war photography in Japan.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2012-02-03T00:00:00-06:00",
+    "aic_end_at": "2012-02-27T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rough, Blurred, and Out of Focus: Provoke Magazine and Postwar Japanese Photography"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:15-06:00",
+    "timestamp": "2021-01-14T17:13:51-06:00"
+}

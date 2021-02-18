@@ -1,0 +1,71 @@
+{
+    "id": 2514,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2514",
+    "title": "Revoliutsiia! Demonstratsiia! Soviet Art Put to the Test",
+    "is_featured": false,
+    "description": null,
+    "short_description": "This exhibition explores the trajectory of early Soviet art in all its forms and what it tells us about socially minded art now.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2514/revoliutsiia-demonstratsiia-soviet-art-put-to-the-test",
+    "image_url": "https://artic-web.imgix.net/8c9db213-9c6f-41e2-9a30-208ed278bccb/IM021725_press.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C572%2C2338%2C1319",
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2017-10-27T00:00:00-05:00",
+    "aic_end_at": "2018-01-15T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 2147475902,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "5c427dd0-0d6a-d362-babe-437e463380a0",
+    "alt_image_ids": [
+        "32ff2b0b-9e47-d48d-387b-46483bf17a92",
+        "87212a76-1cdc-d1f5-8e7e-92ad1c7121eb",
+        "9e1c84be-f74d-3425-32b0-f9d71d42e309",
+        "50c48042-e99c-9e87-a2eb-edecde292c86",
+        "23ffb4aa-bb5c-4ff1-a85d-1446052f4742",
+        "c6af0a28-e2b1-1e50-439a-7978501dd2be",
+        "1a0f6b0b-91f3-fd7d-49a4-c854eebd1d74",
+        "b341b4ef-0ecb-6a11-c96d-3ecf20891121",
+        "19a3f48a-cfdd-a13d-c3de-79dc4a80038e",
+        "ec7a6839-672a-b50d-573b-b5c4b4ad205f",
+        "1728e382-f85c-5b42-8364-9dfe29120d7a",
+        "5f6c3692-3a99-76b3-4f2e-c7fe5e5a32bb",
+        "180f3212-ed75-26df-841b-d041555f4351",
+        "dbe380f8-42a7-07c3-c57b-2447023fe29b",
+        "a60c0ea3-2155-b743-8712-79918cfcf0b9",
+        "5dbec0d8-9605-9568-ae16-6c7bd0c255e5",
+        "80b5cb16-ce5b-8ed4-826e-aa7106fdf3ca",
+        "be6985d0-54fe-e587-6fe9-27fee89b65e8",
+        "11f57f2a-00c1-e2a9-8604-37fed949a192",
+        "cc5b0952-dc0f-447e-119a-c718d9ee64be",
+        "420b01c1-1946-8e00-2f9f-f86dd140d4e9",
+        "94852daf-4492-c147-4f50-c238d67008eb",
+        "4fde71b9-e097-fca3-38c2-41b76a1ca87c",
+        "ce7fb7e0-a2e5-e432-8425-c33ab2c4a780",
+        "65210141-c482-1218-b0da-d775eda64fbf",
+        "e36b2e25-ad16-e24b-bb8c-6eb84448e731",
+        "1d60693f-2aad-37e5-2f5e-95afa70e08ba",
+        "1ddf2f01-9e15-213c-5eec-2f4faa26f2e9",
+        "4691e563-e906-eaff-eb95-bfe712215ac4",
+        "f212538e-5b79-8f10-937f-d1af32f8a6fd",
+        "78a48d67-200d-c97b-c26e-3d005a038e78"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Revoliutsiia! Demonstratsiia! Soviet Art Put to the Test"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-12-11T19:01:22-06:00",
+    "last_updated": "2021-01-13T23:28:20-06:00",
+    "timestamp": "2021-01-14T17:13:41-06:00"
+}

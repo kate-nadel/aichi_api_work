@@ -1,0 +1,39 @@
+{
+    "id": 392,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/392",
+    "title": "Ed Ruscha and Photography (American Perspective Series)",
+    "is_featured": false,
+    "description": "Since the beginning of Ed Ruscha's career in the late 1950s, photography has been both an inspiration and a source of discovery for this seminal Pop and Conceptual artist. This exhibition, organized by the Whitney Museum of American Art, features over 100 photographs and Ruscha\u2019s signature photographic books. On the occasion of the presentation of Ed Ruscha and Photography, the Art Institute will also display a selection of paintings, drawings, and prints from the museum's outstanding holdings and from local private collections. This exhibition elucidates the key motifs that course throughout Ruscha\u2019s practice.\n\nThis exhibition was organized by the Whitney Museum of American Art, New York.\n\nMacy's is the Lead Corporate Sponsor.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2008-03-01T00:00:00-06:00",
+    "aic_end_at": "2008-06-01T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ed Ruscha and Photography (American Perspective Series)"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:45-06:00",
+    "timestamp": "2021-01-14T17:12:59-06:00"
+}

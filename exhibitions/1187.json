@@ -1,0 +1,58 @@
+{
+    "id": 1187,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1187",
+    "title": "Looking After Louis Sullivan: Photographs, Drawings, and Fragments",
+    "is_featured": false,
+    "description": "During his lifetime, Louis Sullivan was known as the father of the skyscraper and served as an important mentor to Frank Lloyd Wright and other members of the Prairie school. His work had largely fallen into obscurity in the 1930s, when a small group of historians began to identify the structural transparency and horizontal expanses of glass in his commercial building as early American manifestations of the International Style that had begun to sweep the globe. In order to fit Sullivan\u2019s work into the triumphal narrative of modern architecture, scholars had to dramatically edit his oeuvre, marginalizing his writings and residential projects, and most importantly, disavowing his use of ornament. When photographers in the 1950s began taking pictures that focused on the sensuous, abstract, and even strange beauty of the architect\u2019s facades, they brought new attention to the interpretation of his work and the importance of its preservation. In his writings, drawings, and built work, Sullivan placed ornament at the center of his architectural practice, understanding it as the locus of art, intellect, and the freedom of man\u2019s creative powers.\nJohn Szarkowski, who would later become a renowned curator at the Museum of Modern Art, New York, found a kindred spirit in Sullivan and spent five years photographing his buildings. Independently, in fall 1952, Aaron Siskind, a teacher at Chicago\u2019s legendary Institute of Design, began directing a photographic archive of Sullivan buildings in and around Chicago, engaging a team of students eager to participate in what would come to be known as the Sullivan Project. One of these students was Richard Nickel, who ultimately made the photography\u2014and later, as more buildings were slated for demolition, the preservation\u2014of Sullivan\u2019s buildings his lifework. (He died while trying to rescue ornament from Sullivan\u2019s Stock Exchange Building.)\nShowcasing over 60 photographs, 20 Sullivan drawings and sketches, and terracotta and metal architectural fragments, Looking after Louis Sullivan provides a rare opportunity to view Sullivan\u2019s ornament and structures across a variety of media. Together, these photographs, drawings, and fragments reflect a shared concern with the human experience of architecture and the integrity of artistic expression.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-06-19T00:00:00-05:00",
+    "aic_end_at": "2011-12-12T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [
+        32803
+    ],
+    "site_ids": [
+        60
+    ],
+    "image_id": "7a33c160-6352-62f6-027b-a7204ba06369",
+    "alt_image_ids": [
+        "89c828b3-b351-e7dd-0657-3dc15fbb0019",
+        "0452ee32-c08e-e564-f52b-5d23448be17c",
+        "77399bcd-ed1d-5c88-81b5-050d171998b0",
+        "9d0a13ab-4794-1893-f049-6bb869dc9655",
+        "023d06ba-867b-f360-a0b0-af4ed90aca95",
+        "891e6a87-543b-d9a7-cfb7-2543614674c5",
+        "381cf0b4-7730-de9c-fb52-79d6fda4b692",
+        "638773fd-8923-c553-b932-d3c2ca588900",
+        "bc1d9ee6-777a-0661-b477-c0088641ec25",
+        "622f2c51-2372-41dd-bd24-c7668ae34ef3",
+        "c0ac5488-3bbb-4d56-ac5a-823193e9ee74",
+        "c1199c24-34fb-157a-b7dc-817eebbb8fea",
+        "3d703e55-19df-b4ad-c4cc-a442e1c1f9a7",
+        "d5727991-aee6-4099-5ddf-ce9ad4ba531c"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Looking After Louis Sullivan: Photographs, Drawings, and Fragments"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-12-11T19:00:25-06:00",
+    "last_updated": "2021-01-13T23:25:17-06:00",
+    "timestamp": "2021-01-14T17:13:21-06:00"
+}

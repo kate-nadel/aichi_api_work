@@ -1,0 +1,43 @@
+{
+    "id": 492,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/492",
+    "title": "Cy Twombly:  The Natural World, Selected Works 2000-2007",
+    "is_featured": false,
+    "description": "In Twombly\u2019s art, site is intrinsically linked to content. An inveterate traveler, Twombly has always been acutely alert to locales and cultures other than his own. Since his student travels in Europe and North Africa, his sensitivity to site has provided an essential creative impetus. Over the last two decades, the artist has principally divided his time between two locations: Gaeta, a seaside village in his adopted country of Italy; and Lexington, Virginia, his childhood home in the Shenandoah Valley. Describing his experiences in both places, Twombly plainly stated:\nLandscape is one of my favorite things in the world. Any kind of landscape stimulates me. I love the train ride from here [Rome] to Gaeta. In Virginia, I love to ride two or three hours every day, up the back valleys, the back roads, the streams of water there.\nWell known for his still-incendiary paintings of the 1950s and 1960s, Cy Twombly continues to create art in a potently transgressive vein. Included in the exhibition are works in a full range of media made between 2000 and 2007, including an untitled series of seven acrylics with wax, pencil, and collage on paper executed in a floral motif; five sculptures in wood and plaster; seven dry-print photographs examining one of the sculptures in detail ; a selection of paintings from A Gathering of Time and Untitled (\u201cWinter Pictures\u201d); three monumental canvases from the series Blooming: A Scattering of Blossoms and Other Things; and, for the first time in the United States, the three large multipanel paintings that comprise III Notes from Salalah. The scope of this presentation aims to reflect the overarching preoccupations of Twombly\u2019s late style.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2009-05-09T00:00:00-05:00",
+    "aic_end_at": "2009-10-11T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [
+        37052
+    ],
+    "site_ids": [
+        46
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Cy Twombly:  The Natural World, Selected Works 2000-2007"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:48-06:00",
+    "timestamp": "2021-01-14T17:13:08-06:00"
+}

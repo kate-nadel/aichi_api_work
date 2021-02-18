@@ -1,0 +1,39 @@
+{
+    "id": 3197,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3197",
+    "title": "Puppets!",
+    "is_featured": false,
+    "description": "This interactive installation celebrates the art of puppetry by allowing visitors of all ages to explore the movements of shadow, hand, and finger puppets. Using imaginary figures or creatures and characters inspired by artworks in the Art Institute\u2019s collection, novice puppeteers can experiment with ways to create puppets, develop stories, and use sound effects and props in order to create playful, one-of-a-kind performances.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-12-06T00:00:00-06:00",
+    "aic_end_at": "2015-08-16T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Learning & Public Engagement",
+    "gallery_id": 26771,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Puppets!"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:00-06:00",
+    "timestamp": "2021-01-14T17:13:56-06:00"
+}

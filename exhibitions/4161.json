@@ -1,0 +1,39 @@
+{
+    "id": 4161,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4161",
+    "title": "Japanese Decorative Style",
+    "is_featured": false,
+    "description": "This exhibit was originally prepared by Sherman E. Lee, a specialist on East Asian art and the director of the Cleveland Museum of Art, where the exhibit was originally mounted. In this show, Lee considered the chronology of Japanese art, the stylistic elements, and decorative style in Japan over the years. Special attention was given to decorative elements of Buddhist art, and the Heian period.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1961-11-09T00:00:00-06:00",
+    "aic_end_at": "1961-12-17T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "c88de3d8-1647-c194-2eec-f82581b034ce",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Japanese Decorative Style"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T11:40:20-05:00",
+    "last_updated": "2019-10-14T11:41:19-05:00",
+    "timestamp": "2021-01-14T17:14:14-06:00"
+}

@@ -1,0 +1,64 @@
+{
+    "id": 8289,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/8289",
+    "title": "Ellsworth Kelly: The Early Drawings, 1948-1955",
+    "is_featured": false,
+    "description": null,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1999-09-11T00:00:00-05:00",
+    "aic_end_at": "1999-12-05T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "d031553c-7bb6-29c7-1d67-1d2d53952aa0",
+    "alt_image_ids": [
+        "c9925e07-b492-bc18-aa7d-b19312d58de0",
+        "35e1b197-1037-183f-3230-ec43c4399483",
+        "4f16836a-06d8-7246-20b9-422740ce641a",
+        "08d7a258-c69d-30ef-ee91-80cb7d0f2a20",
+        "559c01e7-76dc-2a0b-309e-1a67603ce00e",
+        "a2bbbd6d-3353-9740-de69-818bafa52e89",
+        "277e0997-5acb-2b41-d476-e10c12bc305a",
+        "3cbd5785-34e3-9aea-03e4-e7687970865e",
+        "6bb52645-413c-8d2a-a379-b320c33f2788",
+        "fa32c439-ba9d-48bf-d570-f29f408f4fc2",
+        "3cc53520-929e-052e-10ea-9c706ffa4bba",
+        "5b51f830-5052-6802-ae7f-625f4c547f75",
+        "590ed5b6-f19d-aec4-cab8-3655697f8c17",
+        "0762c5c7-3b9a-c513-c062-5d1a29d220f3",
+        "72607764-b1d7-9fd5-7e1a-c6dfe0499627",
+        "52f520b9-02b5-d9a2-1588-64e9a65960db",
+        "ad06a925-b152-f88c-8d3b-208d430e874a",
+        "11ee1519-0c90-c6d4-3fb5-93432da46d97",
+        "0e81c228-c686-adc6-bef3-63110ee1e27a",
+        "e339d32c-fd04-e92d-5f10-fbd8b1b6a5e7",
+        "0fc479c1-dede-5ded-2958-3dcfe7fce139",
+        "e9e132ad-0e3c-c116-eb75-83f3a0e3fd5a",
+        "7a00bfc3-98ac-9eb5-6ef1-2f4aeb7662ce",
+        "ca29dcf6-d5f4-4b1d-5119-6f8c44db6dfb"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ellsworth Kelly: The Early Drawings, 1948-1955"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-09-25T09:59:34-05:00",
+    "last_updated": "2019-09-25T10:01:16-05:00",
+    "timestamp": "2021-01-14T17:15:45-06:00"
+}

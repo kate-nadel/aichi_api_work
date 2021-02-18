@@ -1,0 +1,41 @@
+{
+    "id": 4124,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4124",
+    "title": "Misch Kohn Retrospective",
+    "is_featured": false,
+    "description": "This exhibit was Misch Kohn\u2019s first retrospective, although he had shown in museums all over the world beforehand. Kohn\u2019s work was largely realized through printmaking, although he played with painting from time to time. In the show, his etchings, lithographs, and wood engravings from over twenty years or work were put on view. At the time of the exhibit, Kohn was an associate professor of Industrial Design at the Illinois Institute of Technology.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1961-01-20T00:00:00-06:00",
+    "aic_end_at": "1961-02-26T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "54c1ecd7-3a09-67dd-37f1-d932ca41f97b"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Misch Kohn Retrospective"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T11:17:38-05:00",
+    "last_updated": "2019-10-14T11:21:19-05:00",
+    "timestamp": "2021-01-14T17:14:14-06:00"
+}

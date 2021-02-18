@@ -1,0 +1,39 @@
+{
+    "id": 261,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/261",
+    "title": "Harry Callahan:  The Photographer at Work",
+    "is_featured": false,
+    "description": "One of the most important American photographers of the 20th century, Harry Callahan holds particular significance for Chicago, where he made some of his most influential work. This exhibition will present Callahan's key images, focusing on his intuitive and experimental methods. Featuring more than 125 prints and archival materials drawn from the Harry Callahan Archive at the Center for Creative Photography, it will show museum prints as well as unpublished variants, contact sheets, proof prints, and negatives. Witnessing Callahan's decision-making process and comparing different treatments of his favorite subjects in this exhibition, we can see his artistic achievement in a new light.\n\nCatalogue\nReproducing a host of previously unpublished images and documents, the accompanying catalogue juxtaposes select artifacts with final image to explicate Callahan's photographic accomplishments. The 192-page book will be available in the Museum Shop in late April.\n\nOrganizer\nThis exhibition is organized by the Center for Creative Photography, University of Arizona.\n\nCurator\nBritt Salvesen, Center for Creative Photography. The Chicago presentation is curated by Elizabeth Siegel, assistant curator of photography, Art Institute of Chicago\n\nSponsor\nThis exhibition is supported by the National Endowment for the Arts. The Chicago presentation is generously supported by The Comer Foundation, and the Black Dog Fund.",
+    "short_description": "One of the most important American photographers of the 20th century, Harry Callahan holds particular significance for Chicago, where he made some of his most influential work.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/261/harry-callahan-the-photographer-at-work",
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2006-06-22T00:00:00-05:00",
+    "aic_end_at": "2006-09-24T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Harry Callahan:  The Photographer at Work"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:38-06:00",
+    "timestamp": "2021-01-14T17:12:57-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 7517,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7517",
+    "title": "Certain Places: Photographs by William Clift",
+    "is_featured": false,
+    "description": "The first major museum exhibition for the Santa Fe-based photographer, this show displayed 80 of Clift's black-and-white platinum palladium prints. The photographs, taken from the late 1960s through 1986, showcased the artist's diverse body of work, including portraits as well as Southwest landscapes, sculptures, and architectural interiors.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1987-04-23T00:00:00-05:00",
+    "aic_end_at": "1987-06-21T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Certain Places: Photographs by William Clift"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-03-31T18:06:50-05:00",
+    "last_updated": "2020-03-31T18:10:46-05:00",
+    "timestamp": "2021-01-14T17:15:23-06:00"
+}

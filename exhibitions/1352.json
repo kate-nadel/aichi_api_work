@@ -1,0 +1,39 @@
+{
+    "id": 1352,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1352",
+    "title": "Artful Alphabets: Five Picture Book Artists",
+    "is_featured": false,
+    "description": "How do your children see the ABCs? Illustrator Mordicai Gerstein sees sculptural letters formed out of creatures. Chris Raschka portrays a man and his cat in an alphabet adventure. Mary Thelen\u2019s colorful pictures of shapes and lines illustrate a toe-tapping text, while Stacy Innerst explores the world of music from A to Z in paintings on board and tin. Hand-colored woodblock prints by Mary Azarian explore the garden theme and expand vocabulary with word and picture. All of these artists prove that are as many artful ways to illustrate the ABCs as there are ways to see the world.\n\nAn entire alphabet soup of drawings, paintings, prints, and collages is on view in the Vitale Family Room in the Ryan Education Center. Along with these original illustrations are a variety of ABC books for you to share with your child. Get inspired and design your own alphabet letters, or fire up your imaginations and see how many letters you can find in the world around you.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-06-11T00:00:00-05:00",
+    "aic_end_at": "2011-11-06T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Learning & Public Engagement",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Artful Alphabets: Five Picture Book Artists"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:15-06:00",
+    "timestamp": "2021-01-14T17:13:22-06:00"
+}

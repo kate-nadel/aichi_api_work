@@ -1,0 +1,39 @@
+{
+    "id": 9107,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9107",
+    "title": "Pure Drawing: Seven Centuries of Art from the Gray Collection",
+    "is_featured": false,
+    "description": null,
+    "short_description": "<p>A collection of extraordinary breadth and quality tells the medium\u2019s history.</p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9107/pure-drawing-seven-centuries-of-art-from-the-gray-collection",
+    "image_url": "https://artic-web.imgix.net/nullnullnullnullnullaab089fe-0ac5-49d9-9fad-069d396d1fa0/IM039741-int_web.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=11%2C253%2C1263%2C709",
+    "type": "AIC & Other Venues",
+    "status": "Confirmed",
+    "aic_start_at": "2020-01-25T00:00:00-06:00",
+    "aic_end_at": "2020-10-12T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pure Drawing: Seven Centuries of Art from the Gray Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2021-01-11T16:19:37-06:00",
+    "last_updated": "2021-01-13T23:23:29-06:00",
+    "timestamp": "2021-01-14T17:16:06-06:00"
+}

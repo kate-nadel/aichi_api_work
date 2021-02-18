@@ -1,0 +1,39 @@
+{
+    "id": 2084,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2084",
+    "title": "Jean-Luc Mylayne: Mutual Regard",
+    "is_featured": false,
+    "description": "This spring the Art Institute of Chicago joins forces with The Arts Club of Chicago to host a pair of exhibitions featuring the work of Jean-Luc Mylayne (French, born 1946). The shows unite inside and outside, nature and culture, and bring together again two Chicago institutions that have deep historical ties. Further connecting the twin exhibitions is a third element, a public building in Millennium Park\u2019s Lurie Garden featuring a 30-foot-long photographic fresco covering its entire ceiling.\n\nMylayne has devoted four decades to working with common birds as \u201cactors\u201d in a profound investigation of aesthetics and community. The photographs, typically printed at grand dimensions, are each unique and can take months to prepare. Week after week, at a precise place, in a chosen season, Mylayne and his life partner, Myl\u00e8ne Mylayne, set up cumbersome camera equipment and wait until one or more of the individual birds he has previously identified\u2014and who often seem to recognize him in turn\u2014come to occupy the position he had imagined in his picture. \n\nThe Millennium Park building, designed by Chicago architects Dan Wheeler and Joy Meek, is free and open to the public daily 11:00\u20137:00 throughout the exhibition. Calm and hushed, it is a windowless chapel that offers the miraculous image of a solitary sparrow, apparently perched just above our heads, at the exact corner of a square roof under a brilliant, cloudless sky. The bird is doing something nearly inconceivable: allowing a potential predator to approach from underneath. And visitors have the chance to do something rare enough in our times: transcend our self-imposed barriers to join freely with an Other.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2015-05-21T00:00:00-05:00",
+    "aic_end_at": "2015-08-23T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 25210,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jean-Luc Mylayne: Mutual Regard"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:05-06:00",
+    "timestamp": "2021-01-14T17:13:35-06:00"
+}

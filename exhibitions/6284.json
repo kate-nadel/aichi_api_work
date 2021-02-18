@@ -1,0 +1,39 @@
+{
+    "id": 6284,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6284",
+    "title": "Masterpiece of the Month: Doorway from Mollington Hall, Cheshire, England, XVIII C.",
+    "is_featured": false,
+    "description": "During June 1939, a Doorway from the Howard van Doren Memorial Collection was featured as Masterpiece of the Month. It was originally part of a 1756 Georgian Mansion called Mollington Hall from Cheshire, England. According to the newsletter announcing its exhibition, the doorway was made of \u201cdeal or pine, with carvings of scrolls, flowers, conventional ornaments, eagle heads and shells\u201d and had \u201cancones or scroll shaped brackets which [supported] the entablature over the aperture.\u201d",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1939-06-01T00:00:00-05:00",
+    "aic_end_at": "1939-06-30T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Masterpiece of the Month: Doorway from Mollington Hall, Cheshire, England, XVIII C."
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T12:01:08-05:00",
+    "last_updated": "2019-10-15T12:01:22-05:00",
+    "timestamp": "2021-01-14T17:14:55-06:00"
+}

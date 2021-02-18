@@ -1,0 +1,39 @@
+{
+    "id": 2259,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2259",
+    "title": "Spreading Devotion: Japanese and European Religious Prints",
+    "is_featured": false,
+    "description": "Both in the East and in the West, religious images and texts were made readily accessible and understandable to wider audiences through the medium of print. In East Asia, religious instruction grew hand in hand with printing from the eighth century on; illustrated Buddhist sutra texts still survive from these early days. In Europe, it was not until the 1450s that the first book was printed in metal movable type, but notably that book was the Gutenberg Bible. This exhibition, a first-of-its-kind collaboration between the departments of Prints and Drawings and Asian Art, brings together works from both collections to explore the rich printed traditions\nthat were fostered by devotional practices.\n\nBeyond the Gutenberg Bible, printing revolutionized Western religious customs, with broadsides and pamphlets flourishing by the thousands. Even illiterate audiences understood didactic images, and woodblocks were printed cheaply alongside reusable metal type. Collectible prints of haloed patron saints could be acquired at pilgrimage sites and devoutly touched to the saint\u2019s remains, or assembled into wall decorations structured like altarpieces. Prints even allowed the armchair reader a sense of being physically present in far-off places mentioned in the Bible as exemplified in the exhibition by a panoramic woodcut of Jerusalem that served as the culminating illustration of a 1486 book about pilgrimage to the Holy Land.\n\nIn Japan, prints were used in a parallel fashion to spread Buddhist teachings. Among the works featured in the exhibition are one of a million small eighth-century wood pagodas containing a printed prayer for peace, a set of large-scale woodblock-printed and hand-painted images of deities for use in temple ceremonies, and examples of charms acquired by pilgrims at various temple sites. The latter exemplifies how Christianity and Buddhism brought about similar social practices, despite their many differences in thought.\n\nFittingly this coming-together of Eastern and Western prints is presented in the Clarence Buckingham Gallery for Japanese Prints. One of the museum\u2019s earliest and most important donors, Buckingham collected both Old Master and Japanese prints, and examples of each are on display in this unique presentation.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-04-04T00:00:00-05:00",
+    "aic_end_at": "2015-06-21T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Spreading Devotion: Japanese and European Religious Prints"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:04-06:00",
+    "timestamp": "2021-01-14T17:13:38-06:00"
+}

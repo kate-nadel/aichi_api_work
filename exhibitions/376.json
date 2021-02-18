@@ -1,0 +1,56 @@
+{
+    "id": 376,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/376",
+    "title": "Young Chicago: Department of Architecture and Design Looks at Avant-Garde Designers",
+    "is_featured": false,
+    "description": "Since the early 20th century, Chicago has continually fostered young design talents and established itself as a pivotal center for the arts. To celebrate this historical lineage of design and the 25th anniversary of the Department of Architecture\u2019s founding, Young Chicago looks at the community\u2019s diverse body of contemporary designers\u2014who are not yet represented in the collection\u2014to showcase the city\u2019s ever-growing talents in architecture, industrial design, graphic design, and fashion. In the coming year, works from these studios will become part of the collection in keeping with the newly expanded mission of the renamed Department of Architecture and Design.\n\nFeatured designers and studios are: Qua\u2019Virarch, UrbanLab, Clare Lyster Studio, 3D Design Studio, Avram Lothan/DeStefano + Partners, John Ronan Architect, Ross Wimer/SOM, Jordan Mozer and Associates, Holly Hunt, Motorola, IDEO, Studio Blue, JNL Design, Fold Four, Nick Cave, and Cat Chow. The studios selected represent a small sampling of the ideologies\u2014from digital literacy and conceptual methodologies to contextualism, brand legacy, and cultural identity\u2014that are global in scope and emblematic of a twenty-first-century Chicago.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2006-11-16T00:00:00-06:00",
+    "aic_end_at": "2007-04-29T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 2147476836,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "511c5c42-4999-73dc-ec20-21d908bffc8d",
+    "alt_image_ids": [
+        "50d879ca-e34d-dfd5-f487-6679f7894f02",
+        "2153b5c7-ab4a-f783-aae0-d99c38bff9bf",
+        "a0b3c405-3685-ff0f-2d58-ed7503c8e15c",
+        "b7941dcc-6f41-d20b-5417-bd3584389d11",
+        "17accbc6-8732-7a63-1aac-2c3f6321a68f",
+        "7e45fab7-9011-f3f3-164d-9d250bb9c9ac",
+        "aab0ccda-03f0-2669-0ef9-1aad19caee5b",
+        "1e436452-d8a9-fd72-d68e-bdc063af870d",
+        "fe4b35d4-cf44-d244-e627-e78cc07d2e6e",
+        "c19158b8-160e-f80f-22a5-6457bd93125c",
+        "92cd37ea-dd04-4398-7762-3709928b84b2",
+        "f6d207c5-6beb-1ed4-6adb-7f8f6abb6a10",
+        "62b14258-d524-aeb8-5753-c4bfa20a8e71",
+        "ac5f19e8-2c50-2a4e-5825-73f78fec5592",
+        "cf8075e4-b352-e2cd-90ad-700ef299e080",
+        "2c4f2f6d-cdc5-cbcd-5a48-a9ba745bd902"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Young Chicago: Department of Architecture and Design Looks at Avant-Garde Designers"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:54-06:00",
+    "timestamp": "2021-01-14T17:12:59-06:00"
+}

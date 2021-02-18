@@ -1,0 +1,39 @@
+{
+    "id": 6298,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6298",
+    "title": "The Masterpiece of the Month: Persian Figural Velvet of the Shah Abbas Period, gift of John R. Thompson",
+    "is_featured": false,
+    "description": "During September 1939, a textile from the Safavid period under the reign of Shah Abbas was featured as Masterpiece of the Month. The reign of Shah Abbas took place between 1587 to 1629. According to the newsletter announcing its exhibition, the work is attributed to \u201cthe great court painter, [Reza Abbasi]\u201d who \u201cdominated the pictorial style of all of the art of this time\u201d. It goes on to describe that the velvet \u201cwas probably part of a wall covering, for the rooms of palaces were hung with gorgeous textiles and even tents of the Sultans were lined with magnificent fabrics.\u201d",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1939-09-01T00:00:00-05:00",
+    "aic_end_at": "1939-09-30T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Masterpiece of the Month: Persian Figural Velvet of the Shah Abbas Period, gift of John R. Thompson"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T12:14:48-05:00",
+    "last_updated": "2019-10-15T12:16:17-05:00",
+    "timestamp": "2021-01-14T17:14:55-06:00"
+}

@@ -1,0 +1,41 @@
+{
+    "id": 7507,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7507",
+    "title": "H.C. Westermann: Selections from the Dorothy and Alan Press Collection",
+    "is_featured": false,
+    "description": "This 30-object exhibition, featuring artworks selected by curator Nela Benezra from the collection of Chicago art collectors Dorothy and Alan Press, showed 18 of Westermann's sculptures with 12 works on paper. Ranging in date from 1955 to 1981, the exhibition demonstrated the range in Westermann's subject matter and style.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1987-03-13T00:00:00-06:00",
+    "aic_end_at": "1987-05-17T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "8c8a8c59-84c0-de04-9de9-c4d414148394"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "H.C. Westermann: Selections from the Dorothy and Alan Press Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-12-31T15:20:58-06:00",
+    "last_updated": "2020-01-08T01:43:08-06:00",
+    "timestamp": "2021-01-14T17:15:23-06:00"
+}

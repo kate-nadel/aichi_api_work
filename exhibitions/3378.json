@@ -1,0 +1,39 @@
+{
+    "id": 3378,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3378",
+    "title": "Rodney McMillian: a great society",
+    "is_featured": false,
+    "description": "Rodney McMillian\u2019s work grapples with the complexities of class, race, and place in America across a wide range of media. His video narratives explore events and figures who tend to be omitted from conventional historical accounts. Employing elements of performance, public speaking, and oral history, McMillian exposes the social and psychological consequences of economic inequality, the racism endemic to America\u2019s political and institutional landscape, and the failed promise of freedom and prosperity for all of its citizens. Importantly, he has also spoken of\u2014and in certain works explicitly demonstrated\u2014a personal interest in the genre of science fiction: while his work engages the often stark realities of history and contemporary culture, it is motivated by the potential for alternative realities and future transformation. The three recent acquisitions on view represent the last decade of the artist\u2019s work in video.\n\nIn Untitled (The Great Society) I, McMillian not only stages a performance himself reciting President Lyndon B. Johnson\u2019s 1964 commencement speech at the University of Michigan, but also occupies it as a black man. In doing so, he raises questions about how history and politics are themselves consistently\u2014and repeatedly\u2014performed. In A Migration Tale, an unrecognizable (or unnamable) character clad in a silver Ultraman mask and floor-length black cassock travels on foot and via subway. McMillian references the \u201cGreat Migration,\u201d during which thousands of African Americans left the rampant racism of the South for the promise of a better life in northern states, makes a condensed version of this northward journey, in the guise of an anonymous, ominous, and absurd character who goes unnoticed by those he encounters. Preacher Man grapples with questions of religion and the fight for racial equality in the United States. Dressed in a traditional black suit and tie and wearing a hat, McMillian sits formally on a chair in an empty field cast in shadow and recites words of the once Chicago-based experimental jazz composer and musician Sun Ra.",
+    "short_description": "Three recently acquired videos by artist Rodney McMillian (born 1969) represent the last decade of the artist\u2019s work, exploring themes of class, gender, race, social history, and culture.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3378/rodney-mcmillian-a-great-society",
+    "image_url": "https://artic-web.imgix.net/42dbf88b-a814-40e3-bba9-0fe0b28dab5a/exh_mcmillian_main_1_480_2.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=5%2C77%2C463%2C260",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2017-01-12T00:00:00-06:00",
+    "aic_end_at": "2017-03-26T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25208,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rodney McMillian: a great society"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:11-06:00",
+    "timestamp": "2021-01-14T17:14:00-06:00"
+}

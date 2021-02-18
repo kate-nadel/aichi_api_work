@@ -1,0 +1,39 @@
+{
+    "id": 4181,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4181",
+    "title": "Tiepolo Drawings from the Victoria and Albert Museum",
+    "is_featured": false,
+    "description": "This exhibit boasted several drawings of Giovanni Battista Tiepolo, an Italian painter who was widely known for his Baroque-era paintings. The Victoria and Albert Museum in London purchased several of his drawings at the beginning of the 20th century for mere pennies, with their worth increasing exponentially as the century went by. When this exhibit was mounted, it offered a new chronology of his work spanning the length of his career from 1725 when he rendered a study of a painting in a Venetian Palace, onward to 1766 when he was designing several frescoes for the Royal Palace in Madrid. The exhibit held over 100 drawings and was organized by the Smithsonian Institution\u2019s Traveling Exhibition Service.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1962-03-16T00:00:00-06:00",
+    "aic_end_at": "1962-04-15T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Tiepolo Drawings from the Victoria and Albert Museum"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T11:52:14-05:00",
+    "last_updated": "2019-10-14T11:56:32-05:00",
+    "timestamp": "2021-01-14T17:14:15-06:00"
+}

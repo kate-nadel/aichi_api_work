@@ -1,0 +1,39 @@
+{
+    "id": 2343,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2343",
+    "title": "Deana Lawson\u2014Ruttenberg Contemporary Photography Series",
+    "is_featured": false,
+    "description": "The first installment of the biennial Ruttenberg Contemporary Photography Series features the work of New York\u2013based photographer Deana Lawson. For nearly a decade, Lawson has been investigating the visual expression of global black culture and how individuals claim their identities within it. Through their look and presence, the subjects of Lawson\u2019s posed photographs channel broader ideas about personal and social histories, sexuality, status, and spiritual beliefs.\n\nLawson began her work in and around her Brooklyn neighborhood but has recently branched out nationally and internationally to places such as Louisiana, Haiti, Jamaica, Ethiopia, and the Democratic Republic of the Congo. While her themes have remained consistent, her landscapes have shifted and broadened\u2014the global scope of the pictures, in her words, \u201cconcern and affirm the sacred black body\u201d and speak to a collective psychic memory of shared experiences.\n\nLawson begins her process by researching the communities she chooses for their cultural histories. Once on site, strangers she meets through chance encounters become her subjects, often following lengthy conversations and repeated visits. In recent years she has turned to a documentary style and has begun presenting found imagery as well, both moves that complicate how identity is projected and understood. While Lawson\u2019s images have a strong sense of the present, they also engage in a dialogue with various cultural histories and carry implications for the future of black culture.\n\nSponsors\nThe Ruttenberg Contemporary Photography Series is generously supported by the David C. and Sarajean Ruttenberg Arts Foundation.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-09-05T00:00:00-05:00",
+    "aic_end_at": "2016-01-10T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 25210,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Deana Lawson\u2014Ruttenberg Contemporary Photography Series"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-04-10T13:05:15-05:00",
+    "last_updated": "2021-01-13T23:24:00-06:00",
+    "timestamp": "2021-01-14T17:13:39-06:00"
+}

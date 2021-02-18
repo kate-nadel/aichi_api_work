@@ -1,0 +1,39 @@
+{
+    "id": 9244,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9244",
+    "title": "Rembrandt Portraits",
+    "is_featured": false,
+    "description": null,
+    "short_description": "<p>Two rarely loaned works from the Norton Simon Museum, a spectacular self-portrait and Portrait of a Boy, join the museum\u2019s iconic Rembrandt paintings for a focused look at the artist\u2019s fluid approach to portraiture.</p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9244/rembrandt-portraits",
+    "image_url": "https://artic-web.imgix.net/83ff18ac-28c6-49a5-af83-df4c305a267f/F196918P.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C518%2C3047%2C1715",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2019-03-03T00:00:00-06:00",
+    "aic_end_at": "2019-06-09T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": 2147483623,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rembrandt Portraits"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-06-25T09:25:32-05:00",
+    "last_updated": "2021-01-13T23:23:53-06:00",
+    "timestamp": "2021-01-14T17:16:08-06:00"
+}

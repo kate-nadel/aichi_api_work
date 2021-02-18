@@ -1,0 +1,39 @@
+{
+    "id": 1839,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1839",
+    "title": "Amar Kanwar: The Lightning Testimonies",
+    "is_featured": false,
+    "description": "For more than a decade, the film and video works of artist Amar Kanwar have addressed the political, economic, and cultural structures of contemporary Indian life, with a particular focus on abuses of power and strategies of resistance. Based in New Delhi, Kanwar employs a sophisticated cinematic vocabulary to narrate both individual and collective experiences. Exhibited as film and as multichannel projected installations, Kanwar\u2019s poetic visual essays combine memory, literature, and history to expose social injustice and create spaces of transformative contemplation. \n\nThe Lightning Testimonies is a disturbing eight-channel video installation exploring the often repressed, always sensitive, and newly urgent subject of sexual violence against women on the Indian subcontinent. The work is a complex montage of simultaneous accounts, with stories ranging from wide-scale abduction and rape during the partition of India in 1947 to the powerful anti-rape protests in Manipur in 2004. Each projection features a different woman recounting a multilayered memory of trauma and resilience. Throughout the piece, Kanwar explores the many ways in which narratives of sexual violence are enmeshed within Indian social and political conflicts. The endeavor was created, in part, to break through the zones of self-imposed and communally enforced silence surrounding the issue in India, in both public and private realms. Importantly, Kanwar has chosen to present the work both as a multichannel installation in art-world settings and as a continuous film in educational and activist contexts.\n\nThe objectivity of Kanwar\u2019s documentary approach is modified by his own presence in the films. Through voice-over and first-person commentary, the artist insists on his own place within the larger discourse, introducing an empathic and passionate presence into a discussion that is epic in scale and national in consequence.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-09-14T00:00:00-05:00",
+    "aic_end_at": "2014-02-12T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25468,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Amar Kanwar: The Lightning Testimonies"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:01-06:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

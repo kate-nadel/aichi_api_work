@@ -1,0 +1,39 @@
+{
+    "id": 1558,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1558",
+    "title": "Dawoud Bey: Harlem U.S.A.",
+    "is_featured": false,
+    "description": "In 1979 African American photographer Dawoud Bey (born 1953) held his first solo exhibition at the Studio Museum in Harlem, showing a suite of 25 photographs titled Harlem, U.S.A. Bey had been in residence at that museum for one year, and he had made the surrounding neighborhood a subject of study since 1975. Though raised in Queens, Bey and his family had roots in Harlem, and it was a youthful visit to the exhibition Harlem on My Mindat the Metropolitan Museum of Art in 1969, that had given Bey his determination to become an artist.\n\nHarlem, U.S.A., which has never been shown complete since the Studio Museum exhibition, appears fresh today partly in its manifest difference from much of Bey\u2019s later work. The prints are not large, not in color, and do not come in multiple parts; the subjects are not all adolescents, and they do not \u201csit\u201d for the artist but were found by him on the street. And yet all these photographs are sensitively composed and radiate an emphasis on the calm and dignity that would become hallmarks of Bey\u2019s approach. Like August Sander, Bey wanted to show the \u201ctypes\u201d of Harlem\u2019s residents: the barber, the patrician, the church ladies, the hip youth. He was searching for a way to combine the specificity of photography, which only knows how to record details, with the diversity of Harlem, a neighborhood as varied as any in the country. And he wanted to do this without courting stereotypes. \n\nThanks to the efforts of more than 20 patrons, led by Leadership Advisory Committee members Anita Blanchard and Les Coney, the complete vintage set of Harlem, U.S.A. has been acquired by the Art Institute. A further five photographs from that time, never before printed or exhibited, will be donated by Bey to the museum this fall. Complementing this exhibition are a selection of permanent collection works in Gallery 10 curated by Bey as well as a career survey of Bey\u2019s work presented at the Renaissance Society at the University of Chicago from May 13 through June 24.\n\nDawoud Bey is a professor of art and was named Distinguished College Artist at Columbia College Chicago, where he has taught since 1998. Bey studied at the School of Visual Arts in New York and holds an MFA in photography from Yale University. His work has been the subject of a retrospective exhibition at the Walker Art Center (1995) and a four-year traveling exhibition, called Class Pictures, mounted by Aperture and first shown in 2007 at the Addison Gallery of American Art. \n\nCatalogue\nA catalogue accompanies the exhibition with images of the entire photographic series and essays by Matthew S. Witkovsky, Richard and Ellen Sandor Chair and Curator, Department of Photography, and Sharifa Rhodes-Pitts, author of the monograph Harlem Is Nowhere.\n\nSponsor\nFunding for this exhibition and catalogue is provided by the Leadership Advisory Committee of the Art Institute of Chicago.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-05-12T00:00:00-05:00",
+    "aic_end_at": "2012-09-09T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 24317,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Dawoud Bey: Harlem U.S.A."
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:33-06:00",
+    "timestamp": "2021-01-14T17:13:24-06:00"
+}

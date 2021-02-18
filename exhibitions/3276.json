@@ -1,0 +1,39 @@
+{
+    "id": 3276,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3276",
+    "title": "The Picasso Effect",
+    "is_featured": false,
+    "description": "While some of our iconic canvases by Picasso move from their home in the Modern Wing to the special exhibition in Regenstein Hall, we are thrilled to welcome two masterpieces by the artist from the Philadelphia Museum of Art: Picasso\u2019s emblematic Self-Portrait (1906) and his monumental Three Musicians (1921). Both works, presented within the museum\u2019s permanent collection of European modern art, will offer fresh and exciting new dialogues. A third painting from Philadelphia, Old Woman with Gloves (1901), once owned by legendary Chicago collector Arthur Jerome Eddy, will be included in Picasso and Chicago.",
+    "short_description": "A museum-wide celebration of Pablo Picasso's legacy and influences",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3276/the-picasso-effect",
+    "image_url": "https://artic-web.imgix.net/migrated-505d621b6932f635a365e121e2f361a3/Picasso-Image.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": null,
+    "aic_end_at": null,
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Picasso Effect"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:02-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

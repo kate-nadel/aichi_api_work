@@ -1,0 +1,39 @@
+{
+    "id": 3288,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3288",
+    "title": "Holiday Thorne Rooms",
+    "is_featured": false,
+    "description": "Once again the Thorne Miniature Rooms take center stage for the holiday season. Featured last year on NBC\u2019s Today show and one of the Art Institute\u2019s most popular attractions, these absorbing period rooms don specially made holiday finery that showcases historical traditions and offers a window into seasonal festivities of the past. New to the decorating tradition this year is the Pennsylvania Dutch (German) room. And, for the first time in 50 years, an original German Rococo room will be displayed.\n\nNine other rooms continue the beloved decorating tradition. Among the most elaborate is the English Drawing Room of the Victorian Period, the only room with a Christmas tree. Now a ubiquitous feature of the season, the Christmas tree or tannenbaum, was only brought to England from Germany in 1840 with the marriage of Prince Albert to Queen Victoria. The Thorne Room tree and accoutrements are based on a famous engraving of the royal couple and their children surrounding a trimmed and toy-bedecked tree, an image that would forever popularize this holiday fixture. Other ornamented rooms include the English Great Hall of the Tudor period with a wassailing bowl, yule log, and an essential part of the costuming for that period\u2019s singing-dancing revelers\u2014a mummer\u2019s mask; the Virginia Entrance Hall with mistletoe, wreath, and garland; the French Provincial Bedroom with shoes, or sabots, lined up before the fireplace, a cr\u00e8che, and puzzle; the modern-era California Hallway with an Otto Natzler mid-century menorah and box with a dreidel; the traditional Chinese interior set to ring in the Chinese New Year; and the New Orleans and New Mexico rooms filled with regional treats of the season.\n\nShare in the delight of these tiny treasures at the museum and enjoy them online with Game of Thornes, a maze of miniature proportions!",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2012-11-23T00:00:00-06:00",
+    "aic_end_at": "2013-01-06T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "European Decorative Arts",
+    "gallery_id": 2147477257,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Holiday Thorne Rooms"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:09-06:00",
+    "timestamp": "2021-01-14T17:13:58-06:00"
+}

@@ -1,0 +1,50 @@
+{
+    "id": 7630,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7630",
+    "title": "Impressionist and Post-Impressionist Masterpieces: The Courtauld Collection",
+    "is_featured": false,
+    "description": "This traveling exhibition was the first major exhibition from the Courtauld to ever travel to the United States.  Focusing on the collection of works acquired by Samuel Courtauld between 1922 and 1937, the 48 paintings exhibited in the show included works by Manet, Degas, Renoir, Gauguin, Van Gogh, 9 paintings by Cezanne, and 8 paintings by Seurat. In addition to the Art Institute of Chicago, this exhibition traveled to the Cleveland Museum of Art, the Metropolitan Museum of Art, the Kimbell Art Museum and the Nelson-Atkins Museum of Art.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "1987-10-17T00:00:00-05:00",
+    "aic_end_at": "1988-01-03T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "b06da66b-d985-03e4-8859-60efae5aad7e",
+    "alt_image_ids": [
+        "fd183bc6-7301-ed06-65f2-f6c4d99cac73",
+        "031728bb-b031-70a7-70d9-4752e86d73eb",
+        "a9f34857-0a2e-f114-7b61-f373c7992d0f",
+        "5c16737e-a2d1-7abe-3e55-7910cc1965e7",
+        "2970980a-c93e-6217-392e-e9c35778ee50",
+        "c631fc0e-2cbb-0ba5-309a-b6c256599e43",
+        "45ad9298-c765-9a3e-fe5f-587f27c45d69",
+        "d0fb6df9-ab6d-3960-1ddb-3b53135b604c",
+        "31dc9d19-23e5-9d8f-8e20-a487a6cc0e76",
+        "51428f05-fb36-ccee-d878-9adbccec844d"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Impressionist and Post-Impressionist Masterpieces: The Courtauld Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-12-31T15:48:02-06:00",
+    "last_updated": "2020-01-08T01:43:08-06:00",
+    "timestamp": "2021-01-14T17:15:25-06:00"
+}

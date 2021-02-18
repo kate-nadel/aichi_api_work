@@ -1,0 +1,39 @@
+{
+    "id": 3227,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3227",
+    "title": "Isaac Julien: The Long Road to Mazatl\u00e1n",
+    "is_featured": false,
+    "description": "One of England\u2019s most important artists and independent filmmakers, and a founder of the pioneering Sankofa Film and Video Collective (1983\u201392), Isaac Julien creates highly seductive films and video installations that explore the representation of race and masculinity in visual culture.\n\nConflating conventional cinematic structure with avant-garde techniques, Julien subverts stereotypical portrayals of black and gay subjects, forcing viewers to question accepted representational archetypes. Produced collaboratively with Venezuela-born choreographer Javier De Frutos, The Long Road to Mazatl\u00e1n is a modern cowboy story. Shot in and around San Antonio, Texas, the film captures the erotically charged interchanges between a young Hispanic man and the emotionally unavailable cowboy he pursues. Shot in lush color and layered imagery, the protagonists play out, as actors and at times as dancers, the subtle drama of the everyday, performing within carefully constructed environments. Through selected editing and the use of a three-screen installation, the artist composes a mise-en-sc\u00e8ne that explores the social construction of masculinity within the mythic landscape of the American West.\n\nThe Long Road to Mazatl\u00e1n was originally commissioned by Artpace San Antonio.",
+    "short_description": "This film by Isaac Julien, one of England\u2019s most important artists and independent filmmakers, explores the social construction of masculinity within the mythic landscape of the American West.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3227/isaac-julien-the-long-road-to-mazatlan",
+    "image_url": "https://artic-web.imgix.net/01b8e074-6420-4999-a0e8-d5b9c3c71385/default-1.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C249%2C2999%2C1687",
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2013-07-26T00:00:00-05:00",
+    "aic_end_at": "2014-04-13T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25208,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Isaac Julien: The Long Road to Mazatl\u00e1n"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:39-06:00",
+    "timestamp": "2021-01-14T17:13:56-06:00"
+}

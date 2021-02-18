@@ -1,0 +1,39 @@
+{
+    "id": 3173,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3173",
+    "title": "Contemporary Fiber Art: A Selection from the Permanent Collection",
+    "is_featured": false,
+    "description": "The inaugural exhibition of the soon-to-be reopened Elizabeth F. Cheney and Agnes Allerton Textile Galleries, Contemporary Fiber Art: A Selection from the Permanent Collection explores how fiber art has developed as an art form from the middle of the 20th century through today. During the 1950s, as a battle was waged against the hieratical distinctions between art mediums and \u201chigh\u201d and \u201clow\u201d art, more and more artists began to incorporate fibrous materials and textile techniques in their works. The flexibility and variability of the medium encouraged artists to explore the potential of different fibers and methods, and, by the 1960s, fiber art had entered the international stage.\n\nContemporary Fiber Art charts this exciting trajectory with 61 works by 52 artists including Magdalena Abakanowicz, Peter Collingwood, Lissy Funk, and Jolanta Owidzka as well as artists with strong Chicago ties such as Lenore Tawney and Claire Zeisler, who both studied under Alexander Archipenko at the Illinois Institute of Technology. For almost 50 years, the Art Institute has proudly embraced fiber art by offering exhibitions such as Woven Forms featuring Lenore Tawney in 1962 and Jan Groth\u2019s tapestries and drawings in 1973. At the same time, the museum\u2019s fiber art collection has grown extensively since acquiring the works of Claire Zeisler and Sheila Hicks in the 1960s.\n\nContemporary Fiber Art: A Selection from the Permanent Collection showcases both an art form and a collection that have flourished with works of woven and non-woven structures (e.g., tapestry weave versus knotting and macram\u00e9), using traditional (cotton and wool) and non-traditional fibers (sisal, jute and metal).",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-11-03T00:00:00-05:00",
+    "aic_end_at": "2011-05-09T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Textiles",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Contemporary Fiber Art: A Selection from the Permanent Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:17-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

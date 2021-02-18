@@ -1,0 +1,39 @@
+{
+    "id": 2640,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2640",
+    "title": "Go: The Modern Series, Part II",
+    "is_featured": false,
+    "description": "Speed is both a product of modern life and an agent of it. In the late 19th century and through the 20th, new technologies of mobility and transmission\u2014trains, cars, airplanes, radio, film, television, to name only a few\u2014increased the pace of life, collapsing distances between people and places and assaulting the senses. Intense new physical sensations and visual phenomena meant that speed could be experienced as either euphoric or terrifying; in our sightlines speed vibrates with a zoom, rush, blur, and crash. At the same time, the urge to document speed led to slow-motion or stop-motion, new visual conventions of freezing time. \n\nGo, the second exhibition in the Art Institute\u2019s Modern Series, explores how artists responded to different ways of experiencing and seeing the world in the accelerated modern age. The show offers a range of sensory encounters: slow down and consider how a photographer\u2019s blur might correspond to the efficient contours of a streamlined chair. Does a spinning gear buzz in the same way as an optical pattern? Do swiftly scribbled gestures in paint and the fuzz of a staticky screen exist on the same continuum of hyper-stimulation? Where is the line between stop-motion and suspension, between capturing what the eye cannot see on its own and the illusion of stillness the experience of great speed can produce? \n\nThrough paintings, sculpture, works on paper, photographs, designed objects, textiles, books, and films, Go reveals not only how speed has been celebrated but also how it has been managed and resisted. Thus, as a title, Go summons both the initiation of movement\u2014a launch\u2014and a kind of ongoingness.\n\nAbout The Modern Series\nA quintessentially modern city, Chicago has been known as a place for modern art for over a century, and the Art Institute of Chicago has been central to this history. The Modern Series exhibitions are designed to bring together the museum\u2019s acclaimed holdings of modern art across all media, display them in fresh and innovative ways within new intellectual contexts, and demonstrate the continued vitality and relevance of modern art today.",
+    "short_description": "The second installment of \"The Modern Series\" examines how artists across disciplines have responded to the increased speed of life from the late 19th through the mid-20th century.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2640/go-the-modern-series-part-ii",
+    "image_url": "https://artic-web.imgix.net/1537c07f-bd1b-4797-b120-de06cd8fe87d/exh_go_main_1_360h.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=12%2C52%2C259%2C146",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2017-02-23T00:00:00-06:00",
+    "aic_end_at": "2017-06-04T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 23997,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Go: The Modern Series, Part II"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:11-06:00",
+    "timestamp": "2021-01-14T17:13:41-06:00"
+}

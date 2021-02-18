@@ -1,0 +1,39 @@
+{
+    "id": 3145,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3145",
+    "title": "The House Beautiful: Arts and Crafts Architecture",
+    "is_featured": false,
+    "description": "Designers have long been applying William Morris's often-repeated dictum, \"Have nothing in your house that you do not know to be useful or believe to be beautiful,\" to the architecture of the house itself. This exhibition explores how the Arts and Crafts movement, which drew some of its original inspiration from Gothic architecture, and its emphasis on simple and natural beauty have influenced movements from Art Nouveau to the Prairie School. Books and photographs from the libraries' extensive collections illustrate how Arts and Crafts style evolved and influenced works by architects like Charles Rennie Mackintosh, Greene and Greene, and Frank Lloyd Wright",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2009-12-01T00:00:00-06:00",
+    "aic_end_at": "2010-02-02T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The House Beautiful: Arts and Crafts Architecture"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:23:02-06:00",
+    "timestamp": "2021-01-14T17:13:54-06:00"
+}

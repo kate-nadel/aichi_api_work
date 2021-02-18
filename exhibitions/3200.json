@@ -1,0 +1,39 @@
+{
+    "id": 3200,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3200",
+    "title": "Elena Manferdini: Building the Picture",
+    "is_featured": false,
+    "description": "Italian-born, Los Angeles-based architect Elena Manferdini has become adept at creating vibrant architectural installations that employ complex patterns, luscious colors, and rich textures to introduce new spatial and visual narratives to challenge the clean lines and abstract forms of architectural modernism. For this new work for the Art Institute, Manferdini drew inspiration from the iconic orthogonal geometries of the design of Mies van der Rohe, including his 860\u2013880 Lake Shore Drive apartments in Chicago. By digitally manipulating images of this internationally recognized building, whose structure is an ode to Chicago\u2019s strict urban grid, Manferdini has created an immersive environment that builds off this design. Although the image is rendered in two dimensions, the play of light, color, depth, and perspective invites the user to experience the work up close as well as from a distance.  \n\nThis exhibition is part of a series in which the Department of Architecture and Design enlists contemporary architects and designers to organize installations that investigate critical issues within their practices. Using history as a starting point, Manferdini developed new visual and spatial narratives that challenge perceptions of architectural environments through the use of decoration and ornamentation. She began with Mies\u2019s simple gridded facade treatments. After tracing an image of his facades to create digital drawings of the grid, she developed multiple versions of unique patterns by multiplying the grid, weaving the lines, and infusing a range of colors and line weights. This installation at the Art Institute is comprised of a series of small-scale, intimate studies printed on both vinyl and metal; a large-scale landscape\u2014composed of these smaller studies\u2014that covers half of the gallery; a video that animates these studies; and in the center of the gallery, three-dimensional forms that show how these patterns can take shape from their two-dimensional origin. In each of these manifestations, Manferdini\u2019s manipulation of the grid blurs lines between fashion and pattern in an architectural context and introduces a new contemporary landscape that has strong ties to the past.\n\nElena Manferdini: Building the Picture is part one of a two-part series of special commissions generously supported by the Graham Foundation for Advanced Studies in the Fine Arts.",
+    "short_description": "Manferdini\u2019s manipulation of an iconic Mies van der Rohe grid blurs lines between fashion and pattern in an architectural context and introduces a new contemporary landscape.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3200/elena-manferdini-building-the-picture",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-03-07T00:00:00-06:00",
+    "aic_end_at": "2015-09-20T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 23966,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Elena Manferdini: Building the Picture"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:23:42-06:00",
+    "timestamp": "2021-01-14T17:13:56-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3226,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3226",
+    "title": "3 in 1: Contemporary Explorations in Architecture and Design",
+    "is_featured": false,
+    "description": "Developed as three mini-exhibitions in one, these explorations into fashion, architecture, and product design illustrate the range of work in the museum\u2019s architecture and design collection. The practitioners presented\u2014fashion designer Issey Miyake, architect Greg Lynn, and designers Scholten & Baijings\u2014are at the forefront of their respective fields and well known for using research, experimentation, and innovation to drive new forms of architecture and design.\n\nReality Lab, Issey Miyake Design Studio: 132 5 and IN EI\nJapanese fashion designer Issey Miyake has developed a unique practice focused on experimentation in material, structure, and form. Miyake\u2019s design studio, Reality Lab, has developed innovative products such as 132 5, a clothing line, and IN EI, a line of lamps for Artemide. Featured in this exhibition, these two product lines were developed around the concept of using origami-folding techniques to create two-dimensional geometric patterns that unfold to create voluminous forms.  \n\nGreg Lynn Form: Stranded Sears Tower\nOne of the pioneers of digital architecture, Los Angeles\u2013based architect Greg Lynn was one of the first to explore computer programming as a vehicle for creative expression, and Stranded Sears Tower is one of his seminal projects. Asked to reenvision Chicago\u2019s landmark building for a 1992 exhibition, Lynn separated the nine structural tubes of the Sears Tower into individual strands then reoriented these horizontally along the Chicago River to develop a new supple, fluid architecture. As Lynn is known as a promoter of the \u201cpaperless\u201d studio, this project is even more significant in that it was his last project created entirely by hand. \n\nScholten & Baijings: Colour Installation\nScholten & Baijings: Colour Installation\nDutch designers Scholten & Baijings take a disciplined approach to design, combining craft practices and industrial processes to rethink everyday objects. Through a masterful use of color, minimal forms, and material innovation, they have amassed a significant portfolio of projects over a period of 13 years. Designed specifically for the Art Institute, Colour Installation presents a spectrum of the firm\u2019s projects, ranging from tableware produced by the Japanese artisan company 1616 / Arita to mass-produced textiles and furniture by Danish manufacturers Hay.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-09-28T00:00:00-05:00",
+    "aic_end_at": "2014-01-05T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "3 in 1: Contemporary Explorations in Architecture and Design"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:23:54-06:00",
+    "timestamp": "2021-01-14T17:13:56-06:00"
+}

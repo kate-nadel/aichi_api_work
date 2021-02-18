@@ -1,0 +1,39 @@
+{
+    "id": 400,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/400",
+    "title": "Tang China and the Silk Road",
+    "is_featured": false,
+    "description": "Networks of trade and cultural exchange connected Tang-dynasty China (618-907) with major cities between the Mediterranean coast and Japan. Exhibited are burial, religious, and luxury objects displaying cross-cultural perspectives.",
+    "short_description": "Networks of trade and cultural exchange connected Tang-dynasty China (618-907) with major cities between the Mediterranean coast and Japan. Exhibited are burial, religious, and luxury objects displaying cross-cultural perspectives.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/400/tang-china-and-the-silk-road",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2006-09-30T00:00:00-05:00",
+    "aic_end_at": "2007-06-30T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147478130,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Tang China and the Silk Road"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:43-06:00",
+    "timestamp": "2021-01-14T17:13:01-06:00"
+}

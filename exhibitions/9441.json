@@ -1,0 +1,39 @@
+{
+    "id": 9441,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9441",
+    "title": "Vaginal Davis: The White to Be Angry",
+    "is_featured": false,
+    "description": "Vaginal Davis is a key figure in the history of queer music, performance, and video art. Naming herself after the activist Angela Davis, she emerged in the queer and punk club performance scene of Los Angeles in the late 1970s. The artist created her own mythology during the live performances of her \u201cmultiracial, maxi-gendered\u201d bands\u2014an interplay between identify, fiction, and critique that also informs her influential Xeroxed print publications, or zines, and later video work. Davis is a founding figure in the \u201chomocore\u201d movement that reinterpreted hardcore punk through queer cultures, as well as the art and music networks of the 1990s that influenced the emergence of Riot Grrl, a movement that combined confrontational punk music performance with feminist critique.\n\nDavis\u2019s touchstone work, The White to Be Angry (1999), challenges constructions and desires around white supremacist culture as it circulates across the entire political spectrum. The title of the video is taken from Davis\u2019s live performances and a music album her band Pedro, Muriel & Esther (or PME) recorded in Chicago in the mid-1990s. The video is a visual album of songs as chapters, each referencing a different film director, separated by sequences of appropriated footage from television. Davis\u2019s PME bandmate Glen Meadmore features in a chapter riffing on Clive Barker playing a serial killer, while an Angeleno skinhead by the name of Edward Ghillemhuire plays a character who is both attracted to and violent toward the people his hate speech\u2013spewing elders seek to demonize. The White to Be Angry embraces ambiguity and an extravagant dark humor, creating an image of America that remains unnervingly topical today.",
+    "short_description": "<p>A video that offers a stirring and, over 20 years later, still timely look at white supremacist culture.&nbsp;</p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9441/vaginal-davis-the-white-to-be-angry",
+    "image_url": "https://artic-web.imgix.net/null003af1af-598f-4307-9bbb-075df81e1371/32_TheWhitetobeAngry%2C1999g.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C30%2C720%2C404",
+    "type": "AIC Only",
+    "status": "Confirmed",
+    "aic_start_at": "2020-02-01T00:00:00-06:00",
+    "aic_end_at": "2020-04-26T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": 25208,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Vaginal Davis: The White to Be Angry"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-22T15:34:30-05:00",
+    "last_updated": "2021-01-13T23:23:25-06:00",
+    "timestamp": "2021-01-14T17:16:10-06:00"
+}

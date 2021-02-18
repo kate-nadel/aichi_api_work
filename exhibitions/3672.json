@@ -1,0 +1,46 @@
+{
+    "id": 3672,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3672",
+    "title": "Vincent van Gogh",
+    "is_featured": false,
+    "description": "Vincent Willem Van Gogh, son of Theo and nephew of the artist, inherited more than 600 works by Van Gogh (and a few by Gauguin) from his parents. He kept the collection together, on occasion lending a few works for special exhibitions. To this end the Art Institute director Daniel Catton Rich visited him in the late 1940s, and the two developed a close friendship. Together they visited many of the sites where Van Gogh had lived and made his paintings. They worked out an agreement for the Art Institute to borrow a large number of paintings and drawings, including all the best known works, for a full scale retrospective exhibition of Van Gogh in Chicago in 1950. In 1973 custody of the entire collection was transferred to the new Van Gogh Museum, a joint initiative by the Dutch government and the Van Gogh Family Foundation.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1950-02-01T00:00:00-06:00",
+    "aic_end_at": "1950-04-16T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "65dba9ca-2246-d51c-acae-dcef0f628e1f",
+    "alt_image_ids": [
+        "ab3f4300-8c8b-1377-5acb-0208472ae110",
+        "d6584d48-bb09-f874-e356-f93e51fe7db9",
+        "009b5c7d-09cb-dd5d-c6d4-fc4888a28c08",
+        "08ae8e87-95b8-0bfa-e36a-b1856b8c6cfc"
+    ],
+    "document_ids": [
+        "12f1f401-78e2-f181-3b0b-ba0d4d479c32"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Vincent van Gogh"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:22:10-06:00",
+    "timestamp": "2021-01-14T17:14:07-06:00"
+}

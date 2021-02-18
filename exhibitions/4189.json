@@ -1,0 +1,41 @@
+{
+    "id": 4189,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4189",
+    "title": "Work by Jean Dubuffet",
+    "is_featured": false,
+    "description": "This exhibition was a major retrospective that was put together with assistance to the curator from Jean Dubuffet himself, as well as his colleague Pierre Matisse. Nearly 200 works were selected for the exhibit, giving spectators a comprehensive look into Dubuffet\u2019s career, which blended technique and imagery from the Fauves and Die Br\u00fccke movements. Among some of the more famous series of Dubuffet paintings in this show included his Le Corps de Dames, Sols et Terrains, and various imprints made from assemblages. The exhibition placed a special emphasis on Dubuffet\u2019s love of new materials and technique which propelled him to explore his medium and push limits.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1962-05-18T00:00:00-05:00",
+    "aic_end_at": "1962-06-17T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "91d95a41-0b0e-4273-671f-ba49c3d47830",
+    "alt_image_ids": [
+        "f14d6eaa-123b-e6ec-7c33-801ae7ef9474"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Work by Jean Dubuffet"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T12:07:20-05:00",
+    "last_updated": "2019-10-14T12:11:19-05:00",
+    "timestamp": "2021-01-14T17:14:15-06:00"
+}

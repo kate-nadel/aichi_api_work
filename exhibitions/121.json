@@ -1,0 +1,50 @@
+{
+    "id": 121,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/121",
+    "title": "Focus: Cecilia Edefalk, \u201cDouble White Venus\u201d",
+    "is_featured": false,
+    "description": "Cecilia Edefalk (b. Sweden, 1954) is a painter of deeply concentrated, expressively oblique images. The artist exhibits comparatively few paintings; they always center on a single motif and are executed and presented in series. Past subjects form an eccentric group, including the comedy duo Laurel and Hardy, self-portraits, a copulating couple, and a classical marble head. Although she is a brilliant colorist, her palette is tightly restricted. In one way or another, all of her work emerges from a relationship to other modes of representation, most often photography. Her paintings have been almost exclusively figurative, although some of her latest, more experimental paintings verge on total abstraction. Most recently, the artist has reconsidered her own painted works as exquisite photographic details. In every respect, her project is a conceptual one; Edefalk is engaged in a quiet, forceful investigation into the mechanics of making and looking at the painted image.\n\nEdefalk's paintings are largely defined by their seriality. Her works imitate, distort, and intensify one another in ways that intentionally blur the distinctions between original and copy. \"I discover things in my paintings when I repeat them. It is a way to explore my own work. I am always surprised by the result. I think I can figure out what will happen. But with every new painting, the others change,\" the artist explained. Because of the relational nature of her endeavor, the physical installation of her paintings in an exhibition space is an integral part of the artist's methodology and practice. She makes use of mirror effects, displays paintings at 90-degree angles, and turns canvases upside down to establish a carefully choreographed system of viewing. The interaction between the works lends a quality of performance to her exhibitions.\n\nFor this presentation, Edefalk premieres a series of new paintings executed in gray and white. In process since 1999, the new works are based upon a classical sculpture of Venus. The finished paintings rely in equal parts upon memory, photography, painterly incident, and a touch of mysticism. Considered together, they generate an almost occult fascination with image, object, light, shadow, and place. This installation, Edefalk's first U.S. solo museum exhibition, comprises 11 paintings, some of which will be coupled with projected light.\n\nOrganizer\nThis exhibition is organized by the Art Institute of Chicago with major support from Mickey Cartin.\n\nCurator\nJames Rondeau, Frances and Thomas Dittmer Curator of Contemporary Art\n\nSponsor\nAdditional funding is provided by The Barbro Osher Pro Suecia Foundation, Swedish Council of America, the American-Scandinavian Foundation, Embassy of Sweden, Washington, D.C., Consulate General of Sweden in Chicago, and the Swedish American Museum Center, Chicago. Ongoing support for Focus exhibitions is provided by The Alfred L. McDougal and Nancy Lauter McDougal Fund for Contemporary Art.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2006-02-02T00:00:00-06:00",
+    "aic_end_at": "2006-04-23T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "1b595dfc-1bf1-abf4-7abc-79990ba3d048",
+    "alt_image_ids": [
+        "0d90156f-bdb9-e722-5500-c26a6d7564d7",
+        "70860598-ae03-d9ab-6fa8-d69049bd7ab2",
+        "969e0428-9942-de78-0b46-cf730a82d172",
+        "e775ebb7-0447-3a7d-f423-87eac6c0d6fd",
+        "2f3eae3c-f7e6-380e-9e0a-48693385ca8f",
+        "3443050a-390e-c2f8-d958-4faa5380e46d",
+        "b46062a7-c3a6-f242-8947-db01e8b2d10a",
+        "eb6d3da2-f2e2-9aec-bc45-d545ec425b61"
+    ],
+    "document_ids": [
+        "f3704aa9-5ed7-03fe-075a-33de03d0eb4b"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Focus: Cecilia Edefalk, \u201cDouble White Venus\u201d"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:58-06:00",
+    "timestamp": "2021-01-14T17:12:49-06:00"
+}

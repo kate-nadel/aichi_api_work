@@ -1,0 +1,39 @@
+{
+    "id": 3212,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3212",
+    "title": "What Did Renaissance Printmakers Make of Antiquity?",
+    "is_featured": false,
+    "description": "Around 1500 Italian artists became so competitive that they even tried to surpass famous artists from ancient times. The Renaissance, a modern name for this period encompassing the 15th to late 16th centuries throughout Europe, refers to the rebirth of Classical forms of learning and artistic expression. Artists active during this time, especially in Rome, witnessed first-hand the rediscovery of ancient sculptures such as the colossal Hellenistic (c. 323\u201331 B.C.) marble La\u00f6coon group, which Michelangelo himself inspected soon after it was unearthed in 1506. Printed reproductions circulated soon thereafter, including two in this gallery rotation, one of which is a lively woodcut lampooning the study of antiquity by recasting the writhing, heroic figures as hairy apes.\n\nThe Renaissance artist was frequently praised as the \"new Apelles,\" who had once been painter to Alexander the Great. An extended historical description survives of one of Apelles's paintings about a false judgment made on an innocent man. The cast from that lost composition populates several different prints in this rotation and inspired many paintings as well. \n\nIn the case of ancient paintings and sculptures, pictures for the Renaissance artist were indeed worth more than a thousand words, for they were worth recreating. These attempts to understand ancient sculpture and recreate lost paintings underscore the Renaissance artist's deep investment in the past.",
+    "short_description": "This selection of prints featuring Renaissance artists' attempts to understand ancient sculpture and recreate lost paintings underscores the period's deep investment in the past.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3212/what-did-renaissance-printmakers-make-of-antiquity",
+    "image_url": "https://artic-web.imgix.net/7de0202c-fc03-4fdc-9077-b44ed8cbbf25/default.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=70%2C42%2C2864%2C1613",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-05-13T00:00:00-05:00",
+    "aic_end_at": "2014-10-15T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": 2147483635,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "What Did Renaissance Printmakers Make of Antiquity?"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:39-06:00",
+    "timestamp": "2021-01-14T17:13:56-06:00"
+}

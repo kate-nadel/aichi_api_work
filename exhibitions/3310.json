@@ -1,0 +1,39 @@
+{
+    "id": 3310,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3310",
+    "title": "The Outdoor Office: Jonathan Olivares Design Research",
+    "is_featured": false,
+    "description": "Jonathan Olivares, a New York\u2013based designer who established his eponymous studio in 2006, develops industrial design objects, exhibitions, and research projects, focusing on a human-centered approach to design in which the needs of the user are brought to the fore. In 2011 he wrote the book A Taxonomy of Office Chairs, published by Phaidon. Building on the research for this book, which provides an encyclopedic visual and technical history of the office chair from the 1840s to the present, his speculative project The Outdoor Office looks at an area that has until now been underexplored: the types of furniture used for outdoor activities other than leisure and entertainment pursuits. It was developed with the goal of understanding the possibility of new types of office spaces located outdoors. As working habits change and our mobile devices, attached to us like appendages, allow us the freedom to work outside traditional offices, increasingly we are seeking alternative spaces that make productive activities feasible outdoors. This in turn demands new types of outdoor furniture and architectural elements.\n\nThe Outdoor Office synthesizes the result of Olivares\u2019s findings, from inspirational images drawn from film, television, and existing offices and conceptual projects to models he developed for new types of offices and furniture systems, which are inventive tools for studying and working in both public and private spaces. It also seeks to cut the financial and environmental costs of lighting and HVAC in parts of the world where good weather is enjoyed for at least part of the year. Although hypothetical, Olivares\u2019s research sets a benchmark for new thinking and discovery, encouraging further examination of this important developing area of design.\n\nSponsor\nThis exhibition was made possible by the generous support of the Architecture & Design Society and the Graham Foundation for Advanced Studies in the Fine Arts.",
+    "short_description": "This speculative project from New York\u2013based designer Jonathan Olivares explores the possibility of working outside the traditional office.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3310/the-outdoor-office-jonathan-olivares-design-research",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-03-07T00:00:00-06:00",
+    "aic_end_at": "2012-10-14T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 23966,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Outdoor Office: Jonathan Olivares Design Research"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:02-06:00",
+    "timestamp": "2021-01-14T17:13:58-06:00"
+}

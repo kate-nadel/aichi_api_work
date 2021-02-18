@@ -1,0 +1,41 @@
+{
+    "id": 3582,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3582",
+    "title": "Society of Amateur Photographers, 1st Annual Photographic Salon",
+    "is_featured": false,
+    "description": "The Art Institute was a pioneer among American museums in recognizing photography as an artistic discipline rather than the product of a mechanical novelty.  The salon included works by photographers from the East Coast, Midwest and California.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1900-04-03T00:00:00-06:00",
+    "aic_end_at": "1900-04-18T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "3db74b06-ca15-27eb-1041-6ed847a34620"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Society of Amateur Photographers, 1st Annual Photographic Salon"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:22:20-06:00",
+    "timestamp": "2021-01-14T17:14:05-06:00"
+}

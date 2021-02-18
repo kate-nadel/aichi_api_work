@@ -1,0 +1,39 @@
+{
+    "id": 3252,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3252",
+    "title": "I\u00f1igo Manglano-Ovalle: Always After (The Glass House)",
+    "is_featured": false,
+    "description": "Over the past two decades, I\u00f1igo Manglano-Ovalle has gained international recognition for a diverse, conceptually rigorous body of work-both activist-inspired public art and studio-based objects-that consist of formally arresting, often technically complex, poetic meditations on aesthetics, nature, and modernity.\n\nHis 2006 work Always After (The Glass House) is the fifth installment in a series of film-based works\u2014created between 2000 and 2006\u2014that directly engage the architecture of Mies van der Rohe. The architect serves as a stage from which Manglano-Ovalle conducts a self-reflexive critique of prevailing notions of \"failed modernity.\" Despite the many broken promises of modernity, the artist has said, \"So much has actually come to fruition....We do live in glass houses.\" Shot entirely on location at Crown Hall, van der Rohe's 1950 school of architecture at the IIT campus in Chicago, the film obliquely documents the 2005 ceremonial dedication of the building's renovation during which the architect's own grandson broke the windows with a sledgehammer. Manglano-Ovalle captured the entirety of the action and its aftermath on high-speed film, which when played back at normal speed, appears protracted. This combined with scrupulous editing-in which all direct indications of the original event have been removed-and an atmospheric soundtrack strategically intercut with periods of silence, resulted in an exquisitely pared down, nearly abstract image. Panning close-ups show the crystalline shards of broken glass being pushed with a wide broom alongside the well-shod feet of anonymous passers-by. Lacking the specificity of context, viewers are left to interpret the scene for themselves, is this the site of an accident, a terrorist attack, or a routine clean-up of construction debris?",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-01-21T00:00:00-06:00",
+    "aic_end_at": "2010-05-23T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25208,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "I\u00f1igo Manglano-Ovalle: Always After (The Glass House)"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:11-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

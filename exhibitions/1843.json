@@ -1,0 +1,39 @@
+{
+    "id": 1843,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1843",
+    "title": "When the Greeks Ruled: Egypt After Alexander the Great",
+    "is_featured": false,
+    "description": "When Alexander the Great seized Egypt on his mission to conquer the Persian Empire in 332 B.C., he was one in a long line of Greeks who were dazzled by Egypt and its ancient culture. The legendary Greek historian Herodotus had remarked in the fifth century B.C., \u201cthis country has more marvels and monuments that defy description than any other,\u201d and indeed those \u201cmarvels and monuments\u201d had been drawing Greeks to Egypt for centuries\u2014as tourists, traders, diplomats, and soldiers. Despite this cultural contact, the art and architecture of the Egyptian kingdom had retained its distinct style, uninfluenced by its frequent visitors. In fact, Egypt\u2019s unique art forms had persisted for more than 3,000 years! \n\nWhen Ptolemy, one of Alexander\u2019s generals, came to rule Egypt, he found it wise to adapt to the older culture. He installed himself as \u201cpharaoh,\u201d built a new capital at Alexandria, and united the two major gods of each nation to form a new universal deity, Zeus Amon. The era of Ptolemy\u2019s dynasty is known as the Ptolemaic Period, acknowledging the 300-year Greek rule that began with Alexander the Great and ended with the suicide of Queen Cleopatra in 30 B.C. It was an age of profound curiosity and rich experimentation, as the Greeks, and later the Romans, met an established culture far older than their own and exchanged artistic, social, and religious ideas with the ancient civilization. \n\nThis exhibition explores this confluence of cultures through over 75 artworks. Gilded mummy masks, luxury glass, magical amulets, and portraits in stone and precious metals, demonstrate the integration of foreign styles while also paying tribute to the enduring legacy of ancient Egypt\u2019s distinctive visual culture.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2013-10-31T00:00:00-05:00",
+    "aic_end_at": "2014-07-27T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ancient and Byzantine Art",
+    "gallery_id": 26777,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "When the Greeks Ruled: Egypt After Alexander the Great"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:46-06:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

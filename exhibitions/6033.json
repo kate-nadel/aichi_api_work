@@ -1,0 +1,41 @@
+{
+    "id": 6033,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6033",
+    "title": "Visionary Architects of the Late 18th Century",
+    "is_featured": false,
+    "description": "This exhibit examined the ground-breaking work of Claude Nicolas Ledoux, \u00c9tienne-Louis Boullee, Jean-Jacques Lequeu, and Louis-Jean Desprez, who were all mid-to-late 18th century French architects. In the show, architectural feats were shown through photographs, aquatints, engravings, water-color drawings, and ink drawings. The exhibit aimed to show the ways in which neoclassical French architecture revolutionized the field, and offered an in-depth look into the skills of each architect and draughtsman.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1968-06-06T00:00:00-05:00",
+    "aic_end_at": "1968-07-15T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "8737ccee-68cc-3b9c-f63d-076dcc6166a7"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Visionary Architects of the Late 18th Century"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-11-06T09:03:15-06:00",
+    "last_updated": "2019-11-06T09:05:38-06:00",
+    "timestamp": "2021-01-14T17:14:49-06:00"
+}

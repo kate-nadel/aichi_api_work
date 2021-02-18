@@ -1,0 +1,39 @@
+{
+    "id": 3324,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3324",
+    "title": "Oscar Niemeyer",
+    "is_featured": false,
+    "description": "For the Brazilian modernist architect Oscar Niemeyer, it was through drawing that his architecture emerged. Niemeyer\u2019s sketches were integral to the formal development of his projects and helped him to develop his own distinct style of modern architecture. Unlike the work of Le Corbusier and other traditional modernists, defined by rigid straight lines and right angles, Niemeyer\u2019s architecture favored sinuous lines and curved forms. His designs reflect the organic forms of his Brazilian surroundings: the bold, curvilinear landscape of mountain ranges, clouds, and rivers, as well as the delicate contours of the female body.\n\nNiemeyer is perhaps best know for his role in developing the monumental buildings that shaped his former mentor L\u00facio Costa\u2019s master plan for his country\u2019s futuristic capital, Brasilia, in the 1950s and 1960s. Highly involved in socialist politics, Niemeyer chose to exile himself from Brazil while the country was ruled by a dictatorship through the late 1960s into the mid-1980s. During this time he developed many of his international projects, bringing his unique architecture to cultures outside Brazil. His commitment to the socialist vision of the world extended to his work, as Niemeyer believed that through beauty architecture could benefit all members of society, regardless of social or economic class. For Niemeyer, the power of architecture was dependent upon invention; he revised the traditional modernist dictum of \"form follows function\" to \"form follows beauty.\"\n\nIn 1988 Niemeyer was named Pritzker laureate. The award was founded in 1979 to celebrate architects who have made significant contributions to the field of architecture. In 1999 the Art Institute of Chicago organized an exhibition, The Pritzker Prize: 1979\u20131999, which featured work by winners of the award. It was for this exhibition that Niemeyer created these sketches, which depict many of his highly acclaimed designs and further show how drawing was the underpinning to his architecture. These sketches embody the large range of work by Niemeyer and illustrate his distinct style. Furthermore, they are the result of an action out of which all his architecture evolved: drawing.\n\nSponsor\nThis exhibition has been made possible with support from the Architecture & Design Society.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-07-20T00:00:00-05:00",
+    "aic_end_at": "2013-10-27T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 2147473418,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Oscar Niemeyer"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:42-06:00",
+    "timestamp": "2021-01-14T17:13:59-06:00"
+}

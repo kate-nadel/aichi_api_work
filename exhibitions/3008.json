@@ -1,0 +1,39 @@
+{
+    "id": 3008,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3008",
+    "title": "Fashion Plates: 19th Century Fashion Illustrations",
+    "is_featured": false,
+    "description": "Before the advent of modern photography the pages of fashion magazines were filled with woodcuts, engravings, and other mechanically reproduced illustrations known as fashion plates. These illustrations provided readers images of the latest trends in clothing, accessories, and even hairstyles, as well as information about designers and boutiques where these styles could be acquired. A complement to the major exhibition Impressionism, Fashion, and Modernity, this exhibitions highlights a variety of publications filled with idyllic vignettes showcasing fashionable garments for the aspirational 19th century reader and shedding light on the history of women's dress",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2013-07-02T00:00:00-05:00",
+    "aic_end_at": "2013-09-09T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Fashion Plates: 19th Century Fashion Illustrations"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:15-06:00",
+    "timestamp": "2021-01-14T17:13:50-06:00"
+}

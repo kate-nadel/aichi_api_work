@@ -1,0 +1,48 @@
+{
+    "id": 9223,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9223",
+    "title": "To Predict the Future: Auspicious Omens in Premodern Chinese Paintings",
+    "is_featured": false,
+    "description": "This exhibition features paintings documenting how people in premodern China (from the 14th to the 20th century) sought evidence that their futures held promise. From street beggars and merchants to fishermen and imperial concubines, the protagonists in these works all embrace the meaning of auspicious omens, regardless of their social status.\n\nPlease use image 1943.123 to highlight rotation",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Confirmed",
+    "aic_start_at": "2018-12-06T00:00:00-06:00",
+    "aic_end_at": "2019-04-06T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147478117,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "11fa2f87-9cdf-adf0-8c2c-9bef8f35674e",
+    "alt_image_ids": [
+        "cc0faf65-63a1-a9ac-423a-3aad3ffc38a8",
+        "39c85809-e718-1104-c48a-ecdad24ac7f6",
+        "74a65750-febe-b619-d577-e38ddf47c6aa",
+        "9d25aebc-217b-4e3c-147c-60fb94cf0674",
+        "60f88065-e9d1-97e9-8bf6-1f94311ebdc6",
+        "7a85cb2b-f810-aa6b-7c8d-10d5b7e76b84",
+        "b02cfb87-7079-9637-814c-9549471f5b42",
+        "9d18cd01-7b35-7a51-67fc-b91110b4bf03"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "To Predict the Future: Auspicious Omens in Premodern Chinese Paintings"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-05-07T09:39:06-05:00",
+    "last_updated": "2019-05-13T10:15:17-05:00",
+    "timestamp": "2021-01-14T17:16:08-06:00"
+}

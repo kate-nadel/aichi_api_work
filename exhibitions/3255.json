@@ -1,0 +1,39 @@
+{
+    "id": 3255,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3255",
+    "title": "The Books of Mikhail Karasik",
+    "is_featured": false,
+    "description": "Mikhail Karasik is one of Russia's leading contemporary figures in the Artists' Book movement. In addition to his artistic practice, which focuses on the book form, he also operates a publishing house, curates exhibitions and writes extensively on the subject. This exhibition highlights the Ryerson and Burnham Libraries' collection of books created by Karasik as well as other publications\u2014ranging from the early 20th-century avant-garde to contemporary books\u2014that have been influential to Karasik's work.\n\nPlease note that the exhibition is closed on Saturdays and Sundays.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-02-03T00:00:00-06:00",
+    "aic_end_at": "2010-04-12T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Books of Mikhail Karasik"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:22:52-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

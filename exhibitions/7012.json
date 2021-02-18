@@ -1,0 +1,41 @@
+{
+    "id": 7012,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7012",
+    "title": "Ansel Adams: An American Place, 1936",
+    "is_featured": false,
+    "description": "This exhibition sought to re-create Ansel Adams\u2019 1936 exhibition at Alfred Stieglitz\u2019s An American Place gallery. Adams referred to the 1936 exhibition as the finest he ever had. Andrea Gray, curator of the recreated 1936 exhibition, and Adams assistant from 1974-80, located 35 of the original 45 photographs in different collections. After studying these prints, she noted \u201cthey were quite simply among the most beautiful photographs I had ever seen.\u201d She was able to get 29 originals for the exhibition, and the remaining sixteen were substitute prints. Some printed near 1936 or reprinted by Adams in 1981.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1983-04-16T00:00:00-06:00",
+    "aic_end_at": "1983-05-22T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "77c54b08-06eb-75fe-2abb-186a10922ea4"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ansel Adams: An American Place, 1936"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T10:16:35-05:00",
+    "last_updated": "2019-10-15T10:21:22-05:00",
+    "timestamp": "2021-01-14T17:15:12-06:00"
+}

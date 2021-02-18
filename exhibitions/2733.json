@@ -1,0 +1,39 @@
+{
+    "id": 2733,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2733",
+    "title": "Deering, Palmer, Harding, Ryerson: Major Donors of Medieval and Renaissance Art",
+    "is_featured": false,
+    "description": "This exhibition of archivalia is held in conjunction with the opening of The Deering Family Galleries of Medieval and Renaissance Art, Arms, and Armor on March 20, 2017. The exhibition documents the acquisition of large private collections by the Deering family, the Palmer family, George F. Harding, Jr., and Martin and Carrie Ryerson.\nRam\u00f3n Casas. Portrait of Marion and Barbara Deering, 1905. Private Collection, Chicago. Photograph copyright Peter Panayiotou.",
+    "short_description": "<p>This exhibition of archivalia is held in conjunction with the opening of the Deering Family Galleries of Medieval and Renaissance Art, Arms, and Armor.</p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2733/deering-palmer-harding-ryerson-major-donors-of-medieval-and-renaissance-art",
+    "image_url": "https://artic-web.imgix.net/345e7129-e0c9-4d74-a22c-4e9da02b258a/lib_exh_deering_main_360h_0.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C28%2C262%2C148",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2017-02-14T00:00:00-06:00",
+    "aic_end_at": "2017-04-24T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Deering, Palmer, Harding, Ryerson: Major Donors of Medieval and Renaissance Art"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:19-06:00",
+    "timestamp": "2021-01-14T17:13:43-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3003,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3003",
+    "title": "De ou par Ren\u00e9 Magritte: Art in Belgium, 1920-1975",
+    "is_featured": false,
+    "description": "Featuring books, periodicals and other materials, this exhibition explores Magritte\u2019s Belgian cultural milieu, at once cosmopolitan and provincial, and the literary and artistic aspects of Surrealism in Belgium. Many of the artists working and living in Belgium during the early part of the twentieth century collaborated on various projects, but were not considered a cohesive group or movement. Instead, there are key figures and groups that emerge to form an interesting narrative, making connections with one another and the Surrealists in Paris.",
+    "short_description": "Featuring books, periodicals and other materials, this exhibition explores Magritte\u2019s Belgian cultural milieu and the literary and artistic aspects of Surrealism in Belgium.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3003/de-ou-par-rene-magritte-art-in-belgium-1920-1975",
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2014-09-02T00:00:00-05:00",
+    "aic_end_at": "2014-11-10T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "De ou par Ren\u00e9 Magritte: Art in Belgium, 1920-1975"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:38-06:00",
+    "timestamp": "2021-01-14T17:13:50-06:00"
+}

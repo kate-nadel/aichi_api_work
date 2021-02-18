@@ -1,0 +1,39 @@
+{
+    "id": 3190,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3190",
+    "title": "Ghosts and Demons in Japanese Prints",
+    "is_featured": false,
+    "description": "Complementing the special exhibition Temptation: The Demons of James Ensor, this exhibition of Japanese prints of ghosts and demons draws upon the celebrated Clarence Buckingham Collection of Japanese Prints. The display showcases some of the most special works in the collection, including Hokusai\u2019s series One Hundred Stories (Hyaku monogatari), featuring chilling images of ghouls against bright blue backgrounds drawn from legends. This exhibition also includes depictions of Shoki, the Demon Queller, who could subdue even the most frightening goblins with his sword. His image was often posted on doors to ward off disease and bad luck during the Edo period (1615\u20131868).",
+    "short_description": "Complementing \"Temptation: The Demons of James Ensor,\" this exhibition includes Hokusai\u2019s series \"One Hundred Stories (Hyaku monogatari)\" and depictions of Shoki, the Demon Queller.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3190/ghosts-and-demons-in-japanese-prints",
+    "image_url": "https://artic-web.imgix.net/2760c961-4036-4c20-924e-e56366d44e62/1943.602KatsushikaHokusaiKohadaKoheij.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=28%2C530%2C2111%2C1186",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-10-11T00:00:00-05:00",
+    "aic_end_at": "2015-01-04T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Ghosts and Demons in Japanese Prints"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:35-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

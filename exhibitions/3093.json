@@ -1,0 +1,39 @@
+{
+    "id": 3093,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3093",
+    "title": "Head Dressing: The Art of Crowns, Helmets, Hats, and Hairstyles in Africa",
+    "is_featured": false,
+    "description": "This focused exhibition examines various expressions of power, identity, and personal status as elaborated in head and hair fashions across Africa. Hats, crowns, head rests, and ornaments will be highlighted, along with sculptures that record important hairstyles from the past. Fashioning the head continues to play an essential role in royal, personal, and creative expression through Africa and amongst those of African descent throughout the world. Five of the eleven highlighted objects were recent gifts to the Art Institute of Chicago.",
+    "short_description": "This focused exhibition examines various expressions of power, identity, and personal status as elaborated in head and hair fashions across Africa.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3093/head-dressing-the-art-of-crowns-helmets-hats-and-hairstyles-in-africa",
+    "image_url": "https://artic-web.imgix.net/9b4492b9-e8f8-4943-80c2-36a90b6e17fa/exh_head-dressing_prestige-hat_main_360h.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C47%2C247%2C139",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-06-24T00:00:00-05:00",
+    "aic_end_at": "2016-09-09T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Arts of Africa and the Americas",
+    "gallery_id": 2147470998,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Head Dressing: The Art of Crowns, Helmets, Hats, and Hairstyles in Africa"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:38-06:00",
+    "timestamp": "2021-01-14T17:13:53-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3193,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3193",
+    "title": "Anri Sala: Mixed Behavior",
+    "is_featured": false,
+    "description": "Anri Sala has received extraordinary acclaim for a series of unconventionally beautiful, politically inflected videos. A global itinerant, he lives and works all over the world\u2014predominantly in Berlin and formerly in Paris and his native Tirana. The artist\u2019s short, formally accomplished works poignantly and strategically blend documentary, narrative, and autobiographical approaches, existing as minimal, abstract allegories of cultural suspension and transition. Concerns of immigration, exile, social alienation, violence, crime, poverty, and repression shadow all of his poetic, melancholic compositions.\n\nSala\u2019s work is rooted in part in Albanian culture and history. He grew up under one of the most repressive communist dictatorships in Europe and later witnessed the tentative transition to a democratic, market-driven system before leaving to study in France in 1996. The following year, the Albanian economy collapsed under the weight of a corrupt government, bringing widespread lawlessness and violent unrest. Sala\u2019s intensely analytical perspective has been forged by this firsthand experience of social turbulence and radical change. Confronting a traumatic history while negotiating a diasporic present, his work describes a condition of simultaneous disorientations\u2014temporal, spatial, visual, aural, and linguistic.\n\nMixed Behavior (2003) embodies the most important themes and strategies of this artist\u2019s oeuvre, including strikingly innovative play between foreground and background, light and dark, sound and picture. Here, a lone disc jockey filmed squarely from behind spins records on a Tirana rooftop. It is a rainy New Year\u2019s Eve, and the man bends to his task covered by a plastic tarp while fireworks explode all around him, briefly illuminating the darkness. Gradually, we realize that the video\u2019s soundtrack plays in manipulated synchrony with the fireworks: like the Wizard of Oz under a clear plastic veil, the DJ appears to control a scene that stretches across the background like a movie screen or canvas. However, while the music proceeds in a predictable, linear fashion, seeming to conjure the fireworks in the distance, we realize that the images are periodically moving backward; almost undetectably, the fireworks are reversing, seeming to implode. This action suggests the practice of \u201cscratching\u201d\u2014rapidly and repeatedly reversing the direction of a record on a turntable. As Mixed Behavior shows us, Sala exploits the medium of digital video so comfortably and completely that his arrangement of digital image and accompanying sound offers an astonishingly new use of filmic art.",
+    "short_description": "Featuring a lone DJ spinning records on a rooftop surrounded by exploding fireworks, Sala's 2003 video manipulates sound and image to astonishingly new effect.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3193/anri-sala-mixed-behavior",
+    "image_url": "https://artic-web.imgix.net/328039a7-3150-4342-99da-e4a22fed16e1/2005.92MixedBehaviorAnriSala.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C292%2C2960%2C1665",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-11-19T00:00:00-06:00",
+    "aic_end_at": "2015-04-05T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25208,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Anri Sala: Mixed Behavior"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:03-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

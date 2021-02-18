@@ -1,0 +1,39 @@
+{
+    "id": 3013,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3013",
+    "title": "Modern Inkers: Experimentation in Comics",
+    "is_featured": false,
+    "description": "During the course of the last century comics have steadily evolved from the works of the early innovators to the many contemporary creators who continue to rethink and reshape the medium. Today, when many gallery and museum exhibitions worldwide are focusing on the work of comics artists, it becomes unmistakable that the definition of comics has expanded to include much more than just traditional graphic novels, superhero tales, and Sunday funnies; they now can also function as an avenue for visual experimentation and as a mode of self-expression. The works from the collection on display begin with the newspaper comics of the early 1900s, which combined spirited narratives with polychromatic frontiers in the works of Lyonel Feininger.\nAlso present is a selection of underground comics of the 1960s, which proved that artists taking an active role in printing and promoting their own books was not only a practical way to distribute the material and have complete creative control, but also circumvented the restrictive laws that accused comics of corrupting America's youth. Many of the contemporary artists in this exhibition have also taken publishing into their own hands, creating multi-color serigraph editions which bear more a resemblance to artists' books than to something you would normally find in a comic shop. The work by many of the artists here has clearly influenced works of Expressionism, Surrealism, Pop, and Contemporary Art. The Ryerson and Burnham Libraries actively have been growing our collection of comic art, including the work of many young creators who currently live and work in Chicago.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2012-07-17T00:00:00-05:00",
+    "aic_end_at": "2012-09-24T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Modern Inkers: Experimentation in Comics"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:19-06:00",
+    "timestamp": "2021-01-14T17:13:50-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 1133,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1133",
+    "title": "Stanley Greenberg:  Architecture Under Construction",
+    "is_featured": false,
+    "description": "While avant-garde architecture has frequently inspired today\u2019s art photographers and video artists, Stanley Greenberg is the first to focus a documentary-style lens on the subject. Greenberg's luminous large-scale black-and-white photographs explore avant-garde structures in the process of being built. Using highly cropped views, Greenberg captures moments in the assembly of architecture that are rarely evident in the final building, revealing the complexity of contemporary construction and the residual visual unfolding of spaces resulting from these feats of structural gymnastics. Through framings reminiscent of Lewis W. Hine\u2019s heroic construction images of the 1930s, Greenberg\u2019s compelling photographs are a celebration of the technologies and disciplines that have made these awe-inspiring buildings a reality.\n\nOn display in the Modern Wing\u2019s Kurokawa Gallery, 13 stunning photographs present a window into hidden moments of the architectural process and the sublime structural beauty that lies under the skin of contemporary architecture.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-05-02T00:00:00-05:00",
+    "aic_end_at": "2010-11-30T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 23966,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Stanley Greenberg:  Architecture Under Construction"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:26-06:00",
+    "timestamp": "2021-01-14T17:13:19-06:00"
+}

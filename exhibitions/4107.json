@@ -1,0 +1,41 @@
+{
+    "id": 4107,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4107",
+    "title": "Gandhara Sculpture from Pakistan Museums",
+    "is_featured": false,
+    "description": "This was the most comprehensive exhibit of Gandhara sculptures ever brought to America. The exhibit included sixty-five sculptures, many of which were free-standing and relief sculptures. All items in the exhibit were from the second through fifth century. This is when Buddhism was flourishing and some of the first representations of Buddha were created. The exhibit offered a short history of Pakistani Buddhism and the origins of Gandhara sculptures.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1960-09-27T00:00:00-05:00",
+    "aic_end_at": "1960-10-31T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "a7fad4e5-834b-1dbe-2700-5990b917e892"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gandhara Sculpture from Pakistan Museums"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-11-26T15:35:24-06:00",
+    "last_updated": "2019-11-26T15:35:34-06:00",
+    "timestamp": "2021-01-14T17:14:14-06:00"
+}

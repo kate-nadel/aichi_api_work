@@ -1,0 +1,39 @@
+{
+    "id": 3115,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3115",
+    "title": "Cultivated Leisure",
+    "is_featured": false,
+    "description": "Painting, calligraphy, playing the zither (qin), and weiji, a board game of strategy best known under the Japanese name, go, were respected as primary accomplishments of cultured gentlemen in China through late imperial times (c. 10th\u201319th century). Originally associated with Confucian ideals of moral education, these activities continue to be engaged in and admired today. This exhibition includes Chinese paintings, ceramics, and other decorative arts that represent all of these activities, pursued individually or together, by women as well as men, and by figures from Chinese mythology and history.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2008-10-24T00:00:00-05:00",
+    "aic_end_at": "2009-01-12T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480089,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Cultivated Leisure"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:23:05-06:00",
+    "timestamp": "2021-01-14T17:13:53-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 8281,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/8281",
+    "title": "Drawn to Form: Modern Drawings from Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection in AIC",
+    "is_featured": false,
+    "description": null,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1999-06-11T00:00:00-05:00",
+    "aic_end_at": "1999-09-07T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Drawn to Form: Modern Drawings from Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection in AIC"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-09-25T09:58:49-05:00",
+    "last_updated": "2021-01-13T23:24:32-06:00",
+    "timestamp": "2021-01-14T17:15:45-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 1568,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1568",
+    "title": "Film and Photo in New York",
+    "is_featured": false,
+    "description": "In the 1920s New York City surpassed London to become the most populous and industrially advanced city in the world. A dense and animated urban environment without parallel, the city emerged as the cultural icon we know today, driven in part by an influx of European artists and an upswing in the number of galleries and museums dedicated to modern art. A number of photographers working in this dynamic environment made the city and its populace their subject.\n\nArtists such as Morris Engel, Louis Faurer, Robert Frank, Helen Levitt, Paul Strand, and Weegee were among those deeply inspired by New York City. Photographing or filming everyday scenes as well as bustling, illuminated nightlife, these artists reveled in the genre of street photographyand created some of America\u2019s first avant-garde cinema. Groups such as the Film and Photo League (later the Photo League), formed in 1931, championed photography\u2019s ability to record the city in transition, with a particular focus on life in working-class neighborhoods. The group remained active until 1951, and its impact lasted for decades. This trajectory of discovery and influence lies at the heart of the presentation of Film and Photo in New York\n\nThe exhibition draws on the permanent collection of the Art Institute of Chicago, which includes a significant number of New York City street photographs made between the 1920s and the 1950s. Among these works are many important photographs recently acquired thanks to a grant from the Phillip and Edith Leonian Foundation, including an extensive Morris Engel photo essay on view in its own gallery. Rarely seen films will be presented alongside the exhibition\u2019s nearly 80 photographic works\u2014more than half of which have never been displayed before\u2014creating a compelling glimpse of a pivotal time in both New York City and the history of photography and film.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-07-21T00:00:00-05:00",
+    "aic_end_at": "2012-11-25T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Film and Photo in New York"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:37-06:00",
+    "timestamp": "2021-01-14T17:13:25-06:00"
+}

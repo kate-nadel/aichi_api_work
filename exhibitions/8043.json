@@ -1,0 +1,43 @@
+{
+    "id": 8043,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/8043",
+    "title": "Violent Passions: Edvard Munch and Alban Berg",
+    "is_featured": false,
+    "description": "This exhibit was originally mounted in Chicago in order to coincide with the Chicago Lyric Opera\u2019s opening of Alban Berg\u2019s opera Wozzeck. The opera\u2019s themes of jealousy and insanity translated through the art of Munch, as some of his most visceral pieces such as The Kiss (1897/98) and The Vampire (1895) were shown in this exhibit. Several of Munch\u2019s paintings and lithographs were featured, as he is widely acknowledged to be a master printmaker of Western art. Like Berg\u2019s Wozzeck, Munch\u2019s work plays with themes of angst, despair and sexual jealousy that inspires a sense of violence.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1994-01-22T00:00:00-06:00",
+    "aic_end_at": "1994-05-01T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "18b41a61-717e-5f90-30dd-1377fc2ceeb7",
+    "alt_image_ids": [
+        "7dc0e280-7f56-a180-a690-cdc46fadb198",
+        "3ef53dcd-587f-15a3-3d78-9dfda9431433",
+        "a5a65b86-5252-0e40-a552-4261bdebe48b"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Violent Passions: Edvard Munch and Alban Berg"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T11:09:16-05:00",
+    "last_updated": "2019-10-14T11:11:18-05:00",
+    "timestamp": "2021-01-14T17:15:37-06:00"
+}

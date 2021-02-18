@@ -1,0 +1,39 @@
+{
+    "id": 3224,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3224",
+    "title": "The Mezzotints of Hamanishi Katsunori",
+    "is_featured": false,
+    "description": "Over a long and distinguished career, Hamanishi Katsunori has focused on the production of mezzotint prints, perhaps the most demanding of all print techniques. Mezzotints are known for a dark and atmospheric appearance. This is due to the fact that the starting point for any mezzotint is the creation of a roughened surface, which produces a solid black background when printed. To draw the image, the artist employs a series of burnishers and scrapers, with the deepest gouges printing as white areas on the finished print.\n\nHamanishi\u2019s earliest mezzotints, from the 1970s, feature models that he built in his studio. His subject matter is made up of forms that tie, twist, fold, or bind such as twisted steel rods bound with cloth, twigs tied with ropes, origami, and kimono. In his Division series, begun in the late 1980s and continued through 2002, these familiar forms are infused with color and complemented by abstract shapes.\n\nThis exhibition celebrates the 2013 gift to the museum of a large number of works by Hamanishi from the Ninion and Sheldon Landy Collection. With this gift, the Art Institute now has the largest collection of Hamanishi\u2019s prints in the world, which is quite significant considering the continuing impact that the artist has on the print world in Japan and abroad. The exhibition also demonstrates the long relationship between Haminishi and the Art Institute with works of art given by the Landys and the artist as far back as 1985, when former curator Osamu Ueda accepted the first print by Hamanishi into the collection.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-10-12T00:00:00-05:00",
+    "aic_end_at": "2014-01-05T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Mezzotints of Hamanishi Katsunori"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:42-06:00",
+    "timestamp": "2021-01-14T17:13:56-06:00"
+}

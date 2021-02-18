@@ -1,0 +1,43 @@
+{
+    "id": 1396,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1396",
+    "title": "Picasso and Chicago",
+    "is_featured": false,
+    "description": "A century ago, in 1913, the Art Institute of Chicago became the first art museum in the country to present the work of a young Spaniard who would become the preeminent artist of the 20th century, Pablo Picasso. This February the museum celebrates the special 100-year relationship between Picasso and Chicago by bringing together over 250 of the finest examples of the artist's paintings, sculpture, prints, drawings, and ceramics from private collections in the city, as well as from the museum's collection, for the first large-scale Picasso exhibition organized by the museum in almost 30 years.\n\nAfter first showing artworks by Picasso in the 1913 Armory Show, the museum began collecting his works in the early 1920s with two figural drawings, Study of a Seated Man (1905) and Sketches of a Young Woman and a Man (1904/05); in 1926 the museum welcomed The Old Guitarist (late 1903\u2013early 1904) as a generous gift of Frederic Clay and Helen Birch Bartlett. Over time, the collection has expanded to include paintings such as the classically inspired Mother and Child (1921) and the surrealist Red Armchair (1931); landmark sculptures including the Cubist Head of a Woman (Fernande) (1909) and a maquette for Picasso's largest three-dimensional work, Monument for Richard J. Daley Plaza (1965); and works on paper such as Woman Washing Her Feet (1944) and impressions of The Frugal Meal (1904), one of only three examples in the world of the famous Blue Period etching actually printed in blue ink.\n\nFeaturing such diverse and significant works from the museum's own exceptional holdings and from collections throughout the city, Picasso and Chicago not only charts the full gamut of Picasso's artistic career but also chronicles the growth of Chicago as a place for modern art and the storied moments of overlap that have contributed to the vibrant interest in Picasso from 1913 to today. Adding to the celebration of this eminent artist and his connection to our city are special installations throughout the galleries as well as a host of exceptional programming.",
+    "short_description": "The first major Picasso exhibition organized by the Art Institute in almost 30 years presents over 250 of Picasso\u2019s paintings, sculpture, prints, and drawings.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1396/picasso-and-chicago",
+    "image_url": "https://artic-web.imgix.net/b40a2e8e-d670-4b57-bbcb-8dcad2250967/1957.72TheRedArmchairPicasso.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C47%2C1705%2C958",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-02-13T00:00:00-06:00",
+    "aic_end_at": "2013-05-12T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 2147475902,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [
+        36198
+    ],
+    "site_ids": [
+        93
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Picasso and Chicago"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:06-06:00",
+    "timestamp": "2021-01-14T17:13:22-06:00"
+}

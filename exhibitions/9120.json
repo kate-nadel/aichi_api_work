@@ -1,0 +1,39 @@
+{
+    "id": 9120,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9120",
+    "title": "Conserving Photographs",
+    "is_featured": false,
+    "description": null,
+    "short_description": "<p>Showcasing the history and conservation of different photographic processes, this exhibition highlights the critical role conservators play in preserving the museum\u2019s photography collection.</p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9120/conserving-photographs",
+    "image_url": "https://artic-web.imgix.net/196aff05-a00f-434e-9f01-bdb51e4294d8/Conserving_Photos.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C270%2C5184%2C2916",
+    "type": "Permanent Collection Special Project",
+    "status": "Confirmed",
+    "aic_start_at": "2018-11-21T00:00:00-06:00",
+    "aic_end_at": "2019-04-28T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 2147472545,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Conserving Photographs"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-06-12T12:53:20-05:00",
+    "last_updated": "2021-01-13T23:26:30-06:00",
+    "timestamp": "2021-01-14T17:16:06-06:00"
+}

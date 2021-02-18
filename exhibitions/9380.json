@@ -1,0 +1,40 @@
+{
+    "id": 9380,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9380",
+    "title": "Cosmoscapes: Ink Paintings by Tai Xiangzhou",
+    "is_featured": true,
+    "description": null,
+    "short_description": "<p>Fourteen works by the acclaimed Chinese artist dissolve and even transcend distinctions between the traditional and the innovative.&nbsp;</p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9380/cosmoscapes-ink-paintings-by-tai-xiangzhou",
+    "image_url": "https://artic-web.imgix.net/nulleacd8b85-5934-4d94-8efb-ea447b7fb97b/04PrimordialSpace.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=5345%2C197%2C2126%2C1197",
+    "type": "AIC Only",
+    "status": "Confirmed",
+    "aic_start_at": "2021-01-16T00:00:00-06:00",
+    "aic_end_at": "2021-07-12T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": 2147480173,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_boosted": "Cosmoscapes: Ink Paintings by Tai Xiangzhou",
+    "suggest_autocomplete_all": {
+        "input": [
+            "Cosmoscapes: Ink Paintings by Tai Xiangzhou"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-11-17T16:48:55-06:00",
+    "last_updated": "2021-01-13T23:23:16-06:00",
+    "timestamp": "2021-01-14T17:16:09-06:00"
+}

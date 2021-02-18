@@ -1,0 +1,48 @@
+{
+    "id": 304,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/304",
+    "title": "Commemorative Events on Cloth",
+    "is_featured": false,
+    "description": "Beginning in the last quarter of the 18th century, handkerchiefs and bandanas were issued to celebrate important events and personages of various kinds. The popularity of commemorative kerchiefs grew with the introduction of copper-plate printing, which accelerated the process and decreased the cost. These kerchiefs illustrate many aspects of social and economic life, and their appeal was widespread throughout all levels of society. What's more, the printed commemorative handkerchief quickly made the transition from useful object to affordable collector's item as the topical nature of the depicted events encouraged only limited production runs.\n\nThis exhibition focuses on printed commemorative kerchiefs produced in England, Germany, Scotland, and the United States from the late 18th to the late 19th century. American historical events commemorated include the death of Benjamin Franklin and the 1876 centennial celebration in Philadelphia. Among the British occasions noted are the naval victory of 1794; the siege of Gibraltar; the battle of Vittoria on June 21, 1813; the Crimean War; and the 60th Jubilee of the reign of Queen Victoria. Many historical figures are pictured, including Charles Fox, King George III, Horatio Nelson, and Samuel Slater. Completing the survey are kerchiefs that portray a map of the United States from 1811 and the Oxford Almanack for the year 1753. With their intriguing depictions, these fascinating textiles serve as popular records of American and British history.\n\nOrganizer\nArt Institute of Chicago\n\nCurator\nChrista C. Thurman, Department of Textiles, Art Institute of Chicago",
+    "short_description": "Beginning in the last quarter of the 18th century, handkerchiefs and bandanas were issued to celebrate important events and personages of various kinds. The popularity of commemorative kerchiefs grew with the introduction of copper-plate printing, which accelerated the process and decreased the cost. These kerchiefs illustrate many aspects of social and economic life, and their appeal was widespread throughout all levels of society.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/304/commemorative-events-on-cloth",
+    "image_url": "https://artic-web.imgix.net/2ed4236d-ac53-4fbd-96bc-049a0d02f7c0/default.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=63%2C748%2C2173%2C1219",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2006-05-06T00:00:00-05:00",
+    "aic_end_at": "2006-07-16T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Textiles",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "df9551b5-9c92-9feb-eedb-ea9960508ce7",
+    "alt_image_ids": [
+        "af804cfb-6edf-3510-d10c-fcc1c70bacbc",
+        "7d26ea29-5fe7-4822-d2b1-235f11db473d",
+        "4ed2dc79-03f7-acde-eedc-2f36811e1283",
+        "5da85d83-d6f0-1c13-6b78-996c2ecd2e5d",
+        "7c7d1cf1-78c4-de51-21fa-e3625537fb25",
+        "cf601c16-5ce9-15b0-632f-238bf76030a6",
+        "2c578c4d-678b-9d42-a223-39d63c308a70",
+        "dc81addd-40eb-5a3d-0da2-87a745640ae0"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Commemorative Events on Cloth"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:34-06:00",
+    "timestamp": "2021-01-14T17:12:58-06:00"
+}

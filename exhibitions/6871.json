@@ -1,0 +1,43 @@
+{
+    "id": 6871,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6871",
+    "title": "The Masterpiece of the Month: Spanish Embroidered Altarpiece, gift of Mrs. Chauncey McCormick and Mrs. Richard Ely Danielson",
+    "is_featured": false,
+    "description": "During October 1940, an ecclesiastical embroidery from Spain was exhibited as Masterpiece of the Month. It was made with silk and gold thread during the third quarter of the 15th century. Commissioned by the order of Pedro de Montoya, Bishop of Osma (1454-1475), who gifted the altarpiece to the Cathedral of Burgo de Osma. According to the newsletter announcing its exhibition, the embroidery was \u201coriginally made in two sections, the upper, with its central representation of the Madonna and Child Enthroned, serving as a retable and the lower serving as an altar frontal, or antependium\u201d. The part of the inscription still intact reads: \u201cO Homo Recordare Quia Pro Te IHS Hic Tormtenta Passus Est\u201d (Remember, O Man, that Christ suffered these pains for thee).",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1940-10-01T00:00:00-06:00",
+    "aic_end_at": "1940-10-30T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Textiles",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [
+        41449
+    ],
+    "artwork_titles": [
+        "Retable depicting the Madonna and Child, the Nativity, and the Adoration of the Magi; and Altar Frontal depicting the Resurrection of Christ and Six Apostles"
+    ],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Masterpiece of the Month: Spanish Embroidered Altarpiece, gift of Mrs. Chauncey McCormick and Mrs. Richard Ely Danielson"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-05-06T09:40:41-05:00",
+    "last_updated": "2020-05-06T09:40:43-05:00",
+    "timestamp": "2021-01-14T17:15:09-06:00"
+}

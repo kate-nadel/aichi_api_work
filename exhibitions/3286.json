@@ -1,0 +1,39 @@
+{
+    "id": 3286,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3286",
+    "title": "Pae White: Restless Rainbow",
+    "is_featured": false,
+    "description": "The diverse work of Pae White engages art, architecture, and design to heighten the experience of site and context. Growing up in the \u201cmodernist mecca\u201d of Southern California in the late 1960s and 1970s, White developed a visual vocabulary drawn from a variety of influences that range from consumer culture to \u201chigh\u201d art\u2014Eames furniture, Vera Neumann scarves, and Milton Glaser graphics, among them.\n\nRestless Rainbow, a commissioned, site-specific work for the Art Institute of Chicago\u2019s Bluhm Family Terrace, uses this dramatic space not as a platform for objects but as the work itself. In this piece, White drew on her interest in and knowledge of graphic design, textiles, and animation to wrap the terrace in a vibrantly colored, energetic abstracted rainbow. While planning for the installation, the artist wondered: What would happen if a rainbow became disorganized\u2014would it fall from the sky? What if a rainbow misbehaved, causing its color spectrum to take on new order? Would it include black, as rainbows in comic books often do?\n\nFrom the surface of the floor to the tops of the glass walls, White\u2019s work turns the Bluhm Sculpture Terrace into a completely activated site in and of itself. Restless Rainbow inverts the traditional act of \u201clooking out\u201d from the terrace\u2014at the Chicago skyline, Millennium Park, and the lakefront\u2014and instead invites visitors to enjoy it as an immersive space, brought fully to life through the use of color, line, and texture. White said, \u201cI am not really interested in the blurring of boundaries; it\u2019s really more that there is an art opportunity in all of these things. . . . In many ways it is about finding these hidden zones.\u201d The Bluhm Family Sculpture Terrace is just such a \u201chidden zone.\u201d Though highly visible, it is recognized more for what it presents than for its own spatial dynamics. Restless Rainbow changes that equation, bringing the space to life through a riot of color and play.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-05-21T00:00:00-05:00",
+    "aic_end_at": "2011-09-20T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25238,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pae White: Restless Rainbow"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:22:47-06:00",
+    "timestamp": "2021-01-14T17:13:58-06:00"
+}

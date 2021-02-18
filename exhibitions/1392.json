@@ -1,0 +1,41 @@
+{
+    "id": 1392,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1392",
+    "title": "The Three Graces",
+    "is_featured": false,
+    "description": "The Three Graces\u2014commonly identified as the Greek muses Aglaia, Euphrosyne, and Thalia\u2014personify beauty, charm, and grace in both nature and humanity. This theme serves as a frame through which to examine changing formal and behavioral conventions in popular photography as well as to gauge similarities that span the decades. As a group, the images suggest the generational changes and cultural influences that shaped women\u2019s self-presentation in front of the camera during the first half of the 20th century.\nDating mostly from the turn of the 20th century to the 1970s and largely American in origin, the more than 500 snapshots in this exhibition span decades during which photography skyrocketed in popularity among amateurs and handheld film cameras multiplied exponentially in number and variety. Modern life and leisure, in shifting guises, appear as favorite subjects, while the impact of mass media on personal photographs becomes ever clearer. Above all, the collection demonstrates that as women gained a measure of independence, they not only picked up cameras but also worked to define themselves with and through their photographs.",
+    "short_description": "Beyond their capacity to preserve and evoke memories, snapshots of celebrations, vacations, and gatherings of family and friends are accumulated with the aim of constructing a personal \u2026",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1392/the-three-graces",
+    "image_url": "https://artic-web.imgix.net/b4cfab78-6bf9-4470-95e9-2826ffac0574/2001.39.343PeterCohen.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=39%2C355%2C1621%2C912",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-10-29T00:00:00-05:00",
+    "aic_end_at": "2012-01-22T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [
+        80
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Three Graces"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:12-06:00",
+    "timestamp": "2021-01-14T17:13:22-06:00"
+}

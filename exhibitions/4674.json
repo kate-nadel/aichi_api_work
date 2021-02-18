@@ -1,0 +1,50 @@
+{
+    "id": 4674,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4674",
+    "title": "Four European Artists and the Figure: Karel Appel, Dado, Horst Antes, Niki de Saint-Phalle",
+    "is_featured": false,
+    "description": "As per the title, this exhibit centered around four contemporary European artists and their renderings of the human figure. Each artist was chosen by A. James Speyer for their individualistic styles and their strikingly different techniques. The first artist selected for the show was Karen Appel, an artist from Paris who was living in Holland. Dado, another artist who was chosen, was a refugee from the Yugoslavian revolution and produced four \u201cout-of-a-nightmare\u201d paintings for the exhibit. German artist Horst Antes created six powerful paintings for the exhibit, and five unique assemblages  were contributed by Parisian artist Niki de Saint-Phalle. None of the artists were well known in the United States at the time of the exhibit, and this was the first time any of them exhibited in America.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1966-02-05T00:00:00-06:00",
+    "aic_end_at": "1966-03-06T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "5c1bf40d-5dfc-2ece-e1b8-b4efa859a61f",
+    "alt_image_ids": [
+        "e0f5e024-1e9a-6c40-f824-46e274e20617",
+        "f8207bae-4a4b-149c-85db-5c5c12f4b7c8",
+        "aee27845-bec3-51cc-676e-70de2cf628f8",
+        "87fca649-d9a4-d4be-abbb-d6c21f38c34d",
+        "10f49927-1753-7048-4a29-72ec0fca43cc",
+        "5023133c-55a5-9ca1-18dc-6e6f90c7a56b",
+        "8aa0b3be-9d9b-99ea-3682-89d9e48d4976",
+        "9c4d59b7-fdc2-c3e0-a0fc-e1f5b6355d3a"
+    ],
+    "document_ids": [
+        "829a9d63-0711-1eed-0174-c84bff2e6297"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Four European Artists and the Figure: Karel Appel, Dado, Horst Antes, Niki de Saint-Phalle"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-31T14:20:17-05:00",
+    "last_updated": "2019-10-31T14:20:45-05:00",
+    "timestamp": "2021-01-14T17:14:24-06:00"
+}

@@ -1,0 +1,64 @@
+{
+    "id": 1613,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1613",
+    "title": "Steve McQueen",
+    "is_featured": false,
+    "description": "Steve McQueen is an internationally acclaimed artist whose work is primarily engaged with moving images. Born in London in 1969, he has, over the last twenty years, made a series of film and video installations designed for gallery-based presentation, along with two feature films made for cinematic release. His efforts in these two distinct, but interrelated, arenas have earned him a reputation as one of the most important and influential artists of his generation working with these media, and beyond. McQueen's earliest works are silent, and mostly black-and-white, often with a focus on the body, very often the artist\u2019s own. Subsequent pieces incorporate, as a general rule, sound and color, and often emerge from more elaborate investigations.\n\nMcQueen has been equally concerned with the act of recording moving images as he is with the specific conditions in which these images are presented. The size of the screen, the dimensions of the room, and the relationship between the viewer and the projection itself are all fundamental considerations. McQueen's thinking about formal and spatial relationships in this regard lends a sculptural element to his art. One work in particular, Queen and Country (2007\u201309), is an entirely sculptural installation with no moving image or sound component. Presented here for the first time outside of the United Kingdom, the work is a memorial to British men and women killed in military service during the most recent war in Iraq.\n\nMost of McQueen's oeuvre\u2014including his gallery-based installations as well as feature films\u2014evidences a potent, at times oblique, political consciousness. Many works address specific social and historical moments in ways that seemingly emerge from documentary or journalistic impulses. Other films are more abstract, their meanings shaped by allegory or metaphor. McQueen always communicates directly to viewers through what one writer termed \"the medium of aesthetic affect.\"",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2012-10-17T00:00:00-05:00",
+    "aic_end_at": "2013-01-06T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 2147475902,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [
+        100363
+    ],
+    "site_ids": [
+        90
+    ],
+    "image_id": "54d48947-368d-3263-ee23-32efa8e90721",
+    "alt_image_ids": [
+        "bb14e7df-aaad-1ec2-46fb-da2f2576c5e3",
+        "ea4fd9ac-8d8c-e40a-f861-a015024fd699",
+        "6541792a-78d5-6584-d152-fd92cc2c9546",
+        "9736d8bc-1aa1-7366-3fe8-13c0880c79da",
+        "7fb62ef9-2fed-367e-d006-94c29c433118",
+        "482154c3-7d17-cb2a-0d31-95458b14ac76",
+        "dd85dae8-1896-cc95-52c2-d3b51e969878",
+        "19ed07c7-b7a3-f49e-7447-9197aab7f3be",
+        "29bb8667-c8e4-d83b-88a8-a0d9b1c0905b",
+        "993781db-8363-7089-2dde-bba1f7c23f09",
+        "e590effb-c5bd-6cf8-70dc-e48bcdd02474",
+        "67bbf819-6557-0cf1-07ef-8a00522c5b17",
+        "a45487ca-728d-873d-54f9-bcf9492aa118",
+        "ecb3bd42-69e8-5410-c6c3-639739520a69",
+        "a90b35c7-42d5-4fdb-a495-d2fbc33b5bdf",
+        "5632065b-72ae-728f-a33a-0efcd4a91d0a",
+        "eb17942c-680d-976f-3f7e-fa4bf1e637f6",
+        "b22153c9-ac75-35c3-9b1e-3a886aebfa9b",
+        "6338e246-5be1-d68c-1eb2-37f2c4c6dcaf",
+        "fabb84d4-11cb-cf90-e5e6-8751f99e4608"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Steve McQueen"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:37-06:00",
+    "timestamp": "2021-01-14T17:13:27-06:00"
+}

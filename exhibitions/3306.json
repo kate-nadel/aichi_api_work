@@ -1,0 +1,39 @@
+{
+    "id": 3306,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3306",
+    "title": "A Century of Architectural Drawings: Early Collections from the Burnham Library of Architecture",
+    "is_featured": false,
+    "description": "n 1912 a major bequest to the Art Institute of Chicago from Daniel H. Burnham, world-renowned architect and city planner, established the first public architectural library in Chicago. Operated by a dedicated committee of practicing architects, including Howard Van Doren Shaw, John A. Holabird, and Edward H. Bennett, the Burnham Library of Architecture soon began collecting architectural drawings, a rare enterprise for American libraries during this period. Although this collection was originally designed to serve as an educational resource for young architects, from an early date the museum staged regular public exhibitions featuring the work of such luminaries as Frank Lloyd Wright and Louis Sullivan. After several decades of growth, a new museum curatorial department was created in 1981 to house over 40,000 rare and beautiful drawings from the Burnham Library.\n\nOn the centennial celebration of the Burnham Library, this exhibition highlights a selection of exceptional architectural drawings acquired before the founding of the museum\u2019s Department of Architecture. From Walter Burley Griffin\u2019s 1920s Art Deco theater building in Melbourne, Australia to seminal modern designs for the Illinois Institute of Technology campus by Ludwig Mies van der Rohe, these drawings demonstrate the Burnham Library\u2019s broad vision of architectural history. As extraordinary architectural renderings and records of the building tradition in Chicago, these archives form an important base upon which the recently renamed Department of Architecture and Design builds its diverse collection of architectural projects and design objects from makers around the globe.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-10-13T00:00:00-05:00",
+    "aic_end_at": "2013-01-27T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 2147473418,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "A Century of Architectural Drawings: Early Collections from the Burnham Library of Architecture"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:38-06:00",
+    "timestamp": "2021-01-14T17:13:58-06:00"
+}

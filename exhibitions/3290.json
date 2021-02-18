@@ -1,0 +1,39 @@
+{
+    "id": 3290,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3290",
+    "title": "What's Greek about a Roman Copy?",
+    "is_featured": false,
+    "description": "Some art collectors who lived during Roman times (2nd century B.C.\u20134th century A.D.) wanted to own stone replicas of famous statues by sculptors from the Classical period of Greek art (5th\u20134th century B.C.)\u2014Phidias, Skopas, Lysippos, and Praxiteles, for example. These statues have long been called \u201cRoman copies of Greek originals,\u201d which suggests that they are nothing more than inferior, rote reproductions. This could not be further from the truth, however.\n\nMany Roman sculptors were among the most talented artists of antiquity, although not all of them were equally gifted at coaxing beautiful statues from rough-hewn blocks of stone. However, the best sculptures reveal a mastery of the technical challenges presented by marble, as well as a strong, independent artistic vision. Some Greek statues were quite large and made of cast bronze, so it took a great deal of skill and creative effort to translate them into stone, often on a reduced scale.\n\nBecause few Greek statues survived, the Roman sculptures modeled on them provide the most compelling visual evidence we have about the appearance of the originals. Generally, such later sculptures referencing an earlier prototype fall into three main categories: those that replicate the original version; those that appropriate elements for use in a new compositional scheme; and those that adapt what they borrow for an entirely different purpose.\n\nSeveral sculptures appearing in this exhibition were made during the Roman period and inspired by Greek prototypes. They can be identified by the presence of the chisel icon on their label.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-04-09T00:00:00-05:00",
+    "aic_end_at": "2011-06-02T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ancient and Byzantine Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "What's Greek about a Roman Copy?"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:22-06:00",
+    "timestamp": "2021-01-14T17:13:58-06:00"
+}

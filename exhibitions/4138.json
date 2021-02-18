@@ -1,0 +1,41 @@
+{
+    "id": 4138,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4138",
+    "title": "50th Anniversary Exhibition: Department of Prints and Drawings",
+    "is_featured": false,
+    "description": "This exhibit offered a medley of drawings from the 15th century German drawings from the School of Ulm, to Dutch Golden Age prints and drawings, to French etchings,  to Italian renderings dating from the 15th century to the 18th century. The goal of the exhibit was to celebrate the Art Institute\u2019s collection of drawings and prints. Prints were separated by various schools of thought across Europe, and displayed chronologically alongside other drawings, prints, or etchings from their country.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1961-04-15T00:00:00-06:00",
+    "aic_end_at": "1961-12-31T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "d8fcaa23-0eab-2658-79cf-682cc3afbf4f"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "50th Anniversary Exhibition: Department of Prints and Drawings"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T11:34:21-05:00",
+    "last_updated": "2019-10-14T11:36:21-05:00",
+    "timestamp": "2021-01-14T17:14:14-06:00"
+}

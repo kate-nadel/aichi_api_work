@@ -1,0 +1,46 @@
+{
+    "id": 6035,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6035",
+    "title": "Chinese Treasures from the Avery Brundage Collection",
+    "is_featured": false,
+    "description": "This exhibition, which traveled far and wide, held several bronzes, ceramics, jades, lacquers, stone sculptures, and scroll paintings that dated as early as the second millennium BC (the Shang dynasty) and as recent as the Ch\u2019ien Lung period (1736-1795). Over 117 objects were selected for the exhibition, and all of them emphasized the skill and imagination required to achieve such aesthetic beauty in the creation of utilitarian objects. As a tribute to the collection owner, prominent Chicago citizen and Art Institute of Chicago trustee Avery Brundage, the Chicago exhibit was supplemented with a special group of bronzes, stone sculptures, and paintings which were only shown in the Art Institute of Chicago.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1968-06-08T00:00:00-05:00",
+    "aic_end_at": "1968-07-07T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "40ecd338-5dbe-0131-9cfc-e850ccd8d4e5",
+    "alt_image_ids": [
+        "4591d285-cc03-eca5-e028-c4b424bc45cd",
+        "a1290414-005a-d26a-13f7-714dde6d8e62",
+        "a31f6473-bc8d-27e5-720f-578fc7e44cb6",
+        "72ed559f-3613-3d39-c72c-5ed268082aed"
+    ],
+    "document_ids": [
+        "9ed2e83e-8c71-8a7b-c722-693062be2af6"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chinese Treasures from the Avery Brundage Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-11-05T14:51:28-06:00",
+    "last_updated": "2019-11-05T14:55:37-06:00",
+    "timestamp": "2021-01-14T17:14:49-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3231,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3231",
+    "title": "Africa Wrapped, Robed, and Beaded",
+    "is_featured": false,
+    "description": "Dress is among the most personal forms of visual expression, creating a buffer and a bridge between the private and the public self and acting as a highly visible indicator of an individual\u2019s current position or future aspirations. All of the status-related aspects of personal dress\u2014the plentiful use of sumptuous materials, the showcasing of labor-intensive details, and the sacrifice of comfort for a display of luxury\u2014play a part in the conspicuous presentation of social identity. Special forms of luxury dress may be related to position, prestige, or wealth. They may also signal particular standing within a community or a moment of transition from one role to another. Such garments often exhibit exceptional design and craftsmanship. They are also frequently cumbersome to wear, requiring practiced showmanship to don with grace.\n\nThis special presentation of works in the Art Institute\u2019s permanent collection highlights six forms of status dress from Africa. Each wrapped, robed, or beaded example features a lavish use of materials that emphasize status through dazzling display.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-05-25T00:00:00-05:00",
+    "aic_end_at": "2013-10-06T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Arts of Africa and the Americas",
+    "gallery_id": 2147470998,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Africa Wrapped, Robed, and Beaded"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:22:52-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

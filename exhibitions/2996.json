@@ -1,0 +1,39 @@
+{
+    "id": 2996,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2996",
+    "title": "\u201cOf What Use Are These Old Antiquated Things?\u201d: Antiquaries of England",
+    "is_featured": false,
+    "description": "Exploring the many facets of antiquarian scholarship in England, this exhibition features 17th- through 19th-century publications celebrating ancient relics, artifacts, architecture, and costume.\n\nThe title of this exhibition stems from Thomas Madox\u2019s The History and Antiquities of the Exchequer of the Kings of England (1711), in which Madox responds to the allegation that the study of antiquities has no meaning for modern man. He asserts that the study of antiquities cannot be separated from the study of history and that history cannot be understood without all of its parts, both ancient and modern, making antiquarianism and an interest in \u201cold antiquated things\u201d imperative.\n\nMadox was one of England's many antiquaries, or scholars of history with particular interest in empirical evidence and artifacts. Antiquaries had wide-ranging interests, including heraldry, relics, art, architecture, clothing, genealogy, and numismatics. Their love of the past included both foreign and British topics, and antiquarian research of British history and genealogy would eventually contribute to a developing concept of national heritage. \n\nPlease note: this exhibition is open on weekdays only.",
+    "short_description": "Exploring the many facets of antiquarian scholarship in England, this exhibition features 17th- through 19th-century publications celebrating ancient relics, artifacts, architecture, and costume.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2996/of-what-use-are-these-old-antiquated-things-antiquaries-of-england",
+    "image_url": "https://artic-web.imgix.net/7739c1d2-4d1b-403c-bbf6-863d88c0be0b/exh_Antiquaries-of-England_feature_480_crop_0.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C90%2C480%2C270",
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2016-05-10T00:00:00-05:00",
+    "aic_end_at": "2016-07-18T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "\u201cOf What Use Are These Old Antiquated Things?\u201d: Antiquaries of England"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:07-06:00",
+    "timestamp": "2021-01-14T17:13:50-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 2301,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2301",
+    "title": "David Hartt: Interval",
+    "is_featured": false,
+    "description": "The work of artist David Hartt (Canadian, born 1967) investigates the specificity of place. By examining the culture and built environment of a given locale, Hartt observes how the needs and values of communities form, manifest, and change over time. \n\nFor Interval, Hartt selected two sites of relative economic and geographic isolation: Whitehorse in the Canadian Yukon and Sakhalin Island, a Russian territory at the tip of the Japanese archipelago. The exhibition consists of essayistic films and photographs shot in both places. Accompanying these are a score by composer Mitchell Akiyama and a curtain wall structure simulating the reflective exterior of the Bonaventure Hotel in Los Angeles, a postmodernist icon and the initial venue for this project. \n\nHartt chose each location\u2014Whitehorse and Sakhalin\u2014according to a specific cultural source. In 1967 Canadian pianist Glenn Gould made a radio documentary, The Idea of North, that featured anthropologist and geographer James Lotz recounting his experiences in Whitehorse while making a report on the living conditions of itinerant workers and aboriginal peoples there. Writer Anton Chekhov penned The Island: A Journey to Sakhalin, also a documentary account, after traveling in 1890 to the historically contested territory, then a Russian penal colony. \n\nThe title, Interval, refers to a musical term for the harmonic result of two notes struck simultaneously, and more generally to temporal and spatial displacement. Both Gould and Chekhov focused on the periphery of their respective societies in order to comment on the center, an approach Hartt employs to explore the hybrid identities of sites and individuals in a globalized world.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-06-04T00:00:00-05:00",
+    "aic_end_at": "2015-10-11T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 2147476637,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "David Hartt: Interval"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:05-06:00",
+    "timestamp": "2021-01-14T17:13:38-06:00"
+}

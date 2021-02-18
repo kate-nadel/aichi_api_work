@@ -1,0 +1,44 @@
+{
+    "id": 2835,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2835",
+    "title": "Van Gogh and Gauguin: The Studio of the South",
+    "is_featured": false,
+    "description": "The following images are accompanied by excerpts of letters written by Paul Gauguin and Vincent van Gogh between 1887 and 1889. The two artists wrote often to one another, friends, and relatives. Van Gogh's most frequent correspondent was his brother Theo, an art dealer in Paris in the late 1880s. The quotations reveal that both men were avid chroniclers of the subjects they painted: peasants, townspeople, landscapes, and houses. The painters' candid remarks about their own canvases, most of which had either just been completed or were still in progress, offer unique perspectives on the Arles period. They also refer to a number of works painted before and after the artists' time togethe",
+    "short_description": "Paul Gauguin and Vincent van Gogh, celebrated today for their profound impact on the history of modern painting, were both relative latecomers to art. By the time they met in the autumn of 1887, both men were well into their thirties (Gauguin 39, van Gogh 34), and each had several failed careers behind him.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2835/van-gogh-and-gauguin-the-studio-of-the-south",
+    "image_url": "https://artic-web.imgix.net/4b5f00f9-a97d-4cb6-b6c5-57faa2e01ed0/Van-Gogh_The-Bedroom_1889_Art-Institute.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C425%2C3820%2C2149",
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2001-09-22T00:00:00-05:00",
+    "aic_end_at": "2002-01-13T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [
+        40610,
+        34611
+    ],
+    "site_ids": [
+        27
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Van Gogh and Gauguin: The Studio of the South"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:52-06:00",
+    "timestamp": "2021-01-14T17:13:45-06:00"
+}

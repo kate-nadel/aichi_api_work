@@ -1,0 +1,39 @@
+{
+    "id": 1103,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1103",
+    "title": "Irving Penn: A Tribute",
+    "is_featured": false,
+    "description": "American fashion photographer Irving Penn, who died in October, at the age of 92, used his craft and his subjects as vehicles for a civilizing enterprise. Against the bestiality and depredations of global warfare\u2014Penn\u2019s legendary tenure at Vogue began in 1943, in the depths of World War II\u2014the photographer strove for humanity and calm; while the postwar world hummed with speed and increasingly youthful, violent energies, his ageless compositions served as models of balance, restraint, and order. Not that Penn turned his back on the world, or sanitized its inequities. Indeed, he brought working people, figures with inelegant body types, non-Western subjects, and all manner of mundane items into his studio along with influential personages and haute couture models. His prints, meanwhile, particularly those made in the platinum and dye transfer processes he mastered beginning in the 1960s, display varieties of inky luster that suggest intimacy with\u2014rather than indifference to\u2014the people and objects before his camera.\n\nThe poise that Penn imparted in his work is indisputably theatrical. Though theatricality is a mainstay of fashion, it also propels the classical ideal: the projection of a noble purpose onto the vicissitudes of life\u2014and the certainty of death. Penn contemplated mortality and the descent into matter throughout his career, returning repeatedly to the genre of vanitas still lifes as well as to close studies of litter and perishables. His corpulent nudes, which have been described as undoing the conventions of chic, seem more properly to express in unfettered form the sensuality that drives modern fashion, its eroticism usually displaced onto the choice of fabric or held in check by poses that cross animal magnetism with haughty reserve. What unites Penn\u2019s nudes, made mostly in secret around 1950, with the portraits, assignments for fashion houses from Chanel to Issey Miyake, and other subjects that he published widely over his 65-year career is, above all, an unblinking sense of dignity.\n\nThe Art Institute is extremely fortunate to have, in addition to more than 180 individual prints, a majority of the dozens of binders and boxes of correspondence that make up the Irving Penn Archive\u2014a gift from the photographer in 1995. These invaluable materials, showcased in microcosm in the nearby vitrine, will afford generations to come a detailed record of Penn\u2019s career, and through it a close look at the history of fashion and art across the second half of the 20th century.",
+    "short_description": "American fashion photographer Irving Penn, who died in October, at the age of 92, used his craft and his subjects as vehicles for a civilizing enterprise. Against the bestiality and depredations of global warfare\u2014Penn\u2019s legendary tenure at Vogue began in 1943, in the depths of World War II\u2014the photographer strove for humanity and calm; while the postwar world hummed with speed and increasingly youthful, violent energies, his ageless compositions served as models of balance, restraint, and order. Not that Penn turned his back on the world, or sanitized its inequities.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1103/irving-penn-a-tribute",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2009-10-31T00:00:00-05:00",
+    "aic_end_at": "2009-12-13T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 2147476635,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Irving Penn: A Tribute"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:53-06:00",
+    "timestamp": "2021-01-14T17:13:19-06:00"
+}

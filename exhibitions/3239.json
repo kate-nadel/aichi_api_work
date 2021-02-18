@@ -1,0 +1,39 @@
+{
+    "id": 3239,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3239",
+    "title": "Holiday Thorne Rooms",
+    "is_featured": false,
+    "description": "Every year, thousands of visitors\u2014young and old, newcomers and long-time members\u2014are captivated by the Thorne Miniature Rooms. The 68 period rooms built on a scale of one inch to one foot have something for everyone\u2014a visual history of architecture and decorative arts, the astounding workmanship of thousands of tiny accessories, and memories of childhood dollhouses. But this year, the rooms will prove even more delightful, donning new period-appropriate decorations for the season\u2014a new holiday tradition.\n\nAs with any grand holiday project, planning for this ornamentation began very early, soon after last year\u2019s holidays had passed. The first step was to determine which rooms would be adorned, with extensive research done on the history of holiday festivities and decorations. While perhaps surprising given today\u2019s over-the-top decorations that cover every shop, city, and suburb, identifying eras that participated in major ornamentations was more difficult than expected. Many periods were rather spare in their festive trimmings, and some, in fact, banned the celebration of Christmas entirely.\n\nEventually six rooms with the most significant and visual holiday celebrations were chosen to inaugurate this new Thorne Rooms tradition. Among the most elaborate is the English Drawing Room of the Victorian Period, the only room with a Christmas tree. Now a ubiquitous feature of the season, the Christmas tree or tannenbaum, was only brought to England from Germany in 1840 with the marriage of Prince Albert to Queen Victoria. The Thorne Room tree and accoutrements are based on a famous engraving of the royal couple and their children surrounding a trimmed and toy-bedecked tree, an image that would forever popularize this holiday fixture. Other ornamented rooms include the English Great Hall of the Tudor period with a wassailing bowl, yule log, and an essential part of the costuming for that period\u2019s singing-dancing revelers\u2014a mummer\u2019s mask; the Virginia Entrance Hall with mistletoe, wreath, and garland; the French Provincial Bedroom with shoes, or sabots, lined up before the fireplace, a cr\u00e8che, and puzzle; and the modern-era California Hallway with an Otto Natzler mid-century menorah and box with a dreidel.\n\nKeeping to Mrs. Thorne\u2019s exacting standards of craftsmanship, several renowned artists from across the country and around the world were engaged to create pieces for the rooms. Tiny toys have arrived from Germany, diminutive delicacies from Italy, and petite plants from South Africa, while several pieces were made in-house by the rooms\u2019 caregiver of the last several years, Lindsay Mican Morgan.\n\nStep back into holidays of yore when the freshly decorated rooms are unveiled November 1 and come back to see a surprise addition later in the season.",
+    "short_description": "Every year, thousands of visitors\u2014young and old, newcomers and long-time members\u2014are captivated by the Thorne Miniature Rooms. The 68 period rooms built on a scale of one inch to one foot have something for everyone\u2014a visual history of architecture and decorative arts, the astounding workmanship of thousands of tiny accessories, and memories of childhood dollhouses. But this year, the rooms will prove even more delightful, donning new period-appropriate decorations for the season\u2014a new holiday tradition.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3239/holiday-thorne-rooms-3",
+    "image_url": "https://artic-web.imgix.net/49d30dbc-6a26-4671-b5d6-8b368642038f/VictorianThroneRoomscopy.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C156%2C2999%2C1687",
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2010-11-01T00:00:00-05:00",
+    "aic_end_at": "2011-01-03T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "European Decorative Arts",
+    "gallery_id": 2147477257,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Holiday Thorne Rooms"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:53-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

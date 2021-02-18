@@ -1,0 +1,39 @@
+{
+    "id": 3131,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3131",
+    "title": "The Arranged Flower",
+    "is_featured": false,
+    "description": "The origins of ikebana, the Japanese art of flower arranging, may stem from the ritual offerings of flowers to the Buddha, a practice introduced from China. During the Edo period (1615\u20131868), the peak time for commercial printing in Japan, interest in the scientific field of botany as well as ikebana resulted in a plethora of prints depicting flowering plants. Although ikebana gained its first following as the pastime of nobles, soon all levels of society were drawn to the the way in which this art form both exalted and tamed nature. Various schools of flower arranging, each with its own distinctive style, came in and out of favor over the centuries.\n\nThis exhibition includes more than 30 works by such favorite print designers as Harunobu, Hiroshige, Hokusai, Utamaro, and others. In these compositions, flowers take the spotlight in natural habitats, highly contrived still-lifes, and in elaborate residential settings surrounded by delighted admirers. Intricate arrangements were often offered as gifts at celebratory times of year such as New Year\u2019s or the Chrysanthemum Festival in autumn, while more informal displays were prepared to welcome guests. In the print by Kitao Shigemasa reproduced on this page, two young girls have gathered irises and other flowers to create multiple arrangements throughout the parlor, likely in anticipation of a visitor.\n\nAlso included in the exhibition are limited-edition surimono, privately published prints, that present complex representations of flowers replete with symbolic and poetic connotations. Printed botanical encyclopedias and other related texts complete the exhibition.",
+    "short_description": "The origins of ikebana, the Japanese art of flower arranging, may stem from the ritual offerings of flowers to the Buddha, a practice introduced from China. During the Edo period (1615\u20131868), the peak time for commercial printing in Japan, interest in the scientific field of botany as well as ikebana resulted in a plethora of prints depicting flowering plants. Although ikebana gained its first following as the pastime of nobles, soon all levels of society were drawn to the the way in which this art form both exalted and tamed nature.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3131/the-arranged-flower",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2008-05-25T00:00:00-05:00",
+    "aic_end_at": "2008-08-03T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Arranged Flower"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:49-06:00",
+    "timestamp": "2021-01-14T17:13:54-06:00"
+}

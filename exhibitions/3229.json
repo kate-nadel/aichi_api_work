@@ -1,0 +1,39 @@
+{
+    "id": 3229,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3229",
+    "title": "New Views: The Rendered Image in Architecture",
+    "is_featured": false,
+    "description": "The Art Institute\u2019s collection of architecture, spanning works from 1850 to the present, includes a range of two-dimensional modes of representation illustrating various stages of the design process. And yet, as images made by hand, such as sketches or collages, have given way to those produced on computers, there has been a shift in the way architectural projects are visualized. This exhibition focuses on the digitally rendered images that have recently become ubiquitous in the world of architecture and design. \n\nAs part of a series in which the Art Institute invites outside architects and designers to organize installations that investigate new thinking and practices within and beyond their professional disciplines, the editors of the New York\u2013based journal CLOG have built upon their recent issue, CLOG: Rendering, for a new exhibition. New Views: The Rendered Image in Architecture explores the diversity of rendering types being produced today through a presentation of 60 images from an international group of architects and design studios. \n\nBecause they were created using the most sophisticated technological tools, these images often defy the eye. The projects depicted can look so real that it is almost impossible to tell if they have been built or not, obviating the need to question whether a building can be successfully executed for a given site. Renderings are often generated to emphasize how a project might fit within a specific landscape; a new building is made to blend in to create the illusion of continuation and permanence within an existing skyline. At other times, architects are empowered to create images that signal a break with tradition, scenarios that visualize future potential and at their best open the discipline up to new thinking and discovery. As the editors of CLOG assert: \u201cOur visual memory of architectural history is not only shaped by the physical structures we find throughout our city, but also through the images that are published and the famous representational works held in museum collections.\u201d As this exhibition attests, digital renderings play an increasingly essential role in our understanding of the built world and necessitate further exploration.",
+    "short_description": "This exhibition focuses on the digitally rendered images that have recently become ubiquitous in the world of architecture and design.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3229/new-views-the-rendered-image-in-architecture",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2013-06-15T00:00:00-05:00",
+    "aic_end_at": "2014-01-05T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 23966,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "New Views: The Rendered Image in Architecture"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:08-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

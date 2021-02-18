@@ -1,0 +1,39 @@
+{
+    "id": 1792,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1792",
+    "title": "Christopher Wool",
+    "is_featured": false,
+    "description": "Christopher Wool (born 1955) has emerged as one of the most important abstract painters of his generation. The artist\u2014a Chicago native who today divides his time between New York City and Marfa, Texas\u2014is perhaps best known for his paintings of large stenciled letters, which he uses to form words or phrases, often abbreviated or arranged in run-on configurations that disrupt ordinary patterns of perception and speech. This retrospective, the most comprehensive examination of Wool\u2019s career to date, goes beyond these now-iconic word paintings to present nearly 90 paintings, photographs, and works on paper that showcase the wide range of styles and painterly techniques the artist has employed throughout his influential career.\n\nWool rose to prominence with his experimentations in painting in New York in the 1980s, a time and place where the medium was largely seen as irrelevant to avant-garde practice. Since then the artist has used a variety of means\u2014spray, screens, stencils, rags, solvents, air guns, and other tools\u2014to fully re-imagine the possibilities of gestural mark-making on a surface. He also often now uses photographs of his own paintings as sources for new paintings, taking images of particular passages or gestures\u2014best understood as outtakes or samples\u2014and then transmitting them onto aluminum or linen grounds anew through silkscreen, either alone on a surface or in combination with enamel. And even though the majority of his works are black and white, color also makes rare appearances.\n\nCombining aspects inherited from Abstract Expressionist art of the 1950s (painterly gesture), Pop Art of the 1960s (the use of silkscreen and other reproductive technologies as well as the influence of street culture), and Conceptual Art of the 1970s (the use of language), Wool\u2019s work simultaneously draws from the recent history of art and points to entirely new possibilities for the future of painting. At the heart of his creative project, which now spans more than three decades, is the question of how a picture can be conceived, realized, and experienced today. The paintings and works on paper for which he is best known accrue their raucous authority from an interrogative approach to technique and process and from their cool refusal to abandon the lingering possibilities of authentic expression through language, mediated gesture, and abstraction. The result is an exhibition steeped in the practice of painting by an artist fully committed to its longevity and perpetual promise.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-02-23T00:00:00-06:00",
+    "aic_end_at": "2014-05-11T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 2147475902,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Christopher Wool"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:51-06:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

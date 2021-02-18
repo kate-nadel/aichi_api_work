@@ -1,0 +1,49 @@
+{
+    "id": 7539,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7539",
+    "title": "Je Suis Le Cahier: The Sketchbooks of Picasso",
+    "is_featured": false,
+    "description": "This exhibition, organized by Pace Gallery and sponsored by American Express, featured sketches, watercolors, and writings by Pablo Picasso from 39 of the artist's sketchbooks. The sketchbooks, which covered 65 years of Picasso's work, had not been previously exhibited. They were displayed alongside works on paper from the Art Institute of Chicago's permanent collection of works by Picasso that were selected by curator Douglas Druick. The exhibition demonstrated how the artist's process of trial and discovery in drawing informed his paintings.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "1987-07-11T00:00:00-05:00",
+    "aic_end_at": "1987-08-23T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "89a98ca9-06a0-3ef0-14cf-1ecb80d1e4f3",
+    "alt_image_ids": [
+        "3e9157e8-32d4-e262-7e89-e1108c878664",
+        "0914c102-1ade-eb6a-9ddf-9326d05e9089",
+        "53ccb5f5-178a-b35e-8d42-3cb873c95a69",
+        "6ea8e894-5d5f-87c0-3c5f-4ae664aa1a47",
+        "561d36bb-63c3-bcf2-9a53-035070fb2fcd",
+        "29476767-a7a6-4dc9-2396-0bccb969e8f1",
+        "c3f6be64-8122-5c27-f7b0-c4265ac68f0b",
+        "dc2412ea-db75-4566-04ad-386f89808b60",
+        "16e48db7-62f5-41d0-3fa7-1032a671b310"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Je Suis Le Cahier: The Sketchbooks of Picasso"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-04-02T16:23:46-05:00",
+    "last_updated": "2020-04-02T16:26:00-05:00",
+    "timestamp": "2021-01-14T17:15:24-06:00"
+}

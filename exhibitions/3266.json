@@ -1,0 +1,47 @@
+{
+    "id": 3266,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3266",
+    "title": "J\u00fcrgen Mayer H.: Wirrwarr",
+    "is_featured": false,
+    "description": "For more than a decade, architect J\u00fcrgen Mayer H. has been collecting envelopes lined with patterns and codes designed to keep the contents private. Used by institutions to ensure that passwords and PINs sent in letters are only seen by the recipient, these data sheets are ubiquitous but largely overlooked. Nonetheless, they form a part of everyday life in a society that is increasingly fearful of identity theft and conscious of the need for data security. For Mayer H., the patterns form the basis of a continued line of research into the relationship between architecture, communications, and new technology.\n\nThe architect\u2019s Berlin-based studio has become known for projects that appropriate and manipulate these digital prints for surface decoration as well as for formal and spatial explorations based on the pattern designs. A decorative fa\u00e7ade the studio created for the Hasselt Court of Justice building in Hasselt, Belgium used computer-generated patterns as the basis for a perforated steel design which negotiates the need for private space while at the same time creating areas of transparency that befit the public building. This thoughtful approach is typical of Mayer H.\u2019s research-driven methodology, in which surface, structural, and programmatic resolutions are formed through an integrated process that is predominantly nonhierarchical.\n\nFor his exhibition at the Art Institute, a visually rich display of pages from Mayer H.\u2019s limited-edition, large-format volume Wirrwarr (which means \u201cchaos\u201din German ), published by Hatje Cantz Verlag, will be on view. The pages show prints selected from the more than 100 data sheets from the architect\u2019s archive. In an increasingly coded landscape in which we communicate through acronyms and shorthand, these pages read as a record of these underexamined objects. Yet they are also a dynamic form of visual representation that is inspiring architects and designers bent on creating work that employs a digital syntax that effectively speaks to contemporary modes of practice and ways of living.\n\nSponsor\nThis exhibition is generously supported by the Architecture & Design Society of the Art Institute of Chicago.",
+    "short_description": "For more than a decade, architect J\u00fcrgen Mayer H. has been collecting envelopes lined with patterns and codes designed to keep the contents private. Used by institutions to ensure that passwords and PINs sent in letters are only seen by the recipient, these data sheets are ubiquitous but largely overlooked. Nonetheless, they form a part of everyday life in a society that is increasingly fearful of identity theft and conscious of the need for data security.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3266/jurgen-mayer-h-wirrwarr",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-10-15T00:00:00-05:00",
+    "aic_end_at": "2012-01-22T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 2147473418,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "e843a8a2-eeba-f5dc-753c-cb6fa7ec449c",
+    "alt_image_ids": [
+        "8ef17a8e-30e3-2765-3037-45a3e97a40f1",
+        "f7778475-ee8f-5fab-6e91-7eff7dff5393",
+        "58eb4c50-f635-1816-6d92-cf31a159061d",
+        "7e153c06-ec1c-b026-92b2-5b9cabc415d7",
+        "88b88903-720c-cb5e-4f72-f7daa2e01cc4",
+        "5e7025d8-6763-57fb-866b-608bcd3f3eb0",
+        "c1949ff2-c14a-a3f7-1933-20c478513922"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "J\u00fcrgen Mayer H.: Wirrwarr"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:49-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

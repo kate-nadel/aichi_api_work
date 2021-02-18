@@ -1,0 +1,39 @@
+{
+    "id": 1194,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1194",
+    "title": "Roger Hirons",
+    "is_featured": false,
+    "description": "London-based artist Roger Hiorns\u2019s captivating sculptural objects, installations, and performances exploit unusual materials to disquieting ends. Among the artist\u2019s principal preoccupations is the form of the engine\u2014extracted from both automobiles and airplanes. In the most general terms, the engine is, for Hiorns, a metaphor for networks both inert and, potentially, threateningly alive.\n\nFor his commissioned site-specific project on the Bluhm Family Terrace of the Modern Wing, Hiorns presents two Pratt and Whitney TF33 P9 engines, once mounted on Boeing EC135 Looking Glass long-range surveillance planes. For the artist, the project is a representation of a dominant 20th-century object within the context of art and the art museum. The engine apparatus, Hiorns argues, is no less culturally important than the other artworks displayed with it; many works in the Modern Wing were, in fact, created under the shadow of the security the engine assembly once and still provides.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-05-01T00:00:00-05:00",
+    "aic_end_at": "2010-09-19T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25238,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Roger Hirons"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:20-06:00",
+    "timestamp": "2021-01-14T17:13:21-06:00"
+}

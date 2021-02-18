@@ -1,0 +1,39 @@
+{
+    "id": 3172,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3172",
+    "title": "Chagall's America Windows",
+    "is_featured": false,
+    "description": "Marc Chagall\u2019s America Windows is one of the most beloved treasures in our vast collection. First debuting at the Art Institute in 1977 and made forever famous less than ten years later by an appearance in the film Ferris Bueller\u2019s Day Off, the \u201cChagall Windows,\u201d as they are more popularly known, hold a special place in the hearts of Chicagoans. Following an intensive period of conservation treatment and archival research, the windows returned in 2010 as the stunning centerpiece of a new presentation at the east end of the museum\u2019s Arthur Rubloff building.  \n\nWhile members and visitors have loved America Windows for years, many may not realize how deeply their history is interwoven with the history of Chicago and its rich tradition of public art. The story begins in the early 1970s, when Chagall came to the city for work related to his mosaic installed outside Chase Tower, The Four Seasons. In response to the city\u2019s enthusiasm for his work and the Art Institute\u2019s great support, the artist offered to create a set of stained-glass windows for the museum. Over the course of three years, plans were clarified, and in the end, Chagall determined that the windows would commemorate America\u2019s bicentennial. The resulting six-panel work celebrates the country as a place of cultural and religious freedom, detailing the arts of music, painting, literature, theater, and dance. Because of his admiration for Chicago and its strong commitment to public art during the 1960s and 1970s, Chagall chose to dedicate the work to Mayor Richard J. Daley, a great supporter of public art projects. The windows were presented with much fanfare at a formal unveiling, hosted by the Auxiliary Board of the Art Institute, on May 15, 1977.\n\nIn their new home, the vibrant colors of the windows will once again glow due not only to their extensive conservation but to a new and insightful context of other modern artworks in the museum\u2019s collection related to this moment of the city\u2019s engagement with public sculpture.",
+    "short_description": "Reinstalled in a brand new gallery in late 2010, this visitor favorite absolutely glows from its recent conservation.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3172/chagalls-america-windows",
+    "image_url": "https://artic-web.imgix.net/cfe2dd76-c8b7-44e7-920e-120fa2f731a4/Chagall.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=504%2C0%2C1992%2C1121",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-05-30T00:00:00-05:00",
+    "aic_end_at": "2011-06-01T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": 26132,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chagall's America Windows"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:02-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

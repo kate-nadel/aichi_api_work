@@ -1,0 +1,41 @@
+{
+    "id": 4710,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4710",
+    "title": "Treasures from Poland",
+    "is_featured": false,
+    "description": "This exhibit celebrated the Millennium of Poland, thus commemorating over 1,000 years of Polish art. It was presented in chronological order. The earliest pieces in the exhibit were from the 11th century, when the Romanesque period was going strong. These works were often represented through golden chalices and a paten, and were placed in a first group of the exhibit. The second group of items in the exhibit were from the gothic period. This era was largely represented through sculptures and paintings which were largely religious in nature. The Golden Age of Poland, which lasted roughly from 1500-1572, was represented by tapestries, paintings, tiles, and swords. The third portion of the exhibit held Baroque era works, which were honored by developments in portrait painting. In the next part of the exhibit, masterpieces of the enlightenment period were available for viewing. In this portion, 11 of the 26 immense paintings of Warsaw by the famed Bellotto were shown for the first time in the United States. Finally, the closing portion of the exhibit was dedicated to the Romantic era and featured paintings from artists like Piotr Michalowski, Henry Radakowski, and Jan Matejko.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1966-10-15T00:00:00-05:00",
+    "aic_end_at": "1966-12-24T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "European Decorative Arts",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "efa1f322-4425-4b09-93a3-07adb8b7a252",
+    "alt_image_ids": [],
+    "document_ids": [
+        "200ae256-5e7e-8b1f-a1ce-512c7e664291"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Treasures from Poland"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-31T14:38:33-05:00",
+    "last_updated": "2019-10-31T14:40:40-05:00",
+    "timestamp": "2021-01-14T17:14:25-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3019,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3019",
+    "title": "Design Inspiration: 19th- Century American Builders' Manuals and Pattern Books",
+    "is_featured": false,
+    "description": "The builders' manuals of the 18th century were the \"how-to\" manuals of their era. These practical guides for builders, primarily carpenters, were the important resources for construction techniques and design details, descendants in a long history of published manuals. Particularly in England the guides disseminated the designs of the 16th century Italian architect Andrea Palladio and largely shaped the architecture in the American colonies. They consistently emphasized the five orders\u2014Tuscan, Doric, Ionic, Corinthian and Composite\u2014and classical details. By the mid-18th century many of the earliest manuals in the colonies were imported from Britain; later, select British titles appeared in American editions",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2011-09-06T00:00:00-05:00",
+    "aic_end_at": "2011-11-01T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Design Inspiration: 19th- Century American Builders' Manuals and Pattern Books"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:19-06:00",
+    "timestamp": "2021-01-14T17:13:51-06:00"
+}

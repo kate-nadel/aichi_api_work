@@ -1,0 +1,39 @@
+{
+    "id": 6339,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6339",
+    "title": "The Masterpiece of the Month: Stoke-by-Nayland by John Constable, W. W. Kimball Collection",
+    "is_featured": false,
+    "description": "During April 1940, John Constable\u2019s \u201cStoke-by-Nayland\u201d was featured as the Masterpiece of the Month. The 19th century English landscape painter\u2019s ability to utilize color and expressive palette knife and brush strokes to emulate the vibrancy of a landscape was praised during and after his life, inspiring many French painters, namely, Eug\u00e8ne Delacroix. According to the newsletter announcing this exhibition, apparently Delacroix was so impressed by Constable\u2019s work he repainted one of his own works in the style of Constable.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1940-04-01T00:00:00-06:00",
+    "aic_end_at": "1940-04-30T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Masterpiece of the Month: Stoke-by-Nayland by John Constable, W. W. Kimball Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T12:16:25-05:00",
+    "last_updated": "2019-10-15T12:21:20-05:00",
+    "timestamp": "2021-01-14T17:14:56-06:00"
+}

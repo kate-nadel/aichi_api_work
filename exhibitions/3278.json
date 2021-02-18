@@ -1,0 +1,39 @@
+{
+    "id": 3278,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3278",
+    "title": "Spot the Dog: Paw Prints!",
+    "is_featured": false,
+    "description": "This installation of nearly a dozen prints features dogs concealed in clever ways\u2014or simply hiding in plain sight. Dogs of all shapes and sizes have appeared in artworks from almost every culture over the centuries, whether as status symbols, fluffy ornaments, or artistic inspiration. This presentation focuses on 17th-century works from Northern Europe to complement the paintings on permanent display in the surrounding galleries. Dogs were very common pets and working farmyard animals in the Dutch Republic. Once you have found the dogs in the prints and paintings on view, make sure to examine the paintings in the adjoining gallery. Every dog has his day, so join in and see how many covert canines you can spot today!",
+    "short_description": "Discover nearly a dozen dogs concealed\u00a0in clever ways\u2014or simply hiding in plain sight\u2014in this selection of 17th-century prints from Northern Europe.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3278/spot-the-dog-paw-prints",
+    "image_url": "https://artic-web.imgix.net/11260d7f-a4dc-49ef-aa8f-746e6aea4075/1984.125WenceslausHollarWhiteDog.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=697%2C610%2C1646%2C923",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-12-20T00:00:00-06:00",
+    "aic_end_at": "2013-05-29T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": 2147483623,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Spot the Dog: Paw Prints!"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:08-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

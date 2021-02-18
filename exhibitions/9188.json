@@ -1,0 +1,44 @@
+{
+    "id": 9188,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9188",
+    "title": "Cevdet Erek: chi\u00e7i\u00e7i\u00e7ichici\u00e7i",
+    "is_featured": false,
+    "description": "Cevdet Erek (born 1974, Istanbul) is an artist, musician, and architect whose work revolves around sound as a measure for space, time, and the world around us. His newly commissioned project, chi\u00e7i\u00e7i\u00e7ichici\u00e7i, consists of a 16-channel sound installation, graphic notations, and modified metal fencing. It is installed in Griffin Court, a space that connects and unites multiple functions, positions, and perspectives in the museum. \nchi\u00e7i\u00e7i\u00e7ichici\u00e7i stages an interaction between visual, written, sonic, and architectural elements to investigate our motion and position in space. The letters on the wall, all varied arrangements of the work\u2019s onomatopoeic title, anticipate the prerecorded sounds that permeate Griffin Court through each of the 16 speakers in the installation. Some speakers are directed toward specific locations, while others accompany our passage through the space. The subtle percussive proposals of the title and their accompanying soundtrack resonate with the chime of the fences when touched in passing or played with intent, the sound affected by our pace and movement.\nThe wall is simultaneously a soundtrack and an instrument that uses both visual and per-cussive elements of language. Through the experience of seeing and hearing chi\u00e7i\u00e7i\u00e7ichici\u00e7i, Erek suggests sound as the connective tissue linking our position in space to the objects and architectures around us in an ever-shifting proximity.\nchi\u00e7i\u00e7i\u00e7ichici\u00e7i is the first installment of Iterations, a series of new performance commissions occurring in 2019\u201321. Iterations is made possible through the generous support of the Society of Contemporary Art.",
+    "short_description": "<p><em>Iterations</em>, a new series of commissioned performances, launches with a work by Cevdet Erek that uses a wall in Griffin Court as instrument, soundtrack, and graphic notation.</p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9188/cevdet-erek-chicicicichi",
+    "image_url": "https://artic-web.imgix.net/3f67e29a-e8f1-4756-b84c-493cd466fb4a/IM040048_008-int.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C298%2C3000%2C1688",
+    "type": "AIC Only",
+    "status": "Confirmed",
+    "aic_start_at": "2019-02-28T00:00:00-06:00",
+    "aic_end_at": "2019-06-23T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 24000,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "d489fc1d-90eb-1144-76b9-58752ce371e8",
+    "alt_image_ids": [
+        "f451b185-59e7-95ce-bb86-effb5ea73e0f",
+        "5deeac64-869d-3246-3215-04441477eabd",
+        "71eaaac1-f383-fc66-8c62-48c40fe77a8c",
+        "5f46a892-f806-5ce9-b23d-761311f2ec85"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Cevdet Erek: chi\u00e7i\u00e7i\u00e7ichici\u00e7i"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-06-12T12:18:10-05:00",
+    "last_updated": "2021-01-13T23:24:00-06:00",
+    "timestamp": "2021-01-14T17:16:07-06:00"
+}

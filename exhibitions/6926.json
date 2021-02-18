@@ -1,0 +1,47 @@
+{
+    "id": 6926,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6926",
+    "title": "Walter Burley Griffin, Marion Mahony Griffin: Architectural Drawings in the Burnham Library of Architecture",
+    "is_featured": false,
+    "description": "This exhibition was composed of drawings used by the husband and wife team of Walter Burley Griffin and Marion Mahony Griffin in a variety of projects in the United States, Australia, and India. The Griffins brought their ideas of Prairie School Architecture,\nwhich included the importance and beauty of natural materials and modern technology, the relationship between nature and architecture, and the role of architecture in a democratic\nsociety, to these projects around the world. The majority of the 20 drawings in the exhibition were from Australian projects. Some of the drawings from this exhibition were first shown in 1979 in an Australian exhibition - \u201cThe Three Worlds of Walter BurleyGriffin, Architect: U.S.A, Australia, and India.\u201d",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1981-09-10T00:00:00-05:00",
+    "aic_end_at": "1982-01-31T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "d98663a9-6ea6-1393-9ab6-ebd03d0a70df",
+    "alt_image_ids": [
+        "908a8191-f61c-a8d9-2001-26f6baf01c6c",
+        "5e7acc6f-afe1-bfbe-c246-f8e36b5e0b11",
+        "849ed7c7-3c3f-5992-95f6-7c9a97e5ca0b",
+        "789a4e70-0220-2a39-3006-f26ce3d3a43d",
+        "fc9092a8-7c6c-8aec-6c8a-1e117ec5b534"
+    ],
+    "document_ids": [
+        "f34cd713-a9bf-62ed-6906-d7344272339d"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Walter Burley Griffin, Marion Mahony Griffin: Architectural Drawings in the Burnham Library of Architecture"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T10:12:15-05:00",
+    "last_updated": "2019-10-15T10:16:22-05:00",
+    "timestamp": "2021-01-14T17:15:10-06:00"
+}

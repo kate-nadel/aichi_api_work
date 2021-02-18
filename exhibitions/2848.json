@@ -1,0 +1,39 @@
+{
+    "id": 2848,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2848",
+    "title": "Zero Gravity: The Art Institute, Renzo Piano, and Building for a New Century",
+    "is_featured": false,
+    "description": "In 1999, internationally recognized Italian architect Renzo Piano was commissioned to design the Art Institute's new north wing. Piano's plan, which makes imaginative use of natural light and blends of new architectural forms into an established urban fabric, has inspired this exhibition that not only provides a foretaste of the new addition but also evokes the stimulating environment of the Renzo Piano Building Workshop, where the architect's singular visions take shape.\n\nLocated at the top of the Grand Staircase (note: the exhibition will move to Gallery 50 in mid-July 2006), Zero Gravity portrays Piano's studio as a creative place where ideas develop, plans are drawn, and models crafted. On a large table, reminiscent of the one in his Paris office, working documents are displayed. Nearby walls bear plans and drawings that document the project's development. The models on exhibit are crucial to understanding how the architect's process. Two-dimensional plans are developed in three dimensions to fully analyze concepts of scale and space. Removed from the confines of a gallery, the work is incorporated into the museum's own architecture, underscoring Piano's commitment to designing a building integral to the historic whole.\n\nOpening in spring 2009, the glass, limestone, and steel structure will add a 21st-century architectural identity to a museum best known for its grand 19th-century building on Michigan Avenue. The new wing's distinctive feature will be a luminous sunscreen, described by the architect as a \"flying carpet,\" that will \"float\" above the actual roof and shelter the building and its immediate surroundings. The wing will provide new galleries for modern and contemporary art, while more than doubling classroom space for educational programs and adding a third, public garden court.\n\nCatalogue\nMany of the materials on view in the exhibition are reproduced in a 56-page catalogue illustrated with more than 40 color models, plans, renderings, and sketches. An essay by president and director James Cuno explores Piano's approach to the design of the building, while curator Martha Thorne surveys his recent museum architecture. The book is available in the Museum Shop and online.\n\nOrganizer\nThis exhibition is organized by the Renzo Piano Building Workshop and the Art Institute of Chicago.\n\nSponsor\nChase is the exclusive sponsor of Zero Gravity: The Art Institute, Renzo Piano, and Building for a New Century.",
+    "short_description": "In 1999, internationally recognized Italian architect Renzo Piano was commissioned to design the Art Institute's new north wing. Piano's plan, which makes imaginative use of natural light and blends of new architectural forms into an established urban fabric, has inspired this exhibition that not only provides a foretaste of the new addition but also evokes the stimulating environment of the Renzo Piano Building Workshop, where the architect's singular visions take shape.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2848/zero-gravity-the-art-institute-renzo-piano-and-building-for-a-new-century",
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2006-05-09T00:00:00-05:00",
+    "aic_end_at": "2007-02-01T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 2147477218,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Zero Gravity: The Art Institute, Renzo Piano, and Building for a New Century"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:42-06:00",
+    "timestamp": "2021-01-14T17:13:45-06:00"
+}

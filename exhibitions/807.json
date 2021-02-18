@@ -1,0 +1,39 @@
+{
+    "id": 807,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/807",
+    "title": "Cutting Edges: Contemporary Chinese Woodblock Prints",
+    "is_featured": false,
+    "description": "China\u2019s most dynamic printmakers working today are using their nation\u2019s time-honored graphic medium to create a truly contemporary art. Renowned for the invention of paper and for the earliest development of woodcut illustration and polychrome printing, China has a rich artistic inheritance that has inspired artists to bring fresh vision to both long-established and current themes. Cutting Edges: Contemporary Chinese Woodblock Prints highlights the recent and very diverse work by three generations of contemporary artists, many of whom teach at leading academies in China.\n\nThe exhibition features single- and multiblock impressions printed with water-soluble colors used for centuries by Chinese painters and calligraphers, and lush, intense oil-based inks that were introduced from the West less than a century ago. The images, whether quietly idyllic or expressively powerful, display both traditional and innovative techniques of woodblock cutting and printing. Whereas some draw upon well-established traditions of Chinese painting, others assimilate Cubism and other 20th-century Western modes of representation. Landscapes appear delicately lyrical, dramatically stylized, or strikingly minimalist. Some human figures\u2014both native Chinese and ethnic minorities\u2014are elegantly portrayed. Others appear to evoke disturbing societal tensions. The subtlest compositions combine motifs drawn from China\u2019s rich intellectual heritage in new and unexpected ways.\n\nAll of these works come from a portfolio that was commissioned in 1999 by the Muban (Chinese for woodblock) Foundation in London, which recognizes the achievements of China\u2019s most inspired and accomplished printmakers.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2008-03-29T00:00:00-05:00",
+    "aic_end_at": "2008-06-29T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480089,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Cutting Edges: Contemporary Chinese Woodblock Prints"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:45-06:00",
+    "timestamp": "2021-01-14T17:13:13-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3219,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3219",
+    "title": "Neapolitan Cr\u00e8che: A Holiday Gift to the City",
+    "is_featured": false,
+    "description": "A thrilling new acquisition will be unveiled this holiday season: a mid-18th-century Neapolitan cr\u00e8che. One of the very few and finest examples of such a work outside of Naples, the cr\u00e8che is an intricate Nativity scene that reflects the vitality and artisanship that the city is still known for. The Art Institute\u2019s cr\u00e8che features over 200 figures\u2014including no less than 50 animals and 41 items of food and drink\u2014all staged in a spectacular Baroque cabinet with a painted backdrop. Elaborate, complex, and wondrous, the Neapolitan cr\u00e8che is a rare example of the genre and a once-in-a-lifetime acquisition for the Art Institute.\n\nSacred imagery reenacting the Nativity has its roots in fourth-century Rome but by the 13th and 14th centuries, in part due to its association with St. Francis of Assisi, such scenes had become a permanent feature of Neapolitan churches. During the 18th century, the period from which most of the figures of the Art Institute\u2019s cr\u00e8che date, these relatively simple tableaux underwent a transformation into highly dramatic and theatrical renderings. Traditional sacred elements of Nativity scenes\u2014the Holy Family, wise men, angels, and shepherds\u2014were combined with profane aspects not of Bethlehem but of contemporary Neapolitan life\u2014rowdy tavern scenes and bustling street activities\u2014in dazzling displays of artistic techniques. Churches, wealthy citizens, members of the nobility, and the royal family all competed to commission the most complex presentations of this popular art form from leading artists and artisans, the same people who were creating monumental sculptures and altars for churches and palaces. These artists rendered figures in oil-painted terracotta to achieve the most realistic expressions in cr\u00e8ches and constructed painstakingly detailed costumes of luxurious fabrics that mimicked the fashions of the time. The Art Institute\u2019s cr\u00e8che represents the pinnacle of this artistic practice, born of the centuries-old tradition of Nativity scenes yet bursting with the energy of 18th-century Neapolitan life.\n\nDue to the fragility of the original silk costumes and exquisite embroidery, the Neapolitan cr\u00e8che can only be on view for a few weeks every year. Don\u2019t miss your chance to revel in Baroque artistry this season!",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2013-11-29T00:00:00-06:00",
+    "aic_end_at": "2014-01-08T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "European Decorative Arts",
+    "gallery_id": 2147483628,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Neapolitan Cr\u00e8che: A Holiday Gift to the City"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:09-06:00",
+    "timestamp": "2021-01-14T17:13:56-06:00"
+}

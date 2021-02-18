@@ -1,0 +1,39 @@
+{
+    "id": 3196,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3196",
+    "title": "Figures of the Chinese Imagination",
+    "is_featured": false,
+    "description": "Inspired by anecdotes, legends, and imaginary perceptions of distant or spiritual realms, Chinese painters portrayed a wide array of figures\u2014eccentric, whimsical, and bizarre. This installation presents a small sampling of such visual imagery. The most subdued figures represent historical recluses of the 3rd century A.D., whose lifestyle exemplified an ideal existence of pleasurable detachment from society. Others are more fanciful\u2014Buddhist disciples that appear only quasi-religious as they travel through a supernatural landscape en route to an immortal realm; caricatured depictions of foreign envoys to the Chinese court; and impish ghosts pursuing ordinary activities in a dark and damp underworld.  \n\nTogether, these paintings exhibit distinctive styles of brushwork, from fine outline to broad \u201cax-cut\u201d strokes and washes of ink\u2014some carefully graded and others that appear almost slapdash when applied to pre-soaked paper.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-12-05T00:00:00-06:00",
+    "aic_end_at": "2015-03-01T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147478117,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Figures of the Chinese Imagination"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:04-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

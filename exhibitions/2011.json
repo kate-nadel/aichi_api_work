@@ -1,0 +1,39 @@
+{
+    "id": 2011,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2011",
+    "title": "Nairy Baghramian: French Curve / Slip of the Tongue",
+    "is_featured": false,
+    "description": "The formal abstract work of Iranian-born, Berlin-based sculptor Nairy Baghramian (born 1971) draws on the legacy of post-minimal art to investigate the conventions and expectations that commonly surround public sculpture. This spring the Art Institute is pleased to present the debut of Baghramian\u2019s French Curve (2014) and Slip of the Tongue (2014), site-specific works commissioned for the Bluhm Family Terrace.\n\nFor Baghramian, the bodily experience of public sculpture is necessarily inflected by its surroundings. Recognizing that the spectacular view of Chicago\u2019s skyline from the terrace is the most defining aspect of the space, she chose to emphasize the horizontal plane of the terrace floor. The artist said, \u201cI did not want to compete with this impressive vertical backdrop; instead I wanted to offer a leisurely horizontal axis.\u201d French Curve takes its name from a traditional drawing tool, and indeed Baghramian thinks of the work as a simple, elegant line that has become a three-dimensional form.\n\nApproximately 55 feet long, the sculpture is composed of numerous handmade segments of cast aluminum. The scooped-out hollow spine, approximately knee height, on the interior side is, for the artist, analogous to the marrow of a bone. This intimate underside has a hand-sculpted, shiny finish while the outside of the sculpture is cast-aluminum matte.\n\nComplementing this serene work on the terrace is a group of seven works by Baghramian titled Slip of the Tongue. Displayed in the sculptural vitrines in the adjacent Terzo Piano space, these fragile, speculative forms made of epoxy resemble flaccid sacks. They seem to melt and collapse against the glass and resemble on a smaller scale what has been removed from French Curve. The separation of the inside from the outside encourages the public to consider the different purposes of the spaces in which these two related works are located and how they might cohere\u2014all the while asserting qualities of contemplation and negotiation over spectacle.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-05-13T00:00:00-05:00",
+    "aic_end_at": "2014-10-05T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25238,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Nairy Baghramian: French Curve / Slip of the Tongue"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:52-06:00",
+    "timestamp": "2021-01-14T17:13:35-06:00"
+}

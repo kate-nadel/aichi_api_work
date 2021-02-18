@@ -1,0 +1,39 @@
+{
+    "id": 3071,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3071",
+    "title": "Dennis Oppenheim: Projection",
+    "is_featured": false,
+    "description": "The three slide projections in this presentation, shown together in 1975 but rarely seen since, mark a point of intersection between land art and body art\u2014two areas pioneered by sculptor and media artist Dennis Oppenheim (American, 1938\u20132011). In these intimate and personal works, the artist used performances for the camera to explore the theme of mourning and to model an intergenerational transfer of psychic or creative energies. Shot from a helicopter, 2000' Shadow Projection (1972), shows the artist alone in a field, standing in the stark beam of a far-reaching searchlight; he repeatedly plays a one-note dirge on a trumpet, an act of memorial to his father, who had died the same year. In Ground Gel #2 (1972), also photographed from above, he whirls his young daughter, Chandra, round and round, their figures appearing to merge with each other as well as with the ground as the slides progress. Whispering, \u201cI want to go there...\u201d as he whirls his daughter around, Oppenheim propels an exchange of action and energy that seems to exceed the material boundaries of his own bodily form. Grandfather and granddaughter meet symbolically in the third work, Polarities (1972). Using red magnesium flares, Oppenheim created two \u201clandscape drawings,\u201d together stretching more than 1,000 feet, by plotting enlarged versions of a doodle drawn by his father the night before he died and one of Chandra\u2019s first artworks.\n\nSlides give a perfect metaphor for themes of separation and interdependence, causing images to shift and dissolve like the bodies they symbolize or depict. \u201cMy work,\u201d Oppenheim described in 1973, \u201clies on the attempt to remove the frontier between an action directed from within the bounds of my life and the one I try to direct, at the same time, beyond those bounds.\u201d\n\nThe exhibition is presented jointly by the Department of Photography and the Department of Modern and Contemporary Art. A selection of related lithographs by Dennis Oppenheim, recent gifts of Irving Stenn, Jr., is on view nearby in Gallery 189.",
+    "short_description": "These three rarely seen slide projections mark a point of intersection between land art and body art\u2014two areas pioneered by sculptor and media artist Dennis Oppenheim.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3071/dennis-oppenheim-projection",
+    "image_url": "https://artic-web.imgix.net/6a764eda-4bd5-4f44-8b99-860896d2dcb9/exh_dennis-oppenheim_main_480.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2016-02-26T00:00:00-06:00",
+    "aic_end_at": "2016-06-12T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25208,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Dennis Oppenheim: Projection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:39-06:00",
+    "timestamp": "2021-01-14T17:13:52-06:00"
+}

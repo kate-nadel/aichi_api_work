@@ -1,0 +1,39 @@
+{
+    "id": 3180,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3180",
+    "title": "The Jack D. Beem Collection: Emerging Japanese Print Artists of the 1960s, 70s, and Beyond",
+    "is_featured": false,
+    "description": "Chicago has boasted many great Japanese print collectors in its history, and Jack D. Beem is one of the foremost in Chicago today. Jack lived in Japan from 1964 to 1970, during which time he began a lifelong interest in Japanese art. Drawn to many of the arts of Japan initially, he found himself lured time and again back to the beauty, techniques, and forms in Japanese contemporary prints. His print collecting began in 1965 and has continued on frequent trips back to Japan.\n\nJack\u2019s focus has been on new, emerging artists, especially those who use a variety of techniques such as mezzotint, silkscreen, and updated methods of traditional woodblock printing in their works. In addition, he has been fortunate to know some of the artists whose work he collects personally. Noda Tetsuya, whose prints are on display in this exhibition, was an early and constant friend. After seeing an exhibition of his prints at the Tokyo American Club, Jack knew that Noda was not only a great art teacher but would be an important artist as well. Inspired by Noda\u2019s photographic technique, Jack gave him a passport photo of himself, the likeness of which makes an appearance in one of the artist\u2019s works on display here.\n\nThis is the first exhibition to focus exclusively on the Beem collection, and we are grateful to be able to present this important collection on the occasion of the opening of the new Japanese art galleries.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-09-26T00:00:00-05:00",
+    "aic_end_at": "2011-01-09T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Jack D. Beem Collection: Emerging Japanese Print Artists of the 1960s, 70s, and Beyond"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:22:58-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 723,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/723",
+    "title": "Yousuf Karsh",
+    "is_featured": false,
+    "description": "Yousuf Karsh\u2019s portraits are instantly recognizable. Ernest Hemingway, Georgia O\u2019Keeffe, Albert Einstein, Winston Churchill, and Marian Anderson, true visual icons of the 20th century, each sat before his photographic lens. \n\nThis master portraitist, however, came from humble beginnings. As a teenager the Armenian Karsh fled his native Turkey to live first in Syria and then in Canada with his photographer uncle. Always connected with traditional photographic methods, he honed his skills first as an apprentice in Boston from 1928 to 1931 and then in his own studio in Ottawa from 1932 until 1992. In 1941, his portrait of Winston Churchill immediately earned him an international reputation. The image exemplified \u201cthe roaring lion\u201d standing alone against the fascists that had overrun continental Europe. His fame was further enhanced with state commissions of political and military leaders during WWII, and his renown continued to skyrocket after the war and through the early 1960s when he began adding writers, actors, artists, musicians, scientists, statesmen, and celebrities to his portfolio of accomplished individuals.\n\nTo mark the centenary of his birth, this retrospective will display Karsh\u2019s best portrait subjects in the prints he himself preferred.  The 100 photographs in the exhibition are drawn from a set of over 200 master prints given to the museum as a promised gift by his widow, Estrellita Karsh.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2009-01-22T00:00:00-06:00",
+    "aic_end_at": "2009-04-26T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Yousuf Karsh"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:41-06:00",
+    "timestamp": "2021-01-14T17:13:12-06:00"
+}

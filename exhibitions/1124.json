@@ -1,0 +1,39 @@
+{
+    "id": 1124,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1124",
+    "title": "In the Vernacular",
+    "is_featured": false,
+    "description": "Vernacular photographs\u2014those countless ordinary and utilitarian pictures made for souvenir postcards, government archives, police case files, pin-up posters, networking Web sites, and the pages of magazines, newspapers, or family albums\u2014have been both the inspiration for and the antithesis of fine-art photography for over a century. In their struggle to gain legitimacy in the art world, fine-art photographers at the turn of the 20th century endeavored to distance their work from the amateur, commonplace, and practical photographs that had become so familiar in everyday experience.\n\nThis exhibition presents the work of artists who chose instead to strategically use photography\u2019s everyday forms as a source of inspiration, consciously appropriating, reworking, and interrogating the aesthetics, content, and means of distribution associated with vernacular photography. Photographs by Walker Evans, Andy Warhol, Lee Friedlander, Cindy Sherman, Martin Parr, Nikki S. Lee, and others represented in the Art Institute\u2019s permanent collection challenge us to reevaluate the impact, value, and status of the photographs we encounter in our daily lives. These images persuade us to consider the ways in which photographs function as significant bearers of complex meaning, rather than mere descriptions or reflections of the world, whether they grace the walls of a museum, the pages of a magazine, the files in a cabinet, or a living room mantel.",
+    "short_description": "Vernacular photographs\u2014those countless ordinary and utilitarian pictures made for souvenir postcards, government archives, police case files, pin-up posters, networking Web sites, and the pages of magazines, newspapers, or family albums\u2014have been both the inspiration for and the antithesis of fine-art photography for over a century. In their struggle to gain legitimacy in the art world, fine-art photographers at the turn of the 20th century endeavored to distance their work from the amateur, commonplace, and practical photographs that had become so familiar in everyday experience.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/1124/in-the-vernacular",
+    "image_url": "https://artic-web.imgix.net/7fea0bfc-70a0-4af2-af62-c060d0124f30/2008.401Philip-LorcaDiCorcia.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=42%2C164%2C2916%2C1640",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-02-06T00:00:00-06:00",
+    "aic_end_at": "2010-05-31T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "In the Vernacular"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:02-06:00",
+    "timestamp": "2021-01-14T17:13:19-06:00"
+}

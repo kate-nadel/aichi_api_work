@@ -1,0 +1,39 @@
+{
+    "id": 3282,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3282",
+    "title": "Galleries of African Art and Indian Art of the Americas",
+    "is_featured": false,
+    "description": "In the summer of 2011, the Art Institute\u2019s superb collections of African art and Indian art of the Americas returned to brand new galleries in the museum\u2019s lower Morton Wing. Our curators worked closely with the California-based architectural firm wHY (Workshop Hakomori Yantrasast) to create a space that presents an exciting range of forms and materials, allowing visitors to see new works of art, as well as familiar favorites, in a new light. As part of the celebration, special loans were displayed during the inaugural year, including a richly worked brocaded silk textile woven from the golden threads of the Nephila Madagascariensis, a Malagasy spider.\n\nThis world-class reinstallation develops new approaches to the presentation of the collections including original video presentations for each gallery. Innovatively juxtaposing close-ups of works of art with images of archaeological sites, artists at work, landscapes, ritual performances, scenes of contemporary life, and seasonal phenomena, the videos forego documentary-style storytelling, inviting viewers instead to respond directly to the images on a personal level.\n\nThe Art Institute\u2019s African art collection includes sculpture, masks, household objects, personal adornment, and regalia from across the continent. While the core of the collection features sculpture from West and Central Africa, acquisitions over the past 20 years bring attention to important artistic traditions from east, north, and southern Africa. In the greatly expanded African art gallery, the most sculptural works of art are presented in the round, with African textiles displayed on a rotating basis in two locations.The museum\u2019s holdings of Indian art of theAmericas span more than 4,000 years and include outstanding works from across the United States as well as ancient Mesoamerica and the Andean countries of South America. Ceramics, basketry, textiles, stone sculpture, metalwork, painting, and beadwork present a remarkable picture of the indigenous artistic heritage and deep-seated patterns of thought and ritual performance throughout the continent.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2011-06-03T00:00:00-05:00",
+    "aic_end_at": "2011-11-06T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Arts of Africa and the Americas",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Galleries of African Art and Indian Art of the Americas"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:27-06:00",
+    "timestamp": "2021-01-14T17:13:58-06:00"
+}

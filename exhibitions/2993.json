@@ -1,0 +1,39 @@
+{
+    "id": 2993,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2993",
+    "title": "Practice, Theory, and History: 150 Years of Educating Artists, Designers, and Scholars at the School of the Art Institute of Chicago",
+    "is_featured": false,
+    "description": "This exhibition explores art education, free speech, and student life at the School of the Art Institute of Chicago (SAIC) over the past 150 years. Archival material and items from the Ryerson and Burnham Libraries\u2019 collections illustrate the student experience at SAIC and the school's influence from its origin as the Academy of Design in 1866 to the present day. Starting with a description of the academic programs offered by the SAIC and how they have evolved over time, the exhibition explores the built environment for the school, information on student demographics, exhibitions of student work, activism and freedom of expression, and aspects of daily student life including dining, employment, extracurricular activities, and housing.",
+    "short_description": "Exploring art education, free speech, and student life, this exhibition offers a look at the student experience at the School of the Art Institute of Chicago from its origin to the present day.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2993/practice-theory-and-history-150-years-of-educating-artists-designers-and-scholars-at-the-school-of-the-art-institute-of-chicago",
+    "image_url": "https://artic-web.imgix.net/7ef3b207-4e93-479e-9eda-601d43cf5ac7/exh_practice-theory_main_360h_0.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "Rotation",
+    "status": "Closed",
+    "aic_start_at": "2016-12-06T00:00:00-06:00",
+    "aic_end_at": "2017-02-13T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Ryerson and Burnham Library/Archives",
+    "gallery_id": 2147472240,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Practice, Theory, and History: 150 Years of Educating Artists, Designers, and Scholars at the School of the Art Institute of Chicago"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:07-06:00",
+    "timestamp": "2021-01-14T17:13:50-06:00"
+}

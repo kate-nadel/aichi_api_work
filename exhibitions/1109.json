@@ -1,0 +1,39 @@
+{
+    "id": 1109,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1109",
+    "title": "William Eggleston: Democratic Camera, Photographs and Video, 1961-2008",
+    "is_featured": false,
+    "description": "One of the most influential American artists, William Eggleston changed the history of color photography. This exhibition\u2014the artist\u2019s first retrospective in the United States\u2014brings together Eggleston\u2019s famous color photographs of the American South with lesser-known works, such as his early black-and-white prints and provocative video recordings.\n\nA key figure of the last half-century, Eggleston is often credited for singlehandedly ushering in the era of color art photography. His motivation was simple and decidedly everyday: \u201cI had wanted to see a lot of things in color because the world is in color.\u201d His achievement is patently more extraordinary\u2014transforming ordinary moments into indelible images.\n\nThis exhibition, which fills the Modern Wing\u2019s Abbott Galleries and Carolyn S. and Matthew Bucksbaum Gallery, demonstrates Eggleston\u2019s democratic approach to his photographic subjects in both color and black-and-white. On display are Eggleston\u2019s remarkable black-and-white images from the early 1960s and his little-seen recording of 1970s Memphis nightlife, Stranded in Canton. These works only amplify his achievement in bringing a detailed sensitivity to his iconic color photographs\u2014telling portrayals of American culture, including a freezer stuffed with food, Elvis\u2019s Graceland, and a supermarket clerk corralling grocery carts in the afternoon sunlight.\n\nInternationally acclaimed, Eggleston has spent the past four decades photographing around the world, responding intuitively to fleeting configurations of cultural signs and specific expressions of local color. Psychologically complex and casually refined, bordering on kitsch and never conventionally beautiful, these photographs have had a pervasive influence on many contemporary artists. By not censoring, rarely editing, and always photographing even the seemingly banal, Eggleston convinces us completely of the idea of the democratic camera.\n\nThis exhibition will be closed on Friday, May 7 due to the School of the Art Institute's 2010 Fashion Show. \n\nPlease note that some of the exhibition's videos contain potentially disturbing content.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2010-02-27T00:00:00-06:00",
+    "aic_end_at": "2010-05-23T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "William Eggleston: Democratic Camera, Photographs and Video, 1961-2008"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:11-06:00",
+    "timestamp": "2021-01-14T17:13:19-06:00"
+}

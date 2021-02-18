@@ -1,0 +1,41 @@
+{
+    "id": 4264,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4264",
+    "title": "SAIC: Sculpture by Xavier Corbero",
+    "is_featured": false,
+    "description": "Xavier Corbrero\u2019s exhibition at the School of the Art Institute of Chicago came into fruition after he met Mr. Allan McNab and Norman Boothby, both of whom worked for SAIC, in Barcelona while the two were trying to establish a European exchange program. Corbrero\u2019s work was shown as part of his role as a visiting artist to the School of the Art Institute. At the time of this show, Corbrero was just 28 years old. The exhibition featured several bronze reliefs, sculptures, and drawings rendered by the titular artist. Corbrero\u2019s work straddled the two schools of Spanish avant-garde\u2014 one based out of Barcelona and the other out of Madrid, while his solid craftsmanship can be attributed to his early years alongside his father at their family metal workshop. At the time of this show, Corbero had exhibited in several cities throughout Europe, but this was his first American show.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1964-03-02T00:00:00-06:00",
+    "aic_end_at": "1964-03-28T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "School of the Art Institute of Chicago",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "2973c00c-9be3-b1a1-c85e-e5ef3554f579"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "SAIC: Sculpture by Xavier Corbero"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T14:38:47-05:00",
+    "last_updated": "2019-10-14T14:41:20-05:00",
+    "timestamp": "2021-01-14T17:14:16-06:00"
+}

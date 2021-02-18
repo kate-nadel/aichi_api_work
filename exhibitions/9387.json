@@ -1,0 +1,39 @@
+{
+    "id": 9387,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9387",
+    "title": "Naughty Nymphs in the Courtyard of the Favorites",
+    "is_featured": false,
+    "description": "For Paulina Olowska (born 1976), painting and performance are closely entwined. Her performances function as subtext for her paintings, drawing out reciprocal relationships between scenography and movement, the still image and the moving body. With her newly commissioned work Naughty Nymphs in the Courtyard of the Favorites, the artist finds inspiration in the Art Institute\u2019s galleries of American art, where Ellsworth Kelly\u2019s The Chicago Panels (1989\u201399) surround an atrium housing Neoclassical sculptures\u2014mythological and idealized manifestations of the nude female body. Investigating the sexual politics of space and building upon her long-term interest in images from fashion and advertising, Olowska critically engages with representations of the female body in this three-day performance event. \n\nNaughty Nymphs in the Courtyard of the Favorites centers on the particular aesthetic of the soft-core magazine Viva. Specifically developed for female readers, Viva emerged in the 1970s era of \u201cporno chic,\u201d when pornography entered the mainstream consciousness of America. The magazine\u2019s hazy and seductive eroticism\u2014reminiscent of the era\u2019s French Emmanuelle films\u2014 combined provocative writing on male and female sexuality with fashion editorials and full-frontal male nudity. Olowska presents this performance in collaboration with four muses adopting the role of nymphs, whose whispers resonate among the marble surfaces of the courtyard turned harem; three transparent paintings by Olowska inspired by Viva; Kelly\u2019s enormous, opaque panels; and the bodies moving between them.",
+    "short_description": "<p>Combining painting and performance, this three-day event explores the relationship between sexuality and the female body on one hand, and space and architecture on the other.</p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9387/paulina-olowska-the-courtyard-of-the-favorites",
+    "image_url": "https://artic-web.imgix.net/nullbf876df8-f8a0-433d-bf4f-d91dd9a2824d/Preferrednaughtynymphspromo_emmanuelle.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C152%2C2422%2C1364",
+    "type": "AIC Only",
+    "status": "Confirmed",
+    "aic_start_at": "2021-03-13T00:00:00-06:00",
+    "aic_end_at": "2020-04-04T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": 2147477236,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Naughty Nymphs in the Courtyard of the Favorites"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-05-11T16:38:35-05:00",
+    "last_updated": "2021-01-13T23:23:29-06:00",
+    "timestamp": "2021-01-14T17:16:09-06:00"
+}

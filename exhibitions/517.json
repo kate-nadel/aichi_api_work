@@ -1,0 +1,39 @@
+{
+    "id": 517,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/517",
+    "title": "The Practice of Tea from the Edo Period to Today",
+    "is_featured": false,
+    "description": "The Practice of Tea from the Edo Period to Today\n\nTea drinking was enjoyed in Japan long before chanoyu, often misleadingly translated as the \u201ctea ceremony,\u201d solidified it into a practice with ritualized elements in the 15th century. During these gatherings a small group of friends  would generally come together to drink tea, discuss the objects on display in a rarefied setting (usually a special room or suite of rooms set aside for this purpose in the host\u2019s residence or temple quarters), and leave the concerns of daily life behind. \n\nTea gatherings encouraged the admiration and acquisition of wares used for serving tea or light meals, such as water containers, kettles, dishes, drinking bowls, caddies to hold powdered tea, and other utensils. In addition, purely decorative elements, such as prized calligraphy samples or ink paintings, were hung in the tokonoma (alcove) so that they could be viewed and discussed by guests.  These objects came from China, Japan, Korea, and beginning in the 17th century, the West.  They were often passed among guests as gifts or bought at high prices, accruing such fame that they were sometimes given their own names.  How these objects were grouped and displayed, known as tori awase, was a key element of the host\u2019s responsibilities.  In time, different styles of tea developed around the three types of tea wares\u2014formal, semi-formal, and informal\u2014as seen in the cases to the left.  \n\nFormal (shin), semi-formal (gy\u00f4), and informal (s\u00f4) styles of tea\n\nWithin Japanese aesthetics, the designations of formal, semi-formal, and informal relate to almost all art forms, but especially calligraphy, painting, and tea gatherings. In the tea world, these three classifications, established in premodern Japan and still observed today, are defined by objects used and their setting. Examples of each type are displayed in these wall cases.\n\nFormal:  The Ashikaga shoguns (r. 1336-1573) developed a ritualized setting to display their paintings and other objects newly imported from China (karamono), many of which were acquired through trade or brought to Japan  by Zen monks. Hence, formal-style tea wares include those from the Chinese Song, Yuan, or Ming dynasties, as well as Japanese goods modeled closely on these types.\n\nSemi-formal: Refined Japanese wares, such as the tea caddy decorated in the manner of Nonomura Ninsei (c. 1574-1660) are often included in this style of tea.  High-quality items imported from Korea are also representative of semi-formal wares.\n\nInformal: In the Momoyama period (1573-1615), Sen Riky\u00fb was the tea advisor to the elite warriors who put Japan on the path to unification.  He is considered the master of wabicha, or the style of tea in which restraint and minimalism reign.  The use of asymmetrical or flawed wares, often with imprecise decoration, are the hallmark of this mode.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-03-14T00:00:00-05:00",
+    "aic_end_at": "2007-07-01T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Practice of Tea from the Edo Period to Today"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:54-06:00",
+    "timestamp": "2021-01-14T17:13:09-06:00"
+}

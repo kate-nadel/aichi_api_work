@@ -1,0 +1,39 @@
+{
+    "id": 3992,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3992",
+    "title": "Chim's Children: Photographs by David Seymour",
+    "is_featured": false,
+    "description": "This posthumous exhibition commemorated the vision and artistry of David Seymour, (\u201cChim\u201d). It consisted entirely of photographs of children that Chim took around the world.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1957-04-15T00:00:00-06:00",
+    "aic_end_at": "1957-07-01T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chim's Children: Photographs by David Seymour"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T09:04:40-05:00",
+    "last_updated": "2019-10-15T09:06:18-05:00",
+    "timestamp": "2021-01-14T17:14:12-06:00"
+}

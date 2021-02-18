@@ -1,0 +1,39 @@
+{
+    "id": 9170,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/9170",
+    "title": "Gregg Bordowitz: I Wanna Be Well",
+    "is_featured": false,
+    "description": null,
+    "short_description": "<p>The first retrospective of the artist\u2019s 30-year career spans multiple media\u2014essays, poems, performances, drawings, sculpture, films, and videos\u2014that explore his Jewish, gay, and bisexual identities within the context of the ongoing global AIDS crisis.</p>",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/9170/gregg-bordowitz-i-wanna-be-well",
+    "image_url": "https://artic-web.imgix.net/d4f20876-a4fb-4892-bd82-1ef0b323362d/GreggBordowitz.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C194%2C3000%2C1685",
+    "type": "AIC & Other Venues",
+    "status": "Confirmed",
+    "aic_start_at": "2019-04-04T00:00:00-05:00",
+    "aic_end_at": "2019-07-14T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 23999,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gregg Bordowitz: I Wanna Be Well"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-07-22T12:22:49-05:00",
+    "last_updated": "2021-01-13T23:23:54-06:00",
+    "timestamp": "2021-01-14T17:16:07-06:00"
+}

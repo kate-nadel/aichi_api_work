@@ -1,0 +1,39 @@
+{
+    "id": 3204,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3204",
+    "title": "Korean Painting: Art of the Joseon Dynasty",
+    "is_featured": false,
+    "description": "The Joseon dynasty (1392\u20131897) in Korea was the peninsula\u2019s longest-ruling Confucian kingdom. The court promulgated Confucian ideology that asserted each individual had their predestined place, which allowed for the harmonious functioning of society based on the Chinese example. While painting traditions developed in China were also the norm during the start of this period, in the later Joseon period, to which most of the paintings on view date, distinctly Korean subjects and uses developed. From the court to the common people, paintings carried various meanings from simple wishes for fortune to representations of scholarly ideals.\n\nOn view in this exhibition are the highlights of the museum\u2019s Korean painting collection.",
+    "short_description": "Highlights from the museum's Korean painting collection demonstrate the various meanings these artworks carried\u2014from simple wishes for fortune to representations of scholarly ideals.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3204/korean-painting-art-of-the-joseon-dynasty",
+    "image_url": "https://artic-web.imgix.net/4018682f-f3c5-4de2-bae3-9712cc304aeb/2006.3ChaekgeoriKorean.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=469%2C0%2C2062%2C1160",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-04-25T00:00:00-05:00",
+    "aic_end_at": "2015-06-28T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480173,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Korean Painting: Art of the Joseon Dynasty"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:03-06:00",
+    "timestamp": "2021-01-14T17:13:56-06:00"
+}

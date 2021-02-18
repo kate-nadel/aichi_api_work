@@ -1,0 +1,39 @@
+{
+    "id": 3934,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3934",
+    "title": "Photographs by William Garnett",
+    "is_featured": false,
+    "description": "This exhibition contained 43 photographs that Garnett took after receiving a Guggenheim Fellowship in 1953. Garnett taught himself to fly in order to take photographs by air. The images in this exhibition were taken by air (at approximately 100-500 feet) and captured mostly California and Arizona land, sea, mountains, and desert.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1956-01-15T00:00:00-06:00",
+    "aic_end_at": "1956-03-01T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Photographs by William Garnett"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T08:51:41-05:00",
+    "last_updated": "2019-10-15T08:56:18-05:00",
+    "timestamp": "2021-01-14T17:14:11-06:00"
+}

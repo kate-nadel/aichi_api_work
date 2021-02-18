@@ -1,0 +1,39 @@
+{
+    "id": 2772,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2772",
+    "title": "India Modern: The Paintings of M. F. Husain",
+    "is_featured": false,
+    "description": null,
+    "short_description": "Eight large triptychs from the \"Indian Civilization\" series, the last works of M. F. Husain, celebrate India\u2019s rich and diverse culture and history.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2772/india-modern-the-paintings-of-m-f-husain",
+    "image_url": "https://artic-web.imgix.net/8042e8a0-087e-42d0-98fe-e85c8c20b060/TraditionalIndianFestivals_Husain.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=39%2C0%2C924%2C520",
+    "type": "AIC Only",
+    "status": "Confirmed",
+    "aic_start_at": "2017-07-14T00:00:00-05:00",
+    "aic_end_at": "2018-03-04T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147478134,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "India Modern: The Paintings of M. F. Husain"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-01-03T14:26:56-06:00",
+    "last_updated": "2021-01-13T23:26:19-06:00",
+    "timestamp": "2021-01-14T17:13:44-06:00"
+}

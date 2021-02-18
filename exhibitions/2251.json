@@ -1,0 +1,39 @@
+{
+    "id": 2251,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2251",
+    "title": "Liz Larner",
+    "is_featured": false,
+    "description": "Since 1988, Los Angeles\u2013based sculptor Liz Larner has been committed to exploring both the physical qualities and suggestive power of an object, engaging her viewers intellectually as well as emotionally. Her ever-evolving language of abstract forms\u2014made from diverse, often organic materials and typically comprised of contours rather than solid planes\u2014is substantial, refined, and experimental in equal measure.\n\nLarner\u2019s project for the Art Institute of Chicago\u2019s Bluhm Family Terrace brings together two recent stainless steel sculptures: the mirror-polished, low-slung X of 2013 and the vividly painted, outstretching 6 of 2010\u201311. These distinctive forms demonstrate the capacity of the simple, graphic character X to exceed any single meaning\u2014indeed, to stand in for that which is as yet unknown. Each work remains literally and metaphorically open while nevertheless prompting a site-specific, real-time encounter\n\nAs an important third component of the installation, Larner has constructed an expansive wooden platform of ash from urban lumber to serve as a unifying base for both works. Visitors are invited to step onto the platform and more closely investigate the inside and the outside of the sculptures\u2014in the case of X, viewers may enter the physical space of the form itself. This presentation not only encourages direct experience but expands and contracts space by offering an intriguing juxtaposition. The differently curving lines of both sculptures, the organic warmth of the wood platform, and the vivid colors of 6 interrupt the cool, rectangular concrete of the museum\u2019s Modern Wing and terrace. Viewed against the backdrop of Millennium Park, the installation seems simultaneously to call out to and distinguish itself from the park\u2019s own architecture and palette.",
+    "short_description": null,
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2251/liz-larner",
+    "image_url": "https://artic-web.imgix.net/a872db53-086b-4192-b5ca-a07b7a79d6e9/IM002527_002.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C186%2C3000%2C1685",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-04-23T00:00:00-05:00",
+    "aic_end_at": "2015-09-27T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25238,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Liz Larner"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:05-06:00",
+    "timestamp": "2021-01-14T17:13:37-06:00"
+}

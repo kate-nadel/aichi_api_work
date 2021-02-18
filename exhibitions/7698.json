@@ -1,0 +1,43 @@
+{
+    "id": 7698,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/7698",
+    "title": "Chicago 1872-1922: Birth of a Metropolis",
+    "is_featured": false,
+    "description": "This international exhibition of more than 250 artworks, including original drawings, architectural models, photographs, and architectural artifacts, was organized by the Art Institute of Chicago. Curator John Zukowsky selected items that would highlight Chicago\u2019s contributions to architecture and design from the city's rebuilding after the Great Fire of 1871 through the 1922 international competition for the Chicago Tribune tower. The exhibition, which also appeared at the Mus\u00e9e d'Orsay in Paris and the Deutsches Architekturmuseum in Frankfurt am Main, was arranged to commemorate the city\u2019s sesquicentennial. Prominent Chicago architect Stanley Tigerman designed the installation, which included kiosks designed in the style of Daniel Burnham, Louis Sullivan, Frank Lloyd Wright, and Ludwig Mies van der Rohe. When the exhibition closed, pieces of Tigerman's installation were sold to benefit the Architecture department at the Art Institute of Chicago.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1988-07-16T00:00:00-05:00",
+    "aic_end_at": "1988-09-05T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "aecafd92-9380-c0f4-29ae-4df7062061cf",
+    "alt_image_ids": [
+        "6d8e7d52-ee0c-4ca0-d72d-3210a54f8c2d"
+    ],
+    "document_ids": [
+        "a9830faa-05e7-f498-18fa-b5d9d1c62c20"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago 1872-1922: Birth of a Metropolis"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2020-04-02T19:34:59-05:00",
+    "last_updated": "2020-04-02T19:35:58-05:00",
+    "timestamp": "2021-01-14T17:15:27-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3241,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3241",
+    "title": "Pierre Huyghe: Les Grands Ensembles (The Housing Projects)",
+    "is_featured": false,
+    "description": "Noted French artist Pierre Huyghe uses diverse media\u2014including large-scale installation, public events, and video\u2014to delve into the uncertainties of representation and investigate how narrative models affect our sense of reality. In the process, he moves through a variety of creative fields, such as architecture, cinema, design, and music, with an eye to their unique qualities and conventions.\n\nHuyghe\u2019s 1994/2001 video installation Les Grands Ensembles (The Housing Projects) is featured as one of the many provocative works in the special exhibition Contemporary Collecting: Selections from the Donna and Howard Stone Collection. Shown in the Stone Film and New Media Gallery, the work presents a fixed view of two residential towers in a bleak urban landscape, swathed in fog at night. Lacking any signs of human activity, the buildings appear to take on lives of their own as the video\u2019s buzzing electronic soundtrack, composed by Pan Sonic and C\u00e9dric Pigot, builds in intensity. Windows in the two fa\u00e7ades begin to light up rhythmically and with increasing frequency, as if communicating in some sort of code. The towers, which are actually models the artist created in a film studio, do not represent specific structures but echo the architecture of French government housing projects common in the 1970s. Set in the starkly desolate landscape, the buildings recall the failures of Modernist architecture\u2019s utopian social goals. This familiar narrative, however, ultimately gives way to the volley of lights, a mysterious cipher that resists attempts at interpretation.\n\nLes Grands Ensembles also introduces the artist\u2019s engagement with forms of spectacle and the cultural conditions that emerge from it. The flashing lights that play across the fa\u00e7ades of these buildings, repeated in an endless video loop, seem to ask whether this is a stream of coded information waiting to be translated or a deluge of vacant representation, a spectacle pointing to nothing but itself.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-06-24T00:00:00-05:00",
+    "aic_end_at": "2010-10-24T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": 25208,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Pierre Huyghe: Les Grands Ensembles (The Housing Projects)"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:22:52-06:00",
+    "timestamp": "2021-01-14T17:13:57-06:00"
+}

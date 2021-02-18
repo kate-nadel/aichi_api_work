@@ -1,0 +1,39 @@
+{
+    "id": 6956,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6956",
+    "title": "A History of Photography from Chicago Collections",
+    "is_featured": false,
+    "description": "This exhibition was created to celebrate the opening of the new galleries of the Department of Photography at the Art Institute of Chicago. Then Curator of Photography, David Travis, and Director James N. Wood chose \u201cto give the great photographs in Chicago collections relating to the history of photography as an art a place before the public.\u201d \nThe exhibition was arranged by photographer, with prints from The Art Institute of Chicago, The Chicago History Museum (formerly the Chicago Historical Society), Columbia College, The Exchange National Bank of Chicago, The Newberry Library, and private collections. The exhibition contained 287 photographs from artists such as: Ansel Adams, Jean Eugen Auguste Atget, Harry Callahan, Lewis Hine, Laszlo Maholy-Nagy, Timothy O\u2019Sullivan, Aaron Siskind, Edward Weston, and Garry Winogrand.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1982-04-24T00:00:00-06:00",
+    "aic_end_at": "1982-06-06T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "A History of Photography from Chicago Collections"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-15T10:14:34-05:00",
+    "last_updated": "2021-01-13T23:23:16-06:00",
+    "timestamp": "2021-01-14T17:15:11-06:00"
+}

@@ -1,0 +1,41 @@
+{
+    "id": 4135,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4135",
+    "title": "Chicago and Vicinity 64th Annual",
+    "is_featured": false,
+    "description": "This exhibition boasted over 150 works by Chicagoland area artists. The five-man jury that voted on the paintings included painters, a sculptor, and a Dean of the College of Fine Arts at the University of Illinois, all of whom individually went through the 924 submitted works at least three times before selecting the winning entries. In order to qualify for exhibition at the Art Institute of Chicago, each entry needed only one vote from the juror. The selected works were displayed with a tag indicating which juror selected the piece, which was a first for the annual exhibition. At the end of the exhibition, a closing ceremony took place and nineteen awards amounting to $8,850 were given to winning entrants.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1961-03-31T00:00:00-06:00",
+    "aic_end_at": "1961-05-28T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "3751525c-00ab-0c17-a93b-57918f77ec85"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago and Vicinity 64th Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T11:22:57-05:00",
+    "last_updated": "2019-10-14T11:26:29-05:00",
+    "timestamp": "2021-01-14T17:14:14-06:00"
+}

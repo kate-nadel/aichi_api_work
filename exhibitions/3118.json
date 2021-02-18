@@ -1,0 +1,39 @@
+{
+    "id": 3118,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3118",
+    "title": "Henri Cartier-Bresson and the Art and Photography of Paris",
+    "is_featured": false,
+    "description": "To celebrate the centenary of the birth of Henri Cartier-Bresson, the Art Institute will present, for the first time, a comparison of Cartier-Bresson\u2019s photographs to the modern drawings, etchings, and paintings of his contemporaries\u2014works that would otherwise be in storage in preparation for their installation in the Modern Wing.\n\nHenri Cartier-Bresson, the legendary photojournalist whose work was characterized by the term \u201cthe decisive moment,\u201d began his career as a painter influenced by the Surrealist poets who were a mainstay of Parisian caf\u00e9 culture in the 1920s. Although his subsequent work in photography was concerned primarily with time and timing, it also reveals an appreciation for the irrational and subconscious gleaned from the work of writers and poets of this time.\n\nPulling from the Art Institute\u2019s Julian Levy Collection\u2014the legendary gallery director who assembled the first exhibition of Cartier-Bresson\u2019s photographs in the United States\u2014this exhibition provides a rare glimpse into the early stages of Cartier-Bresson\u2019s career. Work by his painting instructor Andr\u00e9 Lhote parallels Cartier-Bresson\u2019s early photographs, as does that of Salvador Dal\u00ed. Also included will be work by Giorgio de Chirico, Henri Matisse, Piet Mondrian, and Pablo Picasso that relates to photographs by Brassa\u00ef, Andr\u00e9 Kert\u00e9sz, and other photographers active in Paris between the World Wars.",
+    "short_description": "To celebrate the centenary of the birth of Henri Cartier-Bresson, the Art Institute will present, for the first time, a comparison of Cartier-Bresson\u2019s photographs to the modern drawings, etchings, and paintings of his contemporaries\u2014works that would otherwise be in storage in preparation for their installation in the Modern Wing.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3118/henri-cartier-bresson-and-the-art-and-photography-of-paris",
+    "image_url": "https://artic-web.imgix.net/cdd8dfd5-4965-4126-90a4-dd91f158ebf3/1979.69HenriCartier-Bresson.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=47%2C346%2C2897%2C1632",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2008-09-20T00:00:00-05:00",
+    "aic_end_at": "2009-01-04T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": 2147476637,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Henri Cartier-Bresson and the Art and Photography of Paris"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:48-06:00",
+    "timestamp": "2021-01-14T17:13:53-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 3028,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3028",
+    "title": "As Seen: Exhibitions That Made Architecture and Design History",
+    "is_featured": false,
+    "description": "Exhibitions have long played a crucial role in defining disciplinary histories, as they mark pivotal moments in time and document the environment in which new narratives or arguments unfolded. At a moment when the fields of architecture and design, spurred by a multitude of crosscultural and global conversations, are opening up to new definitions, ways of working, and design and production processes, this research highlights how an exhibition can help to both concretize and critique ongoing technological and cultural shifts. As Seen is an ongoing research project that looks at the influence of architecture and design exhibitions years after their closing.\n\nThe selection presented in As Seen focuses on 11 group exhibitions from 1956 to 2006, organized by a wide range of architecture and design professionals. Through varied approaches, these exhibitions reflected on then-current dilemmas, identified alternatives to prevailing practices, and reasserted design\u2019s implications for everyday life. Since their debut, many of these exhibitions have grown in influence through the spread of their ideas and the rising popularity of the designers involved. As Seen features a range of materials\u2014installation images, posters, invitation cards, catalogues, correspondence, and floor plans\u2014that are more than residual and provide glimpses into the concepts driving the exhibitions as well as the physical spaces they once occupied. Critical discourse from the media and scholars presented alongside these materials illuminates and helps to vivify the discussions surrounding these events at the time. These presentations show how the tools of curators, graphic designers, industrial designers, architects, and others can be catalyzed toward new ends, which often resonate beyond the temporal duration of the exhibition itself, ultimately making history.\n\nInitiated as part of the Istanbul Design Biennial 2014, the research has been brought to Chicago with the aim of continuing the dialogue and illustrating a cross section of creative output to be seen through new eyes. Although it presents only a small sampling of exhibitions\u2014by no means global in scope\u2014the hope is that this installation reignites conversations about the influence of exhibitions on the practice and perception of architecture and design.\n\nSponsor\nThis exhibition was made possible by the generous support of the Architecture & Design Society.\n\nThe exhibition design is by Project Projects.",
+    "short_description": "This exhibition is an ongoing research project that looks at the influence of architecture and design exhibitions years after their closing.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3028/as-seen-exhibitions-that-made-architecture-and-design-history",
+    "image_url": "https://artic-web.imgix.net/36ef466a-aa83-4557-90eb-354f28f8ea5b/exh_as-seen_main_featured_480.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-10-01T00:00:00-05:00",
+    "aic_end_at": "2016-08-14T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": 23966,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "As Seen: Exhibitions That Made Architecture and Design History"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:30-06:00",
+    "timestamp": "2021-01-14T17:13:51-06:00"
+}

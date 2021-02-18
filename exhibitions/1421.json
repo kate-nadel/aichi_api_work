@@ -1,0 +1,39 @@
+{
+    "id": 1421,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1421",
+    "title": "Timothy O'Sullivan: The King Survey Photographs",
+    "is_featured": false,
+    "description": "Timothy H. O\u2019Sullivan (1840\u20131882) was one of the most important American photographers of the nineteenth century. While employed by Mathew B. Brady and Alexander Gardner, O\u2019Sullivan made iconic images of the American Civil War. After the war, O\u2019Sullivan served as the official photographer for three U.S. government survey expeditions: the Geological Exploration of the Fortieth Parallel (or \u201cKing Survey\u201d) of 1867\u201369 and 1872; the Darien (Isthmus of Panama) Expedition of 1870; and the Geological Surveys West of the 100th Meridian (or \u201cWheeler Survey\u201d) of 1871 and 1873\u201374. His images of the West are of great historical and artistic significance: working alongside geologists, naturalists, and surveyors, O\u2019Sullivan produced some of the earliest and most influential photographs of the American frontier.\n\nO\u2019Sullivan\u2019s work in the King Survey\u2014which covered an 800-mile-long swath of land, roughly straddling the path of the transcontinental rail route, from southern Wyoming to the California line\u2014is of particular importance to his career and to the history of American photography. His photographs of barren landscapes, notable or curious geological formations, and mining operations represent a raw, powerful vision of this little-understood territory increasingly occupied by white Americans. In addition, these images have remained challenging touchstones in photographic history\u2014a perfect, if enigmatic, union of documentary and artistic intentions, fact and interpretation. While a few of these images have been widely reproduced, original prints are remarkably rare. Timothy H. O\u2019Sullivan: The King Survey Photographs includes photographs contextualized with contemporaneous survey reports and topographical and geological atlases that show visual depictions of the land across media.\n\nThis exhibition has been organized by the Nelson-Atkins Museum of Art. In Chicago, this exhibition is made possible by the Smart Family Foundation.\n\nOrganizer\nThis exhibition has been organized by the Nelson-Atkins Museum of Art.\n\nSponsor\nGenerous support for the presentation at the Art Institute of Chicago is provided by the Smart Family Foundation.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC & Other Venues",
+    "status": "Closed",
+    "aic_start_at": "2011-10-22T00:00:00-05:00",
+    "aic_end_at": "2012-01-15T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Timothy O'Sullivan: The King Survey Photographs"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:32-06:00",
+    "timestamp": "2021-01-14T17:13:22-06:00"
+}

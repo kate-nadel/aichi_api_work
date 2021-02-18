@@ -1,0 +1,41 @@
+{
+    "id": 4203,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4203",
+    "title": "American Prints Today 1962",
+    "is_featured": false,
+    "description": "This exhibit, mounted in numerous museums across the country in three major sets of dates, was put together by the Print Council of America. In pursuing this exhibit, the Print Council of America selected 55 prints by a total of 48 artists, including the likes of Josef Albers, Leonard Baskin, Jasper Johns, Mauricio Lasamsky, Ben Shahn, and Moishe Smith. In order to put together the exhibit, several curators compiled lists of the best printmakers in various regions of the United States, then voted on the best ones from the lists, then proceeded to send it to the Print Council of America where their organization reached out to artists who were included in the exhibition.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1962-09-21T00:00:00-05:00",
+    "aic_end_at": "1962-10-21T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "38d2889b-c039-3840-5f0c-671e3462cef1"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "American Prints Today 1962"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-10-14T12:02:06-05:00",
+    "last_updated": "2019-10-14T12:06:21-05:00",
+    "timestamp": "2021-01-14T17:14:15-06:00"
+}

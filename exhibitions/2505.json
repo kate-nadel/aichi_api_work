@@ -1,0 +1,39 @@
+{
+    "id": 2505,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2505",
+    "title": "Landsknechte: Foot Soldiers of Fashion",
+    "is_featured": false,
+    "description": "Renaissance fashion was killer. This new corridor installation examines the life, death, and sartorial swagger of the famously dissolute and fabulously attired Landsknechte of Renaissance Europe. These German mercenary foot soldiers behaved badly and wore whatever they wanted because their life expectancy was brief at best.\n\nIndeed, when Holy Roman Emperor Maximilian I formed the first Landsknecht company in 1487, he intentionally exempted them from the harsh sumptuary laws of the time. Rather, because their lives tended to be \"brutish and short,\" Maximilian urged them to wear distinctively outlandish garb. Not only did slashed sleeves and bold colors unify the troops, Landsknecht attire also created an ostentatious and recognizable force fighting in the Emperor's name. Members of lower nobility with minimal prospects and even curious artists like the Swiss Urs Graf joined up, forming a powerful and agile army. But not everyone was impressed with their bravado and posturing. As one writer remarked about Landsknechte in 1536, \u201cBlaspheming, whoring, gambling, murdering, burning, robbing, [and] widow-making . . . is their common handiwork and greatest amusement.\u201d\n\nWhile much of the arms and armor collection is off view in preparation for the opening of expanded galleries of medieval and Renaissance art (opening March 17, 2017), this installation offers a taste, rather a brazen one, of the beloved collection. Featuring over 50 objects, this collaborative presentation with the Department of Prints and Drawings combines armors, breastplates, daggers, halberds, and even a newly acquired Katzbalger (Landsknecht sword), with works on paper depicting mercenaries in action. Bursting with attitude, humor, and innuendo, these artworks thrive on knowing looks, firmly grasped sword hilts, and prominent codpieces.",
+    "short_description": "This focused installation examines the famously dissolute and fabulously attired German mercenaries known as Landsknechte through arms, armor, and works on paper depicting the soldiers in action.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2505/landsknechte-foot-soldiers-of-fashion",
+    "image_url": "https://artic-web.imgix.net/bc1d6c00-d720-4df2-a9f8-e5362c1770dc/exh_Landsknechte_main_1_360.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C10%2C224%2C126",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-04-30T00:00:00-05:00",
+    "aic_end_at": "2016-10-30T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": 2147483638,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Landsknechte: Foot Soldiers of Fashion"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:34-06:00",
+    "timestamp": "2021-01-14T17:13:40-06:00"
+}

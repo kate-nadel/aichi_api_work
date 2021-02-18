@@ -1,0 +1,39 @@
+{
+    "id": 2450,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2450",
+    "title": "Juan Mu\u00f1oz: Thirteen Laughing at Each Other",
+    "is_featured": false,
+    "description": "This spring the Art Institute of Chicago welcomes to the Bluhm Family Terrace a theatrical installation by Spanish sculptor Juan Mu\u00f1oz (1953\u20132001) that flips the experience of viewer and viewed. Many of Mu\u00f1oz\u2019s works unfold like stories in which the spectator is written into the drama. In the case of Thirteen Laughing at Each Other (2001), the viewer is thrust right into the center of the scene. By entering the installation space, one is surrounded by laughing figures seated on bleacher-like structures. From this vantage point, it quickly becomes clear that Mu\u00f1oz is not merely granting the viewer unusual access to the artwork but also shifting the role of the observer to that of an unwitting subject, and potentially even an object of ridicule as the sculptural figures laugh hysterically\u2014some toppling from their seats\u2014at the spectacle in their midst. The work creates a tension and psychological depth that is at once unsettling and captivating. \u201cI try to make the work engaging for the spectator,\u201d said Mu\u00f1oz. \u201cAnd then unconsciously, but more interestingly, I try to make you aware that something is really wrong.\u201d\n\nMu\u00f1oz is regarded as a leading sculptor of his generation and among the most significant artists to have achieved maturity in post-Franco Spain. His focus on the human form set him apart from many of his contemporaries who saw figuration as outmoded. Known for emphasizing the relationship of sculpture to architecture and the viewer, Mu\u00f1oz\u2019s work is replete with references to the history of Western culture. His artistic activity includes drawings, radio plays, writings, and essays in addition to sculpture and installations.\n\nSet on the museum\u2019s third-floor terrace during the city\u2019s warm summer months, Thirteen Laughing at Each Other offers visitors the chance to experience the last work created by this important artist, who referred to himself simply as a \u201cstoryteller.\u201d\n\nSponsors\nThis exhibition is organized by the Art Institute of Chicago with major funding from the Bluhm Family Endowment Fund, which supports exhibitions of modern and contemporary sculpture.\n\nSpecial thanks are due to the City of Chicago Department of Cultural Affairs and Special Events.",
+    "short_description": "This installation by the Spanish sculptor thrusts viewers into the center of the drama, flipping the experience of viewer and viewed in an unsettling and captivating way.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/2450/juan-munoz-thirteen-laughing-at-each-other",
+    "image_url": "https://artic-web.imgix.net/8c0dfe33-68c8-46c1-b814-7f923884d094/exh_Munoz_feature-480_0.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=3%2C45%2C475%2C267",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2016-04-28T00:00:00-05:00",
+    "aic_end_at": "2016-10-02T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": 25238,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Juan Mu\u00f1oz: Thirteen Laughing at Each Other"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:28:33-06:00",
+    "timestamp": "2021-01-14T17:13:40-06:00"
+}

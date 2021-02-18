@@ -1,0 +1,39 @@
+{
+    "id": 3055,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3055",
+    "title": "Materials Inside and Out",
+    "is_featured": false,
+    "description": "spired by the working process of international architect David Adjaye, this installation in the Ryan Learning Center interactive gallery invites visitors of all ages to discover how architects use building materials like wood, fabric, ceramic tiles, laminates, paint, stone, and plastics to create form and atmosphere. Visitors can arrange material samples and sketches to create a \u201cmood board\u201d (just like the professionals do) and consider how color, texture, and cultural context create a specific feel as well as how materials affect the way we experience architecture inside and out\u2014from personal spaces to museum galleries to buildings in Chicago.\n\nSponsors\nThis project was funded by a grant from the Efroymson Family Fund.",
+    "short_description": "Inspired by the wide-ranging approach of architect David Adjaye, this installation offers a hands-on exploration of how architects use building materials to create form and atmosphere.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3055/materials-inside-and-out",
+    "image_url": "https://artic-web.imgix.net/79394529-cf25-4469-9838-cc1c7450cd5c/exh_materials-inside-out_main_480.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-09-26T00:00:00-05:00",
+    "aic_end_at": "2016-07-03T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Materials Inside and Out"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:34-06:00",
+    "timestamp": "2021-01-14T17:13:52-06:00"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 1683,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/1683",
+    "title": "Material Translations: Japanese Fashion Design",
+    "is_featured": false,
+    "description": "In the 1980s, Japanese designers carried out a momentous redefinition of dress with exciting runway presentations that expressed new philosophical and artistic points of view. In a nod to these groundbreaking explorations and to celebrate the 25th year of the School of the Art Institute\u2019s Fashion Resource Center (FRC), the FRC and the Department of Asian Art at the Art Institute showcase garments that took the fashion world by storm and brought Japanese designers to the fore.\n\nPresented in the museum\u2019s dramatic Ando Gallery, this exhibition provides examples of the most innovative designs from the 1980s through the 2000s. One is a radical concept by Rei Kawakubo, her 1983 sack dress that characterizes the aesthetic of poverty\u2014concealing, not revealing the female form in muted color. In another garment, Kawakubo befittingly and humorously embodies the meaning of her design label Comme des Gar\u00e7ons (literally translated as \"like some boys') with her adaptation of a ballet dancer's nylon and polyester skirt laced with heavy cowhide. The companion jacket, whose pattern was developed from the fabrication of a baseball mitt, likewise contrasts feminine and masculine. Also included are recently acquired designs inspired by anarchic currents of youthful expression by Jun Takahashi of Undercover. A site-specific video projection by artist Jan Tichy, Installation no. 16, complements the bold fashions on display.\n\nThis exhibition marks the first collaboration between the FRC and the museum, as well as the first time that fashions from this collection are on public view.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2012-11-03T00:00:00-05:00",
+    "aic_end_at": "2013-04-07T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Design",
+    "gallery_id": 2147480173,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Material Translations: Japanese Fashion Design"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:24:03-06:00",
+    "timestamp": "2021-01-14T17:13:29-06:00"
+}

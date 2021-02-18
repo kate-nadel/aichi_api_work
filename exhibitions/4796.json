@@ -1,0 +1,41 @@
+{
+    "id": 4796,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/4796",
+    "title": "Art Students' League of Chicago 23rd Annual",
+    "is_featured": false,
+    "description": null,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1916-04-25T00:00:00-06:00",
+    "aic_end_at": "1916-05-07T00:00:00-06:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [
+        "b6176c4e-a194-fba8-7e7b-b018dc7b6a10"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Art Students' League of Chicago 23rd Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2020-12-15T10:20:26-06:00",
+    "timestamp": "2021-01-14T17:14:26-06:00"
+}

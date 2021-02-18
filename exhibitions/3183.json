@@ -1,0 +1,39 @@
+{
+    "id": 3183,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3183",
+    "title": "Caillebotte's \u201cParis Street; Rainy Day\u201d Returns",
+    "is_featured": false,
+    "description": "A world-famous icon of the Art Institute\u2019s celebrated Impressionist collection, Gustave Caillebotte\u2019s Paris Street; Rainy Day returns to the galleries this May. The monumental work, revered in part for its vivid sense of place, was taken off view at the close of last summer\u2019s hit exhibition Impressionism, Fashion, and Modernity and has spent the last seven months in the museum\u2019s conservation studio undergoing its first overall treatment since its acquisition in 1964.\nWhile it is known that Paris Street underwent treatment prior to entering the museum\u2019s collection, the conservation team had recently noticed lifting and cracked paint in localized areas\u2014not unusual in a painting of its size and age. Their plan was to consolidate the lifting paint along the edges of cracks as well as to address the varnish\u2019s cloudy appearance. However, once conservator Faye Wrubel examined the painting using magnification, X-ray, and ultraviolet light imaging, it was discovered that the varnish had yellowed significantly, masking nuances of pale blue, pink, and lavender-gray tints, which in turn altered the painting\u2019s appearance. Conservators, together with curators, decided to clean the masterpiece and remove the discolored varnish.\n\nUsing cotton swabs with a solution to dissolve the varnish, Wrubel started the painstaking cleaning process. Instantly, the painting began to take on new life, revealing qualities that had been hidden for decades. The woman\u2019s earring, for example, believed by many to be a pearl, now reads as a sparkling diamond. The man\u2019s cheeks now glow with a touch of color. Above all, the sky, which had appeared to have an even yellow-gray tone, now shows a subtle gradation, from rose-gray near the horizon to a cool gray toward the top of the painting. The result is a transformed sense of light and atmosphere that is likely to change the way viewers respond to Caillebotte\u2019s vision of 19th-century Paris and its people.\n\nThe Art Institute is thrilled to welcome the wonderfully refreshed work back to the galleries and share its dramatic transformation with our visitors and members through a new installation that both highlights the beloved masterpiece and offers a new perspective on Impressionism.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-05-19T00:00:00-05:00",
+    "aic_end_at": "2015-06-14T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "European Painting and Sculpture",
+    "gallery_id": 2147483643,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Caillebotte's \u201cParis Street; Rainy Day\u201d Returns"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:26:00-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

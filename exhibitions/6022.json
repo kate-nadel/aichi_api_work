@@ -1,0 +1,46 @@
+{
+    "id": 6022,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6022",
+    "title": "Chicago and Vicinity 71st Annual",
+    "is_featured": false,
+    "description": "This exhibit was a competitive exhibition juried and curator by Robert Barnes, a professor of painting and drawing at Indiana University, Harold Joachim, a curator of prints and drawings at the Art Institute of Chicago, and Ella Kokkien, an assistant curator of drawings at the Museum of Modern Art. Over eighty works in total were exhibited, all of which were rendered by Chicago-area artists. Over $4,000 in prize money was awarded to artists whose work was recognized.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "1968-03-30T00:00:00-06:00",
+    "aic_end_at": "1968-05-12T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "8327bdd5-c45b-c654-e5b3-22de2bb8dab1",
+    "alt_image_ids": [
+        "e80e368f-3fab-2265-7b52-ea1b5d54a715",
+        "579f9107-d500-d797-ddf5-64fb77bcadf1",
+        "f068a0ee-3690-239b-08ca-8afb84814b77",
+        "db12457c-0cb5-0afc-a3fb-b618df4f9379"
+    ],
+    "document_ids": [
+        "b2f18786-5045-2936-e751-209d0be44ef0"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Chicago and Vicinity 71st Annual"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-11-18T10:33:51-06:00",
+    "last_updated": "2019-11-18T11:11:22-06:00",
+    "timestamp": "2021-01-14T17:14:49-06:00"
+}

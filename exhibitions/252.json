@@ -1,0 +1,48 @@
+{
+    "id": 252,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/252",
+    "title": "Maureen Gallace (Focus series)",
+    "is_featured": false,
+    "description": "Maureen Gallace (b. 1960) creates discreet, deceptively simple compositions depicting the vernacular architecture and landscape of rural New England as well as the occasional portrait of a close family member. Seemingly of another era, Gallace's paintings find influence in the depictions of small-town America by Edward Hopper and Fairfield Porter. They also recall Giorgio Morandi's \"serial still lifes\" in their employment of humble forms and repetition of subject.\n\nMaureen Gallace. Down the Road from My Brother's House, 2002. Collection of Nancy Lauter McDougal and Alfred L. McDougal.\n\nTraveling frequently to the countryside of her native New England, the artist makes copious photographs and sketches. \"I work backwards,\" Gallace said. \"Most of it comes down to staring [at the building] and breaking it down to its essentials.\" Decidedly without nostalgia or sentimentality, these pictures refer to a transient present moment rather than a historical time and place. The private dwellings have few, if any, points of entry. Their windows and doors are strangely minute, generating a sense of displacement and alienation that is only intensi???ed by muted palettes and a severe treatment of light and shadow. Stripped of all specificity, Gallace's intimate renderings allow viewers to impose on them their own recollections of \"home\" while at the same time preventing a clear interpretation. \"The architecture of where you grow up is so much a part of your memory,\" she explained.\n\nThis exhibition includes approximately 20 recent paintings (2001-2006), selected in close collaboration with the artist, of isolated country houses, sea- and snow-scapes, and a single portrait of the artist's young nephew. While similar in scale and technique, each composition tells its own story. Taken together, they reflect not on a singular style of painting or a particular place but on memory itself. Gallace exposes the tranquility invariably mixed with uneasiness, happiness tainted by loss, and familiarity intertwined with alienation that comes along with remembrance.\n\nOrganizer\nArt Institute of Chicago\n\nCurator\nJames Rondeau, Department of Contemporary Art, Art Institute of Chicago\n\nSponsor\nOngoing support for Focus exhibitions is provided by The Alfred L. McDougal and Nancy Lauter McDougal Fund for Contemporary Art.",
+    "short_description": "This exhibition includes approximately 20 recent paintings (2001-2006), selected in close collaboration with the artist, of isolated country houses, sea- and snow-scapes, and a single portrait of the artist's young nephew.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/252/maureen-gallace-focus-series",
+    "image_url": "https://artic-web.imgix.net/b82f215b-fd32-479e-a324-c0cc8cfb5dd1/Maureen.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C123%2C1152%2C648",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2006-05-03T00:00:00-05:00",
+    "aic_end_at": "2006-09-03T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Modern and Contemporary Art",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "133e7173-7afa-aaa3-efba-600c799c33e0",
+    "alt_image_ids": [
+        "76382eea-c3b0-5b57-0f06-67ad94d56d33",
+        "2031fe40-f6d6-f617-86d9-6ee6b765e113",
+        "858afb4e-0ed9-182c-41ed-24acda701214",
+        "a2275555-f59b-e922-09a1-c6b70a92f53a",
+        "3c4e7977-0ddf-bb8f-8af8-71e7a9669b78",
+        "1b888bec-90b1-78ea-1985-abaae57cc0f8"
+    ],
+    "document_ids": [
+        "81e7f9c8-5145-6593-99ca-df48b182360a"
+    ],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Maureen Gallace (Focus series)"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:34-06:00",
+    "timestamp": "2021-01-14T17:12:56-06:00"
+}

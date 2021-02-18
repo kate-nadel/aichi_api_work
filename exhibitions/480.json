@@ -1,0 +1,39 @@
+{
+    "id": 480,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/480",
+    "title": "When Color Was New:  Photographs from the Collection",
+    "is_featured": false,
+    "description": "Contemporary photography is now almost synonymous with vibrant, splashy pictures. But there was a time when the use of color was new and revolutionary. Long understood to be the province of commercial and amateur photographers or the staple of popular advertisements, magazines, and billboards, color photography was shunned by artists until the 1960s and 1970s. \n\nWhen Color Was New focuses on a generation of artists\u2014including William Christenberry, William Eggleston, Helen Levitt, Joel Meyerowitz, and Stephen Shore\u2014who turned away from black-and-white photography. Their color pictures forced a radical rethinking of both photography\u2019s artistic capabilities and classifications, setting the stage for much art photography today.\n\nIn many respects, Eggleston\u2014whose work Near Jackson, Mississippi was recently acquired by the Art Institute\u2014established himself as the foundational figure in the art of color photography. Whether a pensive consideration of a simple household object or an exercise in the abstracted American palette of red, white, and blue, Eggleston\u2019s image of a hanging jacket is an example of how the artist\u2019s work in color revolutionized photography. John Szarkowski, curator of photography at the Museum of Modern Art, recognized this contribution and in 1975 praised Eggleston\u2019s works: \u201c[T]hey seem to me perfect: irreducible surrogates for the experiences they pretend to record, visual analogues for the quality of one life, collectively a paradigm of a private view, a view one would have thought ineffable, described here with clarity, fullness, and elegance.\u201d",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2007-02-24T00:00:00-06:00",
+    "aic_end_at": "2007-04-29T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "When Color Was New:  Photographs from the Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:24:54-06:00",
+    "timestamp": "2021-01-14T17:13:08-06:00"
+}

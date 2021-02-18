@@ -1,0 +1,39 @@
+{
+    "id": 3171,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3171",
+    "title": "Hyperlinks: Architecture and Design",
+    "is_featured": false,
+    "description": "The Internet has undoubtedly transformed the world we live in; its unprecedented access to and layering of information lead to greater interaction and engagement, and a complex understanding of our place in the world. Likewise, this innovative method of accumulating and remixing data is also occurring across the fields of architecture and design. A fluid exchange between these disciplines\u2014fueled by advances in production processes, materials research, social and environmental concerns, and influences drawn from scientific and biological research\u2014is resulting in new attitudes to architecture and design that are opening up these subject areas and stretching their range of application and influence.\nWith an eye to these inventive links between practices, Hyperlinks presents more than 30 projects that span from architecture and furniture to multimedia and conceptual design from an international group of architects and designers, including Florencia Pita/mod, Jurgen Mayer H., R&Sie(n), Experimental Jetset, Emergent/Tom Wiscombe, Arik Levy, Studio Makkink & Bey, Shigeru Ban, Joris Laarman, Nacho Carbonell, and Matali Crasset. Not always intended as ends in themselves, these multidisciplinary practices are often experiments that motivate reflection on the values, mores, and practices often overlooked in society.\nDiverse in perspective and output, the works included in Hyperlinks make clear that by fostering rigorous cross-disciplinary relations, architects and designers are carving out new avenues for experimentation that are helping shape insightful solutions to urgent issues, ultimately enhancing the quality of our daily lives.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-12-11T00:00:00-06:00",
+    "aic_end_at": "2011-07-20T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Architecture and Design",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Hyperlinks: Architecture and Design"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2017-11-10T16:02:00-06:00",
+    "last_updated": "2021-01-13T23:25:18-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

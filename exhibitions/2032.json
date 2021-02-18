@@ -1,0 +1,39 @@
+{
+    "id": 2032,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/2032",
+    "title": "Temptation: The Demons of James Ensor",
+    "is_featured": false,
+    "description": "In the 1880s, the Belgian artist James Ensor created a monumental drawing\u2014almost six feet tall and composed of 51 separate sheets of paper\u2014that until this year has not been seen outside Belgium since the 1950s. Revelatory, disturbing, wildly imaginative, and singularly compelling, The Temptation of Saint Anthony is the centerpiece of this major exhibition that explores the making and meaning of this landmark work and the visionary talent of one of history\u2019s most idiosyncratic artists.\n\nEnsor spent most of his life in the coastal Belgian town of Ostend, and it is there in the 1880s that he created his most important drawing, The Temptation of Saint Anthony. His theme\u2014that of the ancient saint who resists greed and lust\u2014was age-old, but rather than simply show Anthony surrounded by the trials of centuries past, Ensor placed his saint at the mercy of modern life, surrounded by the temptations of a brutal and turbulent world. Kneeling in prayer, eyes closed tight, Ensor\u2019s Saint Anthony shuts out the contemporary world, from corruption and disease to colonization and street food. Above his head, in the rays of a rising sun, a sorrowful Christ wears a military helmet.\n\nThough Ensor made the drawing at a difficult moment in his life, he lived with the work in his home for decades afterward. It suffered damage over time and, as his career developed and he earned acclaim, the artist even covered over some of its controversial imagery. Since acquiring The Temptation of Saint Anthony in 2006, the Art Institute has returned the magnificent drawing to its original 19th-century composition, making important discoveries into Ensor\u2019s technical process along the way.\n\nTemptation: The Demons of James Ensor debuts this beautifully conserved work in the museum alongside generous loans from the Royal Museum of Fine Arts, Antwerp, and other notable institutions, offering extraordinary insights into Ensor\u2019s often dark, mystifying, and fiercely individualistic art. From life in his childhood home by the sea to the political and social upheaval of his student days, from the grief and anguish that followed the death of his father to his engagement with Japanese art and avant-garde culture, this show both reveals the development of themes and motifs in Ensor\u2019s iconic drawing and presents a thorough and fascinating overview of the artist\u2019s early career.",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2014-11-23T00:00:00-06:00",
+    "aic_end_at": "2015-01-25T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Prints and Drawings",
+    "gallery_id": 2147475902,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Temptation: The Demons of James Ensor"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:25:56-06:00",
+    "timestamp": "2021-01-14T17:13:35-06:00"
+}

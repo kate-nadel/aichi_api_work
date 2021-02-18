@@ -1,0 +1,39 @@
+{
+    "id": 3170,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3170",
+    "title": "Jitish Kallat: Public Notice 3",
+    "is_featured": false,
+    "description": "In the first major presentation in an American museum of Jitish Kallat\u2019s work, the contemporary Indian artist has designed a site-specific installation that connects two key historical moments\u2014the First World Parliament of Religions held on September 11, 1893, and the terrorist attacks at the World Trade Center and the Pentagon on that very date, 108 years later. The resulting work, Public Notice 3, creates a trenchant commentary on the evolution, or devolution, of religious tolerance across the 20th and 21st centuries.\n\nThe basis for Kallat\u2019s installation is a landmark speech delivered by Swami Vivekananda at the Parliament, which was held in conjunction with the World\u2019s Columbian Exposition in Chicago in what is now the museum\u2019s Fullerton Hall. The Parliament was the earliest attempt to create a global dialogue of religious faiths, and Vivekananda, eloquently addressing its 7,000 attendees, argued for an end of fanaticism and a respectful recognition of all traditions of belief through universal tolerance.\n\nWith Public Notice 3, Kallat converts Vivekananda\u2019s text to LED displays on each of the 118 risers of the historic Woman\u2019s Board Grand Staircase of the Art Institute of Chicago, adjacent to the site of Vivekananda\u2019s original address. Drawing attention to the great chasm between this speech of tolerance and the very different events of September 11, 2001, the text of the speech will be displayed in the colors of the United States\u2019 Department of Homeland Security alert system. Opening on September 11, Public Notice 3 explores the possibility of revisiting the historical speech as a site of contemplation, symbolically refracting it with threat codes devised by a government to deal with this terror-infected era of religious factionalism and fanaticism.",
+    "short_description": "In the first major presentation in an American museum of Jitish Kallat\u2019s work, the contemporary Indian artist has designed a site-specific installation that connects two key historical moments\u2014the First World Parliament of Religions held on September 11, 1893, and the terrorist attacks at the World Trade Center and the Pentagon on that very date, 108 years later. The resulting work, Public Notice 3, creates a trenchant commentary on the evolution, or devolution, of religious tolerance across the 20th and 21st centuries.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3170/jitish-kallat-public-notice-3",
+    "image_url": "https://artic-web.imgix.net/eed3196f-c23e-4666-a11d-52d4684e78b7/Kallat_PN3.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C112%2C1348%2C759",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2010-09-11T00:00:00-05:00",
+    "aic_end_at": "2011-09-12T00:00:00-05:00",
+    "date_display": null,
+    "department_display": null,
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Jitish Kallat: Public Notice 3"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:27:16-06:00",
+    "timestamp": "2021-01-14T17:13:55-06:00"
+}

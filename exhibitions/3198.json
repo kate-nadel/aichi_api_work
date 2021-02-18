@@ -1,0 +1,39 @@
+{
+    "id": 3198,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/3198",
+    "title": "Masterworks of Japanese Prints: Toshusai Sharaku",
+    "is_featured": false,
+    "description": "Toshusai Sharaku was a mysterious Japanese print artist of the late 18th century. He produced about 150 designs in a startling display of innovation and imagination in the 10-month period between the summer of 1794 and the early spring of 1795. Before and after this period, an artist by this name is unknown and therefore, Sharaku\u2019s true identity has been a matter of much debate.\n \nSharaku\u2019s earliest work consisted of 28 bust portraits of actors who appeared in the Kabuki plays presented at the three principal Edo (Tokyo) theaters starting in the fifth month of 1794. Each of these prints had a dark, shiny background made with a mineral silicate called mica. All of Sharaku\u2019s early designs are bold and realistic portraits of actors in identifiable roles. After a few months, however, and as the peak of the Kabuki season approached, Sharaku abandoned this format and began designing prints of two full-length figures. In many of these prints, Sharaku used white mica rather than dark mica. The technique of using mica became quite popular in the early 1790s but was later abandoned, perhaps due to governmental edicts. Sharaku's designs from this point feature a yellow ground and a smaller format for bust portraits.\n \nThis exhibition contains examples of each type of print Sharaku produced, all from the Art Institute's permanent collection. Thanks to the early collecting efforts of Clarence and Kate Buckingham, the Art Institute has one of the best museum collections of Sharaku\u2019s work in the world.",
+    "short_description": null,
+    "web_url": "https://nocache.www.artic.edu/exhibitions/3198/masterworks-of-japanese-prints-toshusai-sharaku",
+    "image_url": "https://artic-web.imgix.net/04b1d893-8a39-427c-b221-5174448cbb03/1934.207TheactorOtaniOnijiIIIasEdobeiToshusaiSharaku.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=37%2C602%2C1442%2C816",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2015-01-09T00:00:00-06:00",
+    "aic_end_at": "2015-03-29T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Asian Art",
+    "gallery_id": 2147480090,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Masterworks of Japanese Prints: Toshusai Sharaku"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-01-13T23:23:43-06:00",
+    "timestamp": "2021-01-14T17:13:56-06:00"
+}
