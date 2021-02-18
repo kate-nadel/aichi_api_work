@@ -14,12 +14,10 @@ for filename in glob.glob("exhibitions/*.json"):
     with open(filename, "r") as jsonfiles:
         data = json.load(jsonfiles)
 
-
-
         if data["type"] != "AIC Only":
             print(data)
 
-            with open("Traveling_Exhibitions.json", "w") as out:
+            with open("Traveling_Exhibitions.json", "a") as out:
                 json.dump(data, out, indent=2)
 
         # if data["type"] == "AIC & Other Venues":
