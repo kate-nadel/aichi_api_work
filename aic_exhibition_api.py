@@ -29,7 +29,3 @@ for filename in glob.glob("exhibitions/*.json"):
             # traveling_exhib_count+=1
             # print(data)
             # print(traveling_exhib)
-
-
-
-#looping through
