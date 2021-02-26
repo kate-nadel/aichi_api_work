@@ -2,13 +2,13 @@ import json
 import csv
 import glob
 
-for filename in glob.glob("exhibitions/*.json"):
-    # print(filename)
-    with open(filename, "r") as data:
-        json_file = json.load(data)
+# for filename in glob.glob("exhibitions/*.json"):
+#     # print(filename)
+#     with open(filename, "r") as data:
+#         json_file = json.load(data)
 
 # single file:
-# json_file=open("exhibitions/6405.json","r")
+json_file=open("exhibitions/6405.json","r")
 
 csv_file=open("csv_text.csv", "w")
 
