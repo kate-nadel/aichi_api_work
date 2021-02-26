@@ -14,7 +14,7 @@ for filename in glob.glob("exhibitions/*.json"):
     with open(filename, "r") as jsonfiles:
         data = json.load(jsonfiles)
 
-        if data["type"] != "AIC Only":
+        if data["type"] != isNull:
             print(data)
 
             with open("Traveling_Exhibitions.json", "a") as out:
