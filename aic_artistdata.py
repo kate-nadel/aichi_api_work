@@ -13,8 +13,11 @@ for filename in glob.glob("exhibitions/*.json"):
     with open(filename, "r") as jsonfiles:
         data = json.load(jsonfiles)
 
-        if data["artwork_ids"] != "[ ]":
-            print(data["artwork_ids"])
+        if data["artwork_ids"] != "[]":
+            artist_id_count+=1
+
+            print((data["id"]),(data["artwork_ids"]))
+            # print(artist_id_count)
 
             # with open("exhibitions_artistdata.json", "a") as out:
             #     json.dump(data, out, indent=2)
@@ -25,6 +28,3 @@ for filename in glob.glob("exhibitions/*.json"):
         # if data["type"] == "AIC Only":
         # if data["type"] == "Rotation":
         # if data["type"] != "AIC Only":
-
-            # print(data)
-            # print(traveling_exhib)
